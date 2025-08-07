@@ -1,0 +1,100 @@
+html,
+body {
+  font-family: Helvetica Neue, sans-serif;
+  font-size: 14pt
+}
+
+header {
+  /* background: green; */
+  font-family: adobe-caslon-pro, serif;
+  border: 2px solid green;
+  font-weight: bold;
+  text-align: center;
+  font-size: 32pt;
+  margin: 0;
+  padding: 10px;
+  width: 100%;
+}
+
+main {
+  margin-left: 5%;
+}
+
+footer {
+  text-align: center;
+  border-top: 2px solid grey;
+  padding-top: 10px;
+}
+
+footer nav a {
+  margin: 1%;
+}
+
+header a,
+footer nav a,
+#postsList li a {
+  color: inherit;
+  text-decoration: none;
+}
+
+code, pre {
+  background: #011627;
+  color: white;
+}
+
+pre {
+  padding: 10px;
+
+}
+
+.main_page {
+  text-align: center;
+}
+
+#title {
+  font-size: 30pt;
+  margin: 0;
+  font-family: adobe-caslon-pro, serif;
+  font-weight: 600;
+}
+
+#blog_title {
+  font-style: italic;
+  font-size: 74pt;
+  margin: 0;
+}
+
+#blog_tag {
+  margin: 0;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.title {
+  font-size: 28pt;
+}
+
+.description {
+  font-weight: normal;
+  font-style: italic;
+}
+
+#postsList ul {
+  padding-left: 0
+}
+
+#postsList li {
+  list-style: none;
+  border-bottom: 2px dashed black
+}
+
+@media only screen and (max-width: 1000px) {
+#blog_title {
+  font-size: 48pt;
+}
+#blog_tag {
+  font-size: 24pt;
+}
+}

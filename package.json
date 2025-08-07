@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@iconify/icons-simple-icons": "^1.1.53",
+    "@iconify/react": "^3.1.0",
+    "gray-matter": "^4.0.3",
+    "grey-matter": "^0.0.0",
+    "highlight.js": "^11.3.1",
+    "next": "^15.4.6",
+    "raw-loader": "^4.0.2",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "react-markdown": "^10.1.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "15.4.6"
+  }
+}
