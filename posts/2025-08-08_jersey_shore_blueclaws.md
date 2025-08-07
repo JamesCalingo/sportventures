@@ -1,9 +1,9 @@
 ---
 
 title: "Jersey Shore Blueclaws"
-description: "Baseball 2025 stop 1"
+description: "Baseball 2025 stop 1 (ARCHIVE)"
 date: 8 August 2025
-published: true
+published: false
 
 ---
 *This trip occurred on April 12, 2025*
