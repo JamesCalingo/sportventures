@@ -1,7 +1,7 @@
-import ReactMarkdown from "react-markdown";
+import Markdown from "react-markdown";
 import { postSlugs, postForSlug } from "../../posts";
 import Layout from "../../components/Layout";
-import CodeBlock from '../../components/CodeBlock'
+import remarkGfm from "remark-gfm";
 
 function Post({ frontmatter, body }) {
   if (!frontmatter) return <>
@@ -15,7 +15,7 @@ function Post({ frontmatter, body }) {
           <h1 className="title">{frontmatter.title}</h1>
           <h2 className="description">{frontmatter.description}</h2>
           <p className="italic">{frontmatter.date ? new Date(frontmatter.date).toLocaleDateString() : ""}</p>
-          <ReactMarkdown>{body}</ReactMarkdown>
+          <Markdown remarkPlugins={[remarkGfm]}>{body}</Markdown>
         </article>
       </div>
     </Layout>
