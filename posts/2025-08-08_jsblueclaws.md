@@ -3,7 +3,7 @@
 title: "Jersey Shore BlueClaws (South Atlantic League) @ Shoretown Ballpark"
 description: "Baseball down the shore BEFORE \"Shore Season\": good idea or bad idea?"
 date: 8 August 2025
-published: false
+published: true
 
 ---
 *\*This trip occurred on April 12, 2025*
