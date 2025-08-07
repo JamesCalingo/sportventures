@@ -1,6 +1,8 @@
 import Markdown from "react-markdown";
 import { postSlugs, postForSlug } from "../../posts";
 import Layout from "../../components/Layout";
+import rehypeRaw from "rehype-raw";
+import remarkRehype from "remark-rehype";
 import remarkGfm from "remark-gfm";
 
 function Post({ frontmatter, body }) {
@@ -15,7 +17,7 @@ function Post({ frontmatter, body }) {
           <h1 className="title">{frontmatter.title}</h1>
           <h2 className="description">{frontmatter.description}</h2>
           <p className="italic">{frontmatter.date ? new Date(frontmatter.date).toLocaleDateString() : ""}</p>
-          <Markdown remarkPlugins={[remarkGfm]}>{body}</Markdown>
+          <Markdown rehypePlugins={[rehypeRaw]} remarkPlugins={[remarkGfm, remarkRehype]}>{body}</Markdown>
         </article>
       </div>
     </Layout>

@@ -1,13 +1,11 @@
 html,
 body {
   font-family: Helvetica Neue, sans-serif;
-  font-size: 14pt
+  font-size: 14pt;
 }
 
 header {
-  /* background: green; */
   font-family: adobe-caslon-pro, serif;
-  border: 2px solid green;
   font-weight: bold;
   text-align: center;
   font-size: 32pt;
@@ -16,13 +14,14 @@ header {
   width: 100%;
 }
 
+
+
 main {
-  margin-left: 5%;
+  margin: 0 5%;
 }
 
 footer {
   text-align: center;
-  border-top: 2px solid grey;
   padding-top: 10px;
 }
 
@@ -97,6 +96,9 @@ pre {
 }
 
 @media only screen and (max-width: 1000px) {
+  body {
+    margin: 0
+  }
 #blog_title {
   font-size: 48pt;
 }

@@ -26,18 +26,18 @@ const PostsList = ({ posts }) => {
         {posts
           .filter((post) => post.frontmatter.published === true)
           .reverse()
-          .map((post) => {
+          .map((post, index) => {
             const { frontmatter, slug } = post;
             const { description, date, title } = frontmatter;
 
             return (
-              <li key={slug}>
-                <Link legacyBehavior href={`/blog/${slug}`}>
-                  <a href="">
+              <li key={index}>
+                <Link href={`/blog/${slug}`}>
+                  
                     <h2>{title}</h2>
                     <p>{description}</p>
                     <p className="italic">{new Date(date).toLocaleDateString()}</p>
-                  </a>
+            
                 </Link>
               </li>
             );
