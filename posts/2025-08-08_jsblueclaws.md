@@ -1,7 +1,7 @@
 ---
 
 title: "Jersey Shore BlueClaws (South Atlantic League) @ Shoretown Ballpark"
-description: "Baseball down the shore BEFORE shore season: good idea or bad idea?"
+description: "Baseball down the shore BEFORE \"Shore Season\": good idea or bad idea?"
 date: 8 August 2025
 published: false
 
