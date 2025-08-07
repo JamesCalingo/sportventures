@@ -3,7 +3,7 @@
 title: "Brooklyn Cyclones"
 description: "Baseball in Brooklyn (ARCHIVE)"
 date: 9 August 2025
-published: true
+published: false
 
 ---
 *This trip occurred on April 30, 2025*
