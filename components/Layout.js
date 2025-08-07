@@ -22,8 +22,7 @@ function Layout({ children, pageTitle }) {
           {/* <a href="https://jamescalingo.dev/#about">About me</a> */}
         
           {/* <a href="https://jamescalingo.dev">My portfolio</a> */}
-          <div>
-
+          <div className="links">
           <Link href={"/about"}>About me</Link>
           <Link href={"/"}>Back to home</Link>
           </div>

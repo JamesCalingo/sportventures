@@ -1,9 +1,9 @@
 ---
 
-title: "Jersey Shore Blueclaws"
-description: "Baseball 2025 stop 2 (ARCHIVE)"
+title: "Brooklyn Cyclones"
+description: "Baseball in Brooklyn (ARCHIVE)"
 date: 9 August 2025
-published: false
+published: true
 
 ---
 *This trip occurred on April 30, 2025*
@@ -12,10 +12,10 @@ If you're not familiar with the history of baseball in Brooklyn, here's an inten
 
 Originally founded in 1883, the Brooklyn Base Ball Club (as they were officially known) went through a slew of (unofficial) nicknames over the course of many, many decades before one of them - "Trolley Dodgers" - stuck; this was then shortened to just "Dodgers". They weren't actually all that successful believe it or not (the Dodgers franchise has the most World Series losses all time), but they are known for two significant things:
 
-Jackie Robinson becoming the first African American to play in Major League Baseball in 1945 (even if the U.S. government thinks that it's DEI and therefore insignificant)
-Winning the 1955 World Series after losing seven other times (and then subsequently losing the next year's WS)
+1. Jackie Robinson becoming the first African American to play in Major League Baseball in 1945 (even if the U.S. government thinks that it's DEI and therefore insignificant)
+2. Winning the 1955 World Series after losing seven other times (and then subsequently losing the next year's WS)
 
-In the late 50s, facing an aging stadium and difficulties trying to get a new one, the Dodgers decided to move to Los Angeles, thus leaving Brooklyn without a baseball team. At the same time, the rival New York Giants were ALSO facing an aging stadium and ended up also moving west - to San Francisco.
+In the late 50s, facing an aging stadium and difficulties trying to get a new one*, the Dodgers decided to move to Los Angeles, thus leaving Brooklyn without a baseball team. At the same time, the rival New York Giants were ALSO facing an aging stadium and ended up also moving west - to San Francisco.
 
 In 2001, the New York Penn League started up operations in Brooklyn with a team affiliated with the National League team formed in the void left by the Dodgers and Giants: the New York Mets (there’s actually a bit more to the story than this, but again: intensely abridged). The Brooklyn Cyclones played in the NYPL for two decades, winning a title in 2019 before Major League Baseball consolidated the minor leagues - a move which killed the NYPL (and also meant that the Cyclones were the NYPL's final champions). Since 2021, they've been in the High-A South Atlantic League, which includes former NYPL rivals Hudson Valley and Aberdeen (though apparently the Mets wanted to move the Cyclones to Double-A in the realignment, but multiple parties nixed the idea).
 
@@ -34,3 +34,5 @@ This is one of those parks where the concourse is above ground level, so once yo
 Some merchandise items were shared between the two levels, but there were more of certain things (i.e. jerseys) on the lower level, while the upper level had other items (including some items for the soccer team that plays in the stadium - will have to check them out soon).The selection here was actually kinda vast: they have a bunch of hats (though the only one I was interested in was the main "Bc" logo one), but sadly, the jerseys were all sublimated; there's indications that they used to have ones with "glued on letters" at worst, but I didn't see any when I went. I did, however, find an old jersey from the 2000s at a vintage store (with sewn-on lettering) months before I came here, so I ended up wearing that for the game. I will note that I was interested in getting a varsity jacket, but ultimately decided against it (mainly as I feel I have too many jackets already).
 
 I also got an "OFFICIAL MINOR LEAGUE BASEBALL" here with Rob Manfred's signature and the pre-2023 MiLB logo on it, though it was surprisingly expensive ($27 IIRC).
+___
+*One proposal for the new stadium called for the Dodgers to play in a dome. Had they actually gone through with this, it would have been the first domed stadium for traditionally outdoor sports in the United States (and also probably would have been vacated by the 1990s)
