@@ -1,7 +1,7 @@
 ---
 
 title: "Nashua Silver Knights (Futures League) @ Holman Stadium"
-description: "A historic stadium with a "
+description: "A historic stadium with a high-ish profile team"
 date: 18 August 2025
 published: false
 
@@ -24,8 +24,8 @@ Crowds here are fairly decent by New England Summer Collegiate standards (especi
 
 As a collegiate summer league team, merchandise isn't really one of their strong suits (this is the case for most summer league teams - especially the New England ones). They do have a stand with a few items, but most times I've tried to find a hat, I've found myself out of luck (the main exception being going to their second home game one year - but even then, they were MOSTLY out of hats). One thing that separates them from a lot of other teams in New England: they DO have online ordering available, though it’s a little weird and I’ve never ordered anything from them online.
 
-Alas, my hat luck continues to be just a bit off, as they only had small and XL sized hats (one of which I ended up getting), but I did get a program for free - something I hadn’t seen before here. Also, I didn’t see ANY baseballs on sale, making this one of the few stops where I didn’t buy any baseballs (the second one was this same day BTW).
+Alas, my hat luck continues to be just a bit off, as they only had small and XL sized hats (one of which I ended up getting), but I did get a program for free - something I hadn’t seen before here. Also, I didn’t see ANY baseballs on sale, making this one of the few stops where I didn’t buy any baseballs (the second one was this same day BTW). They also had an homage to a previous independent baseball team (the Nashua Pride) that I was interested in, but they only had small hats available...
 
 
-### DUE UP:
+### ON DECK:
 A return to the Cape League...but not the Cape.

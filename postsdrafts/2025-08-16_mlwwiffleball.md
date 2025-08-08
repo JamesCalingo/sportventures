@@ -42,7 +42,7 @@ As you’d probably expect for something like this, merch was just sold at a tab
 Oddly, the merch table shut down (everything was packed up and moved out) when the actual series started, and while it did reopen after the series, I THINK they had run out of Mallards hats by that point (I didn’t hang around long enough to confirm, but they seemed to imply being low on those pregame and I didn’t see any afterwards). Thankfully, I had the foresight to get everything I was looking for when it was available pregame, so I was able to go home with the two team hats (plus a shirt).
 
 
-### DUE UP:
+### ON DECK:
 A return to an old favorite of mine.
 
 ___

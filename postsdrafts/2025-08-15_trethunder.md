@@ -33,7 +33,7 @@ Inside, the most notable thing I found here (i.e. something outside of the stand
 
 As a Draft League team, the players wear Outdoor Cap brand flexfit hats (because apparently New Era fitteds are only for affiliated teams). However, not only does the team still have some smaller 5950s from the old days, but the team recently struck a deal with a manufacturer for a line of fitted hats. I wasn't really that interested in them after trying them on, however, so I stuck with the on field flexfits.
 
-### DUE UP:
+### ON DECK:
 I return to a stadium I visited this year in order to watch one of YouTube's favorite "niche" sports.
 
 ___

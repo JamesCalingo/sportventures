@@ -26,5 +26,5 @@ Chatham does have an online store, but I have no clue how up to date it is, so i
 
 I also tried to check out the Harwich Mariners merch selection after leaving Chatham, but that game was ended by the rain before I could get there - I had barely left Chatham when the game was delayed, and by the time I got to their field, players were packed up and walking out.
 
-### DUE UP:
-A place I've been to quite a bit.
+### ON DECK:
+A place I've been to quite a bit...though in some ways I wish I hadn't.

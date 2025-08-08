@@ -51,7 +51,7 @@ I didn’t get a jersey as they’re sublimated (Go “Fightin in Phils”!), bu
 
 In terms of other things, I got a BallQube to display the official MiLB baseball I got in Brooklyn a while ago, plus I also ended up getting a Phillies City Connect from a store near Allentown on my way home from the game. I did see a t-shirt with “Baseballtown” on it that I thought about, but I didn’t like it enough to justify getting it. There was also a hat with a Keystone logo on it I wanted, but it was not available in my size and there were no flexfits either…
 
-### DUE UP:
+### ON DECK:
 I've caught up with the baseball posts...almost. There's another baseball game I went to in 2025, and I'll discuss that tomorrow.
 
 ___

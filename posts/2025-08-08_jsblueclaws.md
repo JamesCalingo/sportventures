@@ -28,6 +28,7 @@ Speaking of the mascot, they have mascot plushies for sale (like a lot of teams)
 I also ended up getting a jersey despite it having glued-on letters (something I’m not a big fan of) - part of that may have been to add a layer despite already having a jacket AND hoodie (it was THAT cold), but the selection on the day was super limited (if you wanted anything smaller than a large, you were out of luck). The team's online store seems to indicate that they've restocked SOME of the jerseys, but I'm curious as to what they look like…
 
 Also, as a postscript to this, I ended up finding an old logo BlueClaws jersey a few months later at a thrift store with the script stitched on. The team was doing a “trade-in” promo where fans could trade in old logo merchandise, so there’s a non-zero possibility that someone traded this in, the team donated it to the local thrift organization, and it ended up in my possession (I should also note that I got a massive 75% discount on it). I also tried visiting the team store a second time (their website indicates that they have non-game day hours), but alas, it seems that it’s only open during games now (partially due to the stadium being kinda near nothing).
+___
 
-### DUE UP:
+### ON DECK:
 A historic baseball city spurned by MLB.

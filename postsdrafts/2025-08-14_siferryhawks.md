@@ -1,7 +1,7 @@
 ---
 
 title: "Staten Island FerryHawks (Atlantic League) @ SIUH Community Ballpark"
-description: "A stadium scorned gets a second chance"
+description: "A borough scorned gets a second chance"
 date: 14 August 2025
 published: false
 
@@ -37,8 +37,8 @@ I also found something rather wild: Mets and Yankees hats! Why they’d have tho
 
 I feel like I should probably mention the Atlantic League’s official baseball: it’s not only unique in that the Atlantic League manufactures its own baseballs (their brand is called “Drake”), but it also features red and blue stitching as opposed to most leagues having only red stitches. I bought one from the team store and contemplated buying another before scooping the foul ball in game 2, which leads to another unique feature: the league added QR codes to each baseball in 2025! I’m not sure exactly what the QR code is supposed to do, but the one I got leads to the Atlantic League’s website.
 
-### DUE UP:
-As it turns out, Staten Island wasn't the only place left out in the cold by the Yankees...
+### ON DECK:
+As it turns out, Staten Island wasn't the only place left out in the cold by the Yankees in 2020...
 
 ___
 [^1]:But seriously, why did the Staten Island Yankees have to get terminated? Sure, the FerryHawks/Ducks rivalry is cool, but it’s no “Battle of the Verrazzano”…

@@ -1,7 +1,7 @@
 ---
 
 title: "Wareham Gatemen (Cape Cod Baseball League) @ Clem Spillane Field"
-description: "Cape League baseball - off of Cape Cod"
+description: "Cape League baseball - off Cape Cod"
 date: 15 August 2025
 published: false
 
@@ -32,9 +32,8 @@ Like Chatham, I went against my better judgment and bought a jersey as well; in 
 
 Also, another thing that separates Wareham from the rest of the league: Each team in the league publishes a yearbook/program…except Wareham. They stopped publishing their yearbook in 2022, but I will note here that I got a yearbook at every other Cape League stop I made this year.
 
-
-### DUE UP:
-One of the wildest stories in New England baseball returns to its roots.
+### ON DECK:
+Quite possibly ne of the wildest stories in New England baseball.
 
 ___
 [^1]:This also means that, based on what I remember about Cape Cod’s laws, Wareham is the only team in the league that can sell bottled water…the other teams sell water in cans.
