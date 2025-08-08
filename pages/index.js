@@ -26,6 +26,7 @@ const PostsList = ({ posts }) => {
         {posts
           .filter((post) => post.frontmatter.published === true)
           .reverse()
+          //TODO: paginate this list
           .map((post, index) => {
             const { frontmatter, slug } = post;
             const { description, date, title } = frontmatter;
