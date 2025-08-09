@@ -2,7 +2,7 @@
 title: "Brooklyn Cyclones (South Atlantic League) @ Maimonides Park"
 description: "Baseball in Brooklyn is BACK - Back in the New York Groove"
 date: 9 August 2025
-published: false
+published: true
 ---
 
 _\*This trip occurred on April 30, 2025_
@@ -14,7 +14,7 @@ Originally founded in 1883, the Brooklyn Base Ball Club (as they were officially
 1. Jackie Robinson becoming the first African American to play in Major League Baseball in 1945 (even if the U.S. government thinks that it's DEI and therefore insignificant)
 2. Winning the 1955 World Series after losing seven other times (and then subsequently losing the next year's WS)
 
-In the late 50s, facing an aging stadium and difficulties trying to get a new one[^1], the Dodgers decided to move to Los Angeles, thus leaving Brooklyn without a baseball team. At the same time, the rival New York Giants were ALSO facing an aging stadium and ended up also moving west - to San Francisco.
+In the late 1950s, facing an aging stadium and difficulties trying to get a new one[^1], the Dodgers decided to move to Los Angeles, thus leaving Brooklyn without a baseball team. At the same time, the rival New York Giants were ALSO facing an aging stadium and ended up also moving west - to San Francisco.
 
 In 2001, the New York Penn League started up operations in Brooklyn with a team affiliated with the National League team formed in the void left by the Dodgers and Giants: the New York Mets (there’s actually a bit more to the story than this, but again: intensely abridged). The Brooklyn Cyclones played in the NYPL for two decades, winning a title in 2019 before Major League Baseball consolidated the minor leagues - a move which killed the NYPL (and also meant that the Cyclones were the NYPL's final champions). Since 2021, they've been in the High-A South Atlantic League, which includes former NYPL rivals Hudson Valley and Aberdeen (though apparently the Mets wanted to move the Cyclones to Double-A in the realignment, but multiple parties nixed the idea).
 
