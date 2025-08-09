@@ -1,5 +1,5 @@
 ---
-title: "Brooklyn Cyclones (South Atlantic League) @ Maimonides Park"
+title: "Brooklyn Cyclones (South Atlantic League) @ Maimonides Park (Brooklyn, NY)"
 description: "Baseball in Brooklyn is BACK - Back in the New York Groove"
 date: 9 August 2025
 published: true

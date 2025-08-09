@@ -1,5 +1,5 @@
 ---
-title: "Jersey Shore BlueClaws (South Atlantic League) @ Shoretown Ballpark"
+title: "Jersey Shore BlueClaws (South Atlantic League) @ Shoretown Ballpark (Lakewood, NJ)"
 description: 'Baseball down the shore BEFORE "Shore Season": good idea or bad idea?'
 date: 8 August 2025
 published: true
@@ -23,9 +23,11 @@ Their mascot - a yellow something-or-other named Buster - clearly studies his ma
 
 ### MERCH
 
-Speaking of the mascot, they have mascot plushies for sale (like a lot of teams). However, the thing that piqued my interest (though I ultimately didn't go for it) was a plush of the crab logo featured on the team's hats. Speaking of hats, the team has a bunch of different hats that I ended up getting (plus one I got when they rebranded); the most interesting of them being a “beach ball colored” hat that the team has seemingly retired.
+Speaking of the mascot, they have mascot plushies for sale (like a lot of teams). However, the thing that piqued my interest (though I ultimately didn't go for it) was a plush of the crab logo featured on the team's hats.
 
-I also ended up getting a jersey despite it having glued-on letters (something I’m not a big fan of) - part of that may have been to add a layer despite already having a jacket AND hoodie (it was THAT cold), but the selection on the day was super limited (if you wanted anything smaller than a large, you were out of luck). The team's online store seems to indicate that they've restocked SOME of the jerseys, but I'm curious as to what they look like…
+The team store here is, in all honestly, kinda big for a team that's always been in A-level ball. That's not a bad thing mind you - in fact, I think it makes the place a lot more comfortable than other team stores coming up in this series (especially when it's as cold as it was on the day I went).
+
+I ended up getting several hats here - the most interesting of them being a “beach ball colored” hat that the team has seemingly retired. I also ended up getting a jersey despite it having glued-on letters (something I’m not a big fan of) - part of that may have been to add a layer despite already having a jacket AND hoodie (it was THAT cold), but the selection on the day was super limited (if you wanted anything smaller than a large, you were out of luck). The team's online store seems to indicate that they've restocked SOME of the jerseys, but I'm curious as to what they look like…
 
 Also, as a postscript to this, I ended up finding an old logo BlueClaws jersey a few months later at a thrift store with the script stitched on. The team was doing a “trade-in” promo where fans could trade in old logo merchandise, so there’s a non-zero possibility that someone traded this in, the team donated it to the local thrift organization, and it ended up in my possession (I should also note that I got a massive 75% discount on it). I also tried visiting the team store a second time (their website indicates that they have non-game day hours), but alas, it seems that it’s only open during games now (partially due to the stadium being kinda near nothing).
 
