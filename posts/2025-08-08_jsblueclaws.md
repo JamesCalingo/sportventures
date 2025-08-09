@@ -1,4 +1,5 @@
 ---
+display: "Jersey Shore Blueclaws (4/12/25)"
 title: "Jersey Shore BlueClaws (South Atlantic League) @ Shoretown Ballpark (Lakewood, NJ)"
 description: 'Baseball down the shore BEFORE "Shore Season": good idea or bad idea?'
 date: 8 August 2025

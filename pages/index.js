@@ -2,15 +2,16 @@ import { posts } from "../posts";
 
 import Layout from "../components/Layout";
 import Link from "next/link";
+import GridItem from "../components/GridItem";
 
 const Index = ({ posts }) => {
   return (
-    <Layout pageTitle="Sportventures - James Calingo">
+    <Layout pageTitle="Sportventures">
       <div className="main_page">
-        {/* <div id="title">
-          <h1 id="blog_title">s</h1>
-          <p id="blog_tag">SPORT</p>
-        </div> */}
+        <div id="title">
+          <h1 id="blog_title">Sportventures</h1>
+          <p id="blog_tag"></p>
+        </div>
       </div>
       <PostsList posts={posts} />
     </Layout>
@@ -22,28 +23,19 @@ const PostsList = ({ posts }) => {
 
   return (
     <div id="postsList">
-      <ul>
+
         {posts
           .filter((post) => post.frontmatter.published === true)
           .reverse()
           //TODO: paginate this list
           .map((post, index) => {
             const { frontmatter, slug } = post;
-            const { description, date, title } = frontmatter;
+            const { display, date, } = frontmatter;
 
-            return (
-              <li key={index}>
-                <Link href={`/blog/${slug}`}>
-                  
-                    <h2>{title}</h2>
-                    <p>{description}</p>
-                    <p className="italic">{new Date(date).toLocaleDateString()}</p>
-            
-                </Link>
-              </li>
+            return ( <GridItem index={index} slug={slug} display={display} date={date} />
             );
           })}
-      </ul>
+
     </div>
   );
 };

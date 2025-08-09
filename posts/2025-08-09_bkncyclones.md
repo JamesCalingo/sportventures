@@ -1,4 +1,5 @@
 ---
+display: "Brooklyn Cyclones (4/30/25)"
 title: "Brooklyn Cyclones (South Atlantic League) @ Maimonides Park (Brooklyn, NY)"
 description: "Baseball in Brooklyn is BACK - Back in the New York Groove"
 date: 9 August 2025
@@ -16,7 +17,7 @@ Originally founded in 1883, the Brooklyn Base Ball Club (as they were officially
 
 In the late 1950s, facing an aging stadium and difficulties trying to get a new one[^1], the Dodgers decided to move to Los Angeles, thus leaving Brooklyn without a baseball team. At the same time, the rival New York Giants were ALSO facing an aging stadium and ended up also moving west - to San Francisco.
 
-In 2001, the New York Penn League started up operations in Brooklyn with a team affiliated with the National League team formed in the void left by the Dodgers and Giants: the New York Mets (there’s actually a bit more to the story than this, but again: intensely abridged). The Brooklyn Cyclones played in the NYPL for two decades, winning a title in 2019 before Major League Baseball consolidated the minor leagues - a move which killed the NYPL (and also meant that the Cyclones were the NYPL's final champions). Since 2021, they've been in the High-A South Atlantic League, which includes former NYPL rivals Hudson Valley and Aberdeen (though apparently the Mets wanted to move the Cyclones to Double-A in the realignment, but multiple parties nixed the idea).
+In 2001, the New York-Penn League started up operations in Brooklyn with a team affiliated with the National League team formed in the void left by the Dodgers and Giants: the New York Mets (there’s actually a bit more to the story than this, but again: intensely abridged). The Brooklyn Cyclones played in the NYPL for two decades, winning a title in 2019 before Major League Baseball consolidated the minor leagues - a move which killed the NYPL (and also meant that the Cyclones were the NYPL's final champions). Since 2021, they've been in the High-A South Atlantic League[^2], which includes former NYPL rival Hudson Valley (and Aberdeen prior to them switching leagues in 2026).
 
 They play in what is now known as Maimonides Park in the Coney Island section of Brooklyn. For those who don’t know, Coney Island is best known as the place where the Hot Dog Eating Contest is held every July 4th, but it's also one of New York City's more well known summer attractions (the name "Cyclones" is based on a famous local rollercoaster). I didn't get to explore the area that much when I went due to a time crunch, but as someone who grew up in New Jersey, what I've seen of the boardwalk online feels like any other Jersey Shore town, and what I saw of Coney Island felt like the rest of New York City.
 
@@ -42,4 +43,5 @@ I also got an "OFFICIAL MINOR LEAGUE BASEBALL" here with Rob Manfred's signature
 
 A stadium I've seen quite a few times, but never visited until this year.
 
-[^1]: One proposal for the new stadium called for the Dodgers to play in a dome. Had they actually gone through with this, it would have been the first domed stadium for traditionally outdoor sports in the United States (and also probably would have been vacated by the 1990s)
+[^1]: One proposal for the new stadium called for the Dodgers to play in a dome. Had they actually gone through with this, it would have been the first domed stadium for traditionally outdoor sports in the United States (and also probably would have been vacated by the 1990s).
+[^2]: Apparently the Mets wanted to move the Cyclones to the Double-A Eastern League in the realignment, but multiple parties nixed the idea (including the current Mets' current Double-A affiliate in Binghamton, NY).
