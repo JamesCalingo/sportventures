@@ -7,7 +7,7 @@ function About() {
     return <Layout pageTitle={"You just got 404'd"}>
         <div className="not-found">
             <h1>CHOOSE YOUR METAPHOR:</h1>
-            <ul>
+            <ul id="metaphors">
                 <li>Strike 3</li>
                 <li>Out of Bounds</li>
                 <li>Incomplete Pass</li>
