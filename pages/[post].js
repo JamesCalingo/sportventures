@@ -1,6 +1,6 @@
 import Markdown from "react-markdown";
-import { postSlugs, postForSlug } from "../../posts";
-import Layout from "../../components/Layout";
+import { postSlugs, postForSlug } from "../posts";
+import Layout from "../components/Layout";
 import rehypeRaw from "rehype-raw";
 import remarkRehype from "remark-rehype";
 import remarkGfm from "remark-gfm";
@@ -16,7 +16,7 @@ function Post({ frontmatter, body }) {
         <article>
           <h1 className="title">{frontmatter.title}</h1>
           <h2 className="description">{frontmatter.description}</h2>
-          <p className="italic">{frontmatter.date ? new Date(frontmatter.date).toLocaleDateString() : ""}</p>
+          <em>{frontmatter.date ? new Date(frontmatter.date).toLocaleDateString() : ""}</em>
           <Markdown rehypePlugins={[rehypeRaw]} remarkPlugins={[remarkGfm, remarkRehype]}>{body}</Markdown>
         </article>
       </div>
@@ -36,7 +36,7 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const paths = postSlugs().map((slug) => `/blog/${slug}`);
+  const paths = postSlugs().map((slug) => `/${slug}`);
 
   return {
     paths,
