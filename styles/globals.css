@@ -1,7 +1,7 @@
 html,
 body {
   font-family: Helvetica Neue, sans-serif;
-  font-size: 14pt;
+  font-size: 16pt;
 }
 
 header {
@@ -15,6 +15,22 @@ header {
 
 main {
   margin: 0 5%;
+}
+
+
+article {
+  width: 80%;
+  margin: auto;
+}
+
+article h3 {
+  margin-bottom: 0;
+}
+
+article p, em, li {
+  line-height: 1.6;
+  margin-top: 0;
+  margin-bottom: 20px;
 }
 
 footer {
@@ -34,10 +50,6 @@ header a,
 
 article a:hover {
   color: green
-}
-
-sup {
-  vertical-align: bottom;
 }
 
 .links {
@@ -130,6 +142,10 @@ sup {
   padding-left: 0;
 }
 
+#footnote-label {
+  display: none;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #313030;
@@ -149,6 +165,9 @@ sup {
     /* margin-right: 1% */
   }
 
+  article {
+    width: 90%;
+  }
 
   #blog_title {
     font-size: 36pt;
@@ -161,7 +180,11 @@ sup {
 }
 
 @media only screen and (max-width: 500px) {
-#postsList {
+  article {
+    width: 100%;
+  }
+
+  #postsList {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-}
+  }
 }
