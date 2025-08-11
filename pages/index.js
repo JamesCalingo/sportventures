@@ -10,7 +10,7 @@ const Index = ({ posts }) => {
       <div className="main_page">
         <div id="title">
           <h1 id="blog_title">Sportventures</h1>
-          <p id="blog_tag"></p>
+          <p id="blog_tag">A bunch of things.</p>
         </div>
       </div>
       <PostsList posts={posts} />

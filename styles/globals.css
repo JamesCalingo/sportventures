@@ -146,10 +146,10 @@ sup {
 @media only screen and (max-width: 1000px) {
   body {
     margin: 0;
-    margin-right: 1%
+    /* margin-right: 1% */
   }
 
-  
+
   #blog_title {
     font-size: 36pt;
   }
@@ -157,4 +157,11 @@ sup {
   #blog_tag {
     font-size: 24pt;
   }
+
+}
+
+@media only screen and (max-width: 500px) {
+#postsList {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
 }
