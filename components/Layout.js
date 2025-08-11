@@ -18,7 +18,7 @@ function Layout({ children, pageTitle }) {
         <main>{children}</main>
         <footer>
           <div className="links">
-            <Link href={"/about"}>About me</Link>
+            {pageTitle !== "About me" &&<Link href={"/about"}>About me</Link>}
             {pageTitle !== "Sportventures" &&<Link href={"/"}>Back to home</Link>}
           </div>
 
