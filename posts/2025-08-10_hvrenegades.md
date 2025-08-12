@@ -33,8 +33,10 @@ On a final note, the team logo baseball I got here is a little strange in that i
 
 ---
 
-### ON DECK:
+<!-- ### ON DECK:
 
 One of Minor League Baseball's hottest tickets.
 
-[^1]:For those who don't know, the now Tampa Bay Rays were founded in 1998 as the "Devil Rays", but dropped the "Devil" from their name in 2008. The change seems to have worked, as they made the World Series that same year after being perpetual celler dwellers in the decade prior.
+--- -->
+
+[^1]:For those who don't know, the now Tampa Bay Rays were founded in 1998 as the "Devil Rays", but dropped the "Devil" from their name in 2008. The change seems to have worked, as they made the World Series that same year after being perpetual cellar dwellers in the decade prior.

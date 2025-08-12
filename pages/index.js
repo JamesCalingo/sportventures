@@ -1,18 +1,15 @@
 import { posts } from "../posts";
 
 import Layout from "../components/Layout";
-import Link from "next/link";
 import GridItem from "../components/GridItem";
 
 const Index = ({ posts }) => {
   return (
     <Layout pageTitle="Sportventures">
-      <div className="main_page">
         <div id="title">
           <h1 id="blog_title">Sportventures</h1>
           <p id="blog_tag"></p>
         </div>
-      </div>
       <PostsList posts={posts} />
     </Layout>
   );
@@ -32,7 +29,7 @@ const PostsList = ({ posts }) => {
             const { frontmatter, slug } = post;
             const { display, date, } = frontmatter;
 
-            return ( <GridItem index={index} slug={slug} display={display} date={date} />
+            return ( <GridItem key={index} slug={slug} display={display} date={date} />
             );
           })}
 

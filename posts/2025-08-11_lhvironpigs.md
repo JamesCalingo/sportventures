@@ -12,7 +12,7 @@ The Lehigh Valley IronPigs have been in Allentown since moving down from Ottawa,
 
 My original plan was to go here for an 11 AM "education" game (i.e. a game designed for schools to make field trips to - like the game I went to in Brooklyn), but something came up and I had to switch gears[^1]; I ended up settling on a jersey giveaway night a few days later. I must say, though, that this place is VERY nice. It makes sense that it'd be better than most of the other parks I've been to recently (since it is the highest level of Minor League Baseball), but I honestly think I liked it better than Worcester's Polar Park (which I've been to a few times) despite being about 13 years older. A large part of that is the fact that Polar Park is crammed into an already existing city block, while Coca-Cola Park has tons of land around it, thus allowing more sprawl, so to speak.
 
-Similar to ShoreTown Ballpark, the concourse wraps completely around the field, and there are a LOT of interesting things to see walking around, like the play area in the left field corner, a grassy hill in center, and the outfield bullpens underneath an LED ribbon used for the game's linescore (as well as far too many bacon references and food items with bacon). The main gate area doubles as a plaza with tons of concession stands nearby (as well as the team store), so if you want to have a table while you eat, you (as well as a bunch of unique concession stands[^2]). Speaking of the concessions, I felt that while I wouldn't call them "cheap", they seemed noticably less expensive than some of the other stadiums I've been to (looking at you Hudson Valley...). There was also PYROTECHNICS around the park: Flamethrowers on top of some of the scoreboard "towers" and steam jets behind the plate (and basically right above where I sat). I'm guessing these are nods to the "Iron" in IronPigs: the steel industry that used to dominate the area (see: Billy Joel).
+Similar to ShoreTown Ballpark, the concourse wraps completely around the field, and there are a LOT of interesting things to see walking around, like the play area in the left field corner, a grassy hill in center, and the outfield bullpens underneath an LED ribbon used for the game's line score (as well as far too many bacon references and food items with bacon). The main gate area doubles as a plaza with tons of concession stands nearby (as well as the team store), so if you want to have a table while you eat, you (as well as a bunch of unique concession stands[^2]). Speaking of the concessions, I felt that while I wouldn't call them "cheap", they seemed noticeably less expensive than some of the other stadiums I've been to (looking at you Hudson Valley...). There was also PYROTECHNICS around the park: Flamethrowers on top of some of the scoreboard "towers" and steam jets behind the plate (and basically right above where I sat). I'm guessing these are nods to the "Iron" in IronPigs: the steel industry that used to dominate the area (see: Billy Joel).
 
 There are upper level seats here, but I didn't go up to check them out since I had some not-so-fun encounters with ushers in other parks. These seats are, surprisingly, MORE expensive than seats in the lower bowl (case in point: 15 dollars got me behind home plate PLUS the ability to pivot for no additional cost).
 
@@ -25,9 +25,11 @@ There was also a secondary merch area on the concourse that had shirts on which 
 
 ---
 
-### ON DECK:
+<!-- ### ON DECK:
 
 A historic stadium gets a tenant desparate for a new start.
+
+--- -->
 
 [^1]:Allentown is a touch over an hour from where I live, so I prefer earlier games to avoid having to drive home on dark roads.
 [^2]: One of the concession stands in the entry plaza was for Hershey Ice Cream, but it was closed. I'm going to assume it's due to either an equipment or staffing issue and not because the Hershey Bears were playing the Lehigh Valley Phantoms in the playoffs...

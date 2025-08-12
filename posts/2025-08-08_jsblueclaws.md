@@ -1,7 +1,7 @@
 ---
 display: "Jersey Shore Blueclaws (4/12/25)"
 title: "Jersey Shore BlueClaws (South Atlantic League) @ Shoretown Ballpark (Lakewood, NJ)"
-description: 'Baseball down the shore BEFORE "Shore Season": good idea or bad idea?'
+description: 'A trip down the shore BEFORE "Shore Season": good idea or bad idea?'
 date: 8 August 2025
 published: true
 ---
@@ -34,6 +34,8 @@ Also, as a postscript to this, I ended up finding an old logo BlueClaws jersey a
 
 ---
 
-### ON DECK:
+<!-- ### ON DECK:
 
 A historic baseball city spurned by MLB.
+
+--- -->

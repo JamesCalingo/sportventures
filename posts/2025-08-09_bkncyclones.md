@@ -37,9 +37,11 @@ I also got an "OFFICIAL MINOR LEAGUE BASEBALL" here with Rob Manfred's signature
 
 ---
 
-### ON DECK:
+<!-- ### ON DECK:
 
 A stadium I've seen quite a few times, but never visited until this year.
+
+--- -->
 
 [^1]: One proposal for the new stadium called for the Dodgers to play in a dome. Had they actually gone through with this, it would have been the first domed stadium for traditionally outdoor sports in the United States (and also probably would have been vacated by the 1990s).
 [^2]: Apparently the Mets wanted to move the Cyclones to the Double-A Eastern League in the realignment, but multiple parties nixed the idea (including the current Mets' current Double-A affiliate in Binghamton, NY).

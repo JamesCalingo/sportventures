@@ -1,8 +1,8 @@
 import Link from "next/link";
 
 function GridItem(props) {
-    const { index, slug, display, date } = props
-    return <div className="grid-post" key={index}>
+    const { slug, display, date } = props
+    return <div className="grid-post">
         <Link href={`/${slug}`}>
 
             <h2 className="list-title">{display}</h2>

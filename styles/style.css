@@ -17,7 +17,6 @@ main {
   margin: 0 5%;
 }
 
-
 article {
   width: 80%;
   margin: auto;
@@ -58,11 +57,8 @@ article a:hover {
   gap: 20px;
 }
 
-.main_page {
-  text-align: center;
-}
-
 #title {
+  text-align: center;
   font-size: 30pt;
   margin-bottom: 15px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -78,29 +74,11 @@ article a:hover {
   margin: 0;
 }
 
-.list-date {
-  font-style: italic;
-}
-
-.title {
-  font-size: 28pt;
-}
-
-.description {
-  font-weight: normal;
-  font-style: italic;
-}
-
 #postsList {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   row-gap: 20px;
   column-gap: 20px;
-}
-
-#metaphors {
-  list-style: none;
-  text-align: center;
 }
 
 .grid-post {
@@ -129,6 +107,25 @@ article a:hover {
   color: white;
 }
 
+.list-date {
+  font-style: italic;
+}
+
+.title {
+  font-size: 28pt;
+}
+
+.description {
+  font-weight: normal;
+  font-style: italic;
+}
+
+#metaphors {
+  list-style: none;
+  text-align: center;
+}
+
+
 .list-title {
   font-size: 24pt;
   margin: 0;
@@ -136,10 +133,6 @@ article a:hover {
 
 .not-found {
   text-align: center;
-}
-
-.not-found ul {
-  padding-left: 0;
 }
 
 #footnote-label {
