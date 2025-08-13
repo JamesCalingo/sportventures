@@ -43,7 +43,7 @@ a {
 }
 
 header a,
-#postsList a {
+.posts-list a {
   text-decoration: none;
 }
 
@@ -74,7 +74,14 @@ article a:hover {
   margin: 0;
 }
 
-#postsList {
+#pinned-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  row-gap: 20px;
+  column-gap: 20px;
+}
+
+#posts-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   row-gap: 20px;
@@ -94,17 +101,39 @@ article a:hover {
   justify-content: center;
 }
 
-.grid-post a {
+.grid-post a{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   height: 100%;
+  text-decoration: none;;
 }
 
-.grid-post:hover {
+.grid-post:hover{
   background: green;
   border-color: orange;
   color: white;
+}
+
+.pinned-post {
+  text-align: center;
+  /* padding: 10px; */
+  margin-bottom: 39px;
+  /* font-size: 24pt; */
+}
+
+.pinned-post h1 {
+  display: inline;
+}
+
+.pinned-post h1:hover {
+  color: green;
+}
+
+.section-header {
+  text-align: center;
+  font-size: 24pt;
+  margin: 20px 0;
 }
 
 .list-date {
@@ -147,7 +176,7 @@ article a:hover {
 
   .grid-post {
     background: #424242;
-    /* border-color: green; */
+ 
   }
 
 }
