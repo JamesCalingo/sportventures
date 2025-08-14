@@ -2,12 +2,12 @@ import { useState } from "react";
 
 import { posts } from "../posts";
 import PostList from "../components/PostList";
-import PinnedItem from "../components/PinnedItem";
+import NewestPost from "../components/NewestPost";
 import Layout from "../components/Layout";
 
 
 const Index = ({ posts }) => {
-  // const pinned = posts.filter((post) => post.frontmatter.pinned === true);
+  const pinned = posts.filter((post) => post.frontmatter.pinned === true).reverse();
   const published = posts.filter((post) => post.frontmatter.published === true).reverse();
   const latest = published[0]
   const olderPosts = published.slice(1);
@@ -19,14 +19,15 @@ const Index = ({ posts }) => {
         <h1 id="blog_title">Sportventures</h1>
         <p id="blog_tag"></p>
       </div>
-      <div className="section-header">
-        <h2>NEWEST POST ({new Date(latest.frontmatter.date).toLocaleDateString()})</h2>
+      <div>
+      <NewestPost slug={latest.slug} display={latest.frontmatter.display} date={latest.frontmatter.date} />
       </div>
-      <PinnedItem slug={latest.slug} display={latest.frontmatter.display} date={latest.frontmatter.date} />
-      {/* <PostList pinned posts={pinned} /> */}
+      
+      {/* <h2 className="section-header">HIGHLIGHTS</h2>
+      <PostList pinned posts={pinned} /> */}
       {seeAll ? <>
         <div className="section-header">
-          <h2>OLDER POSTS</h2>
+          <span>OLDER POSTS</span>
         </div>
         <PostList posts={olderPosts} />
       </> : <button id="see-all" onClick={() => setSeeAll(true)}>See All Posts</button>}

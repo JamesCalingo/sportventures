@@ -17,6 +17,16 @@ main {
   margin: 0 5%;
 }
 
+button {
+  font-size: 16pt;
+  padding: 10px 20px;
+  border: 2px solid green;
+  border-radius: 5px;
+  background: white;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
 article {
   width: 80%;
   margin: auto;
@@ -47,7 +57,7 @@ header a,
   text-decoration: none;
 }
 
-article a:hover {
+article a:hover, #newest-post a:hover, #pinned-list a:hover {
   color: green
 }
 
@@ -74,18 +84,22 @@ article a:hover {
   margin: 0;
 }
 
-#pinned-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
-  row-gap: 20px;
-  column-gap: 20px;
-}
+/* #pinned-list {
+} */
 
 #posts-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   row-gap: 20px;
   column-gap: 20px;
+}
+
+
+
+#newest-post {
+  text-align: center;
+  font-weight: bold;
+  font-size: 28pt;
 }
 
 .grid-post {
@@ -115,25 +129,27 @@ article a:hover {
   color: white;
 }
 
-.pinned-post {
+.newest-post {
   text-align: center;
   /* padding: 10px; */
   margin-bottom: 39px;
   /* font-size: 24pt; */
 }
 
-.pinned-post h1 {
-  display: inline;
+.pinned h1 {
+  margin-bottom: 0;
 }
 
-.pinned-post h1:hover {
-  color: green;
-}
 
 .section-header {
   text-align: center;
-  font-size: 24pt;
+  font-size: 28pt;
+  font-weight: bold;
   margin: 20px 0;
+}
+
+.newest {
+  margin-bottom: 40px;
 }
 
 .list-date {
