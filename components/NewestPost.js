@@ -2,15 +2,17 @@ import Link from "next/link";
 
 function NewestPost(props) {
     const { slug, display, date } = props
-    return <div className="section-header newest">
+    return <>
+     <div className="section-header">
 
-        <span id="newest-post">
+        <span id="newest">
             NEW:<br />
             <Link href={`/${slug}`}>{display}</Link>
         </span>
-        {/* <p>posted {new Date(date).toLocaleDateString()}</p> */}
-
     </div>
+        <p className="list-date">Published on {new Date(date).toLocaleDateString()}</p>
+
+    </>
 }
 
 export default NewestPost;

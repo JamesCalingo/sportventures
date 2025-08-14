@@ -57,7 +57,7 @@ header a,
   text-decoration: none;
 }
 
-article a:hover, #newest-post a:hover, #pinned-list a:hover {
+article a:hover, #newest a:hover, #pinned-list a:hover {
   color: green
 }
 
@@ -96,7 +96,7 @@ article a:hover, #newest-post a:hover, #pinned-list a:hover {
 
 
 
-#newest-post {
+#newest {
   text-align: center;
   font-weight: bold;
   font-size: 28pt;
@@ -154,6 +154,7 @@ article a:hover, #newest-post a:hover, #pinned-list a:hover {
 
 .list-date {
   font-style: italic;
+  text-align: center;
 }
 
 .title {
@@ -222,7 +223,7 @@ article a:hover, #newest-post a:hover, #pinned-list a:hover {
     width: 100%;
   }
 
-  #postsList {
+  #posts-list {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   }
 }

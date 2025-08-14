@@ -19,10 +19,7 @@ const Index = ({ posts }) => {
         <h1 id="blog_title">Sportventures</h1>
         <p id="blog_tag"></p>
       </div>
-      <div>
       <NewestPost slug={latest.slug} display={latest.frontmatter.display} date={latest.frontmatter.date} />
-      </div>
-      
       {/* <h2 className="section-header">HIGHLIGHTS</h2>
       <PostList pinned posts={pinned} /> */}
       {seeAll ? <>
