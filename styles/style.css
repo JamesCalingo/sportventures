@@ -94,9 +94,11 @@ article a:hover, #newest a:hover, #pinned-list a:hover {
   column-gap: 20px;
 }
 
-
-
 #newest {
+  margin-bottom: 40px;
+}
+
+#newest-post {
   text-align: center;
   font-weight: bold;
   font-size: 28pt;
@@ -129,17 +131,9 @@ article a:hover, #newest a:hover, #pinned-list a:hover {
   color: white;
 }
 
-.newest-post {
-  text-align: center;
-  /* padding: 10px; */
-  margin-bottom: 39px;
-  /* font-size: 24pt; */
-}
-
 .pinned h1 {
   margin-bottom: 0;
 }
-
 
 .section-header {
   text-align: center;
@@ -148,14 +142,26 @@ article a:hover, #newest a:hover, #pinned-list a:hover {
   margin: 20px 0;
 }
 
-.newest {
-  margin-bottom: 40px;
+#newest .section-header {
+  margin-bottom: 10px;
+}
+
+#newest {
+  margin-bottom: 50px;
+}
+
+ #newest .list-date {
+  font-style: italic;
+  text-align: center;
+  margin-top: 0px;
 }
 
 .list-date {
   font-style: italic;
   text-align: center;
 }
+
+
 
 .title {
   font-size: 28pt;
