@@ -12,7 +12,7 @@ const metaphors = [
 ];
 
 
-function About() {
+function Error404() {
     const [randomMetaphor, setrandomMetaphor] = useState("")
     
     useEffect(() => {
@@ -20,7 +20,7 @@ function About() {
       setrandomMetaphor(metaphors[index]);
     }, []);
 
-    return <Layout pageTitle={"You just got 404'd"}>
+    return <Layout pageTitle={"404 - Sportventures"}>
         <div className="not-found">
             <h1>404 </h1>
             {randomMetaphor ? <h2>{randomMetaphor}</h2> : <h2>-</h2>}
@@ -32,4 +32,4 @@ function About() {
     </Layout>
 }
 
-export default About
+export default Error404

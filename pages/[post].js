@@ -4,11 +4,10 @@ import Layout from "../components/Layout";
 import rehypeRaw from "rehype-raw";
 import remarkRehype from "remark-rehype";
 import remarkGfm from "remark-gfm";
+import Error500 from "./500";
 
 function Post({ frontmatter, body }) {
-  if (!frontmatter) return <>
-  <h1>POST NOT FOUND</h1>
-  </>;
+  if (!frontmatter || !Object.keys(frontmatter).length) return <Error500 />
 
   return (
     <Layout pageTitle={`${frontmatter.display} - Sportventures`}>
@@ -16,8 +15,11 @@ function Post({ frontmatter, body }) {
         <article>
           <h1 className="title">{frontmatter.title}</h1>
           <h2 className="description">{frontmatter.description}</h2>
-          <em>{frontmatter.date ? new Date(frontmatter.date).toLocaleDateString() : ""}</em>
-          <Markdown rehypePlugins={[rehypeRaw]} remarkPlugins={[remarkGfm, remarkRehype]}>{body}</Markdown>
+          <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString()}</b></em>
+          <Markdown 
+          rehypePlugins={[rehypeRaw]} 
+          remarkPlugins={[remarkGfm, remarkRehype]}
+          transfor>{body}</Markdown>
         </article>
       </div>
     </Layout>
