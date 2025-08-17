@@ -16,10 +16,16 @@ function Post({ frontmatter, body }) {
           <h1 className="title">{frontmatter.title}</h1>
           <h2 className="description">{frontmatter.description}</h2>
           <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString()}</b></em>
-          <Markdown 
-          rehypePlugins={[rehypeRaw]} 
-          remarkPlugins={[remarkGfm, remarkRehype]}
-          transfor>{body}</Markdown>
+          <Markdown
+            rehypePlugins={[rehypeRaw]}
+            remarkPlugins={[remarkGfm, remarkRehype]}
+            urlTransform={(url) => {
+              // If the URL starts with a slash, treat it as a relative path
+              if (url.startsWith('/')) {
+                return url; // Return the URL as is
+              }
+            }}
+          >{body}</Markdown>
         </article>
       </div>
     </Layout>

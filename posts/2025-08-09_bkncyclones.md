@@ -6,7 +6,9 @@ date: 9 August 2025
 published: true
 ---
 
-_\*This trip occurred on April 30, 2025_
+_\*This trip occurred on April 30, 2025._
+
+![BROOKLYN](/assets/images/IMG_6701.jpeg)
 
 If you're not familiar with the history of baseball in Brooklyn, here's an intensely abridged version:
 

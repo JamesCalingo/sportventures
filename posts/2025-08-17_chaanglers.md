@@ -33,4 +33,5 @@ I also tried to check out the Harwich Mariners merch selection after leaving Cha
 I actually don't know what's going to be next! It'll be as much of a surprise to you, dear reader, as it will be to me.
 
 ---
+
 [^1]: There’s a privately owned house that backs onto Veterans Field, and the owners built a little viewing area to watch Anglers games from the backyard - in fact, I’m pretty sure I saw people there during this game.

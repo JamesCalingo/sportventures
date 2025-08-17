@@ -53,6 +53,7 @@ a {
 }
 
 header a,
+sup a,
 .posts-list a {
   text-decoration: none;
 }
