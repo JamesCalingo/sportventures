@@ -44,11 +44,11 @@ Oddly, the merch table shut down (everything was packed up and moved out) when t
 
 ---
 
-### ON DECK:
+<!-- ### ON DECK:
 
 I visit one of my favorite fields in all of baseball.
 
----
+--- -->
 
 [^1]: I feel like I should mention that the word “Wiffle” is TECHNICALLY a trademark of The Wiffle Ball, Inc.
 [^2]: I originally wrote that I thought "MLW Wiffle Ball" was the league's legal name, but in finding the video of the game I went to, I found out that there's another "MLW" on YouTube: Major League Wrestling. Interestingly, however, the "MLW Wiffle Ball" name dates back to 2010 - though there are a couple of reasons that might be.

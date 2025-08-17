@@ -191,6 +191,10 @@ article a:hover, #newest a:hover, #pinned-list a:hover {
   display: none;
 }
 
+#filler {
+  height: 1000px;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #313030;
