@@ -20,11 +20,7 @@ function Post({ frontmatter, body }) {
           <Markdown
             rehypePlugins={[rehypeRaw]}
             remarkPlugins={[remarkGfm, remarkRehype]}
-            components={{
-              img: (props) => {
-              return  <Image src={props.src} alt={props.alt} width={700} height={500}/>
-              }
-            }}>
+         >
           {body}
         </Markdown>
       </article>
