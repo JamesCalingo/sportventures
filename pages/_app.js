@@ -1,4 +1,4 @@
-import '../assets/styles/style.css'
+import '../styles/style.css'
 import "../node_modules/highlight.js/styles/night-owl.css";
 
 function MyApp({ Component, pageProps }) {

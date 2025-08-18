@@ -6,7 +6,7 @@ date: 10 August 2025
 published: true
 ---
 
-_\*This trip occurred on May 1, 2025_
+_\*This trip occurred on May 1, 2025._
 
 Before Andrew Cuomo pissed off folks in Rockland and Westchester counties by slapping his father's name on the New Tappan Zee Bridge (and LONG before he tried to convince New York City he'd be a good mayor after the scandal that cost him the governor's seat), it was an old, rotting piece of junk that - despite being the fastest route from New Jersey to New England - was viewed by my parents as something to avoid due to how congested it typically was (mainly on the way up). Therefore, we'd often head up the Thruway to Newburgh and catch Interstate 84 up there rather than take the Saw Mill River Parkway (a winding, narrow road which is uncomfortable to drive on) or 684 (which involved the Cross Westchester Expressway, which was perpetually under construction at the time). Located in Wappingers Falls, NY, and nestled just across the Hudson from Newburgh, what is now Heritage Financial Park (then Dutchess Stadium) was clearly visible from 84 as well as the logos of its tenant (the Renegades) and their then-affiliate: the Tampa Bay (Devil) Rays[^1].
 

@@ -6,7 +6,7 @@ date: 14 August 2025
 published: true
 ---
 
-_\*This trip occurred on May 29, 2025_
+_\*This trip occurred on May 29, 2025._
 
 Staten Island: New York City’s redheaded stepchild.
 

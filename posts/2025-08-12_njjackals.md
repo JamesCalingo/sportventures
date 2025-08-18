@@ -6,7 +6,7 @@ date: 12 August 2025
 published: true
 ---
 
-_\*This trip occurred on May 18, 2025_
+_\*This trip occurred on May 18, 2025._
 
 Paterson, New Jersey.
 

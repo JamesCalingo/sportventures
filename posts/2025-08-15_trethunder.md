@@ -6,7 +6,7 @@ date: 15 August 2025
 published: true
 ---
 
-_\*This trip occurred on June 4th, 2025_
+_\*This trip occurred on June 4th, 2025._
 
 A long time Eastern League stalwart (if you consider 1994 to be “long time”) that found themselves on the outside looking in after 2020 when the Yankees (whom they had been affiliated with since 2003) pulled the rug from under them in favor of an affiliation with the Somerset Patriots (formerly of the Atlantic League), the Trenton Thunder found new life with the newly formed MLB Draft League - an unusual “hybrid” league designed for draft eligible players. In the first half of the season, the league is, in essence, a summer collegiate league featuring draft eligible prospects; after the MLB All Star break, the league “switches” to players who have exhausted their amateur eligibility and remain undrafted (I believe that other collegiate leagues require that players have NCAA eligibility remaining after the summer). Of the teams in the Draft League, Trenton was the highest leveled team at Double-A; one team was from what is essentially now High-A, while the others were all New York-Penn League refugees[^1].
 
