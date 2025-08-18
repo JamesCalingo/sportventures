@@ -32,17 +32,17 @@ Most of the jerseys were sublimated, and the ones that weren't were mainly fashi
 
 One thing that was kept in the Red Barons to Yankees transition, however, was the classic "SWB" cap logo. I got two versions of this cap (fitted and flexfit), plus a fitted version of their "home" cap (featuring the letter R) as well as a logo ball (with both cap logos) and a mini helmet (that came with ice cream of course; I also ended up geting Chickie's & Pete's Crabfries again).
 
-Finally, I want to peel back the curtain a bit and mention that I'm currently (as of me writing this) trying to figure out how to add my own images to these posts. However, I MUST show you one of the most horriying caps I have ever seen a Minor League Baseball team attempt to sell (image taken from their online store):
+Finally, I MUST show you one of the most horriying caps I have ever seen a Minor League Baseball team (attempt) to sell:
 
-![The horror that is the "Baby Bombers" logo](https://railriders.milbstore.com/cdn/shop/products/BB2_720x.jpg?v=1595528245)
+![The horror that is the "Baby Bombers" logo](/images/babybomber.jpg)
 
 ---
 
-<!-- ### ON DECK
+### ON DECK
 
 We go back to the 2025 "catchup" with one of the more historic stadiums in New England.
 
---- -->
+---
 
 [^1]: In the process, the Yankees moved their AAA operations out of Columbus, OH - a city they had been in since 1979.
 [^2]: Shout out to all y’all out there who understand this reference.
