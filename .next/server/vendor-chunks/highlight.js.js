@@ -18,16 +18,6 @@ exports.modules = {
 
 
 
-/***/ }),
-
-/***/ "./node_modules/highlight.js/styles/night-owl.css":
-/*!********************************************************!*\
-  !*** ./node_modules/highlight.js/styles/night-owl.css ***!
-  \********************************************************/
-/***/ (() => {
-
-
-
 /***/ })
 
 };

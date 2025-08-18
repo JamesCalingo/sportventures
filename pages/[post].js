@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Markdown from "react-markdown";
 import { postSlugs, postForSlug } from "../posts";
 import Layout from "../components/Layout";
@@ -19,10 +20,16 @@ function Post({ frontmatter, body }) {
           <Markdown
             rehypePlugins={[rehypeRaw]}
             remarkPlugins={[remarkGfm, remarkRehype]}
-          >{body}</Markdown>
-        </article>
-      </div>
-    </Layout>
+            components={{
+              img: (props) => {
+              return  <Image src={props.src} alt={props.alt} width={700} height={500}/>
+              }
+            }}>
+          {body}
+        </Markdown>
+      </article>
+    </div>
+    </Layout >
   );
 }
 
