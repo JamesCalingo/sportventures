@@ -19,12 +19,6 @@ function Post({ frontmatter, body }) {
           <Markdown
             rehypePlugins={[rehypeRaw]}
             remarkPlugins={[remarkGfm, remarkRehype]}
-            urlTransform={(url) => {
-              // If the URL starts with a slash, treat it as a relative path
-              if (url.startsWith('/')) {
-                return url; // Return the URL as is
-              }
-            }}
           >{body}</Markdown>
         </article>
       </div>
