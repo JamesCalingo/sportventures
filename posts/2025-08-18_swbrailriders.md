@@ -10,6 +10,8 @@ _\*This trip occurred on August 17, 2025 - yes, that's right, YESTERDAY. I've de
 
 _Also, I’m sure at least some of you out there understand what I’m referencing in the subtitle - I couldn’t stop thinking about it after hearing how the “Barre” in Wilkes-Barre is pronounced…_
 
+![The hills beyond the outfield of PNC Field](/images/swb.jpeg)
+
 In 1989, Lackawanna County Stadium opened in Moosic, PA - a town just south of Scranton, and a bit north of Wilkes-Barre. The new stadium was built to accommodate the Phillies AAA team, who had just moved in from Old Orchard Beach, Maine (fun fact: they played at a stadium historically and currently known simply as “The Ballpark”). The new team was called the Scranton/Wilkes-Barre Red Barons as a nod to two previous minor league teams from the area. Before you ask...Ryan Howard played here during parts of the 2004 and 2005 seasons; as mentioned previously, he did NOT spend a single day working for Dunder Mifflin (though the Office character was apparently named after him).
 
 In 2007, the stadium’s name changed to its current name of PNC Field. The affiliation also changed, as the Phillies entered an agreement with the team that eventually became the Lehigh Valley IronPigs. The Red Barons became the new AAA affiliate of the New York Yankees[^1]…sorta: because George Steinbrenner couldn’t resist going on an ego trip (or something like that), the team was renamed the Scranton/Wilkes-Barre Yankees (or as I like to call them: the Scrankees). Why’d they change it I can’t say; maybe people just liked it better that way[^2], but it may also have to do with the fact that one of the teams the Red Barons were named after was a team called…the Red Sox[^3]. In 2012, massive renovations to PNC Field forced the team to spend the whole season as a traveling team (as the Mets nixed a temporary stay in Newark, NJ[^4]). When the team returned to their rebuilt stadium, they opted to rebrand again - this time becoming the RailRiders we know today.
@@ -32,17 +34,17 @@ Most of the jerseys were sublimated, and the ones that weren't were mainly fashi
 
 One thing that was kept in the Red Barons to Yankees transition, however, was the classic "SWB" cap logo. I got two versions of this cap (fitted and flexfit), plus a fitted version of their "home" cap (featuring the letter R) as well as a logo ball (with both cap logos) and a mini helmet (that came with ice cream of course; I also ended up geting Chickie's & Pete's Crabfries again).
 
-Finally, I MUST show you one of the most horriying caps I have ever seen a Minor League Baseball team (attempt) to sell:
+Finally, I MUST show you one of the most horriying caps I have ever seen a Minor League Baseball team (attempt to) sell:
 
 ![The horror that is the "Baby Bombers" logo](/images/babybomber.jpg)
 
 ---
 
-### ON DECK
+<!-- ### ON DECK
 
 We go back to the 2025 "catchup" with one of the more historic stadiums in New England.
 
----
+--- -->
 
 [^1]: In the process, the Yankees moved their AAA operations out of Columbus, OH - a city they had been in since 1979.
 [^2]: Shout out to all y’all out there who understand this reference.

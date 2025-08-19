@@ -8,6 +8,8 @@ published: true
 
 _\*This trip occurred on July 3, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
 
+![Veterans Field in Chatam as viewed from the nearby street](/images/chatham.jpeg)
+
 Chatham, MA was one of the four founding members of the Cape Cod Baseball League in 1923. Four years later, needing a place to play, Veterans Field was built, and has hosted baseball ever since (though strangely, the team claimed to have played “100 Years of Baseball at Veterans Field” in 2023). They’ve won five league titles, but their last title is starting to collect a lot of dust as it came in 1998 - a team featuring players whose MLB careers ended in 2010.
 
 The team went through several names before settling on “Athletics” in the 1970s. However, a trademark “dispute” with Major League Baseball in 2010 forced the team to choose a new name; they went with “Anglers” as a reference to fishing (a common hobby on Cape Cod) and Chatham’s location at the point where Cape Cod angles northward (as well as keeping the “A’s” nickname). I should note, however, that one of my visits here (in 2022) saw me purchasing an old “Chatham Athletics” jersey here (and then wearing it while sitting in the front row during a game a year later). As an aside, they were the first Cape League team to broadcast games; in fact, one of their original broadcasters is Vegas Golden Knights radio voice Dan D’Uva - who still works with the Anglers’ broadcasting department!

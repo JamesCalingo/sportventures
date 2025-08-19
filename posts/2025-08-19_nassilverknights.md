@@ -3,10 +3,12 @@ display: "Nashua Silver Knights (7/4/25)"
 title: "Nashua Silver Knights (Futures League) @ Holman Stadium (Nashua, NH)"
 description: "A historic stadium with a high-ish profile team"
 date: 19 August 2025
-# published: true
+published: true
 ---
 
 _\*This trip occurred on the morning of July 4th, 2025._
+
+![A photo I took ON THE FIELD at Holman Stadium back in 2022](/images/nashua.jpeg)
 
 Holman Stadium is quite historic: opened in 1937, it's seen a lot of teams and a lot of leagues come and go - from affiliated minor league teams to independent leagues. In 2011, the (then) newly created Futures Collegiate Baseball League became the newest tenant with the Nashua Silver Knights, and they've been there ever since. In fact, they're the most successful team in the Futures League, having won the most championships (six as of 2024) and being the only team from the original FCBL season to still be in the league.
 
@@ -30,7 +32,6 @@ Alas, my hat luck continues to be just a bit off, as they only had small and XL 
 
 ### ON DECK:
 
-A return to the Cape Cod Baseball League...but not Cape Cod itself.
-
+A return to the Cape Cod Baseball League...but not Cape Cod itself (well, sorta - I'll explain).
 
 ---

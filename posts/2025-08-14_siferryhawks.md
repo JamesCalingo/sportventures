@@ -8,6 +8,8 @@ published: true
 
 _\*This trip occurred on May 29, 2025._
 
+![An image of the New York City skyline as seen from SIUH Community Ballpark](/images/siuhskyline.jpeg)
+
 Staten Island: New York City’s redheaded stepchild.
 
 A mostly residential part of New York City that wasn’t even accessible by car from the other boroughs until the Verrazzano Narrows Bridge opened in 1964, Staten Island is often forgotten about and even looked down upon by the rest of the city for several reasons. Not only is it still fairly isolated from the rest of the city’s boroughs (as outside of the bridge, the ferry is the only way there and the island’s lone rail line is technically not part of the New York City Subway), but it’s also much more politically conservative than the rest of the city, and probably the most famous part of the island (not counting the ferry) is Fresh Kills Landfill: a former dump that was once thought to be the largest in the world.

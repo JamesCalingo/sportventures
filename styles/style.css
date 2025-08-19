@@ -32,7 +32,7 @@ article {
   margin: auto;
 }
 
-article h3 {
+article h3, img {
   margin-bottom: 0;
 }
 
@@ -233,6 +233,7 @@ article a:hover, #newest a:hover, #pinned-list a:hover {
   article {
     width: 100%;
   }
+
 
   #posts-list {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
