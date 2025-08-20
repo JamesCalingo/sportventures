@@ -1,5 +1,5 @@
 ---
-display: "Wareham Gatemen (7/4/25)"
+display: "Wareham Gatemen (7/4/25 PM)"
 title: "Wareham Gatemen (Cape Cod Baseball League) @ Clem Spillane Field (Wareham, MA)"
 description: "Cape League baseball - off Cape Cod"
 date: 20 August 2025
@@ -20,7 +20,7 @@ The story of this visit can be summarized in one sentence:
 
 **The night after the lights went out in Wareham.**
 
-My original plan was to stop here briefly to check out the "team store" before heading up to Brockton to see Rox 2.0, but after the Nashua game, I saw that this game had been moved from 6 PM to 7 PM. Thinking that It’d be REALLY awkward to try and get to the Rox game after it started, I figured I’d pivot to this game, as I really like the outfield seats (my second favorite seats in the Cape after Chatham’s grandstand). In doing so, I ended up deciding to go to Cape Cod itself (traffic was basically nonexistent thankfully), where I spent a little bit of time in Brewster and then Falmouth looking for various merchandise items before heading over to Wareham (more on that at the end of the "merch" section).
+My original plan was to stop here briefly to check out the "team store" before heading up to Brockton to see Rox 2.0, but after the Nashua game, I saw that this game had been moved from 6 PM to 7 PM. Thinking that It’d be REALLY awkward to try and get to the Rox game after it started, I figured I’d pivot to this game, as I really like the outfield seats (my second favorite seats in the Cape after Chatham’s grandstand). In doing so, I ended up deciding to go to Cape Cod itself (traffic was basically nonexistent thankfully), where I spent a little bit of time in Brewster and then Falmouth looking for various merchandise items before heading over to Wareham.
 
 When I got to Wareham, I found out why the game was moved: an intense thunderstorm had knocked out power to the field the day before, and initial indications were that the power would be back between 6 and 7 (thus the pushback). However, that ended up NOT being the case, so the game started at 7 with no lights, but with a contingency plan should the power not return in time. Fortunately, those plans ended up being unnecessary, as the lights came on during the third inning. UNfortunately, the Gatemen ended up giving up a 1-0 lead in the sixth and went on to lose 5-2 (I left during this sixth inning with Bourne having loaded the bases with no outs in a then tied game).
 

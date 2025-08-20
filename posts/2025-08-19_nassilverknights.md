@@ -1,5 +1,5 @@
 ---
-display: "Nashua Silver Knights (7/4/25)"
+display: "Nashua Silver Knights (7/4/25 AM)"
 title: "Nashua Silver Knights (Futures League) @ Holman Stadium (Nashua, NH)"
 description: "A historic stadium with a high-ish profile team"
 date: 19 August 2025
