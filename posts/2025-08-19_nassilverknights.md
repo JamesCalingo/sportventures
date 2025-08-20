@@ -30,8 +30,8 @@ Alas, my hat luck continues to be just a bit off, as they only had small and XL 
 
 ---
 
-### ON DECK:
+<!-- ### ON DECK:
 
 A return to the Cape Cod Baseball League...but not Cape Cod itself (well, sorta - I'll explain).
 
----
+--- -->
