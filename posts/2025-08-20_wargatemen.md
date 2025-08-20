@@ -3,7 +3,7 @@ display: "Wareham Gatemen (7/4/25)"
 title: "Wareham Gatemen (Cape Cod Baseball League) @ Clem Spillane Field (Wareham, MA)"
 description: "Cape League baseball - off Cape Cod"
 date: 20 August 2025
-# published: true
+published: true
 ---
 
 _\*This trip occurred on the evening of July 4th, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
