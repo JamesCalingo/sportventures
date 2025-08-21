@@ -1,9 +1,11 @@
 ---
 display: "Chatham Anglers (7/3/25)"
 title: "Chatham Anglers (Cape Cod Baseball League) @ Veterans Field (Chatham, MA)"
-description: "One of the crown jewels of pre-professional baseball IMO"
+subtitle: "One of the crown jewels of pre-professional baseball IMO"
 date: 17 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on July 3, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
@@ -29,11 +31,5 @@ Chatham does have an online store, but I have no clue how up to date it is, so i
 I also tried to check out the Harwich Mariners merch selection after leaving Chatham (part of why I left early), but that game was ended by the rain before I could get there - I had barely left Chatham when the Harwich game was delayed, and by the time I got to their field, players were packed up and walking out.
 
 ---
-
-<!-- ### ON DECK:
-
-I actually don't know what's going to be next! It'll be as much of a surprise to you, dear reader, as it will be to me.
-
---- -->
 
 [^1]: There’s a privately owned house that backs onto Veterans Field, and the owners built a little viewing area to watch Anglers games from the backyard - in fact, I’m pretty sure I saw people there during this game.

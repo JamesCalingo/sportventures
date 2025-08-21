@@ -1,9 +1,11 @@
 ---
 display: "Staten Island FerryHawks (5/29/25)"
 title: "Staten Island FerryHawks (Atlantic League) @ SIUH Community Ballpark (Staten Island, NY)"
-description: "A borough often scorned gets a second chance at baseball"
+subtitle: "A borough often scorned gets a second chance at baseball"
 date: 14 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on May 29, 2025._
@@ -36,6 +38,7 @@ Sadly, there are indications that the FerryHawks are facing the standard indie l
 But seriously, why did the Staten Island Yankees have to get terminated? Sure, the FerryHawks/Ducks rivalry is cool, but it’s no “Battle of the Verrazzano”…
 
 ### MERCH
+
 The team store here is rather small-ish, but it's got your standard selection of hats (most of which I had ordered years ago outside of a Wu-Tang Clan themed one that I still didn’t get), shirts/sweatshirts, and jerseys (including the aforementioned Kelsie Whitmore jersey). As you may expect from a lower league team, most of the jerseys are sublimated (including the ones the players wear); however, they did have a version of their home jersey with stitched-on letters and sleeve logos, so that was a nice find (had they not, I would have potentially gotten a light blue sublimated jersey because I liked it that much). There was a game-used jersey on display behind the register, but I didn't ask if it was for sale (nor was I super interested given the jersey I got had stitched on letters and patches).
 
 I also found something rather wild: Mets and Yankees hats! Why they’d have those (especially given their relationship to the Yankees) is a REALLY good question…
@@ -43,9 +46,3 @@ I also found something rather wild: Mets and Yankees hats! Why they’d have tho
 Finally, I feel like I should probably mention the Atlantic League’s official baseball: it’s not only unique in that the Atlantic League manufactures its own baseballs (their brand is called “Drake”), but it also features red and blue stitching as opposed to most leagues having only red stitches. I bought one from the team store and contemplated buying another before scooping the foul ball in game 2, which leads to another unique feature: the league added QR codes to each baseball in 2025! I’m not sure exactly what the QR code is supposed to do, but the one I got leads to the Atlantic League’s website.
 
 ---
-
-<!-- ### ON DECK:
-
-As it turns out, Staten Island wasn't the only place left out in the cold by the Yankees in 2020...
-
---- -->

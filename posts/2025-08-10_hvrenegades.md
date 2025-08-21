@@ -1,9 +1,11 @@
 ---
 display: "Hudson Valley Renegades (5/1/25)"
 title: "Hudson Valley Renegades (South Atlantic League) @ Heritage Financial Park (Wappingers Falls, NY)"
-description: "A trip nearly 20 years in the making...probably"
+subtitle: "A trip nearly 20 years in the making...probably"
 date: 10 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on May 1, 2025._
@@ -35,10 +37,4 @@ On a final note, the team logo baseball I got here is a little strange in that i
 
 ---
 
-<!-- ### ON DECK:
-
-One of Minor League Baseball's hottest tickets.
-
---- -->
-
-[^1]:For those who don't know, the now Tampa Bay Rays were founded in 1998 as the "Devil Rays", but dropped the "Devil" from their name in 2008. The change seems to have worked, as they made the World Series that same year after being perpetual cellar dwellers in the decade prior.
+[^1]: For those who don't know, the now Tampa Bay Rays were founded in 1998 as the "Devil Rays", but dropped the "Devil" from their name in 2008. The change seems to have worked, as they made the World Series that same year after being perpetual cellar dwellers in the decade prior.

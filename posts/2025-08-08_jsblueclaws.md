@@ -1,9 +1,11 @@
 ---
 display: "Jersey Shore Blueclaws (4/12/25)"
 title: "Jersey Shore BlueClaws (South Atlantic League) @ Shoretown Ballpark (Lakewood, NJ)"
-description: 'A trip down the shore BEFORE "Shore Season": good idea or bad idea?'
+subtitle: 'A trip down the shore BEFORE "Shore Season": good idea or bad idea?'
 date: 8 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on April 12, 2025._
@@ -33,9 +35,3 @@ I ended up getting several hats here - the most interesting of them being a “b
 Also, as a postscript to this, I ended up finding an old logo BlueClaws jersey a few months later at a thrift store with the script stitched on. The team was doing a “trade-in” promo where fans could trade in old logo merchandise, so there’s a non-zero possibility that someone traded this in, the team donated it to the local thrift organization, and it ended up in my possession (I should also note that I got a massive 75% discount on it). I also tried visiting the team store a second time (their website indicates that they have non-game day hours), but alas, it seems that it’s only open during games now (partially due to the stadium being kinda near nothing).
 
 ---
-
-<!-- ### ON DECK:
-
-A historic baseball city spurned by MLB.
-
---- -->

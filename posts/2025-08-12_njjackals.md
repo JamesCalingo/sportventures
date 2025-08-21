@@ -1,9 +1,11 @@
 ---
 display: "New Jersey Jackals (5/18/25)"
 title: "New Jersey Jackals (Frontier League) @ Hinchliffe Stadium (Paterson, NJ)"
-description: "A historic stadium gets a new lease on life"
+subtitle: "A historic stadium gets a new lease on life"
 date: 12 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on May 18, 2025._
@@ -45,9 +47,3 @@ Going back to the game, talking about merch leads to what is probably the weirde
 In addition, this is the first time within these reports that I can say that I had seen the team BEFORE this year - I went to a game in 2022 when they were still at Montclair State University. I bought a few of their hats then, as well as a super old (and rather beat up) jersey (in addition to getting more hats when visiting the carnival stand in 2024 - I thought about watching the game, but the line for tickets was too long). Sadly, said 2022 visit somehow did NOT include me getting a replica championship ring from their 2019 championship, as I don’t recall seeing them being sold (this is something I've gotten from other independent teams, including one owned by the same group as the Jackals).
 
 ---
-
-<!-- ### ON DECK:
-
-As a final note on Hinchliffe, A soccer team is moving in for 2026: the latest installment of the New York Cosmos. Speaking of soccer, however...
-
---- -->

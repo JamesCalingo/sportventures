@@ -1,9 +1,11 @@
 ---
 display: "Lehigh Valley IronPigs (5/8/25)"
 title: "Lehigh Valley IronPigs (International League) @ Coca-Cola Park (Allentown, PA)"
-description: '"Well we''re living here in Allentown..."'
+subtitle: '"Well we''re living here in Allentown..."'
 date: 11 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on May 8, 2025._
@@ -19,6 +21,7 @@ Similar to ShoreTown Ballpark, the concourse wraps completely around the field, 
 There are upper level seats here, but I didn't go up to check them out since I had some not-so-fun encounters with ushers in other parks. These seats are, surprisingly, MORE expensive than seats in the lower bowl (case in point: 15 dollars got me behind home plate PLUS the ability to pivot for no additional cost).
 
 ### MERCH
+
 This is where I tell you that the game was actually my second visit here; my first visit was just a “quick” stop at the team store to check a few things out. I couldn’t see much of the park from this quick visit, but the store is down the right field line right next to the main gate (as opposed to being behind home plate like a lot of other minor league team stores).
 
 The team store here is rather large and has a VAST array of things - even if most of it is your standard fare. My first visit to this store is where I ended up at a "crossroads" moment for my hat collection when I had to decide between getting a flex fit hat like I'd been collecting since 2019 or going with a fitted hat (I collected fitted hats between 2005 and 2012, but then stopped once I realized that most of them didn't feel right). In terms of the jerseys, however, most of them were sublimated and the ones that had twill letters were glued on; throw in the fact that I found something less expensive on eBay and I wasn't super interested.
@@ -27,11 +30,5 @@ There was also a secondary merch area on the concourse that had shirts on which 
 
 ---
 
-<!-- ### ON DECK:
-
-A historic stadium gets a tenant desparate for a new start.
-
---- -->
-
-[^1]:Allentown is a touch over an hour from where I live, so I prefer earlier games to avoid having to drive home on dark roads.
+[^1]: Allentown is a touch over an hour from where I live, so I prefer earlier games to avoid having to drive home on dark roads.
 [^2]: One of the concession stands in the entry plaza was for Hershey Ice Cream, but it was closed. I'm going to assume it's due to either an equipment or staffing issue and not because the Hershey Bears were playing the Lehigh Valley Phantoms in the playoffs...

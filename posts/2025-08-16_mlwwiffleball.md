@@ -1,9 +1,11 @@
 ---
 display: "MLW Wiffle Ball (6/28/25)"
 title: "MLW Wiffle Ball (Pacific Predators vs. Midwest Mallards) @ SIUH Community Park (Staten Island, NY)"
-description: "A return to Staten Island to watch backyard sports gone semi-pro"
+subtitle: "A return to Staten Island to watch backyard sports gone semi-pro"
 date: 16 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on June 28, 2025. I was initially on the fence about how to write about this, as it’s a return to a place I’d already been to this year for a separate event; ultimately, I decided to make it its own post. As [I’ve already been here for the FerryHawks](2025-08-14_siferryhawks), I won’t talk about the facilities (for the most part), as they obviously haven’t changed since my last visit a month prior, but I’ll instead focus on the event itself. Also, as the focus was on the event itself more than its teams (after all, neither team technically calls the stadium “home”), I’ve listed the event and then the matchup in the title._
@@ -20,14 +22,14 @@ Despite a bit of haze, clear skies made the view of NYC much clearer for this ev
 
 Here’s a game-by-game breakdown of the series. Each game was three innings long, and for what it’s worth, the Mallards were the “home” team for games 1 and 3, with the Predators as the “home” team for game 2:
 
->**GAME 1**<br>
->After giving up a home run to the leadoff batter in the top of the first, the Mallards promptly took the lead in the bottom of the frame. In the second inning, the Mallards pitcher got out of a bases loaded jam and then promptly hit a 2-run home run to secure a 4-1 win.
+> **GAME 1**<br>
+> After giving up a home run to the leadoff batter in the top of the first, the Mallards promptly took the lead in the bottom of the frame. In the second inning, the Mallards pitcher got out of a bases loaded jam and then promptly hit a 2-run home run to secure a 4-1 win.
 
->**GAME 2**<br>
->It’s appropriate that the Predators pitcher was wearing number 10 - as that’s how old he looked (though he’s actually 15 - still rather young compared to his teammates). He instantly became a fan favorite, but unfortunately, he was a bit erratic throughout his outing - missing a lot and throwing a few “too fast fastballs”. Despite that, he only gave up three runs; however, those three runs were more than enough for the Mallards as they secured the series with a 3-0 shutout (using the same pitcher from game 1).
+> **GAME 2**<br>
+> It’s appropriate that the Predators pitcher was wearing number 10 - as that’s how old he looked (though he’s actually 15 - still rather young compared to his teammates). He instantly became a fan favorite, but unfortunately, he was a bit erratic throughout his outing - missing a lot and throwing a few “too fast fastballs”. Despite that, he only gave up three runs; however, those three runs were more than enough for the Mallards as they secured the series with a 3-0 shutout (using the same pitcher from game 1).
 
->**GAME 3**<br>
->This game featured two controversial calls on the bases which required review (i.e. watching back the footage on the cameras and the guy running the show donning a striped referee shirt to announce the call). This was also the closest game, as a first inning run for the Predators ended being the only thing separating the two teams after both teams scored twice in the second (with a Predator baserunner being thrown out at home); the 3-2 win allowed the Predators to avoid being swept.
+> **GAME 3**<br>
+> This game featured two controversial calls on the bases which required review (i.e. watching back the footage on the cameras and the guy running the show donning a striped referee shirt to announce the call). This was also the closest game, as a first inning run for the Predators ended being the only thing separating the two teams after both teams scored twice in the second (with a Predator baserunner being thrown out at home); the 3-2 win allowed the Predators to avoid being swept.
 
 On a somewhat unrelated note, most of the concession stands and the FerryHawks team store were closed for this event (likely to cut down on the required number of staffers). They did sell alcohol, though, which was interesting - especially at an event geared toward young children (at least more so than your standard baseball game)…
 
@@ -43,12 +45,6 @@ As you’d probably expect for something like this, merch was just sold at a tab
 Oddly, the merch table shut down (everything was packed up and moved out) when the actual series started, and while it did reopen after the series, I THINK they had run out of Mallards hats by that point (I didn’t hang around long enough to confirm, but they seemed to imply being low on those pregame and I didn’t see any afterwards). Thankfully, I had the foresight to get everything I was looking for when it was available pregame, so I was able to go home with the two team hats (plus a shirt).
 
 ---
-
-<!-- ### ON DECK:
-
-I visit one of my favorite fields in all of baseball.
-
---- -->
 
 [^1]: I feel like I should mention that the word “Wiffle” is TECHNICALLY a trademark of The Wiffle Ball, Inc.
 [^2]: I originally wrote that I thought "MLW Wiffle Ball" was the league's legal name, but in finding the video of the game I went to, I found out that there's another "MLW" on YouTube: Major League Wrestling. Interestingly, however, the "MLW Wiffle Ball" name dates back to 2010 - though there are a couple of reasons that might be.

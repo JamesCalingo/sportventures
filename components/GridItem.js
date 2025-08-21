@@ -2,6 +2,7 @@ import Link from "next/link";
 
 function GridItem(props) {
     const { slug, display, date } = props
+    
     return <div className="grid-post">
         <Link href={`/${slug}`}>
 

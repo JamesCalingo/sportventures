@@ -1,9 +1,11 @@
 ---
 display: "Scranton/Wilkes-Barre RailRiders (8/17/25)"
 title: "Scranton/Wilkes-Barre RailRiders (International League) @ PNC Field (Moosic, PA)"
-description: "Old friends and new friends in Scranton/Wilkes-Barre"
+subtitle: "Old friends and new friends in Scranton/Wilkes-Barre"
 date: 18 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on August 17, 2025 - yes, that's right, YESTERDAY. I've decided to post about it it now rather than waiting to catch up with the rest of my backlog partially because there's a GOOD chance this won't be the only time I do this (just as a heads up)._
@@ -39,12 +41,6 @@ Finally, I MUST show you one of the most horrifying caps I have ever seen a Mino
 ![The horror that is the "Baby Bombers" logo](/images/babybomber.jpg)
 
 ---
-
-<!-- ### ON DECK
-
-We go back to the 2025 "catchup" with one of the more historic stadiums in New England.
-
---- -->
 
 [^1]: In the process, the Yankees moved their AAA operations out of Columbus, OH - a city they had been in since 1979.
 [^2]: Shout out to all y’all out there who understand this reference.

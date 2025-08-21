@@ -1,9 +1,11 @@
 ---
 display: "Trenton Thunder (6/4/25)"
 title: "Trenton Thunder (MLB Draft League) @ Trenton Thunder Ballpark (Trenton, NJ)"
-description: 'AKA "How to recover after a truly shocking breakup"'
+subtitle: 'AKA "How to recover after a truly shocking breakup"'
 date: 15 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on June 4th, 2025._
@@ -20,7 +22,7 @@ One of the team's most famous traditions is a little thing known as the bat dog.
 
 In terms of concessions, HOW IN THE STARS DO YOU NOT HAVE TOMATO PIE? It’s (another) one of the team’s alt identities and easily Trenton’s most famous culinary item, yet it is nowhere to be found on any of the concession stand menus. Mind you, however, that the Lehigh Valley IronPigs also have a “Tomato Pies” alt identity, but I don’t recall seeing tomato pie there either[^2]. They do, however, have one of the more contentious food items famously from New Jersey (which is also one of their alt identities): what they call pork roll[^3]!
 
-They also feature a somewhat “local-ish” item: Chickie's and Pete’s Crabfries! Yes, it’s more a Philly thing, and yes, the IronPigs have this too, but I finally tried it here after seeing it in a few places before, and it was actually quite interesting! I guess part of this is because Trenton is closer to Philadelphia than Allentown, though the Thunder have never had a  Phillies connection due to Reading.
+They also feature a somewhat “local-ish” item: Chickie's and Pete’s Crabfries! Yes, it’s more a Philly thing, and yes, the IronPigs have this too, but I finally tried it here after seeing it in a few places before, and it was actually quite interesting! I guess part of this is because Trenton is closer to Philadelphia than Allentown, though the Thunder have never had a Phillies connection due to Reading.
 
 On a final note, Thunder ownership is hellbent on getting affiliated ball back in Trenton, so they've been working on the stadium to get it to MiLB specifications (the changes mainly deal with player facilities, so you may not notice them). How they're going to get that team without an MLB expansion I'm not sure (though I did see a strange claim that they "deserved" the Jersey Shore BlueClaws' spot in the SAL), but given that we've seen several shuffles since 2020 (plus 2025 is when MLB wanted Minor League teams to meet specifications or else), anything is possible (and there are constant rumors about what teams may end up "moving”).
 
@@ -33,12 +35,6 @@ Inside, the most notable thing I found here (i.e. something outside of the stand
 One thing that may be important if you're thinking of collecting hats (like I've been doing for 20 years): MLB Draft League teams all wear flexfit hats made by a company called Outdoor Cap (because apparently New Era fitteds are only for affiliated teams). However, not only does the team still have some smaller 5950s from the old days, but the team recently struck a deal with a manufacturer for a line of fitted hats. I wasn't really that interested in them after trying them on, however, so I stuck with getting the on field flexfits. I will note that this ended up driving a decision I made later in the year - something I'll probably talk about in a few months...
 
 ---
-
-<!-- ### ON DECK:
-
-I return to a stadium I have already visited ON THIS BLOG and dive into a YouTube "niche".
-
---- -->
 
 [^1]: This is changing in 2026, as the Fredrick Keys (the other non-NYPL team in the MLB Draft League) is moving to the South Atlantic League, and the Aberdeen IronBirds (who were an NYPL team pre-2020 before joining the SAL) are joining the Draft League.
 [^2]: Lord help us all if the Altoona Curve bring back their "Altoona Pizza" alt identity...

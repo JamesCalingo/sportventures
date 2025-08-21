@@ -1,9 +1,11 @@
 ---
 display: "Nashua Silver Knights (7/4/25 AM)"
 title: "Nashua Silver Knights (Futures League) @ Holman Stadium (Nashua, NH)"
-description: "A historic stadium with a high-ish profile team"
+subtitle: "A historic stadium with a high-ish profile team"
 date: 19 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on the morning of July 4th, 2025._
@@ -29,9 +31,3 @@ As a collegiate summer league team, merchandise isn't really one of their strong
 Alas, my hat luck continues to be just a bit off, as they only had small and XL sized hats (one of which I ended up getting), but I did get a program for free - something I hadn’t seen before here. Also, I didn’t see ANY baseballs on sale, making this one of the few stops where I didn’t buy any baseballs (the second one was this same day BTW). They also had an homage to a previous independent baseball team (the Nashua Pride) that I was interested in, but they only had small hats available...
 
 ---
-
-<!-- ### ON DECK:
-
-A return to the Cape Cod Baseball League...but not Cape Cod itself (well, sorta - I'll explain).
-
---- -->

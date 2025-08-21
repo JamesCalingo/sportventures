@@ -1,9 +1,11 @@
 ---
 display: "Wareham Gatemen (7/4/25 PM)"
 title: "Wareham Gatemen (Cape Cod Baseball League) @ Clem Spillane Field (Wareham, MA)"
-description: "Cape League baseball - off Cape Cod"
+subtitle: "Cape League baseball - off Cape Cod"
 date: 20 August 2025
 published: true
+pinned: false
+description: ""
 ---
 
 _\*This trip occurred on the evening of July 4th, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
@@ -12,7 +14,7 @@ _Also, you may have noticed that I went and added a bunch of photos to some old 
 
 Baseball has been played on and off in Wareham since 1927, but the current team was formed in 1952. The town has a pretty good history with nine league championships (most recently in 2018); however, Wareham is notable amongst the Cape League towns for…not being on Cape Cod. It’s a few miles west of the Bourne Bridge on what I like to call “mainland Massachusetts” (the cape is separated by a canal) and, being located in Plymouth County, is also not part of Cape Cod’s county (Barnstable)[^1]. As such, it doesn’t really get the visiting fans/tourists many of the other teams enjoy, and Wareham consistently ranks at or near the bottom of attendance each year.
 
-Honestly…it’s kind of a shame ‘cause I think Clem Spillane FIeld is pretty good. Not the best, mind you, but I think it’s better than others (though that also depends on your opinion on port-a-potties, as there seem to be no public bathrooms nearby). It’s a combination baseball/football configuration, but unlike Hinchliffe Stadium in New Jersey, the diamond is far enough away from the opposite sideline to have a normal distance down both lines (in this case it would be the left field line). Spillane also features the Cape League’s first ever video scoreboard; I don’t know when it was installed (it was there by 2021 though, as that was my first visit), but only one other team (the Cotuit Kettleers) have a video board (the rest use good ol’ electronic scoreboards). Notably, the field was upgraded in 2025; it previously (infamously) featured gray gravel base paths, but now has more traditional dirt.
+Honestly…it’s kind of a shame ‘cause I think Clem Spillane Field is pretty good. Not the best, mind you, but I think it’s better than others (though that also depends on your opinion on port-a-potties, as there seem to be no public bathrooms nearby). It’s a combination baseball/football configuration, but unlike Hinchliffe Stadium in New Jersey, the diamond is far enough away from the opposite sideline to have a normal distance down both lines (in this case it would be the left field line). Spillane also features the Cape League’s first ever video scoreboard; I don’t know when it was installed (it was there by 2021 though, as that was my first visit), but only one other team (the Cotuit Kettleers) have a video board (the rest use good ol’ electronic scoreboards). Notably, the field was upgraded in 2025; it previously (infamously) featured gray gravel base paths, but now has more traditional dirt.
 
 Quite possibly my favorite seating section in the entire Cape League is here: thanks to the field’s status as a combination baseball/football stadium, the bleachers used for football line the outfield (as well as one of the bullpens - for a long time it was the visitor’s bullpen, but in 2023 it became the home bullpen). "Good" outfield views in the Cape are rare, as where you do get them they’re usually at field level (or the grassy berm in Chatham), so it’s a great way to get a unique view of the game (especially as you can get a rather elevated view in Wareham).
 
@@ -38,11 +40,5 @@ As for Brewster and Falmouth, I actually intend to talk a little bit more about 
 
 ---
 
-### ON DECK:
-
-I reach WAY back into the archives for a little something special.
-
----
-
 [^1]: This also means that, based on what I remember about Cape Cod’s laws, Wareham is the only team in the league that can sell bottled water…the other teams sell water in cans.
-[^2]: The book was about the Whitecaps and their 2024 season (in which they actually missed the playoffs), and the author was visitng the park that day - I got to speak with him for a little bit as I arrived over an hour before the game started, and his presence is partially why I bought the book.
+
