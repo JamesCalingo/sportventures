@@ -25,9 +25,8 @@ const Index = ({ posts }) => {
 
       <NewestPost slug={latest.slug} display={latest.frontmatter.display} description={latest.frontmatter.description} date={latest.frontmatter.date} />
 
-      {/* <h2 className="section-header">HIGHLIGHTS</h2>
-      <p className="section-subheader">Posts I think you should check out</p>
-      <PostList pinned posts={IsLatestPinned(latest, pinned) ? pinned.slice(1) : pinned} /> */}
+      <h2 className="section-header">HIGHLIGHTS</h2>
+      <PostList pinned posts={IsLatestPinned(latest, pinned) ? pinned.slice(1) : pinned} />
 
       {seeAll ? <>
         <div className="section-header">

@@ -8,7 +8,7 @@ pinned: false
 description: ""
 ---
 
-_\*This trip occurred on August 17, 2025 - yes, that's right, YESTERDAY. I've decided to post about it it now rather than waiting to catch up with the rest of my backlog partially because there's a GOOD chance this won't be the only time I do this (just as a heads up)._
+_\*This trip occurred on August 17, 2025. I decided to post about it here rather than waiting to catch up with the rest of my backlog - partially as a sort of "preview" of how rapidly I expect non-backlog posts to be posted._
 
 _Also, I’m sure at least some of you out there understand what I’m referencing in the subtitle - I couldn’t stop thinking about it after hearing how the “Barre” in Wilkes-Barre is pronounced…_
 

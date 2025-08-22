@@ -19,6 +19,7 @@ function Layout({ children, pageTitle }) {
           <div className="links">
             {pageTitle !== "About me" &&<Link href={"/about"}>About me</Link>}
             {pageTitle !== "Sportventures" &&<Link href={"/"}>Back to home</Link>}
+            <Link href={"https://overclocked-overthoughts.netlify.app"} target="blank">My "main" blog</Link>
           </div>
 
           <p>All content © James Calingo</p>
