@@ -1,21 +1,13 @@
-import { useState } from "react";
-
+import Link from "next/link";
 import { posts } from "../posts";
 import PostList from "../components/PostList";
 import NewestPost from "../components/NewestPost";
 import Layout from "../components/Layout";
+import { recents, latest } from "../utils/utils";
+
+const Index = () => {
 
 
-const Index = ({ posts }) => {
-  const pinned = posts.filter((post) => post.frontmatter.pinned === true).reverse();
-  const published = posts.filter((post) => post.frontmatter.published === true).reverse();
-  const latest = published[0]
-
-  function IsLatestPinned(post, array) {
-    return post.frontmatter.title === array[0].frontmatter.title
-  }
-
-  const [seeAll, setSeeAll] = useState(true);
   return (
     <Layout pageTitle="Sportventures">
       <div id="title">
@@ -25,19 +17,14 @@ const Index = ({ posts }) => {
 
       <NewestPost slug={latest.slug} display={latest.frontmatter.display} description={latest.frontmatter.description} date={latest.frontmatter.date} />
 
-      <h2 className="section-header">HIGHLIGHTS</h2>
-      <PostList pinned posts={IsLatestPinned(latest, pinned) ? pinned.slice(1) : pinned} />
+      <div className="section-header">
+        <span>RECENT POSTS</span>
+      </div>
+      <PostList pinned posts={recents.slice(1)} />
+      <div className="section-header">
+        <Link href="/allposts">See All Posts</Link>
+      </div>
 
-      {seeAll ? <>
-        <div className="section-header">
-          <span>OLDER POSTS</span>
-        </div>
-        <PostList posts={published.slice(1)} />
-      </> :
-        <div id="see-all-container">
-          <button id="see-all" onClick={() => setSeeAll(true)}>See All Posts</button>
-        </div>
-      }
     </Layout>
   );
 };

@@ -5,7 +5,6 @@ subtitle: "A historic stadium gets a new lease on life"
 date: 12 August 2025
 published: true
 pinned: false
-description: ""
 ---
 
 _\*This trip occurred on May 18, 2025._

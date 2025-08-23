@@ -5,7 +5,6 @@ subtitle: "Cape League baseball - off Cape Cod"
 date: 20 August 2025
 published: true
 pinned: false
-description: ""
 ---
 
 _\*This trip occurred on the evening of July 4th, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._

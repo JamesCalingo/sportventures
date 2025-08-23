@@ -5,7 +5,6 @@ subtitle: "Baseball in Brooklyn is BACK - Back in the New York Groove"
 date: 9 August 2025
 published: true
 pinned: false
-description: ""
 ---
 
 _\*This trip occurred on April 30, 2025._

@@ -5,7 +5,6 @@ subtitle: "A historic stadium with a high-ish profile team"
 date: 19 August 2025
 published: true
 pinned: false
-description: ""
 ---
 
 _\*This trip occurred on the morning of July 4th, 2025._

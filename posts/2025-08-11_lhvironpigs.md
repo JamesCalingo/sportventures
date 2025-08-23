@@ -5,7 +5,6 @@ subtitle: '"Well we''re living here in Allentown..."'
 date: 11 August 2025
 published: true
 pinned: false
-description: ""
 ---
 
 _\*This trip occurred on May 8, 2025._

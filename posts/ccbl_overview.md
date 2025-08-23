@@ -5,7 +5,6 @@ subtitle: ""
 date:
 published: false
 pinned: false
-description: ""
 ---
 
 _The Cape Cod Baseball League (also known as the Cape League or CCBL) is one of my favorite baseball leagues as all of its teams are so close to one another (plus a much BIGGER reason I'll get into in a sec), so I figured I should give you a big picture view of the league._

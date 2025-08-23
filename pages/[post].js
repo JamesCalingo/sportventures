@@ -11,7 +11,7 @@ function Post({ frontmatter, body }) {
   if (!frontmatter || !Object.keys(frontmatter).length) return <Error500 />
 
   return (
-    <Layout pageTitle={`${frontmatter.display} - Sportventures`}>
+    <Layout pageTitle={ frontmatter.display ? `${frontmatter.display} - Sportventures` : `${frontmatter.title} - Sportventures`}>
       <div>
         <article>
           <h1 className="title">{frontmatter.title}</h1>

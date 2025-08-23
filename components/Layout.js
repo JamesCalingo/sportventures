@@ -14,11 +14,13 @@ function Layout({ children, pageTitle }) {
           <Link href={"/"}>Sportventures</Link>
         </header>
         }
-        <main>{children}</main>
+        <main>
+          {children}
+        </main>
         <footer>
           <div className="links">
-            {pageTitle !== "About me" &&<Link href={"/about"}>About me</Link>}
-            {pageTitle !== "Sportventures" &&<Link href={"/"}>Back to home</Link>}
+            {pageTitle !== "About me" && <Link href={"/about"}>About me</Link>}
+            {pageTitle !== "Sportventures" && <Link href={"/"}>Back to home</Link>}
             <Link href={"https://overclocked-overthoughts.netlify.app"} target="blank">My "main" blog</Link>
           </div>
 

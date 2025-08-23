@@ -58,7 +58,7 @@ sup a,
   text-decoration: none;
 }
 
-article a:hover, #newest a:hover  {
+article a:hover  {
   color: green
 }
 
@@ -113,6 +113,7 @@ article a:hover, #newest a:hover  {
   border: 4px solid green;
   border-radius: 5px;
   padding: 10px;
+
 }
 
 .grid-post a{
@@ -134,7 +135,11 @@ article a:hover, #newest a:hover  {
 }
 
 .pinned a {
-  justify-content: space-evenly;
+  display: block
+}
+
+.pinned .list-title {
+  margin: 20px;
 }
 
 .section-header, .section-subheader {
@@ -228,6 +233,10 @@ article a:hover, #newest a:hover  {
 
   article {
     width: 90%;
+  }
+
+.pinned {
+    margin: 20px 5px;
   }
 
   #blog_title {

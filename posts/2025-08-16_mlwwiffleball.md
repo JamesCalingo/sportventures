@@ -5,7 +5,6 @@ subtitle: "A return to Staten Island to watch backyard sports gone semi-pro"
 date: 16 August 2025
 published: true
 pinned: false
-description: ""
 ---
 
 _\*This trip occurred on June 28, 2025. I was initially on the fence about how to write about this, as it’s a return to a place I’d already been to this year for a separate event; ultimately, I decided to make it its own post. As [I’ve already been here for the FerryHawks](2025-08-14_siferryhawks), I won’t talk about the facilities (for the most part), as they obviously haven’t changed since my last visit a month prior, but I’ll instead focus on the event itself. Also, as the focus was on the event itself more than its teams (after all, neither team technically calls the stadium “home”), I’ve listed the event and then the matchup in the title._

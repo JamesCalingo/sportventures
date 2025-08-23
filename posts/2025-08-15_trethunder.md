@@ -5,7 +5,6 @@ subtitle: 'AKA "How to recover after a truly shocking breakup"'
 date: 15 August 2025
 published: true
 pinned: false
-description: ""
 ---
 
 _\*This trip occurred on June 4th, 2025._
