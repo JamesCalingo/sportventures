@@ -52,6 +52,8 @@ Some time after fans start taking their seats, a pregame show occurs featuring a
 
 ![A photo of Banana Ball being played at Fenway Park](/images/bananaballfenway.jpg)
 
+<figcaption>A photo of Banana Ball being played at Fenway Park</figcaption>
+
 There’s loud music blaring, various players and characters dancing and singing, the fans dancing and singing, a Lion King reference, a Suite Life of Zack and Cody reference (fitting since that show was set in Boston), track one from the Kangaroo Jack soundtrack (don’t ask how I know that), various events going on involving fans, and other things I don’t completely remember because there was just so much going on!
 
 Oh, right, and there’s a game being played.

@@ -11,6 +11,8 @@ _\*This trip occurred on April 30, 2025._
 
 ![A beautiful day at Maimonides Park in Brooklyn](/images/brooklyn.jpeg)
 
+<figcaption>A beautiful day at Maimonides Park in Brooklyn</figcaption>
+
 If you're not familiar with the history of baseball in Brooklyn, here's an intensely abridged version:
 
 Originally founded in 1883, the Brooklyn Base Ball Club (as they were officially known) went through a slew of (unofficial) nicknames over the course of many, many decades before one of them - "Trolley Dodgers" - stuck; this was then shortened to just "Dodgers". They weren't actually all that successful believe it or not (the Dodgers franchise has the most World Series losses all time), but they are known for two significant things:

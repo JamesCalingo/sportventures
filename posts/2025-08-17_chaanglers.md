@@ -9,7 +9,9 @@ pinned: false
 
 _\*This trip occurred on July 3, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
 
-![Veterans Field in Chatam as viewed from the nearby street](/images/chatham.jpeg)
+![Veterans Field in Chatam as viewed from the nearby street](/images/chatham.jpeg)<br>
+
+<figcaption>Veterans Field in Chatam as viewed from the nearby street</figcaption>
 
 Chatham, MA was one of the four founding members of the Cape Cod Baseball League in 1923. Four years later, needing a place to play, Veterans Field was built, and has hosted baseball ever since (though strangely, the team claimed to have played “100 Years of Baseball at Veterans Field” in 2023). They’ve won five league titles, but their last title is starting to collect a lot of dust as it came in 1998 - a team featuring players whose MLB careers ended in 2010.
 

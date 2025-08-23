@@ -15,7 +15,7 @@ const Index = () => {
         <p id="blog_tag"></p>
       </div>
 
-      <NewestPost slug={latest.slug} display={latest.frontmatter.display} description={latest.frontmatter.description} date={latest.frontmatter.date} />
+      <NewestPost slug={latest.slug} display={latest.frontmatter.display} subtitle={latest.frontmatter.subtitle} date={latest.frontmatter.date} />
 
       <div className="section-header">
         <span>RECENT POSTS</span>

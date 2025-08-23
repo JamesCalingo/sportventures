@@ -62,6 +62,13 @@ article a:hover  {
   color: green
 }
 
+figcaption {
+  margin-top: -20px;
+  margin-bottom: 20px;
+  font-style: italic;
+  font-size: 14pt
+}
+
 .links {
   display: flex;
   justify-content: center;

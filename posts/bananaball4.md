@@ -2,10 +2,16 @@
 display: ""
 title: "Banana Ball Conclusions"
 subtitle: "My personal thoughts on Banana Ball"
-date: 
+date:
 published: false
 pinned: false
 ---
+
+_This is the final part of a multi-part post. You can easily access the other parts here:_
+
+- [PART 1](2025-08-22_bananaball)
+- [PART 2](bananaball2)
+- [PART 3](bananaball3)
 
 So now that I've spent SO MUCH TIME discussing Banana Ball, what do I think? Is it truly the next greatest thing in baseball, or a giant waste of time and energy?
 
@@ -33,7 +39,7 @@ Fans First.
 
 Baseball is a sport that, like it or not, is becoming more driven by money and control. A lot of fans can’t go to MLB games anymore because the price for tickets is far too high to justify and/or the commitments aren’t worth it anymore (especially with teams raising prices every year and ticket scalpers prowling about). The minor leagues were changed drastically in 2020 in what was largely viewed as the beginnings of a hostile takeover by MLB (after all, many markets were left without affiliated teams, and the ones that stayed now have to upgrade their facilities or lose affiliation). There’s also an organization that has been buying up minor league teams left and right; as of this writing, they own at least one affiliate of 23 of MLB”s 30 teams. While their eventual goal for their operations is unknown, fears about their true intentions abound.
 
-College baseball is not immune to the effects of this either, and that’s not just because NIL is changing the landscape. Coaches and players are dancing around injury concerns, and this combined with a power struggle between the summer leagues (where making money is near impossible) and the powers that be has affected that landscape significantly (case in point: the Cape Cod Baseball League shortened its schedule recently from 44 to 40 games and feels constantly in need of new host families for its players).
+College baseball is not immune to the effects of this either, and that’s not just because NIL is changing the landscape. Coaches and players are dancing around injury concerns, and this combined with a power struggle between the summer leagues (where players typically use wooden bats for the first time) and the powers that be has affected that landscape significantly. I saw an article the day before this posted about how the summer leagues are facing declining participation, as college coaches are telling their players to stay home and condition over the summer - and the ones that aren't are going to the summer leagues looking to sign transfer portal players, and then have THOSE players go home to condition.
 
 All of these issues, of course, are minor to the root issue facing baseball: its flagging popularity. Despite steps to improve the pace of play, it is still viewed as a slow game that, outside of small moments of excitement, is largely boring. The ends of many games are often marked by empty seats as fans have already left due to it being 10:00 PM on a worknight (this is why I think the two hour clock is important). By trying to make the fan experience as amazing as possible within a reasonable time frame, the Bananas are hoping to make people realize that baseball can be an interesting and fun sport. Is Banana Ball perfect? No - just look at how ticket selling has been going (i.e. WAY TOO well). However, the Bananas are committed to getting fans in at the price they think is right, trying to avoid having scalpers ruin the market, and make sure that their dedicated fans can get to games (or “shows” as the team refers to them) and have a good time.
 
@@ -43,16 +49,6 @@ Also, shout out to the two other people I saw while I was leaving the game weari
 
 P.S.: Apparently another CPL team has seen the Bananas success and tried branching out as well, as the Tri-City Chili Peppers (located just south of Richmond, VA) recently introduced something called “Cosmic Baseball”. While the game is more or less just traditional baseball, what’s unique is that it’s played under black lights once it gets dark out. I almost tried to watch this in Allentown, PA, but getting in involves…a lottery. That I never entered.
 
----
-
-If you've actually somehow made it all the way here, thank you. I realize that this was A TON to have to sit through (assuming you read it all and were not just jumping to my conclusions), but I honestly enjoyed doing this super deep dive into the Bananas and I'm hoping I can do something similar to this again (though given just how unique the ticket situation is, I don't know when that will be).
-
-- [PART 1](2025-08-22_bananaball)
-- [PART 2](bananaball2)
-- [PART 3](bananaball3)
-
-### ON DECK
-
-Something a LOT shorter in terms of word count - but not in terms of history.
+_If you've actually somehow made it all the way here, thank you. I realize that this was A TON to have to sit through (assuming you read it all and were not just jumping to my conclusions), but I honestly enjoyed doing this super deep dive into the Bananas and I'm hoping I can do something similar to this again (though given just how unique the ticket situation is, I don't know when that will be)._
 
 ---

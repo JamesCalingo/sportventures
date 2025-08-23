@@ -11,6 +11,8 @@ _\*This trip occurred on the morning of July 4th, 2025._
 
 ![A photo I took ON THE FIELD at Holman Stadium back in 2022](/images/nashua.jpeg)
 
+<figcaption>A photo I took ON THE FIELD at Holman Stadium back in 2022</figcaption>
+
 Holman Stadium is quite historic: opened in 1937, it's seen a lot of teams and a lot of leagues come and go - from affiliated minor league teams to independent leagues. In 2011, the (then) newly created Futures Collegiate Baseball League became the newest tenant with the Nashua Silver Knights, and they've been there ever since. In fact, they're the most successful team in the Futures League, having won the most championships (six as of 2024) and being the only team from the original FCBL season to still be in the league.
 
 The stadium is similar to the one in Hudson Valley - you enter under a grandstand that blocks the field from the entrance, but once you get inside, the concourse (or, to be more accurate, the main walkway) extends past the grandstand. The seating areas are split into upper and lower areas like Trenton and Somerset, but one thing that should be noted if you’re looking for the “best” views: there’s an aisle right behind home plate (at least in the upper seating bowl), so you can’t really get a "head-on" view of the pitcher without standing (unless you’re in the press box). Also, most of the lower bowl is in the sun during day games, so it can be pretty hot if you’re sitting there (even on a day when it was “cool” like this one). I honestly really wish I could say more about this place, but I really don’t know what else there is to say (remember, the stadium is approaching 90 years old).

@@ -39,7 +39,9 @@ The K Club is the Bananas’ “superfan” group, which comes with a lot of per
 
 On the surface, the process seems decently simplistic. There’s a page on the Bananas’ website where you can join their “K Club Interest List”, and through most of the year, the Bananas accept signups for this list. At some point in September (I think), sign ups close - as indicated by this message[^3]:
 
-![A message indicating that K Club signups are closed](/images/kclubmessage.png)
+![A screenshot from the K Club website indicating that K Club signups are closed. It reads "The K Club Interest List is now CLOSED for the 2025 season. Invitations have been sent to those on the 2025 interest list with information on how to join, check your email for info! Check back in October to join the 2026 interest list."](/images/kclubmessage.png)
+
+<figcaption>A screenshot from the K Club website indicating that K Club signups are closed</figcaption>
 
 Said invitation is a request from the team for you to verify some of your account details on their ticketing website. Once you do that, you are then given a window during which you pay a membership fee (all of this being similar to buying regular tickets), and then once you do that, you’re in! Once you’re in the K Club, you don’t need to join the interest list for the following years; the only thing you need to do is pay the membership fee each year. You are also allowed to leave the K Club if you sense you won’t be buying Banana Ball tickets, but I’m not sure what that process is; I did find a page for a “Do Not Renew” form, but there was no form when I checked it (there’s also the fact that I don’t expect too many people not renewing for reasons I'll get into soon).
 
