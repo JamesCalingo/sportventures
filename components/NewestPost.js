@@ -11,7 +11,8 @@ function NewestPost(props) {
                     {display}
                 </span>
             </div>
-            <p className="list-date">{subtitle}<br/>{new Date(date).toLocaleDateString()}</p>
+            <em>{subtitle}</em>
+            <p className="list-date">{new Date(date).toLocaleDateString()}</p>
         </Link>
 
     </div>

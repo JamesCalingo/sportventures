@@ -32,11 +32,14 @@ article {
   margin: auto;
 }
 
-article h3, img {
+article h3,
+img {
   margin-bottom: 0;
 }
 
-article p, em, li {
+article p,
+em,
+li {
   line-height: 1.6;
   margin-top: 0;
   margin-bottom: 20px;
@@ -58,7 +61,7 @@ sup a,
   text-decoration: none;
 }
 
-article a:hover  {
+article a:hover {
   color: green
 }
 
@@ -107,6 +110,10 @@ figcaption {
   margin-bottom: 40px;
 }
 
+#newest .section-header {
+  margin-top: 10px;
+}
+
 #newest-post {
   text-align: center;
   font-weight: bold;
@@ -123,7 +130,7 @@ figcaption {
 
 }
 
-.grid-post a{
+.grid-post a {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -131,7 +138,7 @@ figcaption {
   text-decoration: none;
 }
 
-.grid-post:hover{
+.grid-post:hover {
   background: green;
   border-color: orange;
   color: white;
@@ -149,7 +156,8 @@ figcaption {
   margin: 20px;
 }
 
-.section-header, .section-subheader {
+.section-header,
+.section-subheader {
   text-align: center;
   font-weight: bold;
   margin: 20px 0;
@@ -174,7 +182,7 @@ figcaption {
   margin-bottom: 50px;
 }
 
- #newest .list-date {
+#newest .list-date {
   font-style: italic;
   text-align: center;
   margin-top: 0px;
@@ -227,7 +235,7 @@ figcaption {
 
   .grid-post {
     background: #424242;
- 
+
   }
 
 }
@@ -242,7 +250,7 @@ figcaption {
     width: 90%;
   }
 
-.pinned {
+  .pinned {
     margin: 20px 5px;
   }
 
@@ -254,6 +262,10 @@ figcaption {
     font-size: 24pt;
   }
 
+  #newest em {
+    display: none;
+  }
+
 }
 
 @media only screen and (max-width: 500px) {
@@ -263,6 +275,10 @@ figcaption {
 
   .pinned {
     height: auto;
+  }
+
+  .grid-post em {
+    display: none;
   }
 
   #posts-list {
