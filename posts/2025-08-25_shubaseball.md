@@ -27,7 +27,7 @@ I don’t remember much about the game except that I arrived late, had to leave 
 
 ### MERCH
 
-The one drawback of being a smaller program playing on a smaller, on campus field: there’s no dedicated merchandise or concessions sold at the game per se[^1]. However, the campus bookstore is close by and open to the public, so if you want to show your “Pirate Pride”, you still can! I'm not sure where you can get food however...
+The one drawback of being a smaller program playing on a smaller, on campus field: there’s no dedicated merchandise or concessions sold at the game per se[^2]. However, the campus bookstore is close by and open to the public, so if you want to show your “Pirate Pride”, you still can! I'm not sure where you can get food however...
 
 I ended up going to said bookstore after leaving the game, but didn’t find anything I was really interested in. It’s got your standard college bookstore fare, but again, basketball is their main sport, so most of their other sports don’t get the same level of attention (in terms of sport specific hats/jerseys). There are New Era 5950s available if that's your thing, however.
 
@@ -40,4 +40,4 @@ NOW I've caught up with the baseball posts...but like I said earlier, there's mo
 ---
 
 [^1]: The College World Series is the NCAA's baseball championship event.
-[^2]: I actually went to a Northeastern Huskies game once, and there was a small merch table there. A large part of that was the fact that the stadium was several miles from campus in a residential part of another city entirely, though.
+[^2]: I actually went to a Northeastern Huskies baseball game once, and there was a small merch table there. A large part of that existing was the fact that the stadium was several miles from campus in a residential part of another city entirely, though.
