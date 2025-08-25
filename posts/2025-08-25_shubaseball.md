@@ -19,7 +19,7 @@ Anyway, now that I've gotten all of THAT preamble out of the way, let's get into
 
 Seton Hall University was the first Catholic University in the United States established by a diocese/archdiocese (in this case, the Archdiocese of Newark). In a way, it’s a special place for me and my friends, as my brother came here for a few years before transferring, and one of my closest friends spent six years here in an undergrad/grad program.
 
-While the university is probably best known for their basketball program (being a member of the basketball powerhouse that is the Big East), their baseball program (i.e. the one I saw for this trip) has a pretty interesting history. They have a few “minor” titles to their name (i.e. conference championships and College World Series appearances), but more notably, Baseball Hall of Famer Craig Biggio played for the team in his college days (alongside guys such as former MVP Mo Vaughn).
+While the university is probably best known for their basketball program (being a member of the basketball powerhouse that is the Big East), their baseball program (i.e. the one I saw for this trip) has a pretty interesting history. They have a few “minor” titles to their name (i.e. conference championships and College World Series[^1] appearances), but more notably, Baseball Hall of Famer Craig Biggio played for the team in his college days (alongside guys such as former MVP Mo Vaughn).
 
 There’s not much to say about the field - it’s part of a multisport field on campus that also hosts soccer (and also hosted American Football before that program got cut). However, the nice thing is that admission to most Seton Hall sports (i.e. NOT basketball) is free, and parking is too! There’s a dedicated seating area around the infield, which gives the game a much more intimate feel (similar to a Cape League game). Similar to Clem Spillane Field in Wareham, you can also get a good view of the game from the main bleachers for soccer, which essentially serve as outfield seats (I believe they are also a bit less crowded/more shaded as well). Finally, the parking garage is close enough to the field that you could feasibly watch the game from the upper levels of it (though I believe the university asks that fans not do this as it’s kinda unsafe).
 
@@ -35,8 +35,9 @@ I ended up going to said bookstore after leaving the game, but didn’t find any
 
 ### ON DECK:
 
-NOW I've caught up with the baseball posts...but like I said earlier, there's more to life than baseball. Tomorrow, I'll get into something I saw live for the first time in 2025 (which, sadly, may be MUCH HARDER to catch live soon).
+NOW I've caught up with the baseball posts...but like I said earlier, there's more to life than baseball. Tomorrow, we stay in school - but switch to another spring sport.
 
 ---
 
-[^1]: I actually went to a Northeastern Huskies game once, and there was a small merch table there. A large part of that was the fact that the stadium was several miles from campus in a residential part of another city entirely, though.
+[^1]: The College World Series is the NCAA's baseball championship event.
+[^2]: I actually went to a Northeastern Huskies game once, and there was a small merch table there. A large part of that was the fact that the stadium was several miles from campus in a residential part of another city entirely, though.
