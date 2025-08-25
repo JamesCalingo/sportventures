@@ -2,7 +2,7 @@
 display: "Reading Fightin Phils (7/22/25)"
 title: "Reading Fightin Phils (Eastern League) @ FirstEnergy Stadium (Reading, PA)"
 subtitle: 'When a place calls itself "Baseballtown", you have to check it out'
-date: 25 August 2025
+date: 24 August 2025
 published: true
 pinned: false
 ---
@@ -58,12 +58,6 @@ I went a little crazy on hats here - ending up going home with SIX of them:
 I didn’t get a jersey as they’re sublimated (Go “Fightin in Phils”!), but the team did offer something that is VERY uncommon: free customization! Most teams charge for this, so that’s another thing that sets the R-Phils apart (even if the customization isn’t the highest quality).
 
 In terms of other things, I got a BallQube to display the official MiLB baseball I got in Brooklyn a while ago, plus I also ended up getting a Phillies City Connect from a store near Allentown on my way home from the game. I did see a t-shirt with “Baseballtown” on it that I thought about, but I didn’t like it enough to justify getting it. There was also a hat with a Keystone logo on it I wanted, but it was not available in my size and there were no flexfits either…
-
----
-
-### ON DECK:
-
-I've caught up with the 2025 baseball posts...almost. There's another baseball game I went to in 2025, and I'll talk about it tomorrow.
 
 ---
 

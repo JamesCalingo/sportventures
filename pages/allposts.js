@@ -3,6 +3,7 @@ import PostList from "../components/PostList";
 import Layout from "../components/Layout";
 
 const AllPosts = ({ posts }) => {
+    // posts.forEach(post => console.log(post.slug));
 
     const published = posts.filter((post) => post.frontmatter.published === true).reverse();
 

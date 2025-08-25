@@ -1,12 +1,12 @@
 import GridItem from "./GridItem";
-import PinnedItem from "./PinnedItem";
+import PinnedItem from "./NewestListItem";
 
 function PostList(props) {
-    const { posts, pinned } = props;
+    const { posts, newest } = props;
 
     if (!posts || !posts.length) return <p>Nothing to see here...</p>;
 
-    const id = pinned ? "pinned-list" : "posts-list";
+    const id = newest ? "newest-list" : "posts-list";
 
     return (
         <div id={id}>
@@ -15,9 +15,9 @@ function PostList(props) {
                 //TODO: paginate this list
                 .map((post, index) => {
                     const { frontmatter, slug } = post;
-                    const { display, date, subtitle } = frontmatter;
+                    const { display, date, subtitle, pinned } = frontmatter;
 
-                    return pinned ? <PinnedItem key={index} slug={slug} display={display} date={date} subtitle={subtitle} /> : (<GridItem key={index} slug={slug} display={display} date={date} />
+                    return newest ? <PinnedItem key={index} slug={slug} display={display} date={date} subtitle={subtitle} /> : (<GridItem key={index} slug={slug} display={display} date={date} pinned={pinned} />
                     );
                 })}
 

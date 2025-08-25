@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { posts } from "../posts";
+// import { posts } from "../posts";
 import PostList from "../components/PostList";
 import NewestPost from "../components/NewestPost";
 import Layout from "../components/Layout";
@@ -20,7 +20,7 @@ const Index = () => {
       <div className="section-header">
         <span>RECENT POSTS</span>
       </div>
-      <PostList pinned posts={recents.slice(1)} />
+      <PostList newest posts={recents.slice(1)} />
       <div className="section-header">
         <Link href="/allposts">See All Posts</Link>
       </div>
@@ -30,7 +30,7 @@ const Index = () => {
 };
 
 export async function getStaticProps() {
-  const postsData = posts();
+  const postsData = recents;
 
   return {
     props: {
