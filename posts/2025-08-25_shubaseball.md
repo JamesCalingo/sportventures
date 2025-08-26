@@ -33,11 +33,5 @@ I ended up going to said bookstore after leaving the game, but didn’t find any
 
 ---
 
-### ON DECK:
-
-NOW I've caught up with the baseball posts...but like I said earlier, there's more to life than baseball. Tomorrow, we stay in school - but switch to another spring sport.
-
----
-
-[^1]: The College World Series is the NCAA's baseball championship event.
+[^1]: The College World Series is the NCAA's baseball championship event, held every year in Omaha, NE.
 [^2]: I actually went to a Northeastern Huskies baseball game once, and there was a small merch table there. A large part of that existing was the fact that the stadium was several miles from campus in a residential part of another city entirely, though.

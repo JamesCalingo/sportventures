@@ -44,5 +44,3 @@ The team store here is rather small-ish, but it's got your standard selection of
 I also found something rather wild: Mets and Yankees hats! Why they’d have those (especially given their relationship to the Yankees) is a REALLY good question…
 
 Finally, I feel like I should probably mention the Atlantic League’s official baseball: it’s not only unique in that the Atlantic League manufactures its own baseballs (their brand is called “Drake”), but it also features red and blue stitching as opposed to most leagues having only red stitches. I bought one from the team store and contemplated buying another before scooping the foul ball in game 2, which leads to another unique feature: the league added QR codes to each baseball in 2025! I’m not sure exactly what the QR code is supposed to do, but the one I got leads to the Atlantic League’s website.
-
----

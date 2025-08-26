@@ -49,6 +49,8 @@ Also, shout out to the two other people I saw while I was leaving the game weari
 
 P.S.: Apparently another CPL team has seen the Bananas success and tried branching out as well, as the Tri-City Chili Peppers (located just south of Richmond, VA) recently introduced something called “Cosmic Baseball”. While the game is more or less just traditional baseball, what’s unique is that it’s played under black lights once it gets dark out. I almost tried to watch this in Allentown, PA, but getting in involves…a lottery. That I never entered.
 
+---
+
 _If you've actually somehow made it all the way here, thank you. I realize that this was A TON to have to sit through (assuming you read it all and were not just jumping to my conclusions), but I honestly enjoyed doing this super deep dive into the Bananas and I'm hoping I can do something similar to this again (though given just how unique the ticket situation is, I don't know when that will be)._
 
----
+<!-- _While this is the end of the Fenway chapter, it's not quite the end of the Banana Ball story. A few other things happened after this game related to the Bananas that I ended up writing about as well: [EPILOGUE](bananaball5)_ -->

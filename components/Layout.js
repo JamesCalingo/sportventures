@@ -19,9 +19,9 @@ function Layout({ children, pageTitle }) {
         </main>
         <footer>
           <div className="links">
-            {pageTitle !== "About me" && <Link href={"/about"}>About me</Link>}
+            {pageTitle !== "About this site - Sportsventures" && <Link href={"/about"}>About this site</Link>}
             {pageTitle !== "Sportventures" && <Link href={"/"}>Back to home</Link>}
-            <Link href={"https://overclocked-overthoughts.netlify.app"} target="blank">My "main" blog</Link>
+             {pageTitle !== "About this site - Sportsventures" && <Link href={"https://overclocked-overthoughts.netlify.app"} target="blank">My "main" blog</Link>}
           </div>
 
           <p>All content © James Calingo</p>
