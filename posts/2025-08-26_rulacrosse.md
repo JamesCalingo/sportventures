@@ -30,11 +30,5 @@ If you’re looking for more Rutgers merch, however, the school’s bookstore an
 
 ---
 
-### ON DECK
-
-I'm not done with lacrosse. Tomorrow, we go to the "great indoors" to check out the "shrunk down" version of the sport I saw live for the first time in 2025 (which, sadly, may be MUCH HARDER to catch live soon).
-
----
-
 [^1]: I went to Rutgers Newark - a satellite campus of Rutgers, though by and large this distinction is insignificant (there’s another satellite in Camden). We have our own athletics teams, but they’re in Division III.
 [^2]: Fun fact: my high school’s lacrosse team has New Jersey’s longest winning streak - they lost the first game of my junior year, but then didn’t lose again until after the end of my first spring semester of college. I don’t know how it ranks nationally, but it’s up there.

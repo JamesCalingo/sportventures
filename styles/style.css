@@ -234,6 +234,10 @@ figcaption {
     color: #e0e0e0;
   }
 
+  hr {
+    border-color: #555;
+  }
+
   .grid-post {
     background: #424242;
 

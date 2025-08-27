@@ -2,6 +2,8 @@ import Head from "next/head";
 import Link from "next/link"
 
 function Layout({ children, pageTitle }) {
+
+  const nonBlogPosts = ["Sportventures", "About this site - Sportventures", "All Posts - Sportventures", "404 - Sportventures", "500 - Sportventures"]
   return (
     <>
       <Head>
@@ -18,6 +20,7 @@ function Layout({ children, pageTitle }) {
           {children}
         </main>
         <footer>
+          {!nonBlogPosts.includes(pageTitle) && <hr />}
           <div className="links">
             {pageTitle !== "About this site - Sportsventures" && <Link href={"/about"}>About this site</Link>}
             {pageTitle !== "Sportventures" && <Link href={"/"}>Back to home</Link>}
