@@ -22,9 +22,9 @@ function Layout({ children, pageTitle }) {
         <footer>
           {!nonBlogPosts.includes(pageTitle) && <hr />}
           <div className="links">
-            {pageTitle !== "About this site - Sportsventures" && <Link href={"/about"}>About this site</Link>}
+            {pageTitle !== "About this site - Sportventures" && <Link href={"/about"}>About this site</Link>}
             {pageTitle !== "Sportventures" && <Link href={"/"}>Back to home</Link>}
-             {pageTitle !== "About this site - Sportsventures" && <Link href={"https://overclocked-overthoughts.netlify.app"} target="blank">My "main" blog</Link>}
+             {pageTitle !== "About this site - Sportventures" && <Link href={"https://overclocked-overthoughts.netlify.app"} target="blank">My "main" blog</Link>}
           </div>
 
           <p>All content © James Calingo</p>
