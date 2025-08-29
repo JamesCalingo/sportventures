@@ -9,7 +9,8 @@ pinned: false
 
 _\*This trip occurred on the evening of July 4th, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
 
-_Also, you may have noticed that I went and added a bunch of photos to some old posts. I do have some photos of Wareham that I could put here, but they're from 2022 (pre-renovation) and I don't think it's fair as the stadium has changed fairly significantly since then._
+![A photo of Clem Spillane Field from 2022. Since then, massive renovations have taken place; notably, the bleachers on the third base (right) side of this photo have been removed.](/images/wareham2022.jpeg)
+<figcaption>A photo of Clem Spillane Field from 2022. Since then, massive renovations have taken place; notably, the bleachers on the third base (right) side of this photo have been removed.</figcaption>
 
 Baseball has been played on and off in Wareham since 1927, but the current team was formed in 1952. The town has a pretty good history with nine league championships (most recently in 2018); however, Wareham is notable amongst the Cape League towns for…not being on Cape Cod. It’s a few miles west of the Bourne Bridge on what I like to call “mainland Massachusetts” (the cape is separated by a canal) and, being located in Plymouth County, is also not part of Cape Cod’s county (Barnstable)[^1]. As such, it doesn’t really get the visiting fans/tourists many of the other teams enjoy, and Wareham consistently ranks at or near the bottom of attendance each year.
 

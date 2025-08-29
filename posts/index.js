@@ -4,7 +4,6 @@ export const posts = () =>
   ((context) => {
     const keys = context.keys();
     const documents = keys.map(context);
-
     return keys
       .map((key, index) => {
         const slug = key.replace(/^.*[\\\/]/, "").slice(0, -3);
