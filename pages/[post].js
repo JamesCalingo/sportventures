@@ -16,7 +16,11 @@ function Post({ frontmatter, body }) {
         <article>
           <h1 className="title">{frontmatter.title}</h1>
           <h2 className="description">{frontmatter.subtitle}</h2>
-          <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString()}</b></em>
+          <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString(undefined, {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+          })}</b></em>
           <Markdown
             rehypePlugins={[rehypeRaw]}
             remarkPlugins={[remarkGfm, remarkRehype]}
