@@ -33,7 +33,7 @@ The game was…mildly interesting: the #DamnScrankees won off the back of one si
 
 There's...honestly not much to say about merch. The store is decently sized (though it feels like it's the smallest among the AAA stadiums I've been to), and doesn't really stray too far from what you'd expect a minor league baseball team to have (outside of them having a few adjustable hats for non-Yankee MLB teams hidden in a shelf - including the Cleveland [REDACTED IN 2022]).
 
-Most of the jerseys were sublimated, and the ones that weren't were mainly fashion jerseys. There was one that I was at least mildly interested in, but I didn't like that it was kinda short and it had the number 99 on it (stupid sexy Aaron Judge...).
+Most of the jerseys were sublimated (and also featured velcro closures, which I don't like as it makes it hard to wear the jersey open without potentially damaging your shirt), and the ones that weren't were mainly fashion jerseys. There was one that I was at least mildly interested in, but I didn't like that it was kinda short and it had the number 99 on it (stupid sexy Aaron Judge...).
 
 One thing that was kept in the Red Barons to Yankees transition, however, was the classic "SWB" cap logo. I got two versions of this cap (fitted and flexfit), plus a fitted version of their "home" cap (featuring the letter R) as well as a logo ball (with both cap logos) and a mini helmet (that came with ice cream of course; I also ended up geting Chickie's & Pete's Crabfries again).
 
