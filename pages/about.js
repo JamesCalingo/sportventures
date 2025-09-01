@@ -19,7 +19,7 @@ function About() {
 
             <p>For these posts, I'm going to try and focus on what makes each team unique. Most of these posts start with some background on the team/stadium and then I'll try to discuss how I felt. I'm also going to dive a bit into each team's merchandise selection, as that's one of the main reasons I've been going to sporting events for a while: I collect various forms of sporting merchandise, and have found that especially for minor league teams, it's difficult to find their merch without going to a game itself.</p>
 
-            <p>As a software developer, I figured the best way for me to do that would be to build my own site as opposed to using WordPress or Medium. The basic layout of this site is copied from the one I made for my personal blog - I don't know how often I'll be updating that site (and it's a mix of personal stuff and technical jargon, so be prepared for that), but you can check it out <a href="https://overclocked-overthoughts.netlify.app" target="blank">here</a>.</p>
+            <p>As a <a href="https://jamescalingo.dev/" target="blank">software engineer</a> (who, btw, <a href="https://jamescalingo.dev/resume/JamesCalingo.pdf" target="blank">is currently looking for work</a>), I figured the best way for me to do that would be to build my own site as opposed to using WordPress or Medium. The basic layout of this site is copied from the one I made for my personal blog - I don't know how often I'll be updating that site (and it's a mix of personal stuff and technical jargon, so be prepared for that), but you can check it out <a href="https://overclocked-overthoughts.netlify.app" target="blank">here</a>.</p>
 
             <p>I hope you'll enjoy my journeys.</p>
 
