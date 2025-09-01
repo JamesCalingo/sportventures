@@ -17,6 +17,8 @@ If you're not familiar with the history of baseball in Brooklyn, here's an inten
 
 Originally founded in 1883, the Brooklyn Base Ball Club (as they were officially known) went through a slew of (unofficial) nicknames over the course of many, many decades before one of them - "Trolley Dodgers" - stuck; this was then shortened to just "Dodgers". They weren't actually all that successful believe it or not (the Dodgers franchise has the most World Series losses all time), but they are known for two significant things:
 
+<div class="read-more">
+
 1. Jackie Robinson becoming the first African American to play in Major League Baseball in 1945 (even if the U.S. government thinks that it's DEI and therefore insignificant)
 2. Winning the 1955 World Series after losing seven other times (and then subsequently losing the next year's WS)
 
@@ -44,3 +46,4 @@ I also got an "OFFICIAL MINOR LEAGUE BASEBALL" here with Rob Manfred's signature
 
 [^1]: One proposal for the new stadium called for the Dodgers to play in a dome. Had they actually gone through with this, it would have been the first domed stadium for traditionally outdoor sports in the United States (and also probably would have been vacated by the 1990s).
 [^2]: Apparently the Mets wanted to move the Cyclones to the Double-A Eastern League in the realignment, but multiple parties nixed the idea (including the current Mets' current Double-A affiliate in Binghamton, NY).
+</div>

@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import Image from "next/image";
 import Markdown from "react-markdown";
 import { postSlugs, postForSlug } from "../posts";
@@ -10,8 +11,17 @@ import Error500 from "./500";
 function Post({ frontmatter, body }) {
   if (!frontmatter || !Object.keys(frontmatter).length) return <Error500 />
 
+  const [seeMore, setSeeMore] = useState(false)
+
+  useEffect(() => {
+    const readMoreElements = document.querySelector(".read-more");
+    console.log(seeMore)
+    if (seeMore) readMoreElements.style.display = "block";
+    else readMoreElements.style.display = "none";
+  }, [seeMore])
+
   return (
-    <Layout pageTitle={ frontmatter.display ? `${frontmatter.display} - Sportventures` : `${frontmatter.title} - Sportventures`}>
+    <Layout pageTitle={frontmatter.display ? `${frontmatter.display} - Sportventures` : `${frontmatter.title} - Sportventures`}>
       <div>
         <article>
           <h1 className="title">{frontmatter.title}</h1>
@@ -26,13 +36,14 @@ function Post({ frontmatter, body }) {
             remarkPlugins={[remarkGfm, remarkRehype]}
             components={{
               img: (props) => {
-              return  <Image src={props.src} alt={props.alt} width={1000} height={1000} style={{width: "75%", height: "auto",}}/>
+                return <Image src={props.src} alt={props.alt} width={1000} height={1000} style={{ width: "75%", height: "auto", }} />
               }
             }}>
-          {body}
-        </Markdown>
-      </article>
-    </div>
+            {body}
+          </Markdown>
+          {!seeMore && <p id="read-more-tag" onClick={() => setSeeMore(true)}>Read more</p>}
+        </article>
+      </div>
     </Layout >
   );
 }

@@ -207,6 +207,15 @@ figcaption {
   text-align: center;
 }
 
+.read-more {
+  display: none;
+}
+
+#read-more-tag:hover {
+  color: green;
+  cursor: pointer;
+}
+
 .list-title {
   font-size: 24pt;
   margin: 0;
