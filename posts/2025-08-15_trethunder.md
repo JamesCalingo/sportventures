@@ -30,7 +30,7 @@ On a final note, Thunder ownership is hellbent on getting affiliated ball back i
 
 ### MERCH
 
-I thought about coming to the team store here a few times before the game, but never did as it felt rather inconvenient; I thought about combining it with a return to Shoretown Ballpark, but the two are close to an hour away from each other (also I later learned that the BlueClaws team store is apparently only open for games now). However, once I saw it, I was curious as to how it operates outside of games due to its somewhat unusual location: the store is fully on concourse level with its entrance inside the gates, meaning that if you're coming here outside of game time, you actually have to go into the stadium and climb up to the concourse to get to the store.
+I thought about coming to the team store here a few times before the game, but never did as it felt rather inconvenient; I thought about combining it with a return to ShoreTown Ballpark, but the two are close to an hour away from each other (also I later learned that the BlueClaws team store is apparently only open for games now). However, once I saw it, I was curious as to how it operates outside of games due to its somewhat unusual location: the store is fully on concourse level with its entrance inside the gates, meaning that if you're coming here outside of game time, you actually have to go into the stadium and climb up to the concourse to get to the store.
 
 Inside, the most notable thing I found here (i.e. something outside of the standard merchandise items most teams sell) were dog toys (playing into the bat dog tradition). Sadly, not only were all the jerseys sublimated, but the home jersey (i.e. the one I would've been most interested in) was a shirsey with only the top two buttons...
 

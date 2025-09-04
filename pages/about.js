@@ -13,7 +13,7 @@ function About() {
 
             <h3>The Boston Red Sox won the World Series.</h3>
 
-            <p>In the aftermath of that moment...something clicked. I began reading up on not just the Red Sox, but baseball in general - learning the names of the 30 Major League Baseball teams and their players, collecting their on field hats...and my intrest quickly spread to other sports as well.</p>
+            <p>In the aftermath of that moment...something clicked. I began reading up on not just the Red Sox, but baseball in general - learning the names of the 30 Major League Baseball teams and their players, collecting their on field hats...and my interest quickly spread to other sports as well.</p>
 
             <p>For a few years now, I've actually been writing about the various sporting events that I go to; I feel like it helps me remember them better, and it's a way of keeping my brain active. For the longest time, they were just "hidden" on various Apple Notes and Google Docs, but now, I figured I'd share those writings with the internet. I started with a bunch of baseball stadium reports I wrote in 2025 (as I visited a bunch of stadiums for the first time), then moved on to the other arenas I'd been to that year.</p>
 

@@ -1,6 +1,6 @@
 ---
-display: "Jersey Shore Blueclaws (4/12/25)"
-title: "Jersey Shore BlueClaws (South Atlantic League) @ Shoretown Ballpark (Lakewood, NJ)"
+display: "Jersey Shore BlueClaws (4/12/25)"
+title: "Jersey Shore BlueClaws (South Atlantic League) @ ShoreTown Ballpark (Lakewood, NJ)"
 subtitle: 'A trip down the shore BEFORE "Shore Season": good idea or bad idea?'
 date: 8 August 2025
 published: true
@@ -21,7 +21,7 @@ As they are a “Jersey Shore” team and are south of Interstate 195, I would c
 
 The day I went was…awful. A coastal storm made the whole day rainy and cold, and the fact that it took nearly three hours to play seven innings (of game 1 of a doubleheader) didn’t help things. The game was originally supposed to start at 4, but a rainout the day prior moved the start time to 1, and then later 1:30. VERY few people were in the stands, and the few that were seemingly arrived near the end of game 1 and then left after their children sang the national anthem before game 2.
 
-Easily one of the most unique aspects of this park - a bar/lounge area which is entirely indoors on the suite level. Most minor league parks don’t allow non-suite-ticket-holding fans onto suite level, so having this is great for those times when the weather is too much like the day I went (I wonder if its air conditioned for those way-too-hot games). Said bar also includes a small standing room terrace outlooking the field, so you don’t have to completely miss out on watching the actual game when you’re there (it also provides a unique high level view rarely seen in the lower levels of MiLB).
+Easily one of the most unique aspects of this park - a bar/lounge area which is entirely indoors on the suite level. Most minor league parks don’t allow non-suite-ticket-holding fans onto suite level, so having this is great for those times when the weather is too much like the day I went (I wonder if its air conditioned for those way-too-hot games). Said bar also includes a small standing room terrace with a view of the field, so you don’t have to completely miss out on watching the actual game when you’re there (it also provides a unique high level view rarely seen in the lower levels of MiLB).
 
 Another cool thing: as a “Jersey Shore” team, one of the big things they try to promote is that image of the classic Jersey Shore boardwalk experience (but with fewer people in just swimsuits). As such, they have carnival games in the outfield, as well as a special concession stand that has pizza and ice cream (but no fried Oreos? WHAT?).
 

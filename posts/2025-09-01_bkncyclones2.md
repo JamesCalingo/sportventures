@@ -7,9 +7,9 @@ published: true
 pinned: false
 ---
 
-_\*This trip occurred on August 31, 2025._
+_This trip occurred on August 31, 2025._
 
-In prior years of my sports adventures (i.e. when I was living in Massachusetts), there were often several teams that I’d go and see multiple times a year (y'know, like Cape League teams since they're pretty close to each other). However, since I came back to Jersey, I haven’t been able to do that as much. Truth be told, I wasn’t sure if this year wasn’t going to feature any repeat visits to see certain teams again (outside of my two visits to Staten Island for two different events); I thought about several teams I wanted to return to, but never made any of those trips. Part of it is that the distance from where I live to a lot of these stadiums makes these trips difficult, but another part of that is due to the costs of tickets being more expensive than they used to be. Case in point: there's a recent article about how <a href = "https://www.baseballamerica.com/stories/milb-projected-to-draw-under-30-million-fans-for-first-time-in-decades/" target="blank">MiLB is expected to draw its lowest attendance in decades</a>, and a lot of fans are blaming rising costs for that. However, I was finally able to “follow through” with one of these "repeat visit plans" right at the end of the Minor League Baseball season.
+In prior years of my sports adventures (i.e. when I was living in Massachusetts), there were often several teams that I’d go and see multiple times a year (y'know, like Cape League teams since they're pretty close to each other). However, since I came back to Jersey, I haven’t been able to do that as much. Truth be told, I wasn’t sure if this year wasn’t going to feature any repeat visits to see certain teams again (outside of my two visits to Staten Island for two different events); I thought about several teams I wanted to return to, but never made any of those trips. Part of it is that the (increased) distance from where I live to a lot of these stadiums makes these trips difficult, but another part of that is due to the costs of tickets being more expensive than they used to be. Case in point: there's a recent article about how <a href = "https://www.baseballamerica.com/stories/milb-projected-to-draw-under-30-million-fans-for-first-time-in-decades/" target="blank">MiLB is expected to draw its lowest attendance in decades</a>, and a lot of fans are blaming rising costs for that. However, I was finally able to “follow through” with one of these "repeat visit plans" right at the end of the Minor League Baseball season.
 
 I’ve already talked about the Brooklyn Cyclones and Maimonides Park, as [I went to a game back at the end of April](2025-08-09_bkncyclones). The story of THIS game starts that day at the team store: back then, I was only interested in one particular hat (the one with a white and red “Bc” logo that, for most of the Cyclones' history, was their “main” hat[^1]). I did see some other hats that I was mildly interested in, but wasn’t really sure if I wanted (they were variations of the “Bc” logo); over time, however, I realized that I wanted to take another look at said hats, so I began to think about making a New York City trip to visit the Maimonides Park team store again. Unfortunately, there were two major issues complicating things:
 
@@ -63,9 +63,9 @@ Also, <a href="https://www.instagram.com/p/DOCtX1ujXMs/" target="blank">please c
 
 ### ON DECK
 
-I forgot to mention this in the update post a few days ago, but expect things to SLOW DOWN here. Now that I've caught up, there's no "backlog" of old content to keep me uploading to this site (but what is keeping me busy: planning and prewriting future trips/posts).
+I forgot to mention this in the update post a few days ago, but expect things to SLOW DOWN here. Now that I've caught up, there's (currently) no "backlog" of old content to keep me uploading to this site (but what is keeping me busy: planning and prewriting future trips/posts).
 
-I'm thinking about going to something next weekend, but it's not set in stone yet. If it happens, you'll see my post about it next Monday (as a lot of the "history" part is already written). If not, there are a few other things that may happen this month, though it's going to depend on a lot of things I'd REALLY rather not talk about here.
+
 
 ---
 

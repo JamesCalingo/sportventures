@@ -43,7 +43,7 @@ On the surface, the process seems decently simplistic. There’s a page on the B
 
 <figcaption>A screenshot from the K Club website indicating that K Club signups are closed</figcaption>
 
-Said invitation is a request from the team for you to verify some of your account details on their ticketing website. Once you do that, you are then given a window during which you pay a membership fee (all of this being similar to buying regular tickets), and then once you do that, you’re in! Once you’re in the K Club, you don’t need to join the interest list for the following years; the only thing you need to do is pay the membership fee each year. You are also allowed to leave the K Club if you sense you won’t be buying Banana Ball tickets, but I’m not sure what that process is; I did find a page for a “Do Not Renew” form, but there was no form when I checked it (there’s also the fact that I don’t expect too many people not renewing for reasons I'll get into soon).
+Said invitation was a request from the team for you to verify some of your account details on their ticketing website. Once you do that, you are then given a window during which you pay a membership fee (all of this being similar to buying regular tickets), and then once you do that, you’re in! Once you’re in the K Club, you don’t need to join the interest list for the following years; the only thing you need to do is pay the membership fee each year. You are also allowed to leave the K Club if you sense you won’t be buying Banana Ball tickets, but I’m not sure what that process is; I did find a page for a “Do Not Renew” form, but there was no form when I checked it (there’s also the fact that I don’t expect too many people not renewing for reasons I'll get into soon).
 
 There is one catch to ALL of this, however: in order to be able to purchase K Club membership…you have to win a (secret) lottery. Note that this K Club lottery is NOT disclosed on their website (and seemingly isn’t even insinuated either), so be forewarned that signing up for the interest list does NOT guarantee you K Club access. I have heard that you only need to sign up once for the interest list, and then you’re in the K Club lottery each year until you win/get in, but have no idea how true this is (and trying to test it is going to take a literal year, so…).
 
@@ -61,7 +61,7 @@ A lot of the information comes from various sources on the internet (much like t
 
 With ALL OF THAT now in mind, I’d like to discuss life in the K Club.
 
-First, let’s talk about the people. Members are separated into “classes” based on the year they joined; as of this being posted, there are classes of 2023, 2024, and 2025 (which I’m a member of), and they’re currently accepting signups for the Class of 2026 Interest List (again, good luck if you’re thinking about it - especially since September is RIGHT AROUND THE CORNER). As mentioned earlier, there’s a Facebook group which is restricted to K Club members only; I’m not actually sure if I’m in it or not, though I’m also not active on Facebook (so in essence I’m saying it’s possible that there are more than 21,000 K Club members).
+First, let’s talk about the people. Members are separated into “classes” based on the year they joined; as of this being posted, there are classes of 2023, 2024, and 2025 (which I’m a member of), and ~~they’re currently accepting signups for the Class of 2026 interest list~~(see below for update). As mentioned earlier, there’s a Facebook group which is restricted to K Club members only; I’m not actually sure if I’m in it or not, though I’m also not active on Facebook (so in essence I’m saying it’s possible that there are more than 21,000 K Club members).
 
 Besides the most obvious perk of an exclusive window to buy (nearly) guaranteed tickets[^5], other perks include access to exclusive merch (which I haven’t gone for - yet), fun insider knowledge (such as being the first to know about a surprise game the Bananas played against Clemson in November 2024), and something that came up while I was preparing for this to be posted to the blog - the opportunity to opt in to buy tickets to the Banana Ball Tour Championship Series in October! I ended up not opting in for a few reasons, but given that ticket purchasing is timeslot based (from the email I got), I'm willing to bet timeslots are going to be based on what year you joined (like a lot of other things).
 
@@ -76,6 +76,16 @@ You only have this one opportunity to buy your special K Club tickets for the WH
 
 For me, I was allowed to buy my tickets about a week or so before Thanksgiving 2024. Inasmuch as I would have liked to go to multiple events, I decided to hone in on one specific stop: Fenway Park.
 
+### STEALTH 2026 UPDATE
+
+I told myself I wouldn't do this, but I felt that I wanted to in order to keep this post "time independent" as opposed to "time sensitive".
+
+In late August 2025, the K Club interest list closed for 2026. A few days later, I got an email about the incoming K Club class.
+
+From what I can glean off of that email (and what I read on Reddit a few days later), K Club membership is now application based (of course, whether or not they keep this won't be seen for A FULL YEAR). There is the possibility that it's always been like this and I forgot, but I don't recall having to do some of the things I've heard about; for example, I was told to be ready to be contacted as a referral for applicants, and someone on Reddit asked me if they could list me as a reference.
+
+Clearly, the Bananas know about the importance of the K Club and/or are still getting wannabe scalpers as members, so they're doing what they can to try and cut that down, because as their email says, "we want to continue to only get the biggest and best Banana Ball fans to join our K Club".
+
 ---
 
 ### UP NEXT:
@@ -89,5 +99,5 @@ I've done a bunch of build up, but now it's time to talk about the actual event 
 [^1]: Each person who buys tickets is allowed up to buy up to 5, and while not everyone looking for tickets is going to buy 5 tickets, a lot of people are likely trying to get more than 1.
 [^2]: Though by “World Tour”, they’re conveniently ignoring the fact that they have yet to play a game outside of the United States - including Canada.
 [^3]: This was taken from <a href="https://web.archive.org/web/20240912053421/https://thesavannahbananas.com/kclub/" target="blank">an archive of the K Club page from September 2024</a>.
-[^4]: Ominously, they posted the 2025 membership price on the K Club site in PAST TENSE...
-[^5]: The K Club website was seemingly updated to disclose that memebership is NOT a guarantee to get tickets for every game (case in point: Grayson Stadium).
+[^4]: Ominously, they posted the 2025 membership price on the K Club site in PAST tense...
+[^5]: The K Club website was seemingly updated to disclose that membership is NOT a guarantee to get tickets for every game (case in point: Grayson Stadium).

@@ -9,8 +9,8 @@ pinned: false
 
 _\*This trip occurred on May 18, 2025._
 
-![A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisment can be seen near the field.](/images/hinchliffe.jpeg)<br>
-_A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisment can be seen near the field._
+![A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.](/images/hinchliffe.jpeg)<br>
+_A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field._
 
 Paterson, New Jersey.
 
