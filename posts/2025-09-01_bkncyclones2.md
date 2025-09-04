@@ -55,7 +55,7 @@ I also made a quick stop at the Barclays Center (home of the NBA's Brooklyn Nets
 
 \---
 
-As for Brooklyn FC, they ended up beating the defending champions the night I wanted to go, so it’s even more unfortunate that I had to miss it. Any potential trip to see them hasn’t happened yet as mentioned above, but I am still hoping to make the trip in October or November - and of course I’ll write about it here if/when it happens.[^5]
+As for Brooklyn FC, they ended up beating the defending champions the night I wanted to go, so it’s even more unfortunate that I had to miss it. Any potential trip to see them hasn’t happened yet as mentioned above, but I am still hoping to make the trip in October or November - and of course I’ll write about it here if/when it happens.
 
 Also, <a href="https://www.instagram.com/p/DOCtX1ujXMs/" target="blank">please check out this video I made from footage I recorded on the subway ride back to Penn Station I had to edit it FOUR times because it kept getting lost for some stupid reason</a> <sub>kthnxbai</sub>
 
@@ -73,4 +73,3 @@ I forgot to mention this in the update post a few days ago, but expect things to
 [^2]: The hat I ended up getting at the game was not listed online in my size, so I was kinda scared that I wouldn’t be able to find it.
 [^3]: The way minor league playoff qualification works is that the season is divided into two halves, and whichever team has the best record in each half wins a playoff spot. I’ve heard that being in the MiLB playoffs is actually a DETRIMENT to teams as players and interns are largely gone by then thanks to said playoffs being in September.
 [^4]: Some items I had seen earlier in the year, however, were unavailable - such as the cap I got earlier in the year being out of stock in my size.
-[^5]: If you are seeing this footnote, then that means that I'm still waiting for ANY updates on a Brooklyn FC jersey I ordered in the wake of the ticket deal falling through...
