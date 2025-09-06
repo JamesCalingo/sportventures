@@ -7,7 +7,7 @@ published: true
 pinned: false
 ---
 
-_This trip occurred on August 31, 2025._
+_\*This trip occurred on August 31, 2025._
 
 In prior years of my sports adventures (i.e. when I was living in Massachusetts), there were often several teams that I’d go and see multiple times a year (y'know, like Cape League teams since they're pretty close to each other). However, since I came back to Jersey, I haven’t been able to do that as much. Truth be told, I wasn’t sure if this year wasn’t going to feature any repeat visits to see certain teams again (outside of my two visits to Staten Island for two different events); I thought about several teams I wanted to return to, but never made any of those trips. Part of it is that the (increased) distance from where I live to a lot of these stadiums makes these trips difficult, but another part of that is due to the costs of tickets being more expensive than they used to be. Case in point: there's a recent article about how <a href = "https://www.baseballamerica.com/stories/milb-projected-to-draw-under-30-million-fans-for-first-time-in-decades/" target="blank">MiLB is expected to draw its lowest attendance in decades</a>, and a lot of fans are blaming rising costs for that. However, I was finally able to “follow through” with one of these "repeat visit plans" right at the end of the Minor League Baseball season.
 
@@ -58,14 +58,6 @@ I also made a quick stop at the Barclays Center (home of the NBA's Brooklyn Nets
 As for Brooklyn FC, they ended up beating the defending champions the night I wanted to go, so it’s even more unfortunate that I had to miss it. Any potential trip to see them hasn’t happened yet as mentioned above, but I am still hoping to make the trip in October or November - and of course I’ll write about it here if/when it happens.
 
 Also, <a href="https://www.instagram.com/p/DOCtX1ujXMs/" target="blank">please check out this video I made from footage I recorded on the subway ride back to Penn Station I had to edit it FOUR times because it kept getting lost for some stupid reason</a> <sub>kthnxbai</sub>
-
----
-
-### ON DECK
-
-I forgot to mention this in the update post a few days ago, but expect things to SLOW DOWN here. Now that I've caught up, there's (currently) no "backlog" of old content to keep me uploading to this site (but what is keeping me busy: planning and prewriting future trips/posts).
-
-
 
 ---
 

@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 function NewestPost(props) {
-    const { slug, display, subtitle, date } = props
+    const { slug, display, title, subtitle, date } = props
     return <div id="newest" className="grid-post">
         <Link href={`/${slug}`}>
             <div className="section-header">

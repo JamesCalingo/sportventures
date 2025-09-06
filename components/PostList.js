@@ -15,9 +15,9 @@ function PostList(props) {
                 //TODO: paginate this list
                 .map((post, index) => {
                     const { frontmatter, slug } = post;
-                    const { display, date, subtitle, pinned } = frontmatter;
+                    const { display, date, title, subtitle, pinned } = frontmatter;
 
-                    return newest ? <PinnedItem key={index} slug={slug} display={display} date={date} subtitle={subtitle} /> : (<GridItem key={index} slug={slug} display={display} date={date} pinned={pinned} />
+                    return newest ? <PinnedItem key={index} slug={slug} display={display ? display: title } date={date} subtitle={subtitle} /> : (<GridItem key={index} slug={slug} display={display ? display: title} date={date} pinned={pinned} />
                     );
                 })}
 
