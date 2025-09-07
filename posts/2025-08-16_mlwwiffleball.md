@@ -30,10 +30,10 @@ Here’s a game-by-game breakdown of the series. Each game was three innings lon
 > **GAME 3**<br>
 > This game featured two controversial calls on the bases which required review (i.e. watching back the footage on the cameras and the guy running the show donning a striped referee shirt to announce the call). This was also the closest game, as a first inning run for the Predators ended being the only thing separating the two teams after both teams scored twice in the second (with a Predator baserunner being thrown out at home); the 3-2 win allowed the Predators to avoid being swept.
 
-On a somewhat unrelated note, most of the concession stands and the FerryHawks team store were closed for this event (likely to cut down on the required number of staffers). They did sell alcohol, though, which was interesting - especially at an event geared toward young children (at least more so than your standard baseball game)…
+On a somewhat unrelated note, most of the concession stands and the FerryHawks team store were closed for this event (likely to cut down on the required number of staffers). They did sell alcohol, though, which was interesting - especially at an event geared toward young children (at least more so than your standard baseball game)...
 
 If you want to watch (parts of) the action yourself, you can do so <a href="https://www.youtube.com/watch?v=f88rpImGEik" target="blank">here</a>. I am in this video an uncomfortable (for me) number of times, so have fun if you’re trying to find me!<br>
-(If you think about the stadium, though, you’ll realize just how easy finding me is…)
+(If you think about the stadium, though, you’ll realize just how easy finding me is...)
 
 ### MERCH
 

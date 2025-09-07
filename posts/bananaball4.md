@@ -19,7 +19,7 @@ Overall...
 
 I did enjoy the Banana Ball experience.
 
-However, I must say that the best way to describe the experience has to be…paradoxical.
+However, I must say that the best way to describe the experience has to be...paradoxical.
 
 On the one hand, it REALLY feels like the entertainment distracts from the sport being played. Outside of the foul ball thing, it really felt like the crowd wasn’t paying too much attention to the game outside of the times the players did things to get their attention (as well as the Red Sox guests - whose presence didn’t engage the entire audience as a lot of folks in the crowd don’t know them). Part of that was the fact that music was blaring the entire time - something you usually don’t see in pro sports (unless you’ve been to an NLL game).
 
@@ -31,7 +31,7 @@ Unfortunately, the demand means that if the Bananas can get a big stadium, it’
 
 Word on the street is that the upcoming league is going to focus on minor league stadiums, so that may also help - especially if it can get more fans into games. However, non-Bananas games are going to need to be watched CLOSELY to ensure that the league/sport isn’t being cannibalized by the runaway popularity of the Bananas (who have far more Instagram followers than the other three teams COMBINED). They’re likely stuck with the bigger venues due to this, so if demand for them is heavily outpacing demand for the sport as a whole, then that’s likely to be a problem.
 
-In addition, some of the characters are VASTLY underutilized (looking at you Princess Potassia). I will note that there was a post game event that featured only the characters, but most fans were headed home by then (probably because it was specified that the players were NOT going to be present). I think they’d benefit from more time in the (literal) sun (and maybe the addition of a villain/heel that’s not just the Party Animals), but that may have to be a spin-off, and who knows how that would go…
+In addition, some of the characters are VASTLY underutilized (looking at you Princess Potassia). I will note that there was a post game event that featured only the characters, but most fans were headed home by then (probably because it was specified that the players were NOT going to be present). I think they’d benefit from more time in the (literal) sun (and maybe the addition of a villain/heel that’s not just the Party Animals), but that may have to be a spin-off, and who knows how that would go...
 
 One thing to keep in mind with all of this, however, is the mantra that drives everything the Bananas do:
 
@@ -45,9 +45,9 @@ All of these issues, of course, are minor to the root issue facing baseball: its
 
 It’s crazy to think that the Savannah Bananas have grown so much in just three years of Banana Ball-ing, let alone the decade they’ve been around. The fact that the Bananas have kinda sorta accidentally created an indy league is honestly kinda amazing, and I’m interested to see how things play out down the line - especially as they try to continue balancing entertainment with an honest-to-God, neat-as-blank sport.
 
-Also, shout out to the two other people I saw while I was leaving the game wearing the CPL-era “Tequila Sunrise” jersey with the Georgia outline on the back - I thought I was the only one for the longest time! I didn’t see any other CPL-era hats however…
+Also, shout out to the two other people I saw while I was leaving the game wearing the CPL-era “Tequila Sunrise” jersey with the Georgia outline on the back - I thought I was the only one for the longest time! I didn’t see any other CPL-era hats however...
 
-P.S.: Apparently another CPL team has seen the Bananas success and tried branching out as well, as the Tri-City Chili Peppers (located just south of Richmond, VA) recently introduced something called “Cosmic Baseball”. While the game is more or less just traditional baseball, what’s unique is that it’s played under black lights once it gets dark out. I almost tried to watch this in Allentown, PA, but getting in involves…a lottery. That I never entered.
+P.S.: Apparently another CPL team has seen the Bananas success and tried branching out as well, as the Tri-City Chili Peppers (located just south of Richmond, VA) recently introduced something called “Cosmic Baseball”. While the game is more or less just traditional baseball, what’s unique is that it’s played under black lights once it gets dark out. I almost tried to watch this in Allentown, PA, but getting in involves...a lottery. That I never entered.
 
 ---
 

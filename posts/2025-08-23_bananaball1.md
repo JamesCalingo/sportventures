@@ -27,7 +27,7 @@ In 2022, after winning the Coastal Plain League for the second year in a row and
 
 Two more teams are being added in 2026, which will also see an organized “Banana Ball Championship League” start up with each team playing 60 games (which translates to a whopping 180 total Banana Ball games next year).
 
-### …So what the heck is Banana Ball?
+### ...So what the heck is Banana Ball?
 
 Banana Ball is, in essence, a modified version of baseball. The team lists eleven rules that make it distinct (these are taken directly from <a href="https://bananaball.com/rules/" target="blank">the Banana Ball website</a>):
 
