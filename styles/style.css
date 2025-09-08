@@ -180,6 +180,7 @@ figcaption {
 
 #newest {
   margin-bottom: 50px;
+  height: 250px;
 }
 
 #newest .list-date {
@@ -266,13 +267,9 @@ figcaption {
     font-size: 24pt;
   }
 
-  #newest em {
-    display: none;
-  }
-
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   article {
     width: 100%;
   }
