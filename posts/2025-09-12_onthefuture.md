@@ -52,9 +52,9 @@ This has gotten REALLY long, so I think I will stop here. In writing this, I rea
 
 ### ON DECK
 
-Something is on my "docket" for this weekend - it is ALMOST CERTAINLY going to be today, though there does exist a small possibility of it being tomorrow. Either way, my next post SHOULD be the day after that occurs (i.e. most likely tomorrow), and is probably not going to be anywhere near THIS long.
+Something is on my "docket" for this weekend - it is ALMOST CERTAINLY going to be on Saturday, though there does exist a small possibility of it being on Sunday. Either way, my next post SHOULD be the day after that occurs (i.e. most likely Sunday), and is probably not going to be anywhere near THIS long.
 
-Coincidentally, speaking of "fans", the Savannah Bananas are at Yankee Stadium this weekend. I was thinking of checking out the merch tents as there's one thing I'm interested in, but I wasn't able to go yesterday and I'd rather not make the effort to get there for only ONE THING (partially because Citi Field is inaccessible today and tomorrow due to the Mets being home, and I'm not interested in trying to get tickets). In addition, the item I'm interested in is available online (with free shipping); sizing is the only real concern, but I can just play it safe for now (especially with how things went in Boston).
+Coincidentally, speaking of "fans", the Savannah Bananas are at Yankee Stadium this weekend. I was thinking of checking out the merch tents as there's one thing I'm interested in, but I wasn't able to go today and I'd rather not make the effort to get there for only ONE THING (partially because Citi Field is inaccessible Saturday and Sunday due to the Mets being home, and I'm not interested in trying to get tickets). In addition, the item I'm interested in is available online (with free shipping); sizing is the only real concern, but I can just play it safe for now (especially with how things went in Boston).
 
 ---
 
