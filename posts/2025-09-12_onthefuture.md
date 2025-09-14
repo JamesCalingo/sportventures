@@ -50,14 +50,6 @@ This has gotten REALLY long, so I think I will stop here. In writing this, I rea
 
 ---
 
-### ON DECK
-
-Something is on my "docket" for this weekend - it is ALMOST CERTAINLY going to be today, though there does exist a small possibility of it being tomorrow. Either way, my next post SHOULD be the day after that occurs (i.e. most likely tomorrow), and is probably not going to be anywhere near THIS long.
-
-Coincidentally, speaking of "fans", the Savannah Bananas are at Yankee Stadium this weekend. I was thinking of checking out the merch tents as there's one thing I'm interested in, but I wasn't able to go yesterday and I'd rather not make the effort to get there for only ONE THING (partially because Citi Field is inaccessible today and tomorrow due to the Mets being home, and I'm not interested in trying to get tickets). In addition, the item I'm interested in is available online (with free shipping); sizing is the only real concern, but I can just play it safe for now (especially with how things went in Boston).
-
----
-
 [^1]: Well, that and the closest MLB team is...the Yankees. Speaking of which, I heard that they recently did a thing that I don't know how to feel about - not saying any more than that.
 [^2]: I'm not sure why THIS was the first name I thought of when coming up with "dudes who are probably Golden State Warriors benchwarmers", but in writing this, I found out he's not even with the Warriors anymore! I promise to find other names to throw around for things like this (and definitely not JaVale McGee)...
 [^3]: I mean, it IS a way for "average" fans to accrue the funds necessary to attend Nets-Lakers, but I REALLY don't like how it's become so prevalent in (specifically North American) sports to the point where money lines are part of broadcast graphics.
