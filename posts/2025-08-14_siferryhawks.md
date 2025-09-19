@@ -10,7 +10,8 @@ pinned: false
 _\*This trip occurred on May 29, 2025._
 
 ![An image of the New York City skyline as seen from SIUH Community Ballpark](/images/siuhskyline.jpeg)<br>
-_An image of the New York City skyline as seen from SIUH Community Ballpark_
+
+<figcaption>An image of the New York City skyline as seen from SIUH Community Ballpark</figcaption>
 
 Staten Island: New York City’s redheaded stepchild.
 
