@@ -21,15 +21,6 @@ As the Phillies are hosting the 2026 MLB All Star Game (in conjunction with Amer
 
 There was SUPPOSED to be a parking lot available for free next to the stadium, but it was closed off the entire time I was there, so I ended up parking in a nearby residential neighborhood as there was nothing saying I couldn’t park there (I did have some reservations, but then I saw someone using deck chairs as spot savers, which made me think it was fair game). Also, in order to enter the Phillies store, I had to walk OUT the security gates and then back IN via the same gates as they forgot to set up a checkpoint where I had entered.
 
-<!-- Two or so months after that, the Bananas were again at a Major League Baseball stadium near me, which leads itself into...
-
-### RETURN TO YANKEE STADIUM: THE SEARCH FOR A NICE HAT
-
-That's right - Banana Ball was played in what is probably the LEAST likely place to ever open its doors to the Bananas!<br>
-(or at least it would have been if George and Hank were still alive...)
-
-This time, I was trying to see if I could find a specific hat that I didn't see at Fenway: an all-black Firefighters hat. When I checked online after the game I saw, it was sold out (thus making me think it had been retired), but then a few weeks later, it appeared to have been restocked. -->
-
 ---
 
 [^1]: My first ever visit to an MLB stadium was, of course, Fenway Park. I can't remember the year, but it was either 1998 or 1999.
