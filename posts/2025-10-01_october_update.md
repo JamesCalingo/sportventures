@@ -23,11 +23,7 @@ One thing I will note before wrapping up this intro: some things in these posts 
 
 Also, a few of these buildings have special names for their rinks. I’ve noted which places do this by placing the name of the RINK in parentheses before the (common) arena name.
 
----
-
-### ON DECK
-
-I'm going to start things off this Friday with my hometown team - in the most hyper local sense.
+(One final note: I've gone and updated a few older posts again. I realize I shouldn't be doing that, but I can't help myself...)
 
 ---
 
