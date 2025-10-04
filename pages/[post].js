@@ -11,28 +11,24 @@ function Post({ frontmatter, body }) {
   if (!frontmatter || !Object.keys(frontmatter).length) return <Error500 />
 
   return (
-    <Layout pageTitle={ frontmatter.display ? `${frontmatter.display} - Sportventures` : `${frontmatter.title} - Sportventures`}>
+    <Layout pageTitle={frontmatter.display ? `${frontmatter.display} - Sportventures` : `${frontmatter.title} - Sportventures`}>
       <div>
         <article>
           <h1 className="title">{frontmatter.title}</h1>
           <h2 className="description">{frontmatter.subtitle}</h2>
-          <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString(undefined, {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-          })}</b></em>
+          <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString()}</b></em>
           <Markdown
             rehypePlugins={[rehypeRaw]}
             remarkPlugins={[remarkGfm, remarkRehype]}
             components={{
               img: (props) => {
-              return  <Image src={props.src} alt={props.alt} width={1000} height={1000} style={{width: "75%", height: "auto",}}/>
+                return <Image src={props.src} alt={props.alt} width={1000} height={1000} style={{ width: "75%", height: "auto", }} />
               }
             }}>
-          {body}
-        </Markdown>
-      </article>
-    </div>
+            {body}
+          </Markdown>
+        </article>
+      </div>
     </Layout >
   );
 }
