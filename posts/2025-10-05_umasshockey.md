@@ -9,12 +9,12 @@ pinned: false
 
 _\*UMass had its home opener last night, but I decided to post this after BU to for "narrative purposes". I’ve only been to this building once, and that was on November 18, 2023 - yes, BEFORE the [BU game I discussed yesterday](2025-10-04_buhockey) (though technically I went to Agganis Arena first before coming here given the two events I went to in the summer)._
 
-
 The University of Massachusetts Amherst is the flagship of the University of Massachusetts system and the largest school in terms of undergraduates in Massachusetts (and also not to be confused with Amherst College - a MUCH SMALLER school not even a mile away). Officially, I believe the team is referred to as the “Massachusetts Minutemen” and the jerseys feature a “MASSACHUSETTS” script to reflect this, but just about everyone (including the school itself) calls them UMass - occasionally adding the “Amherst” to distinguish them from [UMass Lowell](2025-08-29_bosfleet) (who are also in Hockey East).
 
 With Boston’s big two (BC and BU) coming up just short in 2024 and 2025 (respectively), UMass is somehow Hockey East’s most recent national champion thanks to their 2021 title (which they didn’t have Cale Makar for). Outside of that championship (and the Cale Makar era that preceded it), there’s not much to say about the place as a hockey school (especially given they didn’t start their current D-I hockey program until 1993); in terms of their other athletics, they’re known for having one of the worst football stadiums in the FBS (since they don’t play in Foxboro anymore), and their basketball team - whose most famous alumnus HAS to be Julius Erving - ~~made the Final Four in 1996~~ VACATED BY THE NCAA[^1].
 
 ![A photo of the Mullins Center during a hockey game](/images/umass.jpeg)
+
 <figcaption>The Mullins Center during a hockey game</figcaption>
 
 Similar to Conte Forum (as that was where I was the day before this trip), the Mullins Center is quite big - perhaps TOO big for its own good. It’s the largest arena in terms of seating capacity in Hockey East (and is also bigger than the arena in nearby Springfield that hosts an AHL team[^2]), and the ice is ten feet wider than NHL standard (which is why it was REALLY weird that there was only one Zamboni for the game I went to).
@@ -29,6 +29,8 @@ On campus food is a question mark, but I heard about a pizza place in downtown A
 
 I wasn’t sure where to fit this in, but there’s another hockey rink with the same dimensions (I think) in a neighboring building (Mullins has the widest ice in Hockey East at 95 feet wide). I believe it’s mainly used as a community rink/practice facility (as well as hosting UMass Amherst’s club hockey team).
 
+As a final note: I didn't talk about the parking situation (as it was free back then), but I learned a few days ago that UMass is now charging for the lot I parked in...
+
 ### MERCH
 
 I’ll be honest: I think UMass has one of the better jerseys in Hockey East. I’m not sure if I can call it the best jersey in the conference (many will tell you that distinction belongs to Maine), but it’s one of my personal favorites.
@@ -38,10 +40,6 @@ Anyway, when I came to the game, I arrived very early to check out the bookstore
 If you’re in the Mullins Center, there’s a merch area right as you walk in (assuming you’re not walking in from the student entrance). A lot of the things you find there are the same as the bookstore, however, but if you’re arriving after it closes, then at least you can still get things if you’re looking.
 
 One other thing to mention: UMass sells NIL jerseys for hockey (online), but also has one player jersey for sale that’s not NIL: Cale Makar. I realize that I namedropped him without explaining who he is: he’s widely considered one of the best young players in the NHL right now, and I actually bought THIS jersey online before visiting UMass (and buying a jersey then as well - I swear I don’t have a problem...).
-
----
-
-As a final note: I didn't talk about the parking situation (as it was free back then), but I learned a few days ago that UMass is now charging for the lot I parked in...
 
 ---
 
