@@ -43,11 +43,5 @@ One other thing to mention: UMass sells NIL jerseys for hockey (online), but als
 
 ---
 
-### ON DECK
-
-A slight change of pace, because I'm going to a hockey game today! It's not a college game nor is it the NHL, but it's the NHL equivalent of Triple-A baseball...sorta (I'll explain tomorrow).
-
----
-
 [^1]: The Mullins Center still has a banner commemorating this however...
 [^2]: Said arena also hosted American International College’s hockey team - a small school and even smaller hockey program that recently left D-I.
