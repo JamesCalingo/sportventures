@@ -1,7 +1,7 @@
 ---
 display: "Lehigh Valley Phantoms (10/5/25)"
 title: "Lehigh Valley Phantoms (American Hockey League) @ PPL Center (Allentown, PA)"
-subtitle: "The life of a Phantom {because the union people crawled away}"
+subtitle: "The life of a Phantom(s preseason game)"
 date: 6 October 2025
 published: true
 pinned: false
