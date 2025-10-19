@@ -30,7 +30,7 @@ Opposite the press box on the east end is a concessions stand plus a smaller ent
 
 Finally, the north end of the stadium features a video scoreboard, a grassy hill, and some terraces intended for fans to stand on (though I saw most people sitting here). This also provides the closest access to the field itself, as the bleachers on the other three sides end a few feet above the field (similar to most American football stadiums).
 
-There was a decent crowd on hand for this one; most of them were on the west side of the stadium as the sun was a bit strong (and made it EXTREMELY hard to watch from the east stand), but it also seemed like quite a few people left rather early. The team on the field felt like they , and almost gave up an equalizer to their , but seemed to snap to life in the second half once Columbia lost a player to a red card, and ended up walking out with a 2-0 win.
+There was a decent crowd on hand for this one; most of them were on the west side of the stadium as the sun was a bit strong (and made it EXTREMELY hard to watch from the east stand), but it also seemed like quite a few people left rather early. The team on the field felt like they were a bit flat at times, and came VERY CLOSE to giving up an equalizer to their opponents (the Columbia Lions), but seemed to snap to life in the second half once Columbia lost a player to a red card, and ended up walking out with a 2-0 win.
 
 I'll end with a few notes on college soccer itself (as it's a little different from "regular" soccer):
 
