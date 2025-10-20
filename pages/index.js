@@ -3,10 +3,9 @@ import Link from "next/link";
 import PostList from "../components/PostList";
 import NewestPost from "../components/NewestPost";
 import Layout from "../components/Layout";
-import { recents, latest } from "../utils/utils";
+import { recents, latest, pinned } from "../utils/utils";
 
 const Index = () => {
-
 
   return (
     <Layout pageTitle="Sportventures">
@@ -17,6 +16,12 @@ const Index = () => {
 
       <NewestPost slug={latest.slug} display={latest.frontmatter.display ? latest.frontmatter.display : latest.frontmatter.title} subtitle={latest.frontmatter.subtitle} date={latest.frontmatter.date} />
 
+      {pinned &&
+        <div className="pinned">
+          <a href={pinned.slug}>{pinned.frontmatter.display ? pinned.frontmatter.display : pinned.frontmatter.title}</a>
+        </div>
+      }
+      
       <div className="section-header">
         <span>RECENT POSTS</span>
       </div>
