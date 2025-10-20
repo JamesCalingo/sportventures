@@ -11,7 +11,7 @@ const Index = () => {
     <Layout pageTitle="Sportventures">
       <div id="title">
         <h1 id="blog_title">Sportventures</h1>
-        <p id="blog_tag"></p>
+        <p id="blog_tag">Travels and thoughts on the wide world of sports</p>
       </div>
 
       <NewestPost slug={latest.slug} display={latest.frontmatter.display ? latest.frontmatter.display : latest.frontmatter.title} subtitle={latest.frontmatter.subtitle} date={latest.frontmatter.date} />
@@ -21,7 +21,7 @@ const Index = () => {
           <a href={pinned.slug}>{pinned.frontmatter.display ? pinned.frontmatter.display : pinned.frontmatter.title}</a>
         </div>
       }
-      
+
       <div className="section-header">
         <span>RECENT POSTS</span>
       </div>
