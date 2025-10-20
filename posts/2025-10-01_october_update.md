@@ -3,7 +3,7 @@ display: ""
 title: "October Update"
 subtitle: 'Introducing the content that will be going up this month (alongside a few "live" reports)'
 date: 1 October 2025
-published: true
+published: false
 pinned: true
 ---
 
