@@ -1,8 +1,8 @@
 import Link from "next/link";
 
-function PinnedItem(props) {
+function NewestListItem(props) {
     const { slug, display, title, subtitle, date } = props
-    return <div className="grid-post pinned">
+    return <div className="grid-post newest-list-item">
         <Link href={`/${slug}`}>
             <h2 className="list-title">{display ? display : title}</h2>
             <em>{subtitle}</em>
@@ -11,4 +11,4 @@ function PinnedItem(props) {
     </div>
 }
 
-export default PinnedItem;
+export default NewestListItem;

@@ -24,7 +24,7 @@ As for the stadium, it's got a somewhat interesting history: it's the SECOND Rob
 ![A photo of Roberts Stadium from its south stand](/images/robertsstadium.jpeg)
 <figcaption>From left to right: the west stand with the press box, merch, and player entrances, the north stand with the video board, and the east stand with concessions.</figcaption>
 
-On the west end of the stadium is its "main" entrance and press box above. This area also features a merchandise area (more on that in a bit) and a ticket booth, as some games (i.e. playoff games) are ticketed events. Below this is the bench/tunnel area; there are no bleachers above the benches/tunnel.
+On the west end of the stadium is its "main" entrance and press box above. This area also features a merchandise area (more on that in a bit) and a ticket booth, as some games (i.e. playoff games) are ticketed events. Below this is the bench/tunnel area; there are no bleachers above the benches/tunnel, so if you want to watch the game here (at the midfield line), you do have to stand.
 
 Opposite the press box on the east end is a concessions stand plus a smaller entrance. Concession prices here are fairly in line with what you'd expect from a sporting venue, but there's a bit of a loophole if you feel they're a bit steep (though remember: you're getting free admission AND parking for most games)[^3].
 
@@ -45,11 +45,7 @@ I will also note, however, that Princeton has two stores which feature school me
 
 ---
 
-I'm going to "spoil" something: a return to Princeton (for a different sport) is coming up VERY soon - I already have a ticket and have begun work on writing my blog post for it. In preparation for it, I also visited one of the campus stores a week before this game...and was more interested in getting something back then.
-
-### ON DECK
-
-In the meantime, the hockey catch-up series returns on Tuesday (which is kinda weird IMO) with another Catholic school. You may not have heard of it, but it does have some significant sporting history.
+I'm going to "spoil" something: a return to Princeton (for a different sport) is coming up VERY soon - I already have a ticket and have begun work on writing my blog post for it. In preparation for it, I also visited one of the aforementioned campus stores a week before this game...and was more interested in getting something back then.
 
 ---
 

@@ -1,5 +1,5 @@
 import GridItem from "./GridItem";
-import PinnedItem from "./NewestListItem";
+import NewestListItem from "./NewestListItem";
 
 function PostList(props) {
     const { posts, newest } = props;
@@ -17,7 +17,7 @@ function PostList(props) {
                     const { frontmatter, slug } = post;
                     const { display, date, title, subtitle, pinned } = frontmatter;
 
-                    return newest ? <PinnedItem key={index} slug={slug} display={display ? display: title } date={date} subtitle={subtitle} /> : (<GridItem key={index} slug={slug} display={display ? display: title} date={date} pinned={pinned} />
+                    return newest ? <NewestListItem key={index} slug={slug} display={display ? display: title } date={date} subtitle={subtitle} /> : (<GridItem key={index} slug={slug} display={display ? display: title} date={date} pinned={pinned} />
                     );
                 })}
 
