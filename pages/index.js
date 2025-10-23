@@ -1,5 +1,4 @@
 import Link from "next/link";
-// import { posts } from "../posts";
 import PostList from "../components/PostList";
 import NewestPost from "../components/NewestPost";
 import Layout from "../components/Layout";
