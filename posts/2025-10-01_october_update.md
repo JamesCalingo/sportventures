@@ -4,7 +4,7 @@ title: "October Update"
 subtitle: 'Introducing the content that will be going up this month (alongside a few "live" reports)'
 date: 1 October 2025
 published: false
-pinned: true
+pinned: false
 ---
 
 Happy October everyone! With the baseball postseason starting yesterday (and the Minor League Baseball season LONG done by now), I feel like it’s time to shift gears.
