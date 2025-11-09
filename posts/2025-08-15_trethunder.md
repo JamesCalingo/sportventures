@@ -5,6 +5,7 @@ subtitle: 'AKA "How to recover after a truly shocking breakup"'
 date: 15 August 2025
 published: true
 pinned: false
+tags: ["Baseball", "Minor League Baseball", "New Jersey", "MLB Draft League",]
 ---
 
 _\*This trip occurred on June 4th, 2025._

@@ -5,6 +5,7 @@ subtitle: "A borough often scorned gets a second chance at baseball"
 date: 14 August 2025
 published: true
 pinned: false
+tags: ["Baseball", "Independent Baseball", "New York", "Atlantic League", "Staten Island", "SIUH Ballpark"]
 ---
 
 _\*This trip occurred on May 29, 2025._

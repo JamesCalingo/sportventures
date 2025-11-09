@@ -5,6 +5,7 @@ subtitle: 'A trip down the shore BEFORE "Shore Season": good idea or bad idea?'
 date: 8 August 2025
 published: true
 pinned: false
+tags: ["Baseball", "Minor League Baseball", "New Jersey", "South Atlantic League", "High A", "Phillies", "Philadelphia"]
 ---
 
 _\*This trip occurred on April 12, 2025._
