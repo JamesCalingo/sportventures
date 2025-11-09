@@ -3,7 +3,7 @@ display: "Brooklyn FC (11/8/25)"
 title: "Brooklyn FC (Gainbridge Super League) @ Maimonides Park (Brooklyn, NY)"
 subtitle: "After a three month delay, I FINALLY get to see Brooklyn FC"
 date: 9 November 2025
-published: false
+published: true
 pinned: false
 ---
 
