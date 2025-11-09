@@ -22,7 +22,7 @@ Much like the MLW post, I won’t get into details on Maimonides Park as anythin
 ![A photo of the field at Maimonides Park set up for soccer from behind home plate. It is meant to showcases how poor the view of the soccer is from these seats](/images/ueckerseats.jpeg)
 <figcaption>A great view for baseball...but not for soccer</figcaption>
 
-Field side seats are available, but these are not exactly "cheap", so be aware of that. I also found what I believe is a premium area for Cyclones games that I never bothered to try and explore during either game I went to, but there was nothing going on here (only one concession stand was open for this game).
+Field side seats are available, but these are not exactly "cheap", so be aware of that. I also found what I believe is a premium area for Cyclones games that I never bothered to try and explore during either game I went to near the entrance for the field side seats, but there was nothing going on here (only one concession stand was open for this game).
 
 A few sections behind the goal on the third base side are marked as supporters' sections. Unlike Gotham FC, however, the seats are not locked upright, so you can actually sit here if you wanted to. Given how sparse crowds here are, you could feasibly sit just about anywhere, though from personal experience...it's probably a VERY BAD idea. These were also the least expensive seats I found for this game, so I ended up getting a ticket here (and it seemed like 90% of the crowd was back here too, as it's easily the best seats to actually see the game with how the field is set up).
 
