@@ -57,7 +57,7 @@ I also made a quick stop at the Barclays Center (home of the NBA's Brooklyn Nets
 
 \---
 
-As for Brooklyn FC, [I was finally able to make the trip a few months after this game](2025-11-09_brooklynfc_womens).
+As for Brooklyn FC, [I was finally able to make the trip a few months after this game](2025-11-09_bkfc_womens).
 
 Also, <a href="https://www.instagram.com/p/DOCtX1ujXMs/" target="blank">please check out this video I made from footage I recorded on the subway ride back to Penn Station I had to edit it FOUR times because it kept getting lost for some stupid reason</a> <sub>kthnxbai</sub>
 
