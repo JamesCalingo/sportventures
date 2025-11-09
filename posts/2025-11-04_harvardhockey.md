@@ -40,14 +40,6 @@ I said I wasn’t going to talk about Harvard Square, but I do need to mention t
 
 ---
 
-### ON DECK
-
-In a sense, this the end of the “hockey catch up” series. There’s still a few games I went to back in the day that I wrote about, but I have my reasons for waiting on them.
-
-I'll be back here next weekend, however, with something that's been "in the works" since August (and also one I believe has been mentioned on this blog before).
-
----
-
 [^1]: I don't feel the need to dive into the ECAC's history, but it's the oldest conference in college hockey - on the men's side. There is one conference that is TECHNICALLY older, but it's currently women's hockey only as its men's league disbanded in 2021 after a series of realignments stemming from the Big Ten stepping into the college hockey landscape.
 [^2]: If you need a quick refresher: the Beanpot is Boston's annual college hockey tournament between four local schools, and is (probably) one of the most famous tournaments in the hockey world. Also, given how BC's been this year, it looks like this will still be valid for quite a bit longer...
 [^3]: From what I could glean, Columbia has NEVER had D-I hockey, while Penn used to but disbanded the program a LONG time ago. Both schools do maintain club teams however.

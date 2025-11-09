@@ -19,7 +19,7 @@ Now that I've got a ticket to a Banana Ball game (plus some other things which w
 
 _(or We Don’t Talk About the Dropkick Murphys Anymore)_
 
-Fenway Park is famously the oldest park in Major League Baseball, having been opened in 1912. Nestled a mile or so from downtown Boston in the Fenway-Kenmore section, so many famous players and so many famous moments have occurred in the park’s over 100 year history[^8].
+Fenway Park is famously the oldest park in Major League Baseball, having been opened in 1912. Nestled a mile or so from downtown Boston in the Fenway-Kenmore section, so many famous players and so many famous moments have occurred in the park’s over 100 year history[^1].
 
 As someone who used to frequent the area, I must say...I don’t feel like it’s THAT special. Yes, you can "feel the history" when you're inside, but the "history" hides a lot of things that have very much evolved which simply can't be changed with Fenway. The main concourse lacks field views, the upper deck is still held up by poles obstructing some seats, and there are still a lot of super old wooden seats in the grandstand (which I’ve heard are rather uncomfortable). However, I feel like I should also note that Fenway is a bit of a “mishmash” of things that were built in very different decades - you have:
 
@@ -77,7 +77,7 @@ In case you were wondering, the Bananas won. On some level, that’s not really 
 
 ### That sweet sweet merch
 
-Everyone knows that merchandising is one of the most important aspects for any sports team (especially one where tickets are at a premium), and the Bananas are no exception to that rule[^9].
+Everyone knows that merchandising is one of the most important aspects for any sports team (especially one where tickets are at a premium), and the Bananas are no exception to that rule[^2].
 
 One of the things that the Bananas have been known for over the years is having FREE SHIPPING on online merchandise purchases (if you’re in the U.S.), and when you get your stuff, it usually comes in a bright yellow box and with other free goodies (I’ve gotten stickers and drink koozies in the past). However, I’ll briefly mention the Red Sox, as they are the main tenant at Fenway Park.
 
@@ -113,5 +113,5 @@ My verdict on Banana Ball.
 
 ---
 
-[^8]: I’m not going to talk about the Red Sox here - this is not their game, and I feel like I’m going to drive myself insane by discussing them...long story short: they pulled me into following MLB in 2004 and then more or less drove me away from it in 2024.
-[^9]: I’ve occasionally seen Savannah Bananas jerseys being sold at various Dick’s Sporting Goods locations, including the one nearest Fenway Park having A TON on the day of the game. I saw the price for a youth jersey, however, and it was WAY overpriced - especially once you throw in the free shipping...
+[^1]: I’m not going to talk about the Red Sox here - this is not their game, and I feel like I’m going to drive myself insane by discussing them...long story short: they pulled me into following MLB in 2004 and then more or less drove me away from it in 2024.
+[^2]: I’ve occasionally seen Savannah Bananas jerseys being sold at various Dick’s Sporting Goods locations, including the one nearest Fenway Park having A TON on the day of the game. I saw the price for a youth jersey, however, and it was WAY overpriced - especially once you throw in the free shipping...
