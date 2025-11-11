@@ -51,6 +51,8 @@ I discussed the Maimonides Park team store back during my first visit, but in ca
 
 I will admit here that part of the reason I didn’t want to wait to return was due to Brooklyn FC merch, but alas, there was no Brooklyn FC merch available for this game. There may have been a good reason for that however: the Cyclones were having a “fan appreciation sale” and most items in the store were 25% off (i.e. the system was already set to take 25% off any items it doesn't have marked as "clearance", and Brooklyn FC merch wasn't supposed to be part of that). This ended up helping me quite a bit as I got one of the hats I alluded to earlier[^4]; however, the most interesting items to me were THESE hats:
 
+<div id="hats"> </div>
+
 ![Four hats - none of which are Brooklyn Cyclones hats. The hats are for the Columbia Fireflies (top left), St. Lucie Mets (top right), Binghamton Rumble Ponies (bottom left), and Kingsport Mets (bottom right)](/images/noncycloneshats.jpeg)
 
 These four hats are for other teams that WERE affiliated with the Mets back in the day; two are still affiliated with the Mets today, one changed affiliation during the 2020 realignment, and the last team was axed in 2020. They are:
@@ -66,7 +68,7 @@ I also made a quick stop at the Barclays Center (home of the NBA's Brooklyn Nets
 
 \---
 
-As for Brooklyn FC, [I was finally able to make the trip a few months after this game](2025-11-09_brooklynfc_womens).
+As for Brooklyn FC, [I was finally able to make the trip a few months after this game](2025-11-09_bkfc_womens).
 
 Also, <a href="https://www.instagram.com/p/DOCtX1ujXMs/" target="blank">please check out this video I made from footage I recorded on the subway ride back to Penn Station I had to edit it FOUR times because it kept getting lost for some stupid reason</a> <sub>kthnxbai</sub>
 
