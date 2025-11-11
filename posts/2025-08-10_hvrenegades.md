@@ -5,7 +5,16 @@ subtitle: "A trip nearly 20 years in the making...probably"
 date: 10 August 2025
 published: true
 pinned: false
-tags: ["Baseball", "Minor League Baseball", "New York", "South Atlantic League", "High A", "Yankees"]
+tags:
+  [
+    "Baseball",
+    "Minor League Baseball",
+    "New York",
+    "South Atlantic League",
+    "High A",
+    "Yankees",
+    "Outdoor Sports",
+  ]
 ---
 
 _\*This trip occurred on May 1, 2025._

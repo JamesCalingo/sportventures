@@ -1,10 +1,22 @@
 ---
 display: "HOCKEY CATCH-UP: UNH"
 title: "UNH Wildcats Hockey (Hockey East) @ Whittemore Center Arena (Durham, NH)"
-subtitle: "One of the more open arenas in Hockey East" 
+subtitle: "One of the more open arenas in Hockey East"
 date: 24 October 2025
 published: true
 pinned: false
+tags:
+  [
+    "Hockey",
+    "College Hockey",
+    "College",
+    "Hockey East",
+    "UNH",
+    "New Hampshire",
+    "Pre-2025",
+    "Catch-Up",
+    "Indoor Sports",
+  ]
 ---
 
 _\*This GAME occurred on December 9, 2023. I did make a quick visit to the arena beforehand, but I don’t remember the date of that._

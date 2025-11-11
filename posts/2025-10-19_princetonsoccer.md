@@ -5,9 +5,19 @@ subtitle: "A visit to a college football landmark - for association football"
 date: 19 October 2025
 published: true
 pinned: false
+tags:
+  [
+    "Football",
+    "Soccer",
+    "College",
+    "College Soccer",
+    "Princeton University",
+    "Ivy League",
+    "New Jersey",
+  ]
 ---
 
-*\*This trip occurred on October 18, 2025.*
+_\*This trip occurred on October 18, 2025._
 
 Princeton University is one of America’s oldest colleges and a member of the famous Ivy League. I won’t get too deep into the school as they have a LONG alumni list (being the fourth oldest college in the United States will do that[^1]), but I will mention that their football team is technically tied with Rutgers for being the oldest football program in the United States - after all, SOMEONE had to be the opponent for the First Ever College Football Game™.
 
@@ -22,6 +32,7 @@ Part of that was due to something I saw online that had Princeton ranked as #1 i
 As for the stadium, it's got a somewhat interesting history: it's the SECOND Roberts Stadium Princeton has played soccer in. The original Roberts Stadium was in a different location, but was moved closer to Princeton's other athletic facilities (and its parking garage) in 2022. To help explain where various landmarks in this stadium are located, I'll use the cardinal directions each side of the stadium is on to demarcate things (as it was VERY easy to tell which side is which). The photo below was taken from the south stand, which is the most basic as it only features bleacher seating.
 
 ![A photo of Roberts Stadium from its south stand](/images/robertsstadium.jpeg)
+
 <figcaption>From left to right: the west stand with the press box, merch, and player entrances, the north stand with the video board, and the east stand with concessions.</figcaption>
 
 On the west end of the stadium is its "main" entrance and press box above. This area also features a merchandise area (more on that in a bit) and a ticket booth, as some games (i.e. playoff games) are ticketed events. Below this is the bench/tunnel area; there are no bleachers above the benches/tunnel, so if you want to watch the game here (at the midfield line), you do have to stand.

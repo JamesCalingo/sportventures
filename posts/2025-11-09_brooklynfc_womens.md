@@ -5,6 +5,16 @@ subtitle: "After a three month delay, I FINALLY get to see Brooklyn FC"
 date: 9 November 2025
 published: true
 pinned: false
+tags: [
+    "Football",
+    "Soccer",
+    "USL",
+    "USL Super League",
+    "Brooklyn",
+    "New York",
+    "Repeat Visit",
+    "Outdoor Sports"
+  ]
 ---
 
 _\*This trip occurred on November 8, 2025._

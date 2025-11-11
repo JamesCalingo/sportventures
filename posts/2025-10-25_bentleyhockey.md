@@ -5,6 +5,19 @@ subtitle: "A very hidden gem of the Boston hockey scene"
 date: 25 October 2025
 published: true
 pinned: false
+tags:
+  [
+    "Hockey",
+    "College Hockey",
+    "College",
+    "Atlantic Hockey America",
+    "Bentley University",
+    "Boston",
+    "Massachusetts",
+    "Pre-2025",
+    "Catch-Up",
+    "Indoor Sports",
+  ]
 ---
 
 _\*This trip occurred on February 24, 2024._

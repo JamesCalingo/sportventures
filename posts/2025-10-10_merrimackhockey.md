@@ -5,6 +5,18 @@ subtitle: "The official college hockey team of Pope Leo XIV (probably)"
 date: 10 October 2025
 published: true
 pinned: false
+tags:
+  [
+    "Hockey",
+    "College Hockey",
+    "College",
+    "Merrimack",
+    "Hockey East",
+    "Massachusetts",
+    "Pre-2025",
+    "Catch-Up",
+    "Indoor Sports",
+  ]
 ---
 
 _\*This is another Hockey East arena that I’ve been to twice; however, the visits were in different seasons about a year apart: November 11, 2023 and October 26, 2024. I don't get into the results of either game in the post, but I’ll tell you upfront that Merrimack LOST both of them - the first game on a late goal (vs UConn), and the second game in a blowout against nearby rival UMass Lowell._

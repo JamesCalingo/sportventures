@@ -5,6 +5,18 @@ subtitle: 'A very, VERY deep dive into the "Greatest Show in Sports"'
 date: 23 August 2025
 published: true
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Independent Baseball",
+    "Other Sports",
+    "Banana Ball",
+    "Savannah Bananas",
+    "Fenway Park",
+    "Massachusetts",
+    "Boston",
+    "Outdoor Sports",
+  ]
 ---
 
 _\*This trip occurred on July 6, 2025, and I had so many thoughts on what happened that I’ve had to structure this post a bit differently than my other posts (case in point: my draft for this was SEVENTEEN PAGES LONG). To save everyone's sanity from having to scroll for all of that, I've broken this post into multiple parts - this one obviously being the intro._

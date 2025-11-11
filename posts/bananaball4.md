@@ -5,6 +5,18 @@ subtitle: "My personal thoughts on Banana Ball"
 date:
 published: false
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Independent Baseball",
+    "Other Sports",
+    "Banana Ball",
+    "Savannah Bananas",
+    "Fenway Park",
+    "Massachusetts",
+    "Boston",
+    "Outdoor Sports",
+  ]
 ---
 
 _This is the final part of a multi-part post. You can easily access the other parts here:_

@@ -5,6 +5,20 @@ subtitle: "Hockey at one of America's most famous universities"
 date: 4 November 2025
 published: true
 pinned: false
+tags:
+  [
+    "Hockey",
+    "College Hockey",
+    "College",
+    "Harvard University",
+    "Ivy League",
+    "ECAC Hockey",
+    "Boston",
+    "Massachusetts",
+    "Pre-2025",
+    "Catch-Up",
+    "Indoor Sports",
+  ]
 ---
 
 _\*That’s right - TODAY is Harvard’s home opener (and again, it's a Tuesday); I'll get into why it's so late in a little bit. As for this post, it covers two visits that both happened in November 2023: one on the 3rd and the other on the 26th._
@@ -20,6 +34,7 @@ One other quirk about the Ivy League: due to its rules limiting how long athleti
 Anyhoo, back to the school at hand: Harvard University’s main campus is in Cambridge, MA (I was actually born about a mile away from it), but most of their sport programs are based in a complex across the Charles River in the Allston section of Boston. In terms of their hockey arena, the Bright-Landry Hockey Center has a somewhat interesting history: it originally opened with a different name in 1956 (thus putting it in line to be the oldest hockey arena in Boston fairly soon), but was substantially renovated in the late 1970s when it received its current name (so even if we considered this to be a wholly separate building, it’ll still be the oldest "college and higher" hockey arena in Boston).
 
 ![An image of warmups at Bright-Landry Hockey Center](/images/harvardhockey.jpg)
+
 <figcaption>A real "hockey barn"</figcaption>
 
 The arena feels like a giant “pit”, so to speak: I’d call it a “concourse style” building where you enter at concourse level and there's no real lobby, but with much, MUCH fewer amenities (as in just two small concession stands plus merchandise which I’ll get into a bit later). In fact, there’s an indoor track area adjacent to the hockey arena, with windows overlooking the track.

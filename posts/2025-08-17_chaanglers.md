@@ -5,6 +5,16 @@ subtitle: "One of the crown jewels of pre-professional baseball IMO"
 date: 17 August 2025
 published: true
 pinned: false
+tags:
+  [
+    "Baseball",
+    "College Baseball",
+    "Summer League Baseball",
+    "Cape Cod Baseball League",
+    "Massachusetts",
+    "Repeat Visit",
+    "Outdoor Sports",
+  ]
 ---
 
 _\*This trip occurred on July 3, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._

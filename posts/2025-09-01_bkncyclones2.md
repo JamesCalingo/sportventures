@@ -5,6 +5,17 @@ subtitle: "The first (and only) repeat trip of the 2025 baseball season is also 
 date: 1 September 2025
 published: true
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Minor League Baseball",
+    "New York",
+    "South Atlantic League",
+    "High A",
+    "Mets",
+    "Repeat Visit",
+    "Outdoor Sports",
+  ]
 ---
 
 _\*This trip occurred on August 31, 2025._
