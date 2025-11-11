@@ -5,6 +5,18 @@ subtitle: "A visit to the biggest building in Hockey East"
 date: 5 October 2025
 published: true
 pinned: false
+tags:
+  [
+    "Hockey",
+    "College Hockey",
+    "College",
+    "Hockey East",
+    "UMass Amherst",
+    "Massachusetts",
+    "Pre-2025",
+    "Catch-Up",
+    "Indoor Sports"
+  ]
 ---
 
 _\*UMass had its home opener last night, but I decided to post this after BU to for "narrative purposes". I’ve only been to this building once, and that was on November 18, 2023 - yes, BEFORE the [BU game I discussed yesterday](2025-10-04_buhockey) (though technically I went to Agganis Arena first before coming here given the two events I went to in the summer)._

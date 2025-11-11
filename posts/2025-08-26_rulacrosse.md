@@ -5,6 +5,17 @@ subtitle: 'I visit the so called "Birthplace of College Football" for a complete
 date: 26 August 2025
 published: true
 pinned: false
+tags:
+  [
+    "Lacrosse",
+    "Field Lacrosse",
+    "College",
+    "Other College Sports",
+    "Rutgers",
+    "New Jersey",
+    "Big Ten", 
+    "Outdoor Sports"
+  ]
 ---
 
 _\*This trip occurred on March 1, 2025._

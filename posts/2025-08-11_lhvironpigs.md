@@ -5,6 +5,18 @@ subtitle: '"Well we''re living here in Allentown..."'
 date: 11 August 2025
 published: true
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Minor League Baseball",
+    "Pennsylvania",
+    "Allentown",
+    "International League",
+    "Triple A",
+    "Phillies",
+    "Philadelphia",
+    "Outdoor Sports",
+  ]
 ---
 
 _\*This trip occurred on May 8, 2025._

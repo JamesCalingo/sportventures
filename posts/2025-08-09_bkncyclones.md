@@ -5,6 +5,16 @@ subtitle: "Baseball in Brooklyn is BACK - Back in the New York Groove"
 date: 9 August 2025
 published: true
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Minor League Baseball",
+    "New York",
+    "South Atlantic League",
+    "High A",
+    "Mets",
+    "Outdoor Sports",
+  ]
 ---
 
 _\*This trip occurred on April 30, 2025._

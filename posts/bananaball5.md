@@ -5,6 +5,18 @@ subtitle:
 date:
 published: false
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Independent Baseball",
+    "Other Sports",
+    "Banana Ball",
+    "Savannah Bananas",
+    "Fenway Park",
+    "Massachusetts",
+    "Boston",
+    "Outdoor Sports",
+  ]
 ---
 
 Yep - there's actually a bit more to my Banana Ball story!

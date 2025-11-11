@@ -5,9 +5,19 @@ subtitle: "I go back to school to watch baseball"
 date: 25 August 2025
 published: true
 pinned: false
+tags:
+  [
+    "Baseball",
+    "College",
+    "College Baseball",
+    "Seton Hall",
+    "New Jersey",
+    "Big East",
+    "Outdoor Sports",
+  ]
 ---
 
-_\*This visit occurred on March 11, 2025._ 
+_\*This visit occurred on March 11, 2025._
 
 In going over my calendar of sporting events, I had COMPLETELY forgotten that I came here once! Part of that is likely because this visit was before I started these reports; in fact, all but one of the rest of this month's posts are from games I attended before I started writing "2025 posts".
 

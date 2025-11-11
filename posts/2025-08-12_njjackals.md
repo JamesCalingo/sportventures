@@ -5,11 +5,21 @@ subtitle: "A historic stadium gets a new lease on life"
 date: 12 August 2025
 published: true
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Independent Baseball",
+    "New Jersey",
+    "Frontier League",
+    "Paterson",
+    "Outdoor Sports",
+  ]
 ---
 
 _\*This trip occurred on May 18, 2025._
 
 ![A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.](/images/hinchliffe.jpeg)<br>
+
 <figcaption>A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.</figcaption>
 
 Paterson, New Jersey.

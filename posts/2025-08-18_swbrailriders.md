@@ -5,6 +5,16 @@ subtitle: "Old friends and new friends in Scranton/Wilkes-Barre"
 date: 18 August 2025
 published: true
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Minor League Baseball",
+    "Pennsylvania",
+    "International League",
+    "Triple A",
+    "Yankees",
+    "Outdoor Sports",
+  ]
 ---
 
 _\*This trip occurred on August 17, 2025. I decided to post about it here rather than waiting to catch up with the rest of my backlog - partially as a sort of "preview" of how rapidly I expect non-backlog posts to be posted._

@@ -2,6 +2,7 @@ import Image from "next/image";
 import Markdown from "react-markdown";
 import { postSlugs, postForSlug } from "../posts";
 import Layout from "../components/Layout";
+import Tag from "../components/Tag";
 import rehypeRaw from "rehype-raw";
 import remarkRehype from "remark-rehype";
 import remarkGfm from "remark-gfm";
@@ -17,6 +18,7 @@ function Post({ frontmatter, body }) {
           <h1 className="title">{frontmatter.title}</h1>
           <h2 className="description">{frontmatter.subtitle}</h2>
           <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString()}</b></em>
+
           <Markdown
             rehypePlugins={[rehypeRaw]}
             remarkPlugins={[remarkGfm, remarkRehype]}
@@ -27,6 +29,10 @@ function Post({ frontmatter, body }) {
             }}>
             {body}
           </Markdown>
+          <div className="tags-container">
+            <p>TAGS:</p>
+            {frontmatter.tags && frontmatter.tags.sort().map((tag, index) => <Tag key={index} index={index} last={frontmatter.tags.length - 1} tag={tag} />)}
+          </div>
         </article>
       </div>
     </Layout >

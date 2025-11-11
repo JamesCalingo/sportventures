@@ -5,6 +5,17 @@ subtitle: 'When a place calls itself "Baseballtown", you have to check it out'
 date: 24 August 2025
 published: true
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Minor League Baseball",
+    "Pennsylvania",
+    "Eastern League",
+    "Double A",
+    "Phillies",
+    "Philadelphia",
+    "Outdoor Sports",
+  ]
 ---
 
 _\*This trip occurred on July 22, 2025._

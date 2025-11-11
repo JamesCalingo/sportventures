@@ -5,6 +5,17 @@ subtitle: "The life of a Phantom(s preseason game)"
 date: 6 October 2025
 published: true
 pinned: false
+tags:
+  [
+    "Hockey",
+    '"Minor League Hockey"',
+    "Pennsylvania",
+    "Allentown",
+    "American Hockey League",
+    "Flyers",
+    "Philadelphia",
+    "Indoor Sports",
+  ]
 ---
 
 _\*This trip occurred on October 5, 2025._

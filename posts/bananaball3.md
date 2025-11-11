@@ -5,6 +5,18 @@ subtitle: "A grand day out at the ol' ballpark"
 date:
 published: false
 pinned: false
+tags:
+  [
+    "Baseball",
+    "Independent Baseball",
+    "Other Sports",
+    "Banana Ball",
+    "Savannah Bananas",
+    "Fenway Park",
+    "Massachusetts",
+    "Boston",
+    "Outdoor Sports",
+  ]
 ---
 
 _This is part 3 of a multi-part post. You can easily access the other parts here:_
