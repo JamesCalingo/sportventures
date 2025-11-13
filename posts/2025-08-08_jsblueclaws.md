@@ -14,7 +14,8 @@ tags:
     "High A",
     "Phillies",
     "Philadelphia",
-    "Outdoor Sports"
+    "Outdoor Sports",
+    "First Visit"
   ]
 ---
 

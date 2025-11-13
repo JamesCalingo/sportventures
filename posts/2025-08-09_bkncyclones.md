@@ -9,11 +9,13 @@ tags:
   [
     "Baseball",
     "Minor League Baseball",
+    "Brooklyn",
     "New York",
     "South Atlantic League",
     "High A",
     "Mets",
     "Outdoor Sports",
+    "First Visit"
   ]
 ---
 

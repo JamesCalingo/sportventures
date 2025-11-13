@@ -15,7 +15,8 @@ tags:
     "Massachusetts",
     "Pre-2025",
     "Catch-Up",
-    "Indoor Sports"
+    "Indoor Sports",
+    "First Visit",
   ]
 ---
 

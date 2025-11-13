@@ -14,7 +14,8 @@ tags:
     "Rutgers",
     "New Jersey",
     "Big Ten", 
-    "Outdoor Sports"
+    "Outdoor Sports",
+    "First Visit"
   ]
 ---
 

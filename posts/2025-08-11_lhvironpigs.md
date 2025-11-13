@@ -16,6 +16,7 @@ tags:
     "Phillies",
     "Philadelphia",
     "Outdoor Sports",
+    "First Visit"
   ]
 ---
 

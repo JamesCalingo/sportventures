@@ -14,6 +14,7 @@ tags:
     "Princeton University",
     "Ivy League",
     "New Jersey",
+    "First Visit",
   ]
 ---
 
