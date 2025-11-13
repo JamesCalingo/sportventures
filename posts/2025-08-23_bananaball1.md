@@ -16,6 +16,8 @@ tags:
     "Massachusetts",
     "Boston",
     "Outdoor Sports",
+    "First Visit",
+    "Repeat Visit",
   ]
 ---
 

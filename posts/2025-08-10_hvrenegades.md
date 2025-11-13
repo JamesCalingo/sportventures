@@ -14,6 +14,7 @@ tags:
     "High A",
     "Yankees",
     "Outdoor Sports",
+    "First Visit"
   ]
 ---
 

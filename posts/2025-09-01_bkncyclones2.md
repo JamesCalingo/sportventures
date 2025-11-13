@@ -9,6 +9,7 @@ tags:
   [
     "Baseball",
     "Minor League Baseball",
+    "Brooklyn",
     "New York",
     "South Atlantic League",
     "High A",
@@ -51,7 +52,7 @@ I discussed the Maimonides Park team store back during my first visit, but in ca
 
 I will admit here that part of the reason I didn’t want to wait to return was due to Brooklyn FC merch, but alas, there was no Brooklyn FC merch available for this game. There may have been a good reason for that however: the Cyclones were having a “fan appreciation sale” and most items in the store were 25% off (i.e. the system was already set to take 25% off any items it doesn't have marked as "clearance", and Brooklyn FC merch wasn't supposed to be part of that). This ended up helping me quite a bit as I got one of the hats I alluded to earlier[^4]; however, the most interesting items to me were THESE hats:
 
-<div id="hats"> </div>
+<div id="hats"></div>
 
 ![Four hats - none of which are Brooklyn Cyclones hats. The hats are for the Columbia Fireflies (top left), St. Lucie Mets (top right), Binghamton Rumble Ponies (bottom left), and Kingsport Mets (bottom right)](/images/noncycloneshats.jpeg)
 

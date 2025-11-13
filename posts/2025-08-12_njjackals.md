@@ -13,6 +13,7 @@ tags:
     "Frontier League",
     "Paterson",
     "Outdoor Sports",
+    "First Visit"
   ]
 ---
 

@@ -183,6 +183,16 @@ margin-bottom: 0
   margin-bottom: 20px;
 }
 
+#tag-filter {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#tag-filter select {
+  font-size: 16pt;
+  /* padding: 5px 10px; */
+}
+
 #newest .section-header {
   margin-bottom: 10px;
 }

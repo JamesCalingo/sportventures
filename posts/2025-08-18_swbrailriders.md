@@ -14,6 +14,7 @@ tags:
     "Triple A",
     "Yankees",
     "Outdoor Sports",
+    "First Visit"
   ]
 ---
 

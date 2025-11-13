@@ -8,19 +8,20 @@ pinned: false
 tags:
   [
     "Hockey",
-    '"Minor League Hockey"',
+    "Minor League Hockey",
     "Pennsylvania",
     "Allentown",
     "American Hockey League",
     "Flyers",
     "Philadelphia",
     "Indoor Sports",
+    "First Visit"
   ]
 ---
 
 _\*This trip occurred on October 5, 2025._
 
-Since this is the first time we’re diving into affiliated minor league hockey on this blog, I figured I’d give a little rundown of how it's structured, because it’s (theoretically) a lot simpler than baseball’s structure.
+Since this is the first time we’re diving into affiliated "minor league hockey" on this blog, I figured I’d give a little rundown of how it's structured, because it’s (theoretically) a lot simpler than baseball’s structure.
 
 Each team in the NHL has only two minor league affiliates (for the most part; the few that don't are getting their second affiliate soon-ish IIRC). The higher affiliate is in the American Hockey League (AHL), and the lower affiliate is in the ECHL (which is technically no longer an acronym); both leagues consist of teams across the United States and Canada unlike how baseball has much smaller, regional leagues like the International League (AAA), Eastern League (AA), or South Atlantic League (High-A). One thing that separates the two systems, however, is that while Minor League Baseball typically sees players rise through the levels to get to MLB, it’s rarer for players to rise through the ranks of the hockey leagues: many players who get drafted start in the NHL right away, and going to the AHL or ECHL pretty much means they’re not likely to become regular NHL players (let alone stars). Because of this, the quality of play in the AHL (and more so in the ECHL) is often viewed as being inferior to the NHL (as well as top level NCAA programs and the CHL’s three leagues, which typically produce a significant amount of the draft's talent). This problem can actually be seen in player contracts, where some players will have a two-way contract with the NHL team, but others will have a contract that’s (almost) purely with the AHL (or ECHL) team.
 

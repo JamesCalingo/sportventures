@@ -14,6 +14,7 @@ tags:
     "New Jersey",
     "Big East",
     "Outdoor Sports",
+    "First Visit"
   ]
 ---
 
