@@ -2,25 +2,24 @@
 // import PostList from "../../components/PostList";
 // import Layout from "../../components/Layout";
 // import {tags} from "../../utils/utils";
-// console.log(tags)
 
-// const Tagged = ({ posts }, tag) => {
+const Tagged = ({ posts }, tag) => {
 
-//     const published = posts.filter((post) => post.frontmatter.published === true);
-//     const tagged = published.filter(post => post.frontmatter.tags && post.frontmatter.tags.includes(tag)).reverse()
+    // const published = posts.filter((post) => post.frontmatter.published === true);
+    // const tagged = published.filter(post => post.frontmatter.tags && post.frontmatter.tags.includes(tag)).reverse()
 
 
-//     return (
-//         <Layout pageTitle={`${tag} - Sportventures`}>
+    return (<></>
+        // <Layout pageTitle={`${tag} - Sportventures`}>
 
-//             <div className="section-header">
-//                 <span>Posts tagged "{tag}"</span>
-//             </div>
-//             <PostList posts={tagged} />
+        //     <div className="section-header">
+        //         <span>Posts tagged "{tag}"</span>
+        //     </div>
+        //     <PostList posts={tagged} />
 
-//         </Layout>
-//     );
-// };
+        // </Layout>
+    );
+};
 
 // export async function getStaticProps() {
 //     const tagProps = tags;
@@ -41,4 +40,4 @@
 //   };
 // }
 
-// export default Tagged;
+export default Tagged;
