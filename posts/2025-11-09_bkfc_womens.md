@@ -58,12 +58,6 @@ One other note: Congratulations to [New York Red Bulls II](2025-09-22_rbnyii) fo
 
 ---
 
-### ON DECK
-
-Spoiler alert: I'm going back to Princeton next! For what and when, however, is still TBD.
-
----
-
 [^1]: The league is known as the Gainbridge Super League because SPONSOR
 [^2]: Soccer teams loan players to other teams in order for those players to get playing time and experience with a competitive first team. It's a system that is rather unique to soccer, as I don't know of ANY other sport that does this.
 [^3]: Both teams are well ahead of Brooklyn attendance wise, so it's not likely that this is contributing to the attendance woes...
