@@ -19,9 +19,7 @@ tags:
   ]
 ---
 
-_\*This trip occurred on November 15, 2025. Also, if you haven't seen it yet, every post on this site now has tags! It's part of a bigger update I'm still working on, but I did get one BIG part of it working, so I felt it was good to have them now._
-
-<!-- _\*This trip occurred on November 15, 2025, and there was a [GOOD reason I had the time to post about it on the same day as the game](2025-11-16_princetonhockey#mens). Also, if you haven't seen it yet, every post on this site now has tags! It's part of a bigger update I'm still working on, but I did get one BIG part of it working, so I felt it was good to have them now._ -->
+_\*This trip occurred on November 15, 2025, and there was a [GOOD reason I had the time to post about it on the same day as the game](2025-11-16_princetonhockey). Also, if you haven't seen it yet, every post on this site now has tags! It's part of a bigger update I'm still working on, but I did get one BIG part of it working, so I felt it was good to have them now._
 
 _However, I should also mention that this site now has a new URL! The old one still works (I'm FAIRLY sure), but this new one feels a lot more "official". Now, onto today's featured trip:_
 
@@ -43,7 +41,7 @@ The main thing which made this trip possible: TICKETS ARE FIFTEEN DOLLARS! Sureâ
 
 ![An image of a play during a football game taken from the last row of the stadium](/images/upperdeck.jpeg)
 
-<figcaption>What $15 can get you at Princeton. Which of these images? Yes.</figcaption>
+<figcaption>What $15 can get you at Princeton.<br>Which of these images? Yes.</figcaption>
 
 Anyhoo, let's talk about the football stadium. It was built in 1998 on top of the stadium it replaced (which forced Princeton to play an entire season on the road), and is far and away the "newest" stadium in the Ivy League (with the second newest being 1984, and the rest being from before the Great Depression). I think the best way for me to talk about the stadium is from the "ground" (aka the field) up.
 
@@ -64,23 +62,15 @@ There are two other things I wanna mention before I go (besides the ol' merch si
 
 ![A photo of fans on the field at Princeton Stadium after a game](/images/fifthquarter.jpeg)
 
-<figcaption>I made it onto an Ivy League field! ...Along with everyone else.</figcaption>
+<figcaption>I made it onto an Ivy League field!<br>...Along with everyone else.</figcaption>
 
 ### MERCH
 
 About a month before this game (in October 2025), I visited one of Princeton's campus stores and saw shirts for three of their biggest rivals: Penn, Harvard, and the aforementioned Yale (because apparently the other four Ivies are far less relevant to Princeton). In terms of other merch, the only thing that I was even remotely interested in for football was a soft foam/plastic mini football (which, in all honesty, I wasn't actually that interested in).
 
-At the game, a merchandise tent greets fans who enter from the northeast gate; since this is the closet gate to the main parking garage, it's likely to be the first thing most fans see. While they had a lot of shirts and such I wasn't super interested in (and they didn't sell jerseys), they had a few more footballs, and I ended up getting one that was closest to the official NCAA size (and color).
+At the game, a merchandise tent greets fans who enter from the northeast gate; since this is the closet gate to the main parking garage, it's likely to be the first thing most fans see. While they had a lot of shirts and such I wasn't super interested in (and they didn't sell jerseys OR mini-helmets, which is a MASSIVE missed opportunity), they had a few more footballs, and I ended up getting one that was closest to the official NCAA size (and color). 
 
-I almost bought a small plush tiger as well - however, it wasn't something I was planning on going home with...
-
-<!-- I almost bought a small plush tiger as well - however, [it wasn't something I was planning on going home with...](2025-11-16_princetonhockey#men) -->
-
----
-
-### ON DECK
-
-If you're reading this on the day it comes out (i.e. when this section is actually still available), you may have noticed that this post was published on the same day as the trip it's describing - something I don't USUALLY do. Well, there's a reason that I have the time to post about this game today (other than the fact that it started at noon), and I'll talk more about that...tomorrow.
+I almost bought a small plush tiger as well, but ended up not doing so. It wasn't something I was planning on going home with, but as it turns out, [I should have gotten it...](2025-11-16_princetonhockey#mens)
 
 ---
 
