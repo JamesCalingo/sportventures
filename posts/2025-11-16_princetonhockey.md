@@ -119,10 +119,6 @@ One final note about Hobey Baker as a whole: concessions at the games felt a bit
 
 Something I've learned in going to all of these Princeton sporting events: it's probably one of the best ways to watch (decently) high-level sports in New Jersey given that it's the least expensive football/hockey/soccer tickets I've found in the state (not to mention the free parking). Because of this, at least one more trip may be in the cards soon...
 
-### ON DECK
-
-For now, however, I don't have any solid plans - Princeton or otherwise. There are a few dates and things on my radar (including, yes, more Princeton), but nothing is certain (though one thing that is certain: I'm thinking of going to a non-sporting event next Saturday).
-
 ---
 
 [^1]: The men's team had an exhibition game against a school from Canada on October 25th.
