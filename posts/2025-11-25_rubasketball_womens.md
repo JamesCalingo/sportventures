@@ -1,5 +1,5 @@
 ---
-display: "Rutgers Women’s Basketball (12/20/25)"
+display: "Rutgers Women’s Basketball (11/24/25)"
 title: "Rutgers Scarlet Knights Women's Basketball (Big Ten) @ Jersey Mike’s Arena (Piscataway, NJ)"
 subtitle: "Courtside at a surprisingly close game"
 date: 25 November 2025
