@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: Boston College"
-title: "Boston College Eagles Hockey (Hockey East) @ (Kelley Rink at) Conte Forum (Chestnut Hill, MA)"
+title: "FROM THE ARCHIVES: Boston College Eagles Hockey (Hockey East) @ (Kelley Rink at) Conte Forum (Chestnut Hill, MA)"
 subtitle: "The hockey team closest to my childhood home"
 date: 3 October 2025
 published: true
@@ -22,7 +22,7 @@ tags:
   ]
 ---
 
-_\*This was written over the course of two visits to Boston College - the first one on November 17, 2023, and the second one on February 23, 2024[^1]. I will also mention that UMass Lowell's home opener is tonight as well, but [I've already talked about them](2025-08-29_bosfleet)._
+_\*This was written over the course of two visits to Boston College - the first one on November 17, 2023, and the second one on February 23, 2024[^1]. I will also mention that UMass Lowell's home opener is tonight as well, but [I've already talked about them](2025-08-29_bosfleet&umlhockey)._
 
 Boston College is a historic school officially in Chestnut Hill, MA - a “village” that is partially in Boston, partially in Newton, and partially in Brookline. As I recall, much of BC’s campus is technically in the Newton section of Chestnut Hill, which leads to a common jeer towards BC from other Boston schools: “NOT FROM BOSTON”. Given that Newton, MA is my hometown...I will take the advice of my mother (a BC Law graduate) and plead the fifth as to how I feel about that.
 

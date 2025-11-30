@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: Merrimack"
-title: "Merrimack Warriors Hockey (Hockey East) @ J. Thom Lawler Rink (North Andover, MA)"
+title: "FROM THE ARCHIVES: Merrimack Warriors Hockey (Hockey East) @ J. Thom Lawler Rink (North Andover, MA)"
 subtitle: "The official college hockey team of Pope Leo XIV (probably)"
 date: 10 October 2025
 published: true
@@ -46,7 +46,7 @@ The arena was pretty full when I went the first time (an attendance of 2,432 in 
 
 Having taken the plunge and experienced said Champions Club...it’s hard to say if it’s worth the extra ten bucks. The main draw is “premium concessions” which essentially equates to hot dogs and pizza - though IMO it's MUCH more filling than what the normal concession stand has. However, I’m more of a fan of higher level views (especially since the front row at Merrimack is not “on the ice” due to the walkways), and this is probably the highest you can get above the ice at Merrimack and still be on or near the red line (I checked out the view from the seat immediately below the club pregame, but the view was partially obscured due to luxury boxes). Also, student turnout felt incredibly weak the second time - it felt like the pep band WAS the student section (though part of that may have been the team getting blown out by their nearest rival).
 
-Because of the super low ceiling, there’s a MASSIVE screen on the wall at the “west” end of the ice in lieu of a center hung jumbotron (as I mentioned earlier, [BC doesn’t have this either](2025-10-03_bchockey)). During games, it shows the ACTUAL ESPN+ BROADCAST, so when the cameras are pointing at it, it ends up recursing which is pretty funny (you can watch hockey while you watch hockey while you watch hockey).
+Because of the super low ceiling, there’s a MASSIVE screen on the wall at the “west” end of the ice in lieu of a center hung jumbotron (as I mentioned earlier, [BC doesn’t have this either](2025-10-03_bchockey_mens)). During games, it shows the ACTUAL ESPN+ BROADCAST, so when the cameras are pointing at it, it ends up recursing which is pretty funny (you can watch hockey while you watch hockey while you watch hockey).
 
 One final note/"warning": this is a “closed” suburban campus with mostly residential things nearby, so postgame food is definitely a question mark if you need something. However, if you’re early enough, you could get food and/or drinks from Merrimack’s on campus Dunkin’ because MASSACHUSETTS!
 

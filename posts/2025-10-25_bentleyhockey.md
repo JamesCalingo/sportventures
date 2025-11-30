@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: Bentley"
-title: "Bentley Falcons Hockey (Atlantic Hockey America) @ Bentley Arena (Waltham, MA)"
+title: "FROM THE ARCHIVES: Bentley Falcons Hockey (Atlantic Hockey America) @ Bentley Arena (Waltham, MA)"
 subtitle: "A very hidden gem of the Boston hockey scene"
 date: 25 October 2025
 published: true
@@ -23,7 +23,7 @@ tags:
 
 _\*This trip occurred on February 24, 2024._
 
-_Once again, I have a situation where two teams had their home opener on the same day. This time, I’m doing Bentley second - mainly as this game happened after the [UNH game I talked about yesterday](2025-10-24_unhhockey). Also, yesterday was (technically) Bentley's SECOND home game; they had an exhibition game against a school from Canada back on October 4th, but I decided to wait for a non-exhibition game as I was WAY too backed up then._
+_Once again, I have a situation where two teams had their home opener on the same day. This time, I’m doing Bentley second - mainly as this game happened after the [UNH game I talked about yesterday](2025-10-24_unhhockey_mens). Also, yesterday was (technically) Bentley's SECOND home game; they had an exhibition game against a school from Canada back on October 4th, but I decided to wait for a non-exhibition game as I was WAY too backed up then._
 
 Another university many readers may be unfamiliar with, Bentley University is located just west of Boston in Waltham, Massachusetts. It’s probably best known for its business school, but somehow, someway, it’s neither the only school that starts with a “B” in Waltham (Brandeis University), nor is it the only “B” school west of Boston known for its business school (Babson College in nearby Wellesley, which is PURELY a business school[^1]).
 
@@ -56,5 +56,5 @@ As an aside, this game is, as of now, my only visit to Bentley, so I haven’t s
 ---
 
 [^1]: If that's not enough small schools west of Boston for you, I recently befriended a couple who met at Olin College of Engineering, which is right next to Babson (and they've told me about using some of Babson's facilities for various reasons).
-[^2]: AHA has something of an interesting history; I wrote about it when I talked about [Holy Cross](2025-10-21_holycrosshockey). Also, obligatory link to <a href="https://upload.wikimedia.org/wikipedia/en/7/77/Atlhocklogo.png" target="blank">their former logo</a> - I seriously cannot get over the fact that this was in use until **2024**.
+[^2]: AHA has something of an interesting history; I wrote about it when I talked about [Holy Cross](2025-10-21_holycrosshockey_mens). Also, obligatory link to <a href="https://upload.wikimedia.org/wikipedia/en/7/77/Atlhocklogo.png" target="blank">their former logo</a> - I seriously cannot get over the fact that this was in use until **2024**.
 [^3]: I paid around $12 when I went in 2024, but a check on ticket prices the day before this was posted indicated that tickets are now up to $22 dollars depending on opponent - though that's the "premium opponent" price, so it's still pretty good value (especially for Boston).

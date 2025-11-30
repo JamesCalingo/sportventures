@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: UNH"
-title: "UNH Wildcats Hockey (Hockey East) @ Whittemore Center Arena (Durham, NH)"
+title: "FROM THE ARCHIVES: UNH Wildcats Hockey (Hockey East) @ Whittemore Center Arena (Durham, NH)"
 subtitle: "One of the more open arenas in Hockey East"
 date: 24 October 2025
 published: true
@@ -32,7 +32,7 @@ There’s a very large lobby I checked out a month or so before attending a game
 
 Unlike other Hockey East arenas, the concourse is fully visible from the ice and vice versa (save for the press areas on the “south” side). This is partially due to the fact that the suites, unlike BU or UML, are not attached to the concourse at all (they’re high above the ice on the same side as the entrances). Be aware that if you want to sit on the ends of the rink (assuming they’re available; one of them is usually reserved as the student section and sometimes they’re both reserved), it’s bench seating. This gives the arena a sort of “warehouse” vibe, which I honestly think is kinda neat because the whole arena feels more open[^3].
 
-The students were pretty good here especially considering I went to a non-conference game near the end of the semester (aka Finals crunch time) vs. Rensselaer Polytechnic Institute (a school I know of because I know someone who went there). Similar to [BU](2025-10-04_buhockey), they had “GOALIE” and “SIEVE” signs at the ends, but there was also a “BAD BOY” sign used for the TV broadcast when showing players who had just been sent to the penalty box (sadly, no COPS theme song). However, any discussion of UNH fans would be woefully incomplete without mentioning THE FISH.
+The students were pretty good here especially considering I went to a non-conference game near the end of the semester (aka Finals crunch time) vs. Rensselaer Polytechnic Institute (a school I know of because I know someone who went there). Similar to [BU](2025-10-04_buhockey_mens), they had “GOALIE” and “SIEVE” signs at the ends, but there was also a “BAD BOY” sign used for the TV broadcast when showing players who had just been sent to the penalty box (sadly, no COPS theme song). However, any discussion of UNH fans would be woefully incomplete without mentioning THE FISH.
 
 Apparently, after UNH scores their first goal at all home games, someone throws a fish onto the ice. I’m not sure why they do it or if it was a student or someone else as it didn’t come from one of the student sections, but it seems to be fairly well known around the area. Also, I’ve heard that it’s only done after the first goal; since the first goal of the game I went to ended up being the only goal of the game, I’m not sure how true that is.
 

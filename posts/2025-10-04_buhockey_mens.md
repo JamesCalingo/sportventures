@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: Boston University"
-title: "Boston University Terriers Hockey (Hockey East) @ (Jack Parker Rink at) Agganis Arena (Boston, MA)"
+title: "FROM THE ARCHIVES: Boston University Terriers Hockey (Hockey East) @ (Jack Parker Rink at) Agganis Arena (Boston, MA)"
 subtitle: "Boston's secondary home for...a lot of things"
 date: 4 October 2025
 published: true
@@ -32,7 +32,7 @@ Their (men's) hockey team is their main team (as they're in one of those smaller
 
 <figcaption>Agganis Arena before a BU hockey game</figcaption>
 
-Agganis Arena was opened in 2004 as BU’s original home had become far too small for the team (but it is still standing, as it hosts BU's women's hockey team); the building is named after a former BU athlete, and the rink was named after a legendary BU hockey head coach who was actually consulted during the building’s construction. A LOT of things go on here outside of Boston University hockey (though BU remains the main tenant); for example, the [Boston Fleet](2025-08-30_bosfleet) hosted two games here during the 2024-25 season, and are hosting (at least) four for the 2025-26 season. Personally, I went to two different events (both in July of 2023) that were held at Agganis before seeing BU:
+Agganis Arena was opened in 2004 as BU’s original home had become far too small for the team (but it is still standing, as it hosts BU's women's hockey team); the building is named after a former BU athlete, and the rink was named after a legendary BU hockey head coach who was actually consulted during the building’s construction. A LOT of things go on here outside of Boston University hockey (though BU remains the main tenant); for example, the [Boston Fleet](2025-08-30_bosfleet&umlhockey) hosted two games here during the 2024-25 season, and are hosting (at least) four for the 2025-26 season. Personally, I went to two different events (both in July of 2023) that were held at Agganis before seeing BU:
 
 1. A Rocket League (video game car soccer for those who don’t know) tournament _(July 8)_
 2. 3ICE: A novelty hockey competition that was held on the hottest day of the summer and was so desperate for fans that they were giving away tickets for free _(July 26)_

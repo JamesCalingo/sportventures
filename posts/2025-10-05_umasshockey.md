@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: UMass (Amherst)"
-title: "UMass (Amherst) Minutemen Hockey (Hockey East) @ Mullins Center (Amherst, MA)"
+title: "FROM THE ARCHIVES: UMass (Amherst) Minutemen Hockey (Hockey East) @ Mullins Center (Amherst, MA)"
 subtitle: "A visit to the biggest building in Hockey East"
 date: 5 October 2025
 published: true
@@ -20,9 +20,9 @@ tags:
   ]
 ---
 
-_\*UMass had its home opener last night, but I decided to post this after BU to for "narrative purposes". I’ve only been to this building once, and that was on November 18, 2023 - yes, BEFORE the [BU game I discussed yesterday](2025-10-04_buhockey) (though technically I went to Agganis Arena first before coming here given the two events I went to in the summer)._
+_\*UMass had its home opener last night, but I decided to post this after BU to for "narrative purposes". I’ve only been to this building once, and that was on November 18, 2023 - yes, BEFORE the [BU game I discussed yesterday](2025-10-04_buhockey_mens) (though technically I went to Agganis Arena first before coming here given the two events I went to in the summer)._
 
-The University of Massachusetts Amherst is the flagship of the University of Massachusetts system and the largest school in terms of undergraduates in Massachusetts (and also not to be confused with Amherst College - a MUCH SMALLER school not even a mile away). Officially, I believe the team is referred to as the “Massachusetts Minutemen” and the jerseys feature a “MASSACHUSETTS” script to reflect this, but just about everyone (including the school itself) calls them UMass - occasionally adding the “Amherst” to distinguish them from [UMass Lowell](2025-08-29_bosfleet) (who are also in Hockey East).
+The University of Massachusetts Amherst is the flagship of the University of Massachusetts system and the largest school in terms of undergraduates in Massachusetts (and also not to be confused with Amherst College - a MUCH SMALLER school not even a mile away). Officially, I believe the team is referred to as the “Massachusetts Minutemen” and the jerseys feature a “MASSACHUSETTS” script to reflect this, but just about everyone (including the school itself) calls them UMass - occasionally adding the “Amherst” to distinguish them from [UMass Lowell](2025-08-29_bosfleet&umlhockey) (who are also in Hockey East).
 
 With Boston’s big two (BC and BU) coming up just short in 2024 and 2025 (respectively), UMass is somehow Hockey East’s most recent national champion thanks to their 2021 title (which they didn’t have Cale Makar for). Outside of that championship (and the Cale Makar era that preceded it), there’s not much to say about the place as a hockey school (especially given they didn’t start their current D-I hockey program until 1993); in terms of their other athletics, they’re known for having one of the worst football stadiums in the FBS (since they don’t play in Foxboro anymore), and their basketball team - whose most famous alumnus HAS to be Julius Erving - ~~made the Final Four in 1996~~ VACATED BY THE NCAA[^1].
 

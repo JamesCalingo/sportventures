@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: Harvard"
-title: "Harvard Crimson Hockey (ECAC Hockey) @ Bright-Landry Hockey Center (Boston, MA)"
+title: "FROM THE ARCHIVES: Harvard Crimson Hockey (ECAC Hockey) @ Bright-Landry Hockey Center (Boston, MA)"
 subtitle: "Hockey at one of America's most famous universities"
 date: 4 November 2025
 published: true
@@ -35,7 +35,7 @@ One other quirk about the Ivy League: due to its rules limiting how long athleti
 
 Anyhoo, back to the school at hand: Harvard University’s main campus is in Cambridge, MA (I was actually born about a mile away from it), but most of their sport programs are based in a complex across the Charles River in the Allston section of Boston. In terms of their hockey arena, the Bright-Landry Hockey Center has a somewhat interesting history: it originally opened with a different name in 1956 (thus putting it in line to be the oldest hockey arena in Boston fairly soon), but was substantially renovated in the late 1970s when it received its current name (so even if we considered this to be a wholly separate building, it’ll still be the oldest "college and higher" hockey arena in Boston).
 
-![An image of warmups at Bright-Landry Hockey Center](/images/harvardhockey.jpg)
+![An image of warmups at Bright-Landry Hockey Center](/images/brightlandry.jpg)
 
 <figcaption>A real "hockey barn"</figcaption>
 
@@ -47,7 +47,7 @@ The seating bowl, compared to places like UNH’s Whittemore Center (which, IMO,
 
 One more thing I should mention: in looking back at the details of these visits (to confirm their dates mainly), I realized that the second game was part of one of hockey's most famous traditions: the Teddy Bear Toss. At some point during the game, fans throw stuffed animals onto the ice; I'm not sure when and where this started, but it's become a holiday tradition around the "lower leagues" of hockey[^5]. While a number of leagues (namely the Canadian Hockey League) do it after the home team scores their first goal, this one occurred during the first of two intermissions between periods (I realize I should have mentioned this a LONG TIME AGO, but hockey games are divided into 3-20 minute periods).
 
-This was the first of three teddy bear tosses I attended in 2023 (the other two being [Boston University](2025-10-04_buhockey) and [UNH](2025-10-24_unhhockey)), and the fact that I completely forgot about this, in a sense, should tell you how it was. I will note that the BU and UNH ones were definitely MUCH better though - and I recall one (or both) of them selling teddy bears to be tossed.
+This was the first of three teddy bear tosses I attended in 2023 (the other two being [Boston University](2025-10-04_buhockey_mens) and [UNH](2025-10-24_unhhockey_mens)), and the fact that I completely forgot about this, in a sense, should tell you how it was. I will note that the BU and UNH ones were definitely MUCH better though - and I recall one (or both) of them selling teddy bears to be tossed.
 
 ### MERCH
 
