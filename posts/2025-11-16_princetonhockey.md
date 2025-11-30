@@ -19,7 +19,7 @@ tags:
   ]
 ---
 
-Originally, I had a blurb here about the history of Princeton University, as this was going to be my first trip down. However, since I ended up going to a [soccer game](2025-10-19_princetonsoccer) a few weeks before this game, it got moved to there. I ALSO had a blurb about the ECAC here as this trip was originally going to occur prior to the [Harvard post](2025-11-04_harvardhockey), but in case you couldn't tell...it didn't.
+Originally, I had a blurb here about the history of Princeton University, as this was going to be my first trip down. However, since I ended up going to a [soccer game](2025-10-19_princetonsoccer_mens) a few weeks before this game, it got moved to there. I ALSO had a blurb about the ECAC here as this trip was originally going to occur prior to the [Harvard post](2025-11-04_harvardhockey_mens), but in case you couldn't tell...it didn't.
 
 With those notes out of the way, on to our feature presentation: **Princeton hockey**!
 
@@ -39,7 +39,7 @@ Now, let's talk about the historic home shared by the two teams:
 
 ### HOBEY BAKER RINK
 
-Opened in 1923 and named after quite possibly the school's most famous hockey alum (for reasons I'll elaborate on in a sec), Hobey Baker Rink is set to become the oldest arena in college hockey (and, from what I can tell, the United States in general), as the only building older than it is slated to be closed and demolished (more on that story soon). Thanks to its age, it features a HIGHLY unusual design by modern standards - and to help explain all of this, you're about to see more photos than I usually put into these posts. 
+Opened in 1923 and named after quite possibly the school's most famous hockey alum (for reasons I'll elaborate on in a sec), Hobey Baker Rink is one of the oldest hockey arenas in the United States. Thanks to its age, it features a HIGHLY unusual design by modern standards - and to help explain all of this, you're about to see more photos than I usually put into these posts. 
 
 First of all, while Princeton's football and soccer stadiums are part of a larger "sports complex", Baker is NOT. It's in a different part of campus (with its own parking garage), and is a short walk away from a commuter rail station. Parking at said station is NOT free (even on weekends I THINK), but since very few games clash with the "no parking before 4 PM on weekdays" situation (and sadly, they're usually women's games), it's not really that significant (plus it's further).
 
@@ -61,7 +61,7 @@ The areas outside these entrances are basically hallways with with greenhouse-st
 
 At the "far" end of the building (i.e. the one opposite of the entrances/box office) is an area with concessions and a few cool displays of Princeton's history (and a LOT of plaques). This is basically the only "concourse" in the building, and it can get crowded at times.
 
-One IMPORTANT thing to know about watching hockey here: it's 100% bench seating. The benches all have backs with individual "seats", however, so that is nice if you're concerned about the lack of support (though that doesn't make it more comfortable). Above this concession area is upper deck seating (which is somewhat rare in college hockey arenas); I thought about getting a ticket here for the men's game, but ultimately opted to be (almost) rinkside (though the view was cool - if a bit obstructed).
+One IMPORTANT thing to know about watching hockey here: it's 100% bench seating. The benches all have backs with individual "seats", however, so that is nice if you're concerned about the lack of support (though that doesn't make it more comfortable).
 
 Speaking of seats, however...there's an "upper deck" seating area above the "concourse" (i.e. the area with the concession stand). This seems kinda rare among college hockey venues, and I ALMOST bought a ticket here before settling on something (almost) rinkside. I found that the view of the game from here was actually pretty good; however...there's quite a few "warts" with the upper level experience: support pillars create obstructed views, the seats here have no backs, and the steps leading down to the seats (as access is from the top) are hard to get down. 
 
@@ -69,7 +69,7 @@ Speaking of seats, however...there's an "upper deck" seating area above the "con
 
 Also, as you may have noticed from the last photo, there's no video screens ANYWHERE inside; while there might be other D-I hockey schools without video boards, this is the only one I know of (with conference rival Yale getting a new video board recently). I'm guessing that this is a "personal" decision by the university, as the building has been renovated MANY times over the years - most recently in the summer of 2025.
 
-One last note about Princeton hockey overall before we dive into the games themselves: the awards for the best college hockey players are both named after Princeton alumni. The men's award is the Hobey Baker Award (another reason he's probably Princeton's most famous alum), while the women's is the Patty Kazmaier Award[^2]. Likely due to this, banners commemorating the two are inside the arena (on the wall with the box office), both featuring the message "MAKE _____ PROUD" with the name of the corresponding player in the blank. While I assume they're meant to honor the awards and inspire the players, I also feel like they give off "DO~~N~~IT FOR~~GET YOU'RE~~ HER~~E FOREVER~~" vibes...
+One last note about Princeton hockey overall before we dive into the games themselves: the awards for the best college hockey players (basically the MVP awards) are both named after Princeton alumni. The men's award is the Hobey Baker Award (another reason he's probably Princeton's most famous alum), while the women's is the Patty Kazmaier Award[^2]. Likely due to this, banners commemorating the two are inside the arena (on the wall with the box office), both featuring the message "MAKE _____ PROUD" with the name of the corresponding player in the blank. While I assume they're meant to honor the awards and inspire the players, I also feel like they give off "DO~~N~~IT FOR~~GET YOU'RE~~ HER~~E FOREVER~~" vibes...
 
 ![Banners that say "MAKE HOBEY PROUD" and "MAKE PATTY PROUD"](/images/hobeybaker/banners.jpeg)
 
@@ -81,7 +81,7 @@ _\*This game occurred on November 14, 2025._
 
 Under MOST circumstances, I'd cover the men's game first. However, I figured that the best thing for this post would be to cover the two games in chronological order, so I'm starting with the women's game.
 
-There's honestly not much to say about the women's team; they've made a few NCAA tournament appearances but haven't done much in the tournament. However, one of their recent players was the first overall pick in the 2024 PWHL Draft (by the [New York Sirens](2025-08-28_nysirens)), another has won with the only team to have won the league's championship, and they hired the (former) head coach of the [Boston Fleet](2025-08-29_bosfleet) this past summer (who was wearing a jacket that looked "Fleet green" during the game).
+There's honestly not much to say about the women's team; they've made a few NCAA tournament appearances but haven't done much in the tournament. However, one of their recent players was the first overall pick in the 2024 PWHL Draft (by the [New York Sirens](2025-08-28_nysirens)), another has won with the only team to have won the league's championship, and they hired the (former) head coach of the [Boston Fleet](2025-08-29_bosfleet&umlhockey) this past summer (who was wearing a jacket that looked "Fleet green" during the game).
 
 Since this is the first women's college hockey game I've ever been to, one thing I think you should know about women's college hockey is that it's INCREDIBLY niche. Only a few teams in the country average over 1,000 fans a game, and those teams are mainly in the Midwest. Princeton's average last season was ~500 spectators a game - not that high, but Hobey Baker's small size helps it feel not so empty (though it still kinda did). (Partially) because of the small crowds, tickets are all general admission, and can be had for (as low as) ten dollars (though I'm not exactly sure how to get that price - it's $12 at the door and $15 online).
 
