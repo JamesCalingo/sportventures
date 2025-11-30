@@ -14,11 +14,11 @@ tags:
     "Northeastern University",
     "Boston",
     "Indoor Sports",
-    "Repeat Visit"
+    "Repeat Visit",
   ]
 ---
 
-*\*This trip occurred on November 29, 2025, and there's info about two other trips from a few years ago in here as well. Those trips were on October 28, 2023 and February 2, 2024.*
+_\*This trip occurred on November 29, 2025, and there's info about two other trips from a few years ago in here as well. Those trips were on October 28, 2023 and February 2, 2024._
 
 Northeastern University is probably best known known for its five-year co-op program (where students spend two semesters working full time). I don't know much else about the school except that I ALMOST went here for college, two of my cousins went there, and that they have their commencement at Fenway Park, as it's relatively close to the school (plus one other connection between the Red Sox and Northeastern which I'll get to in a sec - and I'm not talking about Spring Training).
 
@@ -72,4 +72,4 @@ What's next is up in the air. I have a few more things I'd like to do before Chr
 [^2]: The banner for the Celtics labels Matthews as the team's "secondary home" - I guess they consider the old Boston Garden as their main home.
 [^3]: I still have yet to visit Maine, as it's FAR (around four hours from Boston). It's the only arena in Hockey East I have yet to even try to visit, but a 2025-26 trip is not in the cards as all of their games sold out MONTHS ago.
 [^4]: Not to be confused with the "Dog Pound" or "Dawg Pound" - that's BU.
-[^5]: I did a count, and somehow Merrimack is tied with BC as the college hockey team I've seen the most at four games. This game at Northeastern, however, represents the only time I've seen Merrimack *win*.
+[^5]: I did a count, and somehow Merrimack is tied with BC as the college hockey team I've seen the most at four games. This game at Northeastern, however, represents the only time I've seen Merrimack _win_.
