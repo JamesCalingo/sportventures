@@ -10,6 +10,7 @@ tags:
     "Hockey",
     "Pre-2025",
     "College",
+    "College Hockey",
     "Hockey East",
     "Northeastern University",
     "Boston",
@@ -26,15 +27,13 @@ The Northeastern Huskies...aren't exactly a major player in just about ANY sport
 
 ![A photo of the entrance arch of Matthews Arena](/images/matthews/matthewsarch.jpeg)
 
-<figcaption>What you see before entering legitimate history:</figcaption>
-
 ![A photo of Matthews Arena from behind one of the goals on the upper level](/images/matthews/matthewsinterior.jpeg)
 
-<figcaption>Historic Matthews Arena" as the jumbotron put it</figcaption>
+<figcaption>"Historic Matthews Arena" as the jumbotron put it - outside and in</figcaption>
 
 Opened in 1910 (two years before the Boston Red Sox left the Huntington Avenue Grounds for Fenway Park) and originally named "Boston Arena", Matthews Arena is a landmark in the history of Boston sports, as it served as the original home of the Boston Bruins and also hosted the first game in Boston Celtics history - and has banners commemorating them (it was also the original home of the now Carolina Hurricanes, but they don’t get a banner)[^2]. Northeastern assumed control of the building in 1979, and renamed it after a former chairman of the university (and his wife) in 1982.
 
-Because the ideas of concessions, merchandising, and even the NHL (founded in 1917 officially) weren’t exactly "things" when this place was built, there's basically NO concourse here; the entrance lobby on the north side of the building has the building’s concession stands and a merchandise booth. This lobby is also rather ornate by arena standards (again, likely due to the history), as evidenced by the hanging lighting fixtures and CARPETING.
+Because the ideas of concessions, merchandising, and even the NHL (founded in 1917 officially) weren’t exactly "things" when this place was built, there's basically NO concourse here (which you can kinda see on the interior photo); the entrance lobby on the north side of the building has the building’s concession stands and a merchandise booth. This lobby is also rather ornate by arena standards (again, likely due to the history), as evidenced by the hanging lighting fixtures and CARPETING.
 
 ![A photo of the lobby of Matthews Arena during a game](/images/matthews/matthewslobby.jpeg)
 
