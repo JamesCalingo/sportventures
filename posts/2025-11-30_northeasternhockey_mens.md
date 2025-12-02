@@ -61,10 +61,6 @@ If you were ever curious about visiting this place, I have one word for you: HUR
 
 ![](/images/tarps.jpeg)
 
-### ON DECK
-
-What's next is up in the air. I have a few more things I'd like to do before Christmas - including potentially a return to Matthews - but I'm not 100% sure.
-
 ---
 
 [^1]: Should I include Stonehill in this list since they currently play at the Bruins' practice facility? I feel like the answer is "no", since I feel like that opens a whole can of worms...
