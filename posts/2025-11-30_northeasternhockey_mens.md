@@ -1,5 +1,5 @@
 ---
-display: "Northeastern Hockey (11/29/25)"
+display: "Northeastern Men's Hockey (11/29/25)"
 title: "Northeastern Huskies Men's Hockey (Hockey East) @ Matthews Arena (Boston, MA)"
 subtitle: "A visit to a true sports landmark"
 date: 30 November 2025
@@ -14,6 +14,7 @@ tags:
     "Hockey East",
     "Northeastern University",
     "Boston",
+    "Massachusetts",
     "Indoor Sports",
     "Repeat Visit",
   ]
@@ -60,10 +61,6 @@ This game featured fewer jerseys than I've seen in the past, but several "jersey
 If you were ever curious about visiting this place, I have one word for you: HURRY. In fact, you might be too late sadly...
 
 ![](/images/tarps.jpeg)
-
-### ON DECK
-
-What's next is up in the air. I have a few more things I'd like to do before Christmas - including potentially a return to Matthews - but I'm not 100% sure.
 
 ---
 

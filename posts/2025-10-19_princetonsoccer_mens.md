@@ -1,6 +1,6 @@
 ---
 display: "Princeton Soccer (10/18/25)"
-title: "Princeton Tigers Soccer (Ivy League) @ Myslik Field at Roberts Stadium (Princeton, NJ)"
+title: "Princeton Tigers Men's Soccer (Ivy League) @ Myslik Field at Roberts Stadium (Princeton, NJ)"
 subtitle: "A visit to a college football landmark - for association football"
 date: 19 October 2025
 published: true

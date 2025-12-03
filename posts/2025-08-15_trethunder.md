@@ -9,7 +9,6 @@ tags:
   [
     "Baseball",
     "Summer League Baseball",
-    "Trenton",
     "New Jersey",
     "MLB Draft League",
     "Outdoor Sports",

@@ -13,7 +13,6 @@ tags:
     "South Atlantic League",
     "High A",
     "Phillies",
-    "Philadelphia",
     "Outdoor Sports",
     "First Visit"
   ]

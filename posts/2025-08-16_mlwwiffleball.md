@@ -9,7 +9,6 @@ tags:
   [
     "Other Sports",
     "Wiffle Ball",
-    "Staten Island",
     "New York",
     "Repeat Visit",
     "Outdoor Sports",

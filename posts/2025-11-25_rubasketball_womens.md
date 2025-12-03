@@ -69,12 +69,6 @@ One last thing to note: For whatever reason, Rutgers' official bookstore closes 
 
 ---
 
-### ON DECK
-
-There is something I'm thinking of going to next weekend, but I don't know if I'll be able to go to it for multiple reasons. If I DON'T go, I should be back sometime in December - again, not sure when.
-
----
-
 [^1]:  The Grease Trucks were a group of food trucks in a lot on College Avenue - the most well known one being "R U Hungry" with its famous fat sandwiches. Rutgers took over the lot and put a building on it, but R U Hungry is now in that building (plus they opened a Newark location AFTER I GRADUATED THANKS FOR NOTHING GUYS).
 [^2]: The school changed names just this past summer, however, so it's understandable if you didn't see this bit coming. Also, Siena is NOT the first Catholic school from the MAAC to go from being a "College" to a "University" - I have a friend who is a member of the first graduating class of Saint Peter's University (the school that had that Cinderella run back in the 2022 men's tournament).
 [^3]: Coincidentally, each of the "sleeveless" players led their team in scoring.

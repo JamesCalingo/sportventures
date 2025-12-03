@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: UNH"
-title: "FROM THE ARCHIVES: UNH Wildcats Hockey (Hockey East) @ Whittemore Center Arena (Durham, NH)"
+title: "FROM THE ARCHIVES: UNH Wildcats Men's Hockey (Hockey East) @ Whittemore Center Arena (Durham, NH)"
 subtitle: "One of the more open arenas in Hockey East"
 date: 24 October 2025
 published: true

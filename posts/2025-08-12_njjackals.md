@@ -11,7 +11,6 @@ tags:
     "Independent Baseball",
     "New Jersey",
     "Frontier League",
-    "Paterson",
     "Outdoor Sports",
     "First Visit"
   ]

@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: Harvard"
-title: "FROM THE ARCHIVES: Harvard Crimson Hockey (ECAC Hockey) @ Bright-Landry Hockey Center (Boston, MA)"
+title: "FROM THE ARCHIVES: Harvard Crimson Men's Hockey (ECAC Hockey) @ Bright-Landry Hockey Center (Boston, MA)"
 subtitle: "Hockey at one of America's most famous universities"
 date: 4 November 2025
 published: true
@@ -31,9 +31,9 @@ Okay, so maybe that’s not completely true, but they don’t exactly have eithe
 
 However...astute readers may have realized that I've yet to mention the Ivy League (the famous athletics conference associated with Harvard) in this post. That's because...the Ivy League does not TECHNICALLY have a hockey conference; instead, the Ivy League schools with D-I hockey teams (Brown, Cornell, Dartmouth, Harvard, Princeton, and Yale) are members of the ECAC (also, ECAC is not currently an acronym[^3]). There does exist an unofficial “championship” for Ivy League Hockey: whichever team has the best record against the others is crowned the “Ivy League Champion”.
 
-One other quirk about the Ivy League: due to its rules limiting how long athletic schedules can be, the six Ivy League teams have notably shorter schedules than most of the rest of college hockey (with the "cut" games usually being non-conference). Case in point: the fact this post is going up on the day of Harvard's 2025-26 home opener - nearly a full month into the season (and is only their third game overall - with one of those games being an exhibition game).
+One other quirk about the Ivy League: due to its rules limiting how long athletic schedules can be, the six Ivy League teams have notably shorter schedules than most of the rest of college hockey (with the "cut" games usually being non-conference). Case in point: the fact this post is going up on the day of Harvard's 2025-26 home opener - nearly a full month into the season (and only their third game overall - with one of those games being an exhibition game).
 
-Anyhoo, back to the school at hand: Harvard University’s main campus is in Cambridge, MA (I was actually born about a mile away from it), but most of their sport programs are based in a complex across the Charles River in the Allston section of Boston. In terms of their hockey arena, the Bright-Landry Hockey Center has a somewhat interesting history: it originally opened with a different name in 1956 (thus putting it in line to be the oldest hockey arena in Boston fairly soon), but was substantially renovated in the late 1970s when it received its current name (so even if we considered this to be a wholly separate building, it’ll still be the oldest "college and higher" hockey arena in Boston).
+Anyhoo, back to the school at hand: Harvard University’s main campus is in Cambridge, MA (I was actually born about a mile away from it), but most of their sport programs are based in a complex across the Charles River in the Allston section of Boston. In terms of their hockey arena, the Bright-Landry Hockey Center has a somewhat interesting history: it originally opened with a different name in 1956 (thus putting it in line to be the oldest hockey arena in Boston fairly soon), but was substantially renovated in the late 1970s when it received its current name.
 
 ![An image of warmups at Bright-Landry Hockey Center](/images/brightlandry.jpg)
 
