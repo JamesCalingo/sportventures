@@ -1,6 +1,6 @@
 ---
 display: "HOCKEY CATCH-UP: Harvard"
-title: "FROM THE ARCHIVES: Harvard Crimson Hockey (ECAC Hockey) @ Bright-Landry Hockey Center (Boston, MA)"
+title: "FROM THE ARCHIVES: Harvard Crimson Men's Hockey (ECAC Hockey) @ Bright-Landry Hockey Center (Boston, MA)"
 subtitle: "Hockey at one of America's most famous universities"
 date: 4 November 2025
 published: true

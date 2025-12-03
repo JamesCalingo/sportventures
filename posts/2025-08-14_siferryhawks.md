@@ -11,7 +11,6 @@ tags:
     "Independent Baseball",
     "New York",
     "Atlantic League",
-    "Staten Island",
     "Outdoor Sports",
     "First Visit"
   ]

@@ -13,7 +13,6 @@ tags:
     "Eastern League",
     "Double A",
     "Phillies",
-    "Philadelphia",
     "Outdoor Sports",
     "First Visit"
   ]

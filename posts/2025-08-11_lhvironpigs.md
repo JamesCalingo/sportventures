@@ -10,11 +10,9 @@ tags:
     "Baseball",
     "Minor League Baseball",
     "Pennsylvania",
-    "Allentown",
     "International League",
     "Triple A",
     "Phillies",
-    "Philadelphia",
     "Outdoor Sports",
     "First Visit"
   ]

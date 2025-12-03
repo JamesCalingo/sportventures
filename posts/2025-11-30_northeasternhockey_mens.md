@@ -1,5 +1,5 @@
 ---
-display: "Northeastern Hockey (11/29/25)"
+display: "Northeastern Men's Hockey (11/29/25)"
 title: "Northeastern Huskies Men's Hockey (Hockey East) @ Matthews Arena (Boston, MA)"
 subtitle: "A visit to a true sports landmark"
 date: 30 November 2025
@@ -14,6 +14,7 @@ tags:
     "Hockey East",
     "Northeastern University",
     "Boston",
+    "Massachusetts",
     "Indoor Sports",
     "Repeat Visit",
   ]

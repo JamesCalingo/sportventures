@@ -1,6 +1,6 @@
 ---
 display: "Rutgers Lacrosse (3/1/25)"
-title: "Rutgers Scarlet Knights Lacrosse (Big Ten) @ SHI Stadium (Piscataway, NJ)"
+title: "Rutgers Scarlet Knights Men's Lacrosse (Big Ten) @ SHI Stadium (Piscataway, NJ)"
 subtitle: 'I visit the so called "Birthplace of College Football" for a completely different sport'
 date: 26 August 2025
 published: true
