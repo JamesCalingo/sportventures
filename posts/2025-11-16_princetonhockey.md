@@ -117,13 +117,9 @@ One final note about Hobey Baker as a whole: concessions at the games felt a bit
 
 ---
 
-Something I've learned in going to all of these Princeton sporting events: it's probably one of the best ways to watch (decently) high-level sports in New Jersey given that it's the least expensive football/hockey/soccer tickets I've found in the state (not to mention the free parking). Because of this, at least one more trip may be in the cards soon...
-
----
-
 [^1]: The men's team had an exhibition game against a school from Canada on October 25th.
 [^2]: One of the arena's plaques indicated that Princeton's women's team had its own (internal) Patty Kazmaier award, which is given to a senior each year. Said plaque also had no winner since 2022, and Wikipedia's list ended at 2020, so...
 [^3]: I've actually visited Providence's hockey arena before, but the only thing going on at the time was a youth game; it'll get a post if/when I visit for the Friars (men and/or women). Also, should the women's team be the "Sisters" or something like that since women can't be Friars?
 [^4]:  I also never got to see AIC as a D-I program - which they are not anymore (I mentioned this briefly in my post about [UMass Amherst](2025-10-05_umasshockey))
-[^5]: The only other jersey they had was for basketball, but I wasn't really interested in them partially since they were sublimated; had the hockey jersey been sublimated, I likely would've passed on it.
+[^5]: The only other jersey they had was for basketball, but I wasn't really interested in it at the time.
 [^6]: There was an intrasquad scrimmage the night before which was open to the public, and social media indicated that merch would be available at it.
