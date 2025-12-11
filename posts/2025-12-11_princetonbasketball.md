@@ -1,6 +1,6 @@
 ---
 display: "Princeton Basketball (12/10/25)"
-title: "Princeton Basketball (Ivy League) @ Jadwin Gymnasium (Princeotn,  NJ)"
+title: "Princeton Tigers Basketball (Ivy League) @ Jadwin Gymnasium (Princeotn,  NJ)"
 subtitle: "A double header at one of college basketball’s more unique arenas"
 date: 11 December 2025
 published: true
@@ -15,15 +15,15 @@ tags:
     "New Jersey",
     "Indoor Sports",
     "Women's Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
-*\*This trip occurred on December 10, 2025.*
+_\*This trip occurred on December 10, 2025._
 
-Yep - this is another Princeton visit AND another post covering two games! I will note that unlike the last time I covered two Princeton sporting events in one post (i.e. hockey), these two games were both on the same day (with the women's game starting about half an hour after the men's game ended). Also, for those of you who are getting tired of seeing Princeton University on this blog, this is the last time I will post about Princeton in 2025 - and potentially the last \*new\* Princeton sport I cover this academic year (as I’m a bit iffy on the spring sports). 
+Yep - this is another Princeton visit AND another post covering two games! I will note that unlike the last time I covered two Princeton sporting events in one post (i.e. hockey), these two games were both on the same day (with the women's game starting about half an hour after the men's game ended). Also, for those of you who are getting tired of seeing Princeton University on this blog, this is the last time I will post about Princeton in 2025 - and potentially the last \*new\* Princeton sport I cover this academic year (as I’m a bit iffy on the spring sports).
 
-However, given the fact that I went to both a men’s game and a women’s game, I do want to note one thing about college basketball - specifically, the men's game. In college, men’s and women’s games are both 40 minutes long (which is actually the length of every professional basketball competition outside of the NBA), but those 40 minutes are divided differently. Women’s games are 4-10 minute quarters (again, like most basketball competitions), but men’s games are unique in that they are 2-20 minute halves - the only basketball competition I’m aware of to use halves instead of quarters[^1]. One thing both men and women share in common in college (which I MAYBE should have mentioned back when [I visited Rutgers](2025-11-25_rubasketball_womens)): a 30-second shot clock (as opposed to professional basketball's 24-second shot clock)[^2]. There's also a rule which specifies that if the shot clock is to be reset, it's set to 20 seconds, but I don't fully understand what circumstances can lead to this happening (it happened several times during the Rutgers game BTW).<br>
+However, given the fact that I went to both a men’s game and a women’s game, I do want to note one thing about college basketball - specifically, the men's game (as this is the first time college men's basketball is being featured on this blog). In college, men’s and women’s games are both 40 minutes long (which is actually the length of every professional basketball competition outside of the NBA), but those 40 minutes are divided differently. Women’s games are 4-10 minute quarters (again, like most basketball competitions), but men’s games are unique in that they are 2-20 minute halves - the only basketball competition I’m aware of to use halves instead of quarters[^1]. One thing both men and women share in common in college (which I MAYBE should have mentioned back when [I visited Rutgers](2025-11-25_rubasketball_womens)): a 30-second shot clock (as opposed to professional basketball's 24-second shot clock)[^2]. There's also a rule which specifies that if the shot clock is to be reset, it's set to 20 seconds, but I don't fully understand what circumstances can lead to this happening (it happened several times during the Rutgers game BTW).<br>
 (Also, I am NOT touching how foul bonuses/the 1 and 1 work in the men's game)
 
 With that out of the way, let’s dive into Princeton Basketball (as I’ve already talked about [the university](2025-10-19_princetonsoccer_mens) as well as several of its other [sports](2025-11-15_princetonfootball) [facilities](2025-11-16_princetonhockey)). Unfortunately, for better or worse, there’s not much to say about Princeton basketball as a whole (i.e. the histories of both the men’s and women’s teams aren’t super interesting). The school has a singular Final Four appearance: the men’s team made it in 1965 with the school’s most famous basketball alum BY FAR: 2-time NBA champion turned Senator Bill Bradley (and apparently they also have an NIT championship). I do feel like I SHOULD note, however, that basketball has never really been "big" within the Ivy League (unlike how football used to be); no Ivy League school has won a basketball championship (men's or women's), and only one school has made the final (Dartmouth WAY BACK in 1944)[^3].
