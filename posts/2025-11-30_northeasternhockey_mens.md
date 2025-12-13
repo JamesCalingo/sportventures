@@ -24,7 +24,7 @@ _\*This trip occurred on November 29, 2025, and there's info about two other tri
 
 Northeastern University is probably best known known for its five-year co-op program (where students spend two semesters working full time). I don't know much else about the school except that I ALMOST went here for college, two of my cousins went there, and that they have their commencement at Fenway Park, as it's relatively close to the school (plus one other connection between the Red Sox and Northeastern which I'll get to in a sec - and I'm not talking about Spring Training).
 
-The Northeastern Huskies...aren't exactly a major player in just about ANY sport (as a member of a non-football conference); the most notable thing about Northeastern sporting wise (outside of what I'm about to discuss) is that the campus contains a marker commemorating the Huntington Avenue Grounds (the original home of the Boston Red Sox and the site of the first World Series game in 1903). In terms of their hockey team, they're probably just above Harvard (thanks to being in Hockey East) and WELL below BC, BU, and the Bruins on the "Boston hockey relevancy scale"[^1], as they haven't really done much outside of a single Frozen Four appearance (and a Hobey Baker award winner in 2018 who's been somewhat of an NHL journeyman). This lack of relevancy includes the fact that they have the fewest Beanpot trophies of the tournament's four teams - though they've won the Beanpot five of the last seven years and featured one of the best names in all of sports: Gunnerwolfe Fontaine (who scored in OT to win the Beanpot in 2024). However, since 1946, the Huskies have had the privilege of playing in the oldest indoor arena in the world: Matthews Arena.
+The Northeastern Huskies...aren't exactly a major player in just about ANY sport (as a member of a non-football conference); the most notable thing about Northeastern sporting wise (outside of what I'm about to discuss) is that the campus contains a marker commemorating the Huntington Avenue Grounds (the original home of the Boston Red Sox and the site of the first World Series game in 1903). In terms of their hockey team, they're probably just above Harvard (thanks to being in Hockey East) and WELL below BC, BU, and the Bruins on the "Boston hockey relevancy scale"[^1], as they haven't really done much outside of a single Frozen Four appearance (and a Hobey Baker award winner in 2018 who's been somewhat of an NHL journeyman). This lack of relevancy includes the fact that they have the fewest Beanpot trophies of the tournament's four teams - though they've won the Beanpot five of the last seven years and featured one of the best names in all of sports: Gunnerwolfe Fontaine (who scored in OT to win the Beanpot in 2024). However, since 1946, the Huskies have had the privilege of playing in the oldest indoor arena in the world: Historic Matthews Arena.
 
 ![A photo of the entrance arch of Matthews Arena](/images/matthews/matthewsarch.jpeg)
 
@@ -58,9 +58,7 @@ This game featured fewer jerseys than I've seen in the past, but several "jersey
 
 ---
 
-If you were ever curious about visiting this place, I have one word for you: HURRY. In fact, you might be too late sadly...
-
-![](/images/tarps.jpeg)
+If you were ever curious about visiting this place, [I have some bad news for you...](2025-12-13_farewellmatthews)
 
 ---
 

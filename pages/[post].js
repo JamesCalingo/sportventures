@@ -29,10 +29,11 @@ function Post({ frontmatter, body }) {
             }}>
             {body}
           </Markdown>
-          <div className="tags-container">
+          {frontmatter.tags && <div className="tags-container">
             <p>TAGS:</p>
             {frontmatter.tags && frontmatter.tags.sort().map((tag, index) => <Tag key={index} index={index} last={frontmatter.tags.length - 1} tag={tag} />)}
           </div>
+          }
         </article>
       </div>
     </Layout >

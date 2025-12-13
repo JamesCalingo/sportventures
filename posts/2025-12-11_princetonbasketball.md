@@ -56,21 +56,18 @@ Given that the Scarlet Knights struggled against a then-winless Siena team last 
 
 Both games featured cheerleaders and the Princeton Band, which means...Straw Boaters and Orange Blazers! However, it really seemed like there was little to no other students around - probably because it's December and finals are either going on now or right around the corner...
 
+Also, there is probably one other thing I could mention about this trip, but I don't think it's a good idea for me to...
+
 ### MERCH
 
 As you might expect at a ticketed Princeton sporting event (save for hockey due to Baker Rink's small "concourse"), merch is sold in the lobby (which I have yet to mention, but is kinda sorta HUGE; it's essentially under the massive grandstand). During the first half of the men's game, I got a mini basketball (as I liked it more than the "regular size basketball") and some strange plush toy. However, I ended up not going home with the plush, because the men's game was their Teddy Bear Toss (i.e. I specifically bought the toy to toss it).
 
 I alluded to it during the [hockey post](2025-11-16_princetonhockey), but from what I've seen, Princeton only sells jerseys for two sports: hockey and basketball. I was not thinking that I'd ever want the basketball jersey for reasons I outlined when talking about merch at the last basketball game I went to (mainly the lack of sleeves). However, since these are the only Princeton jerseys that are available, I (probably) went against my better judgment and got the only basketball jersey the merch stand had in my size during halftime of the men's game.
 
-Both the merch stand and concession stand in the lobby closed shortly after the second half of the women's game started. Under normal circumstances, I'd say that's a little early, but when the second half of a game starts at almost 9 PM...
+Both the merch and concession stands in the lobby closed shortly after the second half of the women's game started. Under normal circumstances, I'd say that's a little early, but when the second half of a game starts at almost 9 PM...
 
 ---
 
-### ON DECK
-
-Something big is happening Saturday night. I can't go to it because I have other plans (plus it's four to five hours away), but I'd like to talk a little bit about it.
-
----
 
 [^1]: Women's games were also 2-20 minute halves until 2015.
 [^2]: The men's college shot clock went from 35 seconds to 30 in 2015.

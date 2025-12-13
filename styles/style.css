@@ -158,6 +158,11 @@ figcaption {
   margin-bottom: 40px;
 }
 
+  .badge {
+    max-width: 200px;
+
+  }
+
 .section-header,
 .section-subheader {
   text-align: center;
@@ -262,6 +267,8 @@ margin-bottom: 0
     background: #424242;
 
   }
+
+
 
 }
 
