@@ -44,12 +44,5 @@ Speaking of which, the university is selling the seats and bricks from the arena
 
 ---
 
-### ON DECK
-
-It's looking like my next trip will have a certain "holiday flair" to it...but no blueberry muffins.<br>
-(Kudos if you understood that reference...)
-
----
-
 [^1]: I actually had thoughts about going to the final women's game game at Matthews on December 6; however, a planning mix up plus a vintage market ended up killing that trip (along with a visit to BU's women's hockey team).
 [^2]: Of note, there's a "home game" against Maine in Portland, ME - where a lot of their alumni live and work.
