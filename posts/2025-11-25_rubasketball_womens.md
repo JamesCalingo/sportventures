@@ -55,8 +55,6 @@ This game featured the Siena Saints from Siena College - a small Catholic school
 
 This game ended up being one of the most intense games to be featured on this blog. Despite the talent disparity on paper (plus the fact that Siena came into this game WINLESS), Siena played tough, had the lead at various points in the second half. However, Rutgers pulled away at the end - with a last-second free throw giving the Scarlet Knights a grand total of 67 points (for the culture). Also, the PA announcer for this game sounded like the same guy the [Jersey Shore BlueClaws][2025-08-08_jsblueclaws] had when I saw them way back in April (whose name I can't seem to find on the internet).
 
-And before anyone asks: a men's game is very much a question mark because WHY IS GOING TO A GAME SO EXPENSIVE? The minimum price for a game is ~30 dollars, but that's for the way too high and out-of-date 300 section benches at a NON-CONFERENCE game, and then apparently it costs ANOTHER $30 to park...and SeatGeek didn't help either.
-
 ### MERCH
 
 Before I continue, I DO want to mention another reason I'm not super into basketball: the jerseys.
