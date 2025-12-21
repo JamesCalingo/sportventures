@@ -1,7 +1,7 @@
 ---
 display: "Rutgers and the Winter Village"
 title: "Rutgers Scarlet Knights Basketball (Big Ten) @ Jersey Mike's Arena (Piscataway, NJ)"
-subtitle: "A holiday spectacle featuring a basketball doubleheader"
+subtitle: "A holiday hoops spectacular"
 date: 21 December 2025
 published: true
 pinned: false
