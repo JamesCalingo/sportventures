@@ -154,7 +154,7 @@ Otherwise, I'll see you next year (AKA the day after).
 
 ---
 
-[^1]: My original idea was to post this on Christmas itself, but I felt that was too cheesy.
+[^1]: My original idea was to post this on Christmas itself as a comment on how commercialized Christmas has become, but I felt that was too cheesy.
 [^2]: I have a friend who was a bat boy for the Patriots when he was in high school. However, he's a Mets fan, so...
 [^3]: There was an ad for one of the concession "experiences" at this WooSox game, and it featured the song from which this post's subtitle comes from.
 [^4]: I'd rather not discuss the building's attempt at being an NHL venue...
