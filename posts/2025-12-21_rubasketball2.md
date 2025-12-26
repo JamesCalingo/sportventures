@@ -47,6 +47,8 @@ Immediately after the women's game, several of the players came out and signed a
 
 When the WInter Village started "in earnest", there were several entertainment options(including a balloon artist, temporary tattoos, and a magician), but it didn't really have anything that interested me (outside of hot chocolate - which was apparently free when the women were doing their signing). Merchandise was also available, but nothing was that interesting outside of them having the pullover I ended up getting before
 
+<div id="mens">
+
 ### THE MEN'S GAME
 
 I didn't dive into the history of the Rutgers men's basketball prior, and that's mainly because I felt there wasn't much to say: it IS a Rutgers sport after all (and I say this as an alumnus). The men DO have a Final Four appearance, but it was WAY BACK in 1976, and they also made an NIT final in 2004 but lost. Unlike the football team, however, one could argue that moving from the Big East to the Big Ten made life EASIER for the basketball team. Sure, there are still some pretty good programs in the Big Ten, but the Big East is VERY MUCH known as a basketball conference (case in point: UConn)[^2].
@@ -62,14 +64,6 @@ Then, one of their players gave the crowd free Shake Shack by missing two free t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0OeTNaJQlU?si=WnLxe-M9HrzDZABf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ladies, Gentlemen, and those in between: Rutgers University. We may be the Scarlet-headed stepchild of the college sports world, and more often than not we find ways to lose and/or embarrass ourselves (see: the Penn State game from this year) but every now and then, we have our moments (y'know, like 2006 vs. Louisville).
-
----
-
-### ON DECK
-
-I DID have one more game I want to squeeze into this year, but it's going to be DIFFICULT to top that buzzer beater - and part of me wants to end the year on that note.
-
-However, I have one other post/topic I'd like to discuss before the end of the year as well.
 
 ---
 
