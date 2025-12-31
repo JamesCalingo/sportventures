@@ -47,7 +47,7 @@ Immediately after the women's game, several of the players came out and signed a
 
 When the WInter Village started "in earnest", there were several entertainment options(including a balloon artist, temporary tattoos, and a magician), but it didn't really have anything that interested me (outside of hot chocolate - which was apparently free when the women were doing their signing). Merchandise was also available, but nothing was that interesting outside of them having the pullover I ended up getting before
 
-<div id="mens">
+<div id="mens" />
 
 ### THE MEN'S GAME
 

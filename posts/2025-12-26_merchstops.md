@@ -146,14 +146,6 @@ Some highlights include:
 
 ---
 
-### ON DECK
-
-I've mentioned it before, but I have one last game planned for this year - though it is somewhat up in the air for a few reasons (including [the events of the last game I went to](2025-12-21_rubasketball2#mens)). If it does, in fact, happen, my last post for 2025 will be on New Year's Eve.
-
-Otherwise, I'll see you next year (AKA the day after).
-
----
-
 [^1]: My original idea was to post this on Christmas itself as a comment on how commercialized Christmas has become, but I felt that was too cheesy.
 [^2]: I have a friend who was a bat boy for the Patriots when he was in high school. However, he's a Mets fan, so...
 [^3]: There was an ad for one of the concession "experiences" at this WooSox game, and it featured the song from which this post's subtitle comes from.
