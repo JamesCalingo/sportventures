@@ -1,6 +1,6 @@
 ---
 display: "Sacred Heart Hockey (12/30/25)"
-title: "Sacred Heart Pioneers Hockey (Atlantic Hockey America) @ Martire Family Arena (Fairfield, CT)"
+title: "Sacred Heart Pioneers Men's Hockey (Atlantic Hockey America) @ Martire Family Arena (Fairfield, CT)"
 subtitle: "My final trip for 2025: one of college hockey's newest gems"
 date: 31 December 2025
 published: true
@@ -56,7 +56,11 @@ It is difficult for me to rate how the atmosphere for Sacred Heart hockey is, as
 
 If you thought the history of Sacred Heart's hockey team was interesting, it's nothing compared to their opponent for this game: the Robert Morris Colonials from just outside of Pittsburgh, who were DISBANDED in 2021 and then brought back after massive backlash. Despite the Colonials getting two late goals to make things interesting, they were never truly in the game - partially as they got the aforementioned "goal horn in their faces" six times (though one of the goals was disallowed because...something; they didn't show the replay in the arena).
 
-Also, #JusticeforCroixKochendorfer - you cannot let a dude with a name like that ride the bench the whole game - especially when you make a goalie change...
+Also, a few final notes from this game:
+
+1. Shoutout to the guy I saw in the AIC jersey - maybe one day they'll get to have a Robert Morris-like comeback...
+2. #JusticeforCroixKochendorfer - you cannot let a dude with a name like that ride the bench the whole game - especially when you make a goalie change...
+3. Sacred Heart's website indicates that women's hockey games are free! However, that likely means that there's fewer things open, and that suite level seats are unavailable...
 
 ### MERCH
 
@@ -74,7 +78,7 @@ And with that...2025 is over.
 
 I could talk about how starting this blog and finally putting myself out there like this was a massive undertaking, but I think the best way for me to end this first "year" of Sportventures is by saying this:
 
-I have BIG plans for next year, which I'll discuss...next year (aka tomorrow).
+[I have BIG plans for 2026](2026-01-01_26in26).
 
 ---
 
