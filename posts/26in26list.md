@@ -6,6 +6,6 @@ date:
 published: false
 ---
 
-I'm hoping to visit at least 26 new venues in 2026. Follow along with the journey here, and check 
+I'm hoping to visit at least 26 new venues in 2026. You can read more about this goal [here](2026-01-01_26in26), and follow along with the journey right here!
 
-1.  COMING SOON
+1. COMING SOON
