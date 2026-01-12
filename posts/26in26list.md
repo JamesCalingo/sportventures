@@ -1,11 +1,12 @@
 ---
 display: "26 in 26: The List"
 title: "26 in 26: THE LIST"
-subtitle: "The list of new places I go this year"
+subtitle:
 date:
 published: false
 ---
 
 I'm hoping to visit at least 26 new venues in 2026. You can read more about this goal [here](2026-01-01_26in26), and follow along with the journey right here!
 
-1. COMING SOON
+1. [Total Mortgage Arena (Bridgeport, CT) - Bridgeport Islanders](2026-01-12_bptislanders)
+2. **COMING SOON**

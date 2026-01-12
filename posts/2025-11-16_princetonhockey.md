@@ -16,6 +16,7 @@ tags:
     "ECAC Hockey",
     "Women's Sports",
     "Indoor Sports",
+    "First Visit"
   ]
 ---
 

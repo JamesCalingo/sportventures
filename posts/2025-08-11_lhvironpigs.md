@@ -8,13 +8,14 @@ pinned: false
 tags:
   [
     "Baseball",
+    "Minor Leagues",
     "Minor League Baseball",
     "Pennsylvania",
     "International League",
     "Triple A",
     "Phillies",
     "Outdoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 

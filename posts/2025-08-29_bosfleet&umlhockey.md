@@ -17,9 +17,8 @@ tags:
     "College Hockey",
     "Pre-2025",
     "Hockey East",
-    "Professional Leagues",
+    "Major Leagues",
     "Women's Sports",
-    "First Visit",
     "Repeat Visit",
   ]
 ---

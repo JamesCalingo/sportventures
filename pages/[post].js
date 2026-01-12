@@ -15,9 +15,13 @@ function Post({ frontmatter, body }) {
     <Layout pageTitle={frontmatter.display ? `${frontmatter.display} - Sportventures` : `${frontmatter.title} - Sportventures`}>
       <div>
         <article>
+          <div>
           <h1 className="title">{frontmatter.title}</h1>
           <h2 className="description">{frontmatter.subtitle}</h2>
           <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString()}</b></em>
+          </div>
+
+          {frontmatter.badge && <a href="/26in26list"><img className="badge" src={frontmatter.badge} alt={`this is a 26 in 26 stop`}/></a>}
 
           <Markdown
             rehypePlugins={[rehypeRaw]}

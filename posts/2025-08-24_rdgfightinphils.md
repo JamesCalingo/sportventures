@@ -9,6 +9,7 @@ tags:
   [
     "Baseball",
     "Minor League Baseball",
+    "Minor Leagues",
     "Pennsylvania",
     "Eastern League",
     "Double A",

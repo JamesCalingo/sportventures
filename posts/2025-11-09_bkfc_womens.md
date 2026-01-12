@@ -15,7 +15,6 @@ tags:
     "New York",
     "Repeat Visit",
     "Outdoor Sports",
-    "First Visit",
     "Repeat Visit",
   ]
 ---
