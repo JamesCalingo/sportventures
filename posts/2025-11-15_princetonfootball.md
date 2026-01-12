@@ -15,7 +15,8 @@ tags:
     "Ivy League",
     "College",
     "College Football",
-    "Outdoor Sports"
+    "Outdoor Sports",
+    "First Visit"
   ]
 ---
 

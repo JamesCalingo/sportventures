@@ -9,6 +9,7 @@ tags:
   [
     "Baseball",
     "Minor League Baseball",
+    "Minor Leagues",
     "Brooklyn",
     "New York",
     "South Atlantic League",

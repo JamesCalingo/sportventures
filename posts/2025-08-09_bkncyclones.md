@@ -8,6 +8,7 @@ pinned: false
 tags:
   [
     "Baseball",
+    "Minor Leagues",
     "Minor League Baseball",
     "Brooklyn",
     "New York",

@@ -13,6 +13,8 @@ tags:
     "Sacred Heart University",
     "Connecticut",
     "Atlantic Hockey America",
+    "Indoor Sports",
+    "First Visit"
   ]
 ---
 

@@ -268,7 +268,9 @@ margin-bottom: 0
 
   }
 
-
+.badge {
+  width: 250px;
+}
 
 }
 

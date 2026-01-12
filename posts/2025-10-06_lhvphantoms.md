@@ -9,13 +9,14 @@ tags:
   [
     "Hockey",
     "Minor League Hockey",
+    "Minor Leagues",
     "Pennsylvania",
     "Allentown",
     "American Hockey League",
     "Flyers",
     "Philadelphia",
     "Indoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 

@@ -58,11 +58,3 @@ The US Open is one of the biggest tournaments of the tennis calendar. Every year
 I went to a day of the tournament back in 2014 with my family, but a lot has changed in the decade since then - namely, ticket prices being prohibitively expensive. However, there are events the week before the tournament starts, and they're open and free to the public.
 
 I was strongly considering coming here for that (plus the fact it's next to Citi Field to check out the New York Mets team store), but had several things going on that week, so I ended up having to miss out.
-
----
-
-### ON DECK
-
-The _26 in 26_ will MOST LIKELY start next weekend, as I have "Stop 1" (and possibly 2) planned out in my head (heck, I almost went somewhere yesterday). However, there are a few "moving parts" to take into consideration (namely Northeast winter), so we'll see what happens.
-
-Also, these teasers are probably going to be showing up a lot less/getting discontinued altogether, as a lot of times they're going to be a bit more "speculative" than I think they should be (though I do kinda like writing them...). Case in point: the fact that I almost changed Stop 1 to be yesterday...

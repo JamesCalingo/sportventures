@@ -9,6 +9,7 @@ tags:
   [
     "Baseball",
     "Minor League Baseball",
+    "Minor Leagues",
     "New Jersey",
     "South Atlantic League",
     "High A",

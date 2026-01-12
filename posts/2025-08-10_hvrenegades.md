@@ -8,13 +8,14 @@ pinned: false
 tags:
   [
     "Baseball",
+    "Minor Leagues",
     "Minor League Baseball",
     "New York",
     "South Atlantic League",
     "High A",
     "Yankees",
     "Outdoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
