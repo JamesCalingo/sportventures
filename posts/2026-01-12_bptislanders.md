@@ -36,7 +36,7 @@ Total Mortgage Arena (what a name) opened with the team’s debut in 2001. Origi
 
 In what I think is a first for indoor arenas on this blog, the main concourse is at floor level (i.e. the same level as the ice)[^4]; therefore, there are limited views of the ice from the concourse. In addition, it doesn't wrap fully around the seating area; I THINK the part that's "cut off" is where the teams' dressing rooms and zamboni garage are. The top of the seating bowl does feature a walkway to get around, but awkwardly, the only way to access it (generally) is from the seats (i.e. it's difficult to get to from the concourse - a situation made even more awkward by ushers blocking you from accessing the seats while the puck is in play). In addition, there's only three things going on here: A bar area in one corner, the press box on one side blocking "full 360" access, and a drinks cart in the standing room section I bought my ticket in. While it's called the "party zone", there's really not much of a party going on here...but you do get THIS actually pretty neat view of the ice:
 
-![A view of Total Mortgage Arena](/images/20260111-arenaview.jpeg)
+![A view of Total Mortgage Arena](/images/2026/20260111-arenaview.jpeg)
 
 The good news for the Bridgeport Islanders: the night before this game, they recorded their fifth home win of the season - one more than their total (4) from ALL OF LAST SEASON (which was a league record for fewest home wins). The better news: a third period stretch of three goals in just over two minutes helped the team add win six against probably their biggest rivals (who they were tied at the bottom of their division with): the Hartford Wolf Pack (AHL affiliate of the New York Rangers - only making things more intense). While it's difficult to gauge how much the crowd was getting into the game (partially because despite the reported attendance being close to 6,000, there were still a lot of empty seats), there was a fight during the game, which is always a crowd pleaser - for better or worse (and also signifies the "rivalry" aspect of this game).
 
@@ -48,7 +48,7 @@ Before I continue, I should mention that I once bought a Bridgeport Sound Tigers
 
 Anyway, merchandise is tucket into  one of the corners of the arena (i.e. one of the ends of the"horseshoe" that is the concourse) - though I saw a photo of them putting a merchandise booth on the arena floor for a preseason event for season ticket holders. In honor of the fact that the current Bridgeport Islanders logo is based on the parent team's infamous "fisherman" logo from the 1990s, the store is called the "Bait Shop".
 
-![An image of the team store's name: "Bait Shop"](/images/20260111-teamstore.jpeg)
+![An image of the team store's name: "Bait Shop"](/images/2026/20260111-teamstore.jpeg)
 
 <figcaption>Do they sell tackle (or grapple)?</figcaption>
 
@@ -56,7 +56,7 @@ While most of the things you find here don't stray too far from what you'd expec
 
 ...but why get the board when YOU CAN JUST GET THE JERSEY AND HAVE THE TEAM SIGN THAT?
 
-![A photo of a Bridgeport Sound Tigers jersey signed by the team](/images/20260111-signedjersey.jpeg)
+![A photo of a Bridgeport Sound Tigers jersey signed by the team](/images/2026/20260111-signedjersey.jpeg)
 
 <figcaption>Don't ask me who's who because I don't remember...</figcaption>
 

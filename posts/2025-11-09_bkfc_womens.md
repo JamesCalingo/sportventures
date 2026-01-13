@@ -31,7 +31,7 @@ The backstory for this trip can be found [here](2025-09-01_bkncyclones2), but lo
 
 Much like the MLW post, I won’t get into details on Maimonides Park as anything I would’ve said here has been said [the first time I was here](2025-08-09_bkncyclones) (this game being my THIRD visit). However, I do have to mention that similar to [Yankee Stadium](2025-08-13_nycfc), the soccer layout here is kinda strange. Like Yankee Stadium, the soccer field here does not cross the pitcher’s mound (as confirmed by seeing traces of the soccer field’s lines during the second Cyclones game I went to). Here, however, the field is set with one goal line along the third base side, so given that there are zero outfield seats...no one has a good sideline view; home plate is kinda far from the field, and the first base side, while “better”, isn’t great as it’s not flush with the field (though it is kinda interesting).
 
-![A photo of the field at Maimonides Park set up for soccer from behind home plate. It is meant to showcases how poor the view of the soccer is from these seats](/images/ueckerseats.jpeg)
+![A photo of the field at Maimonides Park set up for soccer from behind home plate. It is meant to showcases how poor the view of the soccer is from these seats](/images/2025/ueckerseats.jpeg)
 
 <figcaption>A great view for baseball...but not for soccer</figcaption>
 

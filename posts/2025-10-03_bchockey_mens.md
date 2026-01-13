@@ -30,7 +30,7 @@ As much as Boston College wants to be a “national player” in the college spo
 
 In 2023, an influx of players who were drafted in the first round of the NHL draft helped propel the Eagles to the top of the college hockey rankings...but not the world: they got shutout in the national championship game. Fast forward a year, and while some of the talent they had left for the NHL, they still had a very strong core; unfortunately, they STILL didn’t win - getting eliminated before the Frozen Four in their own backyard (technically it was in Manchester, NH, but it’s still pretty close). With the talent that propelled BC to the top now pretty much all gone for the NHL, expectations heading into 2025 are MUCH more muted than in recent years.
 
-![An image of Kelley Rink/Conte Forum before a hockey game](/images/bc.jpeg)
+![An image of Kelley Rink/Conte Forum before a hockey game](/images/2025/bc.jpeg)
 
 <figcaption>Imagine, if you will, an eight-year-old me walking on the concrete underneath that ice...</figcaption>
 

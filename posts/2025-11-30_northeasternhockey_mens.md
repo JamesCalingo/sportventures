@@ -26,9 +26,9 @@ Northeastern University is probably best known known for its five-year co-op pro
 
 The Northeastern Huskies...aren't exactly a major player in just about ANY sport (as a member of a non-football conference); the most notable thing about Northeastern sporting wise (outside of what I'm about to discuss) is that the campus contains a marker commemorating the Huntington Avenue Grounds (the original home of the Boston Red Sox and the site of the first World Series game in 1903). In terms of their hockey team, they're probably just above Harvard (thanks to being in Hockey East) and WELL below BC, BU, and the Bruins on the "Boston hockey relevancy scale"[^1], as they haven't really done much outside of a single Frozen Four appearance (and a Hobey Baker award winner in 2018 who's been somewhat of an NHL journeyman). This lack of relevancy includes the fact that they have the fewest Beanpot trophies of the tournament's four teams - though they've won the Beanpot five of the last seven years and featured one of the best names in all of sports: Gunnerwolfe Fontaine (who scored in OT to win the Beanpot in 2024). However, since 1946, the Huskies have had the privilege of playing in the oldest indoor arena in the world: Historic Matthews Arena.
 
-![A photo of the entrance arch of Matthews Arena](/images/matthews/matthewsarch.jpeg)
+![A photo of the entrance arch of Matthews Arena](/images/2025/matthews/matthewsarch.jpeg)
 
-![A photo of Matthews Arena from behind one of the goals on the upper level](/images/matthews/matthewsinterior.jpeg)
+![A photo of Matthews Arena from behind one of the goals on the upper level](/images/2025/matthews/matthewsinterior.jpeg)
 
 <figcaption>"Historic Matthews Arena" as the jumbotron put it - outside and in</figcaption>
 
@@ -36,11 +36,11 @@ Opened in 1910 (two years before the Boston Red Sox left the Huntington Avenue G
 
 Because the ideas of concessions, merchandising, and even the NHL (founded in 1917 officially) weren’t exactly "things" when this place was built, there's basically NO concourse here (which you can kinda see on the interior photo); the entrance lobby on the north side of the building has the building’s concession stands and a merchandise booth. This lobby is also rather ornate by arena standards (again, likely due to the history), as evidenced by the hanging lighting fixtures and CARPETING.
 
-![A photo of the lobby of Matthews Arena during a game](/images/matthews/matthewslobby.jpeg)
+![A photo of the lobby of Matthews Arena during a game](/images/2025/matthews/matthewslobby.jpeg)
 
 Of the Hockey East arenas I've been to, Matthews is notable for having balcony style upper level seating around the arena as opposed to “upper” and “lower” sections in a single bowl like Providence, [BC](2025-10-03_bchockey_mens), and [UMass Amherst](2025-10-05_umasshockey) (though from what I’ve seen of it, Maine has balcony seats too[^3]). The lower level here is "a bit uneven", as the long sides are slightly elevated from the lobby (with the end zone at lobby level for handicapped patrons). Also, there's no true "seating bowl", as the far end has only a premium seating area which is by and large disconnected from the rest of the seats, and the "bowl" is disrupted by the entrance for the ice resurfacers. Some of the upper seats have fairly obstructed views of the ice, but you have a giant, modern jumbotron (built in 2019) to help you out, which feels VERY out of place in a building as old as Matthews.
 
-![An image of the large video board that hangs in Matthews Arena](/images/matthews/huskyvision.jpeg)
+![An image of the large video board that hangs in Matthews Arena](/images/2025/matthews/huskyvision.jpeg)
 
 <figcaption>"We have JerryVision at home"</figcaption>
 

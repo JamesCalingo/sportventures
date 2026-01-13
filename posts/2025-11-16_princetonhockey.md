@@ -46,7 +46,7 @@ First of all, while Princeton's football and soccer stadiums are part of a large
 
 As you approach the building from the parking garage and/or train station, you're greeted by this:
 
-![A photo of the box office/entrance area of Hobey Baker Rink](/images/hobeybaker/outside.jpeg)
+![A photo of the box office/entrance area of Hobey Baker Rink](/images/2025/hobeybaker/outside.jpeg)
 
 <figcaption>The box office and entrances to the building</figcaption>
 
@@ -54,11 +54,11 @@ The box office/ticket windows require you to line up/stand outside the arena to 
 
 When you arrive at the ticket windows, there are two doors on either side. These serve as the entrances to the arena for (most) fans arriving at games (due to them being adjacent to the parking garage and box office), but these are CLEARLY "add-ons" from who knows when - the entrances to the seating sections appear to be entrances to the building, and feature images of famous Princeton alumni in their "windows". Based on what I've seen of the building historically, however, it is possible that these entrances used to be windows before being converted:
 
-![One of the entrances to the seating bowl at Hobey Baker Rink](/images/hobeybaker/entrance.jpeg)
+![One of the entrances to the seating bowl at Hobey Baker Rink](/images/2025/hobeybaker/entrance.jpeg)
 
 The areas outside these entrances are basically hallways with with greenhouse-style glass (according to <a href="https://www.collegehockeynews.com/news/2023/07/24_Baker-Rink-at-100.php" target="blank">this article I found</a>, the glass was added in the 1980s). There's no way through the seating bowl without either these or walking through seats, as supports for the roof are present between the entrances. One of these hallways (on what ends up being the "north" side of the ice if you're watching on TV) has physical doors in the entryways; they were closed for the women's game, but open for the men's game (possibly because they were trying to only use the other hallway). Here's the "north" hallway (i.e. the one with doors) during the women's game (thus the darkness outside the glass):
 
-![One of the greenhouse glass enclosed hallways at Hobey Baker Rink. This one features doors blocking the view of the hallway from the seating bowl.](/images/hobeybaker/hallway.jpeg)
+![One of the greenhouse glass enclosed hallways at Hobey Baker Rink. This one features doors blocking the view of the hallway from the seating bowl.](/images/2025/hobeybaker/hallway.jpeg)
 
 At the "far" end of the building (i.e. the one opposite of the entrances/box office) is an area with concessions and a few cool displays of Princeton's history (and a LOT of plaques). This is basically the only "concourse" in the building, and it can get crowded at times.
 
@@ -66,13 +66,13 @@ One IMPORTANT thing to know about watching hockey here: it's 100% bench seating.
 
 Speaking of seats, however...there's an "upper deck" seating area above the "concourse" (i.e. the area with the concession stand). This seems kinda rare among college hockey venues, and I ALMOST bought a ticket here before settling on something (almost) rinkside. I found that the view of the game from here was actually pretty good; however...there's quite a few "warts" with the upper level experience: support pillars create obstructed views, the seats here have no backs, and the steps leading down to the seats (as access is from the top) are hard to get down. 
 
-![A view of Hobey Baker Rink from the upper deck](/images/hobeybaker/upperdeck.jpeg)
+![A view of Hobey Baker Rink from the upper deck](/images/2025/hobeybaker/upperdeck.jpeg)
 
 Also, as you may have noticed from the last photo, there's no video screens ANYWHERE inside; while there might be other D-I hockey schools without video boards, this is the only one I know of (with conference rival Yale getting a new video board recently). I'm guessing that this is a "personal" decision by the university, as the building has been renovated MANY times over the years - most recently in the summer of 2025.
 
 One last note about Princeton hockey overall before we dive into the games themselves: the awards for the best college hockey players (basically the MVP awards) are both named after Princeton alumni. The men's award is the Hobey Baker Award (another reason he's probably Princeton's most famous alum), while the women's is the Patty Kazmaier Award[^2]. Likely due to this, banners commemorating the two are inside the arena (on the wall with the box office), both featuring the message "MAKE _____ PROUD" with the name of the corresponding player in the blank. While I assume they're meant to honor the awards and inspire the players, I also feel like they give off "DO~~N~~IT FOR~~GET YOU'RE~~ HER~~E FOREVER~~" vibes...
 
-![Banners that say "MAKE HOBEY PROUD" and "MAKE PATTY PROUD"](/images/hobeybaker/banners.jpeg)
+![Banners that say "MAKE HOBEY PROUD" and "MAKE PATTY PROUD"](/images/2025/hobeybaker/banners.jpeg)
 
 <div id="womens" />
 

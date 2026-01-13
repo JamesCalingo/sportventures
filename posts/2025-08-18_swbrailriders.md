@@ -23,7 +23,7 @@ _\*This trip occurred on August 17, 2025. I decided to post about it here rather
 
 _Also, I’m sure at least some of you out there understand what I’m referencing in the subtitle - I couldn’t stop thinking about it after hearing how the “Barre” in Wilkes-Barre is pronounced..._
 
-![The hills beyond the outfield of PNC Field](/images/swb.jpeg)
+![The hills beyond the outfield of PNC Field](/images/2025/swb.jpeg)
 
 <figcaption>The hills beyond the outfield of PNC Field</figcaption>
 
@@ -51,7 +51,7 @@ One thing that was kept in the Red Barons to Yankees transition, however, was th
 
 Finally, I MUST show you one of the most horrifying caps I have ever seen a Minor League Baseball team (attempt to) sell:
 
-![The horror that is the "Baby Bombers" logo](/images/babybomber.jpg)
+![The horror that is the "Baby Bombers" logo](/images/2025/babybomber.jpg)
 
 <figcaption>The horror that is the "Baby Bombers" logo</figcaption>
 

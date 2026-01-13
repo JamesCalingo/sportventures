@@ -18,7 +18,7 @@ tags:
 
 _\*This trip occurred on May 18, 2025._
 
-![A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.](/images/hinchliffe.jpeg)<br>
+![A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.](/images/2025/hinchliffe.jpeg)<br>
 
 <figcaption>A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.</figcaption>
 

@@ -18,7 +18,7 @@ tags:
 
 _\*This trip occurred on June 4th, 2025._
 
-![The pregame anthem from a Trenton Thunder game](/images/trentonthunder.jpg)
+![The pregame anthem from a Trenton Thunder game](/images/2025/trentonthunder.jpg)
 
 <figcaption>The pregame anthem from a Trenton Thunder game</figcaption>
 

@@ -27,7 +27,7 @@ However, you probably wouldn’t know much about that if the only thing you did 
 
 As they are a “Jersey Shore” team and are south of Interstate 195, I would classify them as being in South Jersey (i.e. the parts of Jersey that tend towards liking Philadelphia sports). This helps, as they’re a Phillies affiliate and have been since they arrived from somewhere in the Carolinas in 2001. This connection has been rather fruitful for the Phillies, as evidenced by the two players whose numbers the BlueClaws have retired: 2008 World Series MVP Cole Hamels and 2006 NL MVP Ryan Howard (who, coincidentally, also spent a bit of time in Scranton but didn't work for Dunder Mifflin). You’ll probably find quite a few locals who support the Phillies during games, but thanks to the Jersey Shore being a popular weekend getaway for those from North Jersey and New York, you’ll also run into a lot of Yankee and Met fans as well.
 
-![A gray, cloudy day on the Jersey Shore - Perfect Baseball Weather!](/images/perfectshoreweather.jpg)
+![A gray, cloudy day on the Jersey Shore - Perfect Baseball Weather!](/images/2025/perfectshoreweather.jpg)
 
 <figcaption>Perfect Baseball Weather!</figcaption>
 

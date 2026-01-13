@@ -23,7 +23,7 @@ _\*This trip occurred on December 20, 2025._
 
 My original thought for today was going to do some sightseeing in New York City with my friends whom I typically play pickleball with. However, pretty much none of them were available, but I was fine going by myself...and then I got an email: for one low price, I could get tickets to not one, but TWO Rutgers basketball games on the same day! The only caveat was that you'd be WAY UP at the 300 level for the men's game, but honestly, given how expensive men's tickets usually are (case in point: just a men's ticket in the 300s for this date was more than this combination ticket), it's a small price to pay (also, I ended up kinda liking the view - but not the climb).
 
-![A view of Jersey Mike's Arena from the 300 level](/images/rubasketball300.jpeg)
+![A view of Jersey Mike's Arena from the 300 level](/images/2025/rubasketball300.jpeg)
 
 However, unlike the [Princeton games I went to ten days prior](2025-12-11_princetonbasketball), the start times for these games were separated by eight hours: the women's game was at noon, and the men's game at 8 PM[^1]. In the interim, Rutgers hosted a "Winter Village" outside the arena. Because of how "spread out" the entire day was (12 noon to 10 PM), I'm going to break this into sections and try and describe things in chronological order. Also, I won't get too deep into describing the arena since [I did that already](2025-11-25_rubasketball_womens), and I won't do a dedicated merchandise section for...reasons.
 
@@ -37,7 +37,7 @@ Despite not making a basket until the literal end of the first quarter (as in th
 
 ### THE WINTER VILLAGE
 
-![A banner with the words "The Rutgers Winter Village" in different fonts](/images/wintervillage.jpeg)
+![A banner with the words "The Rutgers Winter Village" in different fonts](/images/2025/wintervillage.jpeg)
 
 <figcaption>And yes, the article is required when referring to THE Rutgers Winter Village - y'know, like Ohio State</figcaption>
 

@@ -18,7 +18,7 @@ tags:
 
 _\*This trip occurred on May 29, 2025._
 
-![An image of the New York City skyline as seen from SIUH Community Ballpark](/images/siuhskyline.jpeg)<br>
+![An image of the New York City skyline as seen from SIUH Community Ballpark](/images/2025/siuhskyline.jpeg)<br>
 
 <figcaption>An image of the New York City skyline as seen from SIUH Community Ballpark</figcaption>
 

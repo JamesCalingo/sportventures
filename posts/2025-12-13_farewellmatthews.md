@@ -26,7 +26,7 @@ Unfortunately...sometimes, it’s hard to keep a 100+ year building up. Y'see, i
 
 Back in 2023, there was concern that Matthews wasn't 100% structurally sound, and this led to discussions about its future. I distinctly remember how I learned about the issues: A BU Hockey blogger tweeting jokes about the arena's foundation supposedly sinking after I went to the first game. I didn't know about the issues then, but the most visible evidence from the first game was the fact that student seating in the balcony behind Northeastern’s “defend twice” goal was off limits to everyone.
 
-![An image of tarped-off sections of the upper deck at Matthews Arena](/images/tarps.jpeg)
+![An image of tarped-off sections of the upper deck at Matthews Arena](/images/2025/tarps.jpeg)
 
 <figcaption>NOTE: These tarps weren't here back in 2023-24</figcaption>
 

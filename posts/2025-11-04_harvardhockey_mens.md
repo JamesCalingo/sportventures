@@ -35,7 +35,7 @@ One other quirk about the Ivy League: due to its rules limiting how long athleti
 
 Anyhoo, back to the school at hand: Harvard University’s main campus is in Cambridge, MA (I was actually born about a mile away from it), but most of their sport programs are based in a complex across the Charles River in the Allston section of Boston. In terms of their hockey arena, the Bright-Landry Hockey Center has a somewhat interesting history: it originally opened with a different name in 1956 (thus putting it in line to be the oldest hockey arena in Boston fairly soon), but was substantially renovated in the late 1970s when it received its current name.
 
-![An image of warmups at Bright-Landry Hockey Center](/images/brightlandry.jpg)
+![An image of warmups at Bright-Landry Hockey Center](/images/2025/brightlandry.jpg)
 
 <figcaption>A real "hockey barn"</figcaption>
 

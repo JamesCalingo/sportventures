@@ -33,7 +33,7 @@ Fun fact: the River Hawks hockey team actually has more national championships. 
 
 However, this post isn't about UMass Lowell as their season had LONG ended by the time I made THIS visit. Now, let’s talk about the team I did see: the Boston Fleet - and their predecessors[^2].
 
-![The Boston Fleet and their opponents warm up before their game](/images/fleetwarmups.jpg)
+![The Boston Fleet and their opponents warm up before their game](/images/2025/fleetwarmups.jpg)
 
 <figcaption>The Boston Fleet and their opponents warm up before their game</figcaption>
 

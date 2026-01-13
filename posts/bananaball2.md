@@ -51,7 +51,7 @@ The K Club is the Bananas’ “superfan” group, which comes with a lot of per
 
 On the surface, the process seems decently simplistic. There’s a page on the Bananas’ website where you can join their “K Club Interest List”, and through most of the year, the Bananas accept signups for this list. At some point in September (I think), sign ups close - as indicated by this message[^3]:
 
-![A screenshot from the K Club website indicating that K Club signups are closed. It reads "The K Club Interest List is now CLOSED for the 2025 season. Invitations have been sent to those on the 2025 interest list with information on how to join, check your email for info! Check back in October to join the 2026 interest list."](/images/kclubmessage.png)
+![A screenshot from the K Club website indicating that K Club signups are closed. It reads "The K Club Interest List is now CLOSED for the 2025 season. Invitations have been sent to those on the 2025 interest list with information on how to join, check your email for info! Check back in October to join the 2026 interest list."](/images/2025/kclubmessage.png)
 
 <figcaption>A screenshot from the K Club website indicating that K Club signups are closed</figcaption>
 

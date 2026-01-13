@@ -28,7 +28,7 @@ Boston University is a fairly well known school on the banks of the Charles Rive
 
 Their (men's) hockey team is their main team (as they're in one of those smaller conferences), and has won five national championships plus produced stars such as Jack Eichel and Macklin Celebrini (though like BC, they recently lost their shot at a sixth title to the NCHC), but on a more local level, BU leads the city with 32 Beanpot championships. For those who don’t know, the Beanpot is a local tournament between Boston’s four D-I hockey programs (BC, BU, Northeastern, and Harvard), and is one of the most prestigious in-season tournaments in all of college sports (in some respects, even more than conference tournaments).
 
-![An image of Agganis Arena before a hockey game](/images/bu.jpeg)
+![An image of Agganis Arena before a hockey game](/images/2025/bu.jpeg)
 
 <figcaption>Agganis Arena before a BU hockey game</figcaption>
 

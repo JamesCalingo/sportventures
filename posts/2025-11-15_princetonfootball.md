@@ -38,9 +38,9 @@ The school lays claim to a whopping 28 national football championships - the mos
 
 The main thing which made this trip possible: TICKETS ARE FIFTEEN DOLLARS! Sure…it’s technically $20 if purchased online due to fees (which I ended up doing to "control" my seat), but I couldn’t find anything close to that for Rutgers (again, mainly due to their ~~torturers~~ opponents). However, it must be noted that said price applies to every ticket in the stadium - from the back of the upper deck all the way down to the sidelines. Part of this is probably because Princeton isn’t exactly a football powerhouse (the Ivy League being part of the college football division below the big teams like Rutgers), plus attendances are a bit on the “lighter” side (the stadium has over 20,000 seats, but has averaged under 10,000 for a few years). In addition, it's all metal bench seating here, so be aware of that if you're thinking of coming to a game (though I feel like I've heard that metal benches are an improvement on other Ivy League stadiums).
 
-![An image of a play during a football game taken from the first row of the stadium](/images/fieldside.jpeg)
+![An image of a play during a football game taken from the first row of the stadium](/images/2025/fieldside.jpeg)
 
-![An image of a play during a football game taken from the last row of the stadium](/images/upperdeck.jpeg)
+![An image of a play during a football game taken from the last row of the stadium](/images/2025/upperdeck.jpeg)
 
 <figcaption>What $15 can get you at Princeton.<br>Which of these images? Yes.</figcaption>
 
@@ -61,7 +61,7 @@ There are two other things I wanna mention before I go (besides the ol' merch si
 1. The Princeton Band was small. I don't know if I SHOULD be surprised by that or not, but it was often hard to hear them during the game (and a little bit during their pregame and halftime presentations). However, one thing I will say about them: they are VERY well dressed with the orange (tartan?) blazers and MOST ESPECIALLY the straw boaters.
 2. The Fifth Quarter. I couldn't find much information about its history online, but after the game, there's a fifteen minute period where fans are allowed onto the field to do literally whatever they feel like. The players (mainly the Princeton ones for this game) are also on the field during this time - mostly interacting with their families/friends.
 
-![A photo of fans on the field at Princeton Stadium after a game](/images/fifthquarter.jpeg)
+![A photo of fans on the field at Princeton Stadium after a game](/images/2025/fifthquarter.jpeg)
 
 <figcaption>I made it onto an Ivy League field!<br>...Along with everyone else.</figcaption>
 

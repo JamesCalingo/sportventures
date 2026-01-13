@@ -31,7 +31,7 @@ Their hockey team has formally been around since the 1970s, but only became a D-
 
 Tickets for Bentley are REALLY inexpensive if you’re looking for (college) hockey near Boston - every seat has the same (relatively) low cost, so not only can you get one of the more intimate atmospheres available in the area, you can get front row seats super cheap[^3]! However...parking is another story altogether. There’s VERY limited parking at the arena, and to guarantee a spot in the adjacent lot, it cost almost double the ticket price when I went; I could not find any information on how much it costs now. There are other options that are free, but it seems some of them are quite a ways away from the arena (as the campus offers shuttles for them). I ended up parking down the street from the arena, which was free (but also quite a walk - especially in Boston winter).
 
-![Bentley players salute the crowd after quote on quote winning](/images/bentley.jpg)
+![Bentley players salute the crowd after quote on quote winning](/images/2025/bentley.jpg)
 
 <figcaption>Bentley salutes their crowd after winning (but not really)</figcaption>
 

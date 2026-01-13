@@ -19,7 +19,7 @@ tags:
 
 _\*This trip occurred on July 3, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
 
-![Veterans Field in Chatham as viewed from the nearby street](/images/chatham.jpeg)<br>
+![Veterans Field in Chatham as viewed from the nearby street](/images/2025/chatham.jpeg)<br>
 
 <figcaption>Veterans Field in Chatham as viewed from the nearby street</figcaption>
 

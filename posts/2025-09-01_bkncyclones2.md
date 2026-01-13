@@ -43,7 +43,7 @@ The Cyclones had booked a postseason spot by virtue of having the best record in
 
 As the game was a Sunday game, kids were allowed to run the bases after the game (something rather common across all of baseball). However, since this was the final Sunday game (and final regular season home game) of the season, they expanded the "run the bases" opportunity to everyone, which was VERY cool.
 
-![Fans running the bases after the game](/images/runthebases.jpg)
+![Fans running the bases after the game](/images/2025/runthebases.jpg)
 
 <figcaption>Hope that third base coach still has their shoulder intact...</figcaption>
 
@@ -55,7 +55,7 @@ I will admit here that part of the reason I didn’t want to wait to return was 
 
 <div id="hats"></div>
 
-![Four hats - none of which are Brooklyn Cyclones hats. The hats are for the Columbia Fireflies (top left), St. Lucie Mets (top right), Binghamton Rumble Ponies (bottom left), and Kingsport Mets (bottom right)](/images/noncycloneshats.jpeg)
+![Four hats - none of which are Brooklyn Cyclones hats. The hats are for the Columbia Fireflies (top left), St. Lucie Mets (top right), Binghamton Rumble Ponies (bottom left), and Kingsport Mets (bottom right)](/images/2025/noncycloneshats.jpeg)
 
 These four hats are for other teams that WERE affiliated with the Mets back in the day; two are still affiliated with the Mets today, one changed affiliation during the 2020 realignment, and the last team was axed in 2020. They are:
 
