@@ -34,7 +34,7 @@ Since moving to Allentown, the team has been...fine. While they don’t seem to 
 
 Planning this game was weirdly difficult because for whatever reason, AHL schedules are WEIRD. The Phantoms’ Sunday games are at 3, which is very nice (especially given that it’s winter, so it gets dark early), but when I first started looking into this, they only had two Sunday games in 2025: one on a date I wanted to keep open, and the other one on the last Sunday of 2025 when I’m usually not home. However, the team later announced their preseason schedule, and that included a Sunday game (with no conflicts), so I ended up going for that.
 
-One of the advantages of this being a preseason game: "firsthand" tickets were ten dollars less than a regular season ticket! However, I ended up using SeatGeek to get an even better deal on this ticket (I guess the Phantoms don't use TicketMaster for their resale market). Strangely, however, a number of resale tickets I saw were MORE than what they'd be firsthand - though that may be due to the fact that the opponent for this game was the aforementioned Hershey Bears. I also booked parking at a garage attached to the arena, and that came out to a whopping SEVEN dollars - more than the IronPigs, but less than other MiLB teams I visited this past season (and very inexpensive for being in a PRIME location)!
+One of the advantages of this being a preseason game: "firsthand" tickets were ten dollars less than a regular season ticket! However, I ended up using SeatGeek to get an even better deal on this ticket (I guess the Phantoms don't use Ticketmaster for their resale market). Strangely, however, a number of resale tickets I saw were MORE than what they'd be firsthand - though that may be due to the fact that the opponent for this game was the aforementioned Hershey Bears. I also booked parking at a garage attached to the arena, and that came out to a whopping SEVEN dollars - more than the IronPigs, but less than other MiLB teams I visited this past season (and very inexpensive for being in a PRIME location)!
 
 ![A photo from the back of the upper deck at PPL Center](/images/pplcenter.jpeg)
 
@@ -71,5 +71,5 @@ I thought about getting a puck, but they didn't have any game pucks for sale (I 
 
 [^1]: Coincidentally, the Flyers' ECHL affiliate is in...Reading, PA! It is very interesting how the structure of the Flyers’ and Phillies' minor league teams is IDENTICAL: highest affiliate in Allentown, second highest affiliate in Reading, and then the Flyers stop there (though the Phillies continue on to the Jersey Shore and finally Florida).
 [^2]: The fact that I have to clarify this is upsetting...
-[^3]: I cannot believe a TWITTER MEME is how I found out one of the songs on the new album is about Travis Kelce's...wait, am I labeling this as a family blog?
+[^3]: I cannot believe a TWITTER MEME is how I found out one of the songs on the new album is about Travis Kelce's...wait, is this a family blog?
 [^4]: I also have a game-worn AHL jersey, which is even nicer quality than the authentics despite being MASSIVE on me even though it’s in the size I normally get (as retail jerseys aren’t made for hockey padding).
