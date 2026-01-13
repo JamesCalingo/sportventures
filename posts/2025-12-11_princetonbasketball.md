@@ -32,7 +32,7 @@ I also mentioned that Ivy League sports tend to start their schedules later than
 
 Back to Princeton basketball: both teams play in Jadwin Gymnasium - a building opened in 1969 and named after a former track and field captain. Like a lot of other indoor arenas, it’s a multipurpose building, but instead of being a simple basketball/hockey venue...it's an indoor track facility. Some readers may recall me mentioning the presence of a track adjacent to [Harvard’s hockey rink](2025-11-04_harvardhockey_mens); however, this is MUCH different in that the court is ON part of the track (in a sense, it’s similar to how Syracuse Basketball is set up on a football field, but in a WAY smaller building). Partially due to this, only one side (a grandstand, if you will) features "permanent" seats, and similar to Rutgers, this side has three "tiers" of seats: 100 and 200 level seats (both of which are plastic), and 300 level benches (though the 300 sections were not sold for this game).
 
-![An image of the grandstand at Jadwin Gymnasium](/images/jadwingrandstand.jpeg)
+![An image of the grandstand at Jadwin Gymnasium](/images/2025/jadwingrandstand.jpeg)
 
 <figcaption>I cannot stress just how MASSIVE this grandstand is - this photo really doesn't do it justice IMO</figcaption>
 
@@ -42,7 +42,7 @@ This date - despite being a Wednesday - was the only date I could find where bot
 
 The men's game featured Merrimack College - a school I visited a long time ago for [hockey](2025-10-10_merrimackhockey_mens)[^4]. It was a very close game throughout, but in the end, Merrimack left with a three-point win over bottom-of-the-Ivy-League Princeton. For this game, I sat in the first row of the 200 section, which offered a somewhat unique view (as the cameras are pretty far back here).
 
-![A photo of game action taken from the first row of the upper seating area at Jadwin Gymnasiumm](/images/jadwin200.jpeg)
+![A photo of game action taken from the first row of the upper seating area at Jadwin Gymnasiumm](/images/2025/jadwin200.jpeg)
 
 <figcaption>A view from the bottom of the top</figcaption>
 
@@ -50,7 +50,7 @@ The women's game featured a seemingly larger crowd...partially because the oppon
 
 Given that the Scarlet Knights struggled against a then-winless Siena team last time I saw them, you'd probably think that they'd need to be better to beat a one-loss Princeton team...which they really weren't: Princeton led throughout and then ran away in the fourth quarter to turn a somewhat close game into an 18-point blowout. Also, thanks to the game being general admission, I ended up in the lower rows of the bleachers near center court (and behind the various broadcasts for the game).
 
-![A photo of game action taken from the first few rows of the lower seating area at Jadwin Gymnasiumm](/images/jadwin100.jpeg)
+![A photo of game action taken from the first few rows of the lower seating area at Jadwin Gymnasiumm](/images/2025/jadwin100.jpeg)
 
 <figcaption>A view from almost courtside</figcaption>
 

@@ -21,7 +21,7 @@ tags:
 
 _\*This trip occurred on May 8, 2025._
 
-![A view from the outfield at Coca-Cola Park](/images/lehighvalley.jpeg)
+![A view from the outfield at Coca-Cola Park](/images/2025/lehighvalley.jpeg)
 
 <figcaption>A view from the outfield at Coca-Cola Park</figcaption>
 

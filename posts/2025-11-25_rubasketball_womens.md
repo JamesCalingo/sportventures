@@ -31,7 +31,7 @@ When I was looking at tickets, I found that conference games - as is the case wi
 
 I'm sure most of you weren't expecting this post...and in many ways, I wasn't either! In fact, this trip marks something somewhat unusual for this blog: unlike [other](2025-11-09_bkfc_womens) [trips](2025-11-16_princetonhockey) which were postponed for various reasons, this one was moved _**up**_. My "original" plan was to go on December 20th, as there was a Saturday midday game then; however, since a lot of my weekends have been INCREDIBLY busy these past few months with sporting events (and that's only going to continue heading into 2026), I felt that I should PROBABLY give myself a weekend "off" in case anyone wanted to do anything (most especially as it's the weekend before Christmas). Therefore, I ended up at this game.
 
-![A photo of the exterior of Jersey Mike's Arena showcasing its trapezoidal shape](/images/racoutside.jpeg)
+![A photo of the exterior of Jersey Mike's Arena showcasing its trapezoidal shape](/images/2025/racoutside.jpeg)
 
 <figcaption>I realize I cut the corners out of this photo - sorry about that</figcaption>
 
@@ -41,13 +41,13 @@ There are three "tiers" of seats along the sides of the RAC, and only the "lowes
 
 The "far" end from the main entrance was largely empty - it's student seating so it's typically not "sold", but the only people here were the pep band (which was a nice addition for the atmosphere). The "near" end of the court has what is referred to by Rutgers as "loge seats". They're not EXACTLY a premium seating area, but they are different from your "standard" arena seat, and since every seat for this game was ~$15, I decided to get one of these...at court level.
 
-![A photo of a row of "loge seats" at one end of the court at Jersey Mike's Arena](/images/racrow.jpeg)
+![A photo of a row of "loge seats" at one end of the court at Jersey Mike's Arena](/images/2025/racrow.jpeg)
 
 <figcaption>The row of seats that I sat in for this game...featuring my dinner.</figcaption>
 
 If you're in this section, your seat is basically one of those fancy chairs you see at high-end bars, and it comes with a nice little "table" in front of you for. The seat was actually pretty comfortable, and being almost courtside is honestly a really cool experience...even if that view is sometimes obscured by a basket. There's a second section of "premium risers" higher up (i.e. just off the main concourse area) which might have a "better" view, but I didn't try to watch from here - unlike other games on this blog, I stayed in my seat for the game action (because, again, COURT LEVEL SEATS FOR FIFTEEN DOLLARS).
 
-![A photo of one of the basket assemblies at Jersey Mike's Arena, meant to show how it obstructed the view of parts of the game](/images/racbasket.jpeg)
+![A photo of one of the basket assemblies at Jersey Mike's Arena, meant to show how it obstructed the view of parts of the game](/images/2025/racbasket.jpeg)
 
 <figcaption>My arch nemesis for a good portion of the night.</figcaption>
 

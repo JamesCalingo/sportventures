@@ -36,7 +36,7 @@ Planning this game was weirdly difficult because for whatever reason, AHL schedu
 
 One of the advantages of this being a preseason game: "firsthand" tickets were ten dollars less than a regular season ticket! However, I ended up using SeatGeek to get an even better deal on this ticket (I guess the Phantoms don't use Ticketmaster for their resale market). Strangely, however, a number of resale tickets I saw were MORE than what they'd be firsthand - though that may be due to the fact that the opponent for this game was the aforementioned Hershey Bears. I also booked parking at a garage attached to the arena, and that came out to a whopping SEVEN dollars - more than the IronPigs, but less than other MiLB teams I visited this past season (and very inexpensive for being in a PRIME location)!
 
-![A photo from the back of the upper deck at PPL Center](/images/pplcenter.jpeg)
+![A photo from the back of the upper deck at PPL Center](/images/2025/pplcenter.jpeg)
 
 <figcaption>As a former Bruins announcer would say: "High above the ice"</figcaption>
 

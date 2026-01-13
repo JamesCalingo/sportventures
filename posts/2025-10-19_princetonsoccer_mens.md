@@ -32,7 +32,7 @@ Part of that was due to something I saw online that had Princeton ranked as #1 i
 
 As for the stadium, it's got a somewhat interesting history: it's the SECOND Roberts Stadium Princeton has played soccer in. The original Roberts Stadium was in a different location, but was moved closer to Princeton's other athletic facilities (and its parking garage) in 2022. To help explain where various landmarks in this stadium are located, I'll use the cardinal directions each side of the stadium is on to demarcate things (as it was VERY easy to tell which side is which). The photo below was taken from the south stand, which is the most basic as it only features bleacher seating.
 
-![A photo of Roberts Stadium from its south stand](/images/robertsstadium.jpeg)
+![A photo of Roberts Stadium from its south stand](/images/2025/robertsstadium.jpeg)
 
 <figcaption>From left to right: the west stand with the press box, merch, and player entrances, the north stand with the video board, and the east stand with concessions.</figcaption>
 

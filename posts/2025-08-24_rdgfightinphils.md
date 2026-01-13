@@ -21,7 +21,7 @@ tags:
 
 _\*This trip occurred on July 22, 2025._
 
-![America's Classic Ballpark, Baseballtown](/images/baseballtown.jpeg)
+![America's Classic Ballpark, Baseballtown](/images/2025/baseballtown.jpeg)
 
 <figcaption>America's Classic Ballpark, Baseballtown</figcaption>
 
@@ -65,7 +65,7 @@ I went a little crazy on hats here - ending up going home with SIX of them:
 - A flexfit blue and red hat featuring an “R” topped by a train (throwback)
 - A flexfit red hat with an “R” styled like the Phillies logo from the ‘70s and ‘80s
 
-![The six hats I got in Reading. The front three are fitted hats, while the back three are flexfit hats.](/images/readinghats.jpeg)
+![The six hats I got in Reading. The front three are fitted hats, while the back three are flexfit hats.](/images/2025/readinghats.jpeg)
 
 <figcaption>The six hats I got in Reading. The front three are fitted hats, while the back three are flexfit hats.</figcaption>
 

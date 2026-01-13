@@ -34,7 +34,7 @@ though that is debatable - Sporcle’s horribly out of date Hockey East quiz has
 
 In terms of their athletics, they’re a small school in a very small conference which they only joined recently (the Metro Atlantic Athletic Conference) in a move up from Division II to Division I. However, said conference recently stopped sponsoring football, so the school’s football team is currently an independent in the Division I FCS (i.e the second tier of college football). Their hockey team, it should be noted, won a D-II national championship in 1978 and made the D-I tournament as recently as 2023.
 
-![Hockey players warm up before a game at Lawler Rink](/images/merrimack.jpg)
+![Hockey players warm up before a game at Lawler Rink](/images/2025/merrimack.jpg)
 
 <figcaption>Those yellow jerseys are SO GOOD - the fact that other schools can go color v. color makes them even better</figcaption>
 

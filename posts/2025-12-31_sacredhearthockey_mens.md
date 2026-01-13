@@ -30,7 +30,7 @@ The program started out as a D-III program in 1993, but was promoted to D-I in 1
 
 When the program started, they played at a community rink in Milford, CT - quite a distance from Sacred Heart’s campus in Fairfield. They played here for a surprisingly long time; it wasn’t until 2016 that the program moved a bit closer to home (and to something more reasonable for D-I hockey) - moving to Bridgeport’s (now) Total Mortgage Arena. They were in Bridgeport for a few years, and in 2023, the team got a new home much closer to the school’s main Fairfield, CT campus: Martire Family Arena.
 
-![An image of Martire Family Arena](/images/martirearena.jpg)
+![An image of Martire Family Arena](/images/2025/martirearena.jpg)
 
 <figcaption>Gee, I wonder who plays here? If only their name was in giant backlit letters...</figcaption>
 
@@ -46,7 +46,7 @@ Since I mentioned ticket prices earlier, I should ALSO mention that for twenty b
 
 One fair warning if you're sensitive to loud noises: there's a set of real goal horns here (something surprisingly rare in New England), and in what I can only assume is an attempt to intimidate the visiting team, they're basically "aimed" right at the visitors' bench (which was right next to my seat). Also, before I talk about the game itself, I feel like I should mention that there was something rather interesting behind the net Sacred Heart defends twice: A desk which appears to be for pre/postgame shows. I have no idea how often it's used, however, as most college hockey broadcasts are purely the game itself...
 
-![An image of a desk with a monitor attached to its front](/images/martiredesk.jpeg)
+![An image of a desk with a monitor attached to its front](/images/2025/martiredesk.jpeg)
 
 <figcaption>Does Sacred Heart have a broadcasting school like Syracuse?</figcaption>
 
@@ -74,7 +74,7 @@ One last note about jerseys: I have seen what I THINK are "deadstock" player jer
 
 ---
 
-![The Sacred Heart players salute the crowd after the game](/images/2025salute.jpeg)
+![The Sacred Heart players salute the crowd after the game](/images/2025/2025salute.jpeg)
 
 And with that...2025 is over. 
 

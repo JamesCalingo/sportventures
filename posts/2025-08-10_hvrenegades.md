@@ -21,7 +21,7 @@ tags:
 
 _\*This trip occurred on May 1, 2025._
 
-![Heritage Financial Park](/images/hudsonvalley.jpeg)
+![Heritage Financial Park](/images/2025/hudsonvalley.jpeg)
 
 <figcaption>Heritage Financial Park</figcaption>
 

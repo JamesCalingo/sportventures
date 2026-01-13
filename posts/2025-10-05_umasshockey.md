@@ -26,7 +26,7 @@ The University of Massachusetts Amherst is the flagship of the University of Mas
 
 With Boston’s big two (BC and BU) coming up just short in 2024 and 2025 (respectively), UMass is somehow Hockey East’s most recent national champion thanks to their 2021 title (which they didn’t have Cale Makar for). Outside of that championship (and the Cale Makar era that preceded it), there’s not much to say about the place as a hockey school (especially given they didn’t start their current D-I hockey program until 1993); in terms of their other athletics, they’re known for having one of the worst football stadiums in the FBS (since they don’t play in Foxboro anymore), and their basketball team - whose most famous alumnus HAS to be Julius Erving - ~~made the Final Four in 1996~~ VACATED BY THE NCAA[^1].
 
-![A photo of the Mullins Center during a hockey game](/images/umass.jpeg)
+![A photo of the Mullins Center during a hockey game](/images/2025/umass.jpeg)
 
 <figcaption>The Mullins Center during a hockey game</figcaption>
 

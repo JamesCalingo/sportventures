@@ -19,7 +19,7 @@ tags:
 
 _\*This trip occurred on the morning of July 4th, 2025._
 
-![A photo I took ON THE FIELD at Holman Stadium back in 2022](/images/nashua.jpeg)
+![A photo I took ON THE FIELD at Holman Stadium back in 2022](/images/2025/nashua.jpeg)
 
 <figcaption>A photo I took ON THE FIELD at Holman Stadium back in 2022</figcaption>
 

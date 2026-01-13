@@ -22,7 +22,7 @@ tags:
 
 _\*This trip occurred on April 30, 2025._
 
-![A beautiful day at Maimonides Park in Brooklyn](/images/brooklyn.jpeg)
+![A beautiful day at Maimonides Park in Brooklyn](/images/2025/brooklyn.jpeg)
 
 <figcaption>A beautiful day at Maimonides Park in Brooklyn</figcaption>
 

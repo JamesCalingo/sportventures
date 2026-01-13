@@ -19,7 +19,7 @@ tags:
 
 _\*This trip occurred on the evening of July 4th, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
 
-![A photo of Clem Spillane Field from 2022. Since then, massive renovations have taken place; notably, the bleachers on the third base (right) side of this photo have been removed.](/images/wareham2022.jpeg)
+![A photo of Clem Spillane Field from 2022. Since then, massive renovations have taken place; notably, the bleachers on the third base (right) side of this photo have been removed.](/images/2025/wareham2022.jpeg)
 
 <figcaption>A photo of Clem Spillane Field from 2022. Since then, massive renovations have taken place; notably, the bleachers on the third base (right) side of this photo have been removed.</figcaption>
 
