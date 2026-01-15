@@ -17,10 +17,14 @@ tags:
     "Indoor Sports",
     "26 in 26",
   ]
-badge: "badges/26in26/stop01.png"
+badge: "badges/firstvisit.png"
 ---
 
-_\*This trip occurred on January 11, 2026. Also, since this is my first [26 in 26](2026-01-01_26in26) stop, this marks the debut of the "26 in 26 badge" - an idea that came from a pin I got at the [Gotham FC](2025-09-08_gothamfc) match I went to last year, though I'm not sure it's my "best" work (visual art isn't exactly my thing)._
+## *[26 IN 26 STOP 1](26in26list)*
+
+_\*This trip occurred on January 11, 2026._
+
+_Also, since this is my first trip of the new year, this marks the debut of the "FIRST VISIT" badge - an idea that came from a pin I got at the [Gotham FC](2025-09-08_gothamfc) match I went to last year, though I'm not sure it's my "best" work (visual art isn't exactly my thing)._
 
 If you’re like me, you might be surprised to learn that Bridgeport is the largest city in Connecticut. Approximately 40 miles from the Bronx (aka the edge of New York City), it was a major manufacturing city back in the day, and while that industry has largely died out, it is still a major part of the New York City metropolitan area.
 
@@ -38,7 +42,7 @@ In what I think is a first for indoor arenas on this blog, the main concourse is
 
 ![A view of Total Mortgage Arena](/images/2026/20260111-arenaview.jpeg)
 
-The good news for the Bridgeport Islanders: the night before this game, they recorded their fifth home win of the season - one more than their total (4) from ALL OF LAST SEASON (which was a league record for fewest home wins). The better news: a third period stretch of three goals in just over two minutes helped the team add win six against probably their biggest rivals (who they were tied at the bottom of their division with): the Hartford Wolf Pack (AHL affiliate of the New York Rangers - only making things more intense). While it's difficult to gauge how much the crowd was getting into the game (partially because despite the reported attendance being close to 6,000, there were still a lot of empty seats), there was a fight during the game, which is always a crowd pleaser - for better or worse (and also signifies the "rivalry" aspect of this game).
+The good news for the Bridgeport Islanders: the night before this game, they recorded their fifth home win of the season - one more than their total (4) from ALL OF LAST SEASON (which, again, was a league record for fewest home wins). The better news: a third period stretch of three goals in just over two minutes helped the team add win six against probably their biggest rivals (who they were tied at the bottom of their division with): the Hartford Wolf Pack (AHL affiliate of the New York Rangers - only making things more intense). While it's difficult to gauge how much the crowd was getting into the game (partially because despite the reported attendance being close to 6,000, there were still a lot of empty seats), there was a fight during the game, which is always a crowd pleaser - for better or worse (and also signifies the "rivalry" aspect of this game).
 
 Also, something I find kinda interesting: the Brigeport Islanders use the same sequence of sounds that the New York Islanders use when they score - almost. For a few years (seemingly ever since they became the Islanders), they were using the same horn as the NHL team (or at least a recording of it), but this year, they're using a recording of their original goal horn (which sounds closer to the Buffalo Sabres IMO).
 
