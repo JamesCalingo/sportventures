@@ -17,10 +17,14 @@ tags:
     "Indoor Sports",
     "26 in 26",
   ]
-badge: "badges/26in26/stop01.png"
+badge: "badges/firstvisit.png"
 ---
 
-_\*This trip occurred on January 11, 2026. Also, since this is my first [26 in 26](2026-01-01_26in26) stop, this marks the debut of the "26 in 26 badge" - an idea that came from a pin I got at the [Gotham FC](2025-09-08_gothamfc) match I went to last year, though I'm not sure it's my "best" work (visual art isn't exactly my thing)._
+## *[26 IN 26 STOP 1](26in26list)*
+
+_\*This trip occurred on January 11, 2026._
+
+_Also, since this is my first trip of the new year, this marks the debut of the "FIRST VISIT" badge - an idea that came from a pin I got at the [Gotham FC](2025-09-08_gothamfc) match I went to last year, though I'm not sure it's my "best" work (visual art isn't exactly my thing)._
 
 If you’re like me, you might be surprised to learn that Bridgeport is the largest city in Connecticut. Approximately 40 miles from the Bronx (aka the edge of New York City), it was a major manufacturing city back in the day, and while that industry has largely died out, it is still a major part of the New York City metropolitan area.
 
