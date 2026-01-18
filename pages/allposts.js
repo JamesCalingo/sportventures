@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 
 const AllPosts = ({ posts }) => {
     const published = posts.filter((post) => post.frontmatter.published === true).reverse();
+    console.log(published.length)
 
     const [postList, setPostList] = useState(published)
     const [tag, setTag] = useState('')
