@@ -20,7 +20,7 @@ tags:
 badge: "badges/firstvisit.png"
 ---
 
-## *[26 IN 26 STOP 1](26in26list)*
+### *[26 IN 26 STOP 1](26in26list)*
 
 _\*This trip occurred on January 11, 2026._
 
@@ -44,7 +44,7 @@ In what I think is a first for indoor arenas on this blog, the main concourse is
 
 The good news for the Bridgeport Islanders: the night before this game, they recorded their fifth home win of the season - one more than their total (4) from ALL OF LAST SEASON (which, again, was a league record for fewest home wins). The better news: a third period stretch of three goals in just over two minutes helped the team add win six against probably their biggest rivals (who they were tied at the bottom of their division with): the Hartford Wolf Pack (AHL affiliate of the New York Rangers - only making things more intense). While it's difficult to gauge how much the crowd was getting into the game (partially because despite the reported attendance being close to 6,000, there were still a lot of empty seats), there was a fight during the game, which is always a crowd pleaser - for better or worse (and also signifies the "rivalry" aspect of this game).
 
-Also, something I find kinda interesting: the Brigeport Islanders use the same sequence of sounds that the New York Islanders use when they score - almost. For a few years (seemingly ever since they became the Islanders), they were using the same horn as the NHL team (or at least a recording of it), but this year, they're using a recording of their original goal horn (which sounds closer to the Buffalo Sabres IMO).
+Also, something I find kinda interesting: the Bridgeport Islanders use the same sequence of sounds that the New York Islanders use when they score - almost. For a few years (seemingly ever since they became the Islanders), they were using the same horn as the NHL team (or at least a recording of it), but this year, they're using a recording of their original goal horn (which sounds closer to the Buffalo Sabres IMO).
 
 ### MERCH
 
