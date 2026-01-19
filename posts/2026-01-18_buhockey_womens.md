@@ -44,7 +44,7 @@ In a lot of ways, it's a minor miracle that this trip occurred AND that it's "_2
 
 This is not only the first time I've seen a Hockey East women's conference game, but in addition, it features the conference's sole women's only member: the [College of the Holy Cross](2025-10-21_holycrosshockey_mens) (the men are in Atlantic Hockey America)[^5]. Apparently, the two schools have a rivalry trophy known as the "Turnpike Trophy" due to them being in the Patriot League for other sports; the winner is based on whichever school wins more events against the other across all sports (BU has won it every year its been contested, and it typically isn't close).
 
-To my surprise, there was a band at this game (and only about a dozen other students). However, the crowd seemed a lot more behind Holy Cross, and the Crusaders ended up winning 4-2 - their first win in the Turnpike Trophy series this year. Before moving on, however, I should mention that this arena has one of the things I really liked from Agganis: Boston University's patented system for determining which end they're defending each period:
+To my surprise, there was a band at this game (and only about a dozen other students). However, the crowd seemed a lot more behind Holy Cross, and the Crusaders ended up winning 4-2 - their first win in the Turnpike Trophy series this year. Before moving on, however, I should mention that this is the first college hockey game I've been to since I don't know when where they used the red/green lights behind the goals (the red lights signal that a goal has been scored, and the green lights signal the end of a period/intermission), and this arena also has one of the things I really liked from Agganis: Boston University's patented system for determining which end they're defending each period:
 
 ![A photo of a banner that says "GOALIE"](/images/2026/20260117-goalie.jpeg)
 
@@ -70,7 +70,7 @@ A few final notes on this trip:
 
 ### ON DECK
 
-I have some ideas for next weekend, but Northeast winter may strike again...
+I have some ideas for next weekend, but it looks like Northeast winter may strike again...
 
 ---
 
