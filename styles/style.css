@@ -24,7 +24,7 @@ button {
   border-radius: 5px;
   background: white;
   cursor: pointer;
-  margin-top: 20px;
+  /* margin-top: 20px; */
 }
 
 article {
@@ -232,6 +232,13 @@ margin-bottom: 0
   text-align: center;
 }
 
+.controls {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+
 .list-title {
   font-size: 24pt;
   margin: 0;
@@ -306,6 +313,11 @@ margin-bottom: 0
 
   .grid-post em {
     display: none;
+  }
+
+  .controls {
+    display: block;
+    text-align: center;
   }
 
   #posts-list {
