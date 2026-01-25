@@ -15,6 +15,7 @@ tags:
     "Boston",
     "Massachusetts",
     "Women's Sports",
+    "Women's Hockey",
     "Indoor Sports",
     "First Visit",
     "26 in 26"
@@ -67,10 +68,6 @@ A few final notes on this trip:
 1. I wanted to see Northeastern's men here since they were going to be playing a "home game"[^6] the day this was published and it was FREE ADMISSION, but then New England Winter decided to winter REALLY hard...
 
 2. I had thoughts about visiting Providence College since they were home as well, but they were taking on Boston College which, for some odd reason, means WILDLY EXPENSIVE ticket prices[^7]...
-
-### ON DECK
-
-I have some ideas for next weekend, but it looks like Northeast winter may strike again...
 
 ---
 

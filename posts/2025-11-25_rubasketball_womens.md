@@ -21,7 +21,7 @@ tags:
 
 *\*This trip occurred on November 24, 2025.*
 
-Growing up, I wanted to believe that basketball was a fun sport to watch...and I feel like I’m not sure if it is. Back in the day, my main issue was that it would take 15-20 minutes to play a singular minute of basketball at the end of games; nowadays, it’s just everyone in the NBA chucking threes nonstop and every game ending with both teams well into triple digits (an issue which, unfortunately, has shown signs of trickling down into college as well).
+Growing up, I wanted to believe that basketball was a fun sport to watch...and I feel like I’m not sure if it is. Back in the day, my main issue was that it would take 15-20 minutes to play a singular minute of basketball at the end of games; nowadays, it’s just everyone in the NBA not knowing how to play defense and/or chucking threes nonstop and every game ending with both teams well into triple digits (an issue which, unfortunately, has shown signs of trickling down into college as well).
 
 Similar to football, however, I figured that I'd like to branch out and give it a(nother) shot. I've been to a few NBA games before, but the last one I can remember going to was literally 20 years ago. However, this isn't even the first college basketball game I've seen, as I remember seeing Seton Hall at the Prudential Center in either 2008 or 2009 (though like the [Princeton women's hockey game](2025-11-16_princetonhockey#womens), this is the very first time I'm watching women's basketball). Of course, this isn't about either of them - this is Rutgers (a school which for all intents and purposes is my alma mater).
 

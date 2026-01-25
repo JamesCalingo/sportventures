@@ -11,7 +11,6 @@ tags:
     "Minor League Hockey",
     "Minor Leagues",
     "Pennsylvania",
-    "Allentown",
     "American Hockey League",
     "Flyers",
     "Philadelphia",

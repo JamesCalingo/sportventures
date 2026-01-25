@@ -15,6 +15,7 @@ tags:
     "Ivy League",
     "ECAC Hockey",
     "Women's Sports",
+    "Women's Hockey",
     "Indoor Sports",
     "First Visit"
   ]
