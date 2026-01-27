@@ -10,6 +10,6 @@ I'm hoping to visit at least 26 new venues in 2026. You can read more about this
 
 1. [Total Mortgage Arena - Bridgeport, CT](2026-01-12_bptislanders)
 2. [Walter Brown Arena - Boston, MA](2026-01-18_buhockey_womens)
-3. [Westchester County Center - White Plains, NY](2026-01-25_wesknicks)
+3. [Westchester County Center - White Plains, NY](2026-01-25_wcknicks)
 
 27. **COMING SOON**
