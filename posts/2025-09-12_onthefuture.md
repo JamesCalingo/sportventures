@@ -52,6 +52,9 @@ This has gotten REALLY long, so I think I will stop here. In writing this, I rea
 ---
 
 [^1]: Well, that and the closest MLB team is...the Yankees. Speaking of which, I heard that they recently did a thing that I don't know how to feel about - not saying any more than that.
+
 [^2]: I'm not sure why THIS was the first name I thought of when coming up with "dudes who are probably Golden State Warriors benchwarmers", but in writing this, I found out he's not even with the Warriors anymore! I promise to find other names to throw around for things like this (and definitely not JaVale McGee)...
+
 [^3]: I mean, it IS a way for "average" fans to accrue the funds necessary to attend Nets-Lakers, but I REALLY don't like how it's become so prevalent in (specifically North American) sports to the point where money lines are part of broadcast graphics.
+
 [^4]: Your average Toronto Maple Leafs crowd since 2006 BOOM ROASTED #whenareyouguysgoingtodoanythingofvalue

@@ -16,7 +16,7 @@ tags:
     "Pre-2025",
     "Catch-Up",
     "Indoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
@@ -49,5 +49,7 @@ I ended up getting a puck from the bookstore some time later.
 ---
 
 [^1]: Anything you have heard about Cousy being a Cincinnati Royal is totally and utterly fake. Y'know, just like if you ever saw Martin Brodeur in a St. Louis Blues uniform...
+
 [^2]: TECHNICALLY, D-II hockey exists nowadays; however, it only features six teams (with a seventh one coming soon), has NO postseason, and I'm willing to bet most readers have never heard of any of its schools (a bunch of SMALL colleges in New England).
+
 [^3]: Holy Cross was SUPPOSED to have a game at the DCU Center last season (against rising college hockey power Quinnipiac), but something happened and they had to move the game back to campus.

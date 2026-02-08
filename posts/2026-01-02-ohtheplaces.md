@@ -13,7 +13,7 @@ tags:
     "Futures League",
     "Frontier League",
     "Other Sports",
-    "Baseball"
+    "Baseball",
   ]
 ---
 

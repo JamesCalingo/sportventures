@@ -20,7 +20,7 @@ tags:
 badge: "badges/firstvisit.png"
 ---
 
-### *[26 IN 26 STOP 1](26in26list)*
+### _[26 IN 26 STOP 1](26in26list)_
 
 _\*This trip occurred on January 11, 2026._
 
@@ -30,9 +30,9 @@ If you’re like me, you might be surprised to learn that Bridgeport is the larg
 
 In 2001, the city of Bridgeport, CT received an American Hockey League team: the Bridgeport Sound Tigers. They were successful right out the gate - making the Calder Cup Finals (the AHL’s championship) in their very first year before coming up short (how Vegas of them). Unlike Vegas, however, the Sound Tigers were never able to come close to replicating that success - the furthest they’ve been since that inaugural season is the second round (proper) of the playoffs, and they’ve only been there once: the year after they lost the final.
 
-In 2021, the team rebranded and became the Bridgeport Islanders (they’ve been the AHL affiliate of the New York Islanders for their entire history, and were purchased outright by the NHL team in 2004). Since the rebrand...things have not gone well. They’ve been near the bottom of their division pretty much every year (with a random playoff appearance because...sure), have been bottom 5 in the AHL in attendance each year (though the decline began before the rebrand), and in 2024-25, they had their worst season to date - winning only 15 games overall while setting the mark for fewest home wins in a season for an AHL team. In addition, in the summer of 2025, rumors began circulating about a potential sale and move of the team to Hamilton, Ontario - where a newly renovated arena that ALMOST got an NHL team back in the day seeks a "prime" tenant (because as popular as the Toronto Rock may be, it's hard to consider the NLL a "marquee" draw)[^1].
+In 2021, the team rebranded and became the Bridgeport Islanders (they’ve been the AHL affiliate of the New York Islanders for their entire history, and were purchased outright by the NHL team in 2004). Since the rebrand...things have not gone well. They’ve been near the bottom of their division pretty much every year (with a random playoff appearance because...sure), have been bottom 5 in the AHL in attendance each year (though the decline began before the rebrand), and in 2024-25, they had their worst season to date - winning only 15 games overall while setting the mark for fewest home wins in a season for an AHL team. In addition, in the summer of 2025, rumors began circulating about a potential move to Hamilton, Ontario - where a newly renovated arena that ALMOST got an NHL team back in the day seeks a "prime" tenant (because as popular as the Toronto Rock may be, it's hard to consider the NLL a "marquee" draw)[^1].
 
-When I started thinking about making this trip, I wasn’t super sure about it: it’s around an hour and a half from me, and I feel like I’ve heard that Bridgeport isn’t exactly the best place around (like a lot of former manufacturing places)[^2]. With the rumors about the move, however, I figured that if I didn’t do it SOON, it may never happen. Thankfully, they had a decent amount of Sunday games available (i.e. the only day of the week teams play in the afternoon), and they all started at 3, so I figured this would be worth a go. Originally, I had planned for this trip to occur back in 2025, but then I decided to push it back to 2026 around the time I started planning for the _26 in 26_ challenge (among other reasons). Strangely enough, this is actually my first ever AHL regular season game: I've been to two other AHL games before: one in Providence prior to starting this blog (which I didn't write about at the time unlike the college hockey games), and one in the [Lehigh Valley](2025-10-06_lhvphantoms) - both were "preseason" games however.
+When I started thinking about making this trip, I wasn’t super sure about it: it’s around an hour and a half from me, and I’ve heard that Bridgeport isn’t exactly the best place around (like a lot of former manufacturing places)[^2]. With the rumors about the move, however, I figured that if I didn’t do it SOON, it may never happen. Thankfully, they had a decent amount of Sunday games available (i.e. the only day of the week teams play in the afternoon), and they all started at 3, so I figured this would be worth a go. Originally, I had planned for this trip to occur back in 2025, but then I decided to push it back to 2026 around the time I started planning for the _26 in 26_ challenge (among other reasons). Strangely enough, this is actually my first ever AHL regular season game; I've been to two other AHL games before, but both were preseason games (one in Providence prior to starting this blog which I didn't write about, and one in the [Lehigh Valley](2025-10-06_lhvphantoms)).
 
 Since attendance has, as mentioned earlier, been on the lighter side, I decided to "try my luck" at the arena box office with pricing (i.e. see if I could avoid Ticketmaster shenanigans), and I got a standing room only ticket for less than I would have buying it online (I'll discuss the SRO section more in a bit). I also had SOME thoughts about trying to find street parking since this game was on a Sunday, but I was SUPER unsure about safety, so I opted to just play it safe and park in the arena lot (though it is quite pricey; I later found another lot in the area but further from the arena that wanted EVEN MORE).
 
@@ -50,7 +50,7 @@ Also, something I find kinda interesting: the Bridgeport Islanders use the same 
 
 Before I continue, I should mention that I once bought a Bridgeport Sound Tigers puck in a somewhat unusual place: Worcester, MA! The team there (the Worcester Railers) is currently the ECHL affiliate of the Islanders, and I visited their team store one day and they had Sound Tigers pucks for some reason![^5]
 
-Anyway, merchandise is tucket into  one of the corners of the arena (i.e. one of the ends of the"horseshoe" that is the concourse) - though I saw a photo of them putting a merchandise booth on the arena floor for a preseason event for season ticket holders. In honor of the fact that the current Bridgeport Islanders logo is based on the parent team's infamous "fisherman" logo from the 1990s, the store is called the "Bait Shop".
+Anyway, merchandise is tucked into one of the corners of the arena (i.e. one of the ends of the "horseshoe" that is the concourse) - though I saw a photo of them putting a merchandise booth on the arena floor for a preseason event for season ticket holders. In honor of the fact that the current Bridgeport Islanders logo is based on the parent team's infamous "fisherman" logo from the 1990s, the store is called the "Bait Shop".
 
 ![An image of the team store's name: "Bait Shop"](/images/2026/20260111-teamstore.jpeg)
 
@@ -69,8 +69,13 @@ Totally worth the hour I spent standing in line - partially because it influence
 ---
 
 [^1]: It also doesn't help that there's currently no hockey team due to the renovations forcing the team that was playing there to relocate - and then said team liking their new home.
+
 [^2]: Sadly, Bridgeport's decline has apparently "spread" to its suburbs: there's a mall in the area I thought about going to prior to the Sacred Heart game as it's a mile away from the school, but if me (slightly) misjudging traffic hadn't stopped me from visiting, the fact that <a href="https://www.ctinsider.com/connecticut/article/trumbull-mall-shooting-friday-fight-21263246.php" target="blank">SOMEONE SHOT A GUN THERE A FEW DAYS BEFORE THE GAME</a> did...
+
 [^3]: I won’t get too deep into the tragedy of the Bridgeport Bluefish, but they were a founding member of the Atlantic League who folded after the city declined to renew their lease in 2017. Given that their stadium is no longer usable for sports, a return is not looking likely...
+
 [^4]: The closest comparison to this would be how at [Merrimack](2025-10-10_merrimackhockey_mens), seats are accessed from a walkway around the ice; however, there are far more concession stands here than the singular concession stand in a lobby there.
+
 [^5]: I also went to one of their games back in the day, but didn't write much about it back then (similar to Providence).
+
 [^6]: And in what I can only describe as a "weird situation", they're NOT as heavy/big as the game worn jersey I got from the Providence Bruins - despite that one being NEWER than most of these jerseys.

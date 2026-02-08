@@ -12,7 +12,7 @@ tags:
     "New Jersey",
     "Frontier League",
     "Outdoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 

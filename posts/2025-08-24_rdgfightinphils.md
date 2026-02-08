@@ -15,7 +15,7 @@ tags:
     "Double A",
     "Phillies",
     "Outdoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
@@ -76,5 +76,7 @@ In terms of other things, I got a BallQube to display the official MiLB baseball
 ---
 
 [^1]: There's also indications of a general admission bleacher area down the left field like, but I didn't try these seats during the game.
+
 [^2]: One of the teams in Reading pre-Phillies was the Red Sox - I only recognized one name from their time in Reading however: Rico Petrocelli.
+
 [^3]: Crazy to think that this was one of Harry Kalas’ last calls ever...at least he got to call the moment live (unlike 1980) before he died.

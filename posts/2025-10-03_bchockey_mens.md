@@ -18,7 +18,7 @@ tags:
     "Catch-Up",
     "Indoor Sports",
     "First Visit",
-    "Repeat Visit"
+    "Repeat Visit",
   ]
 ---
 
@@ -59,6 +59,9 @@ One final note: BC is getting new jerseys this year, and while I am interested i
 ---
 
 [^1]: I was supposed to return to BC for a game during Thanksgiving weekend in 2024, but the whole trip got cancelled - partially due to me having COVID.
+
 [^2]: I should also mention that as of writing this, I have yet to visit a women's college hockey game.
+
 [^3]: _I_ did not leave early, however, as I had missed most of the first period due to getting caught in bad traffic (plus I got a lower bowl seat).
+
 [^4]: Cutter Gauthier was one of the “supertalents” who was drafted fifth overall by the Philadelphia Flyers in 2022, but allegedly refused to play for them and was traded away between the Fall 2023 and Spring 2024 semesters. A group of angry Flyers fans made the trip up to BC for their first home game after the trade, and there was a security situation that I don’t fully remember the details of.

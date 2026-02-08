@@ -12,7 +12,7 @@ tags:
     "New York",
     "Atlantic League",
     "Outdoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 

@@ -77,7 +77,11 @@ Like the Sirens, the Fleet merch selection also includes PWHL items as well. I g
 ---
 
 [^1]: A game UML lost to a BU squad WITHOUT Macklin Celebrini.
+
 [^2]: I’m not going to repeat the history of women’s hockey here - if you want that, it’s in [the New York Sirens post](2025-08-28_nysirens), and it may help with some context for this history.
+
 [^3]: The WNBA SHOULD be arriving in Boston soon (though it wouldn't have much impact on the Fleet as the seasons don't overlap), but for whatever reason the league doesn't seem to want to go there (I won't get too deep into it, but I will say that it is a very STUPID situation).
+
 [^4]: Technically, the Bentley Arena is in Waltham, NOT Boston. I will say, however, that the Bentley Arena IS super nice, though also a logistical nightmare...
+
 [^5]: There was also supposed to be a box lacrosse team apparently, but that league never really got off the ground - I believe they played one game or weeks’ worth of games in 2023 and then immediately canceled the season.

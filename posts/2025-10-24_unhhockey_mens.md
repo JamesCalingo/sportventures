@@ -16,7 +16,7 @@ tags:
     "Pre-2025",
     "Catch-Up",
     "Indoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
@@ -47,5 +47,7 @@ Sadly, I must mention the jersey situation: while a lot of fans seemed to have p
 ---
 
 [^1]: Coincidentally, one of the reasons UNH has "no hardware" is because Maine beat them in the national championship game in 1999.
+
 [^2]: My attempt to have Google back up this claim led to its AI model thinking UMass was the fourth member, which is patently weird as they didn't even have D-I hockey until 1993!
+
 [^3]: Other arenas I went to have a similar “feel”, but UNH is different in that the entrances/lobby are at concourse level. There's another arena coming up that I feel is similar to UNH, but much, MUCH smaller.

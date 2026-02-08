@@ -147,7 +147,11 @@ Some highlights include:
 ---
 
 [^1]: My original idea was to post this on Christmas itself as a comment on how commercialized Christmas has become, but I felt that was too cheesy.
+
 [^2]: I have a friend who was a bat boy for the Patriots when he was in high school. However, he's a Mets fan, so...
+
 [^3]: There was an ad for one of the concession "experiences" at this WooSox game, and it featured the song from which this post's subtitle comes from.
+
 [^4]: I'd rather not discuss the building's attempt at being an NHL venue...
+
 [^5]: I won't list the other ten here, but one of them is already on this blog: Philadelphia's (now) Xfinity Mobile Arena, where I saw [the NLL](2025-08-27_phiwings).

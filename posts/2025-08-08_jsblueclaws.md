@@ -15,7 +15,7 @@ tags:
     "High A",
     "Phillies",
     "Outdoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 

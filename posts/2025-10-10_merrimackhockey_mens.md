@@ -59,4 +59,5 @@ In my visits to Merrimack (which include a few visits JUST to the bookstore), Iâ
 ---
 
 [^1]: Between me writing this back in 2023 and it getting posted, I found out that Charlie Day from "It's Always Sunny in Philadelphia" went to Merrimack. Of the alumni their Wikipedia page lists, he's pretty much the only one most people will have heard of (outside of Carl Yastrzemski - who got a degree from the school five years into his MLB career, which I guess makes him an alum if not in the traditional sense).
+
 [^2]: I have not watched Vermont's hockey team at home sadly, but I did take a quick peek inside their arena once, so that's how I know this.

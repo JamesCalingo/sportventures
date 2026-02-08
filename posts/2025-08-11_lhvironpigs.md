@@ -44,4 +44,5 @@ There was also a secondary merch area on the concourse that had shirts on which 
 ---
 
 [^1]: Allentown is a touch over an hour from where I live, so I prefer earlier games to avoid having to drive home on dark roads.
+
 [^2]: One of the concession stands in the entry plaza was for Hershey Ice Cream, but it was closed. I'm going to assume it's due to either an equipment or staffing issue and not because the Hershey Bears were playing the Lehigh Valley Phantoms in the playoffs...

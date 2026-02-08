@@ -16,7 +16,7 @@ tags:
     "College",
     "College Football",
     "Outdoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
@@ -69,11 +69,12 @@ There are two other things I wanna mention before I go (besides the ol' merch si
 
 About a month before this game (in October 2025), I visited one of Princeton's campus stores and saw shirts for three of their biggest rivals: Penn, Harvard, and the aforementioned Yale (because apparently the other four Ivies are far less relevant to Princeton). In terms of other merch, the only thing that I was even remotely interested in for football was a soft foam/plastic mini football (which, in all honesty, I wasn't actually that interested in).
 
-At the game, a merchandise tent greets fans who enter from the northeast gate; since this is the closet gate to the main parking garage, it's likely to be the first thing most fans see. While they had a lot of shirts and such I wasn't super interested in (and they didn't sell jerseys OR mini-helmets, which is a MASSIVE missed opportunity), they had a few more footballs, and I ended up getting one that was closest to the official NCAA size (and color). 
+At the game, a merchandise tent greets fans who enter from the northeast gate; since this is the closet gate to the main parking garage, it's likely to be the first thing most fans see. While they had a lot of shirts and such I wasn't super interested in (and they didn't sell jerseys OR mini-helmets, which is a MASSIVE missed opportunity), they had a few more footballs, and I ended up getting one that was closest to the official NCAA size (and color).
 
 I almost bought a small plush tiger as well, but ended up not doing so. It wasn't something I was planning on going home with, but as it turns out, [I should have gotten it...](2025-11-16_princetonhockey#mens)
 
 ---
 
 [^1]: I do, however, live within earshot of a high school football field, so I hear what goes on at their games when they’re at home.
+
 [^2]: Yale claims 27 national championships.

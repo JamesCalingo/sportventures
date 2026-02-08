@@ -14,7 +14,7 @@ tags:
     "Connecticut",
     "Atlantic Hockey America",
     "Indoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
@@ -76,7 +76,7 @@ One last note about jerseys: I have seen what I THINK are "deadstock" player jer
 
 ![The Sacred Heart players salute the crowd after the game](/images/2025/2025salute.jpeg)
 
-And with that...2025 is over. 
+And with that...2025 is over.
 
 I could talk about how starting this blog and finally putting myself out there like this was a massive undertaking, but I think the best way for me to end this first "year" of Sportventures is by saying this:
 
@@ -85,4 +85,5 @@ I could talk about how starting this blog and finally putting myself out there l
 ---
 
 [^1]: I realize I probably should have mentioned this already, but pretty much every Hockey East school I've visited plus Harvard has a plethora of NHLers among their alumni. As for the other Atlantic Hockey schools I visited in 2023-24: Bentley seemingly has none, and Holy Cross also has two - and just like Sacred Heart, one of the two only played one game in the NHL.
+
 [^2]: Penn State (who's men's team is in the Big Ten) has its women's team in AHA, and their arena (which they share with the men) is technically the biggest in the conference.
