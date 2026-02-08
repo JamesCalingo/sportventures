@@ -66,4 +66,5 @@ So if you’re willing to put yourself in crippling debt in order to get a degre
 ---
 
 [^1]: The two teams played at Merrimack the night before, and that was a WILD game which included, of all things, a fire alarm situation. That same night also saw then-#1 BC LOSE to then-last place Northeastern...
+
 [^2]: For the morbidly curious: I got a jersey and hat from the Rocket League event (and then went on to order the winning team's jersey online post-tournament), and then two jerseys, a puck, and a stick from the 3ICE event.

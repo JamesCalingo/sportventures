@@ -17,7 +17,7 @@ tags:
     "Women's Sports",
     "Women's Hockey",
     "Indoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
@@ -41,7 +41,7 @@ Now, let's talk about the historic home shared by the two teams:
 
 ### HOBEY BAKER RINK
 
-Opened in 1923 and named after quite possibly the school's most famous hockey alum (for reasons I'll elaborate on in a sec), Hobey Baker Rink is one of the oldest hockey arenas in the United States. Thanks to its age, it features a HIGHLY unusual design by modern standards - and to help explain all of this, you're about to see more photos than I usually put into these posts. 
+Opened in 1923 and named after quite possibly the school's most famous hockey alum (for reasons I'll elaborate on in a sec), Hobey Baker Rink is one of the oldest hockey arenas in the United States. Thanks to its age, it features a HIGHLY unusual design by modern standards - and to help explain all of this, you're about to see more photos than I usually put into these posts.
 
 First of all, while Princeton's football and soccer stadiums are part of a larger "sports complex", Baker is NOT. It's in a different part of campus (with its own parking garage), and is a short walk away from a commuter rail station. Parking at said station is NOT free (even on weekends I THINK), but since very few games clash with the "no parking before 4 PM on weekdays" situation (and sadly, they're usually women's games), it's not really that significant (plus it's further).
 
@@ -65,13 +65,13 @@ At the "far" end of the building (i.e. the one opposite of the entrances/box off
 
 One IMPORTANT thing to know about watching hockey here: it's 100% bench seating. The benches all have backs with individual "seats", however, so that is nice if you're concerned about the lack of support (though that doesn't make it more comfortable).
 
-Speaking of seats, however...there's an "upper deck" seating area above the "concourse" (i.e. the area with the concession stand). This seems kinda rare among college hockey venues, and I ALMOST bought a ticket here before settling on something (almost) rinkside. I found that the view of the game from here was actually pretty good; however...there's quite a few "warts" with the upper level experience: support pillars create obstructed views, the seats here have no backs, and the steps leading down to the seats (as access is from the top) are hard to get down. 
+Speaking of seats, however...there's an "upper deck" seating area above the "concourse" (i.e. the area with the concession stand). This seems kinda rare among college hockey venues, and I ALMOST bought a ticket here before settling on something (almost) rinkside. I found that the view of the game from here was actually pretty good; however...there's quite a few "warts" with the upper level experience: support pillars create obstructed views, the seats here have no backs, and the steps leading down to the seats (as access is from the top) are hard to get down.
 
 ![A view of Hobey Baker Rink from the upper deck](/images/2025/hobeybaker/upperdeck.jpeg)
 
 Also, as you may have noticed from the last photo, there's no video screens ANYWHERE inside; while there might be other D-I hockey schools without video boards, this is the only one I know of (with conference rival Yale getting a new video board recently). I'm guessing that this is a "personal" decision by the university, as the building has been renovated MANY times over the years - most recently in the summer of 2025.
 
-One last note about Princeton hockey overall before we dive into the games themselves: the awards for the best college hockey players (basically the MVP awards) are both named after Princeton alumni. The men's award is the Hobey Baker Award (another reason he's probably Princeton's most famous alum), while the women's is the Patty Kazmaier Award[^2]. Likely due to this, banners commemorating the two are inside the arena (on the wall with the box office), both featuring the message "MAKE _____ PROUD" with the name of the corresponding player in the blank. While I assume they're meant to honor the awards and inspire the players, I also feel like they give off "DO~~N~~IT FOR~~GET YOU'RE~~ HER~~E FOREVER~~" vibes...
+One last note about Princeton hockey overall before we dive into the games themselves: the awards for the best college hockey players (basically the MVP awards) are both named after Princeton alumni. The men's award is the Hobey Baker Award (another reason he's probably Princeton's most famous alum), while the women's is the Patty Kazmaier Award[^2]. Likely due to this, banners commemorating the two are inside the arena (on the wall with the box office), both featuring the message "MAKE **\_** PROUD" with the name of the corresponding player in the blank. While I assume they're meant to honor the awards and inspire the players, I also feel like they give off "DO~~N~~IT FOR~~GET YOU'RE~~ HER~~E FOREVER~~" vibes...
 
 ![Banners that say "MAKE HOBEY PROUD" and "MAKE PATTY PROUD"](/images/2025/hobeybaker/banners.jpeg)
 
@@ -101,7 +101,7 @@ _\*This game occurred on November 15, 2025._
 
 Truth be told, Princeton's men's hockey team is...also relatively unimpressive: they do have three conference tournament wins, but they’ve never won a game in the NCAA’s hockey tournament, and their list of NHL alums doesn't feature any names that "pop" IMO (unless you're a fan of NHL Department of Player Safety head <a href="https://www.hockey-reference.com/players/p/parroge01.html" target="blank">George Parros</a>). However, their helmets are quite interesting, since they're based on the famous design of Princeton's football helmets!
 
-This game featured a visit from hockey independent Stonehill College - a small school south of Boston which only became D-I a few years ago and doesn't yet have a "permanent home" (when I was living in Boston, they were in a community rink; they're now at the Bruins practice facility, but an arena is in the works). In fact, this game marks the first time I saw them live and in person (they're the only current MA D-I college team I haven't seen[^4]). Sadly, Stonehill hockey has struggled since becoming D-I: they lost more games in their first year featuring a D-I heavy schedule (34 losses in 2023-24) than they've won since becoming a D-I program (32 games coming into this one), and despite playing fairly well, this game is another on their pile of losses, as they came up on the short end of a 3-2 contest (I must admit that it is a little strange to discuss the result as it pertains to the *visiting* team). Similar to the Harvard hockey games I saw in 2023 (one of which, coincidentally, was against Princeton), there was no student section nor band - which meant no straw boaters...
+This game featured a visit from hockey independent Stonehill College - a small school south of Boston which only became D-I a few years ago and doesn't yet have a "permanent home" (when I was living in Boston, they were in a community rink; they're now at the Bruins practice facility, but an arena is in the works). In fact, this game marks the first time I saw them live and in person (they're the only current MA D-I college team I haven't seen[^4]). Sadly, Stonehill hockey has struggled since becoming D-I: they lost more games in their first year featuring a D-I heavy schedule (34 losses in 2023-24) than they've won since becoming a D-I program (32 games coming into this one), and despite playing fairly well, this game is another on their pile of losses, as they came up on the short end of a 3-2 contest (I must admit that it is a little strange to discuss the result as it pertains to the _visiting_ team). Similar to the Harvard hockey games I saw in 2023 (one of which, coincidentally, was against Princeton), there was no student section nor band - which meant no straw boaters...
 
 Thanks to this game having a 7 PM start time and the football game I went to in the afternoon ending just before 3, I was able to finish AND publish that post BEFORE this game started (it was either that or aimlessly wander around for three hours). I ended up going to a Barnes and Noble at a nearby mall and working on that post (as well as this one) at their cafe. Also, as an aside, the games I thought about but didn't go to were against one of the most remote programs in college hockey: the Alaska Nanooks from Fairbanks, AK - some 3,300 miles away from Princeton (games which the Tigers won more comfortably).
 
@@ -109,7 +109,7 @@ Thanks to this game having a 7 PM start time and the football game I went to in 
 
 Some time before this trip, I randomly perused Princeton's online store and found a hockey jersey there! I did have some thoughts about getting it, but wanted to wait until I could see it in person to figure out if I was interested (as it's basically a long sleeved version of a football jersey since the front only features the number).
 
-The Sunday before the soccer game, I ended up making another short day trip to Princeton and got the jersey from a campus store downtown[^5]. Princeton is a Nike school, but the jersey I got is a replica by another company; I bring this up because the other college hockey jerseys I've gotten from Nike (for schools I have yet to see in their home arenas) have two weird features: shoulder yokes that drop down way below where they should, and arm stripes that don't go all the way around the arm. While this replica does a better job with the shoulder yoke, it keeps the "cut-off" arm stripes, which is VERY interesting. 
+The Sunday before the soccer game, I ended up making another short day trip to Princeton and got the jersey from a campus store downtown[^5]. Princeton is a Nike school, but the jersey I got is a replica by another company; I bring this up because the other college hockey jerseys I've gotten from Nike (for schools I have yet to see in their home arenas) have two weird features: shoulder yokes that drop down way below where they should, and arm stripes that don't go all the way around the arm. While this replica does a better job with the shoulder yoke, it keeps the "cut-off" arm stripes, which is VERY interesting.
 
 At the women's game, there was no merchandise - something I probably should have expected given the smaller crowd. A night later, at the men's game...there was STILL no merch. I'm guessing that Princeton doesn't sell merch at hockey games due to the limited space of the "concourse", but it was rather unfortunate for the men's game since it was also the team's 2025 Teddy Bear Toss! I mentioned it in the Harvard post, but the Teddy Bear Toss is a hockey tradition where fans throw teddy bears onto the ice at a certain point during the game; like other NCAA Teddy Bear Tosses I've been to, it happened after the first period (the women also had a Teddy Bear Toss, but it was during a different game).
 
@@ -120,8 +120,13 @@ One final note about Hobey Baker as a whole: concessions at the games felt a bit
 ---
 
 [^1]: The men's team had an exhibition game against a school from Canada on October 25th.
+
 [^2]: One of the arena's plaques indicated that Princeton's women's team had its own (internal) Patty Kazmaier award, which is given to a senior each year. Said plaque also had no winner since 2022, and Wikipedia's list ended at 2020, so...
+
 [^3]: I've actually visited Providence's hockey arena before, but the only thing going on at the time was a youth game; it'll get a post if/when I visit for the Friars (men and/or women). Also, should the women's team be the "Sisters" or something like that since women can't be Friars?
-[^4]:  I also never got to see AIC as a D-I program - which they are not anymore (I mentioned this briefly in my post about [UMass Amherst](2025-10-05_umasshockey))
+
+[^4]: I also never got to see AIC as a D-I program - which they are not anymore (I mentioned this briefly in my post about [UMass Amherst](2025-10-05_umasshockey))
+
 [^5]: The only other jersey they had was for basketball, but I wasn't really interested in it at the time.
+
 [^6]: There was an intrasquad scrimmage the night before which was open to the public, and social media indicated that merch would be available at it.

@@ -12,7 +12,7 @@ tags:
     "New Jersey",
     "MLB Draft League",
     "Outdoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
@@ -49,5 +49,7 @@ One thing that may be important if you're thinking of collecting hats (like I've
 ---
 
 [^1]: This is changing in 2026, as the Fredrick Keys (the other non-NYPL team in the MLB Draft League) is moving to the South Atlantic League, and the Aberdeen IronBirds (who were an NYPL team pre-2020 before joining the SAL) are joining the Draft League.
+
 [^2]: Lord help us all if the Altoona Curve bring back their "Altoona Pizza" alt identity...
+
 [^3]: This is basically a genericized trademark situation as a specific company (Taylor) has been the main manufacturer of the product for a long time. However, people in New Jersey go back and forth on whether the product is/should be called “Taylor Ham” or “Pork Roll”...

@@ -69,6 +69,9 @@ I thought about getting a puck, but they didn't have any game pucks for sale (I 
 ---
 
 [^1]: Coincidentally, the Flyers' ECHL affiliate is in...Reading, PA! It is very interesting how the structure of the Flyers’ and Phillies' minor league teams is IDENTICAL: highest affiliate in Allentown, second highest affiliate in Reading, and then the Flyers stop there (though the Phillies continue on to the Jersey Shore and finally Florida).
+
 [^2]: The fact that I have to clarify this is upsetting...
+
 [^3]: I cannot believe a TWITTER MEME is how I found out one of the songs on the new album is about Travis Kelce's...wait, is this a family blog?
+
 [^4]: I also have a game-worn AHL jersey, which is even nicer quality than the authentics despite being MASSIVE on me even though it’s in the size I normally get (as retail jerseys aren’t made for hockey padding).

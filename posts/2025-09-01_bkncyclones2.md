@@ -77,6 +77,9 @@ Also, <a href="https://www.instagram.com/p/DOCtX1ujXMs/" target="blank">please c
 ---
 
 [^1]: For some time, they’ve been using a Mets colored hat with the letters “BK” on it, and it seems to have become their main hat. If I am being honest, however...the “Bc” hat is WAY better.
+
 [^2]: The hat I ended up getting at the game was not listed online in my size, so I was kinda scared that I wouldn’t be able to find it.
+
 [^3]: The way minor league playoff qualification works is that the season is divided into two halves, and whichever team has the best record in each half wins a playoff spot. I’ve heard that being in the MiLB playoffs is actually a DETRIMENT to teams as players and interns are largely gone by then thanks to said playoffs being in September.
+
 [^4]: Some items I had seen earlier in the year, however, were unavailable - such as the cap I got earlier in the year being out of stock in my size.

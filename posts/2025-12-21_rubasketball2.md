@@ -5,7 +5,7 @@ subtitle: "A holiday hoops spectacular"
 date: 21 December 2025
 published: true
 pinned: false
-tags: 
+tags:
   [
     "Basketball",
     "College",
@@ -15,7 +15,7 @@ tags:
     "New Jersey",
     "Indoor Sports",
     "Women's Sports",
-    "Repeat Visit"
+    "Repeat Visit",
   ]
 ---
 
@@ -68,6 +68,9 @@ Ladies, Gentlemen, and those in between: Rutgers University. We may be the Scarl
 ---
 
 [^1]: I had thoughts about coming to this men's game for a while, but the 8 PM start time felt too late until I got the email about the ticket deal.
+
 [^2]: No Big Ten team has won the NCAA Tournament since 2000 - though a few have been to the final since then.
+
 [^3]: I should note that this pertains SPECIFICALLY to Rutgers Basketball; other sports at other schools are going to be different.
+
 [^4]: I was originally intending to do this comparison of men's and women's games at the end, as that's where it would make the most sense.

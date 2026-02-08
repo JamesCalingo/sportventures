@@ -14,13 +14,13 @@ tags:
     "Northeastern University",
     "Boston",
     "Indoor Sports",
-    "Random Thoughts"
+    "Random Thoughts",
   ]
 ---
 
 Two weeks ago, I went to a [Northeastern Huskies hockey game](2025-11-30_northeasternhockey_mens) at Matthews Arena. At the end of that post, I originally included this little snippet:
 
-> *If you were ever curious about visiting this place, I have one word for you: HURRY. In fact, you might be too late sadly...*
+> _If you were ever curious about visiting this place, I have one word for you: HURRY. In fact, you might be too late sadly..._
 
 Unfortunately...sometimes, it’s hard to keep a 100+ year building up. Y'see, inasmuch as I did, in fact, go to that game to see hockey...there was another reason I went.
 
@@ -45,4 +45,5 @@ Speaking of which, the university is selling the seats and bricks from the arena
 ---
 
 [^1]: I actually had thoughts about going to the final women's game game at Matthews on December 6; however, a planning mix up plus a vintage market ended up killing that trip (along with a visit to BU's women's hockey team).
+
 [^2]: Of note, there's a "home game" against Maine in Portland, ME - where a lot of their alumni live and work.

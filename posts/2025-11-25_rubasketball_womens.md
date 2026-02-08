@@ -5,7 +5,7 @@ subtitle: "Courtside at a surprisingly close game"
 date: 25 November 2025
 published: true
 pinned: false
-tags: 
+tags:
   [
     "Basketball",
     "College",
@@ -15,11 +15,11 @@ tags:
     "New Jersey",
     "Indoor Sports",
     "Women's Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
-*\*This trip occurred on November 24, 2025.*
+_\*This trip occurred on November 24, 2025._
 
 Growing up, I wanted to believe that basketball was a fun sport to watch...and I feel like I’m not sure if it is. Back in the day, my main issue was that it would take 15-20 minutes to play a singular minute of basketball at the end of games; nowadays, it’s just everyone in the NBA not knowing how to play defense and/or chucking threes nonstop and every game ending with both teams well into triple digits (an issue which, unfortunately, has shown signs of trickling down into college as well).
 
@@ -67,6 +67,8 @@ One last thing to note: For whatever reason, Rutgers' official bookstore closes 
 
 ---
 
-[^1]:  The Grease Trucks were a group of food trucks in a lot on College Avenue - the most well known one being "R U Hungry" with its famous fat sandwiches. Rutgers took over the lot and put a building on it, but R U Hungry is now in that building (plus they opened a Newark location AFTER I GRADUATED THANKS FOR NOTHING GUYS).
+[^1]: The Grease Trucks were a group of food trucks in a lot on College Avenue - the most well known one being "R U Hungry" with its famous fat sandwiches. Rutgers took over the lot and put a building on it, but R U Hungry is now in that building (plus they opened a Newark location AFTER I GRADUATED THANKS FOR NOTHING GUYS).
+
 [^2]: The school changed names just this past summer, however, so it's understandable if you didn't see this bit coming. Also, Siena is NOT the first Catholic school from the MAAC to go from being a "College" to a "University" - I have a friend who is a member of the first graduating class of Saint Peter's University (the school that had that Cinderella run back in the 2022 men's tournament).
+
 [^3]: Coincidentally, each of the "sleeveless" players led their team in scoring.

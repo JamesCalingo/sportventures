@@ -18,12 +18,12 @@ tags:
     "Women's Hockey",
     "Indoor Sports",
     "First Visit",
-    "26 in 26"
+    "26 in 26",
   ]
 badge: "badges/firstvisit.png"
 ---
 
-### *[26 IN 26 STOP 2](26in26list)*
+### _[26 IN 26 STOP 2](26in26list)_
 
 _\*This trip occurred on January 17, 2026._
 
@@ -41,7 +41,7 @@ The most notable feature about Walter Brown - especially compared to Agganis - i
 
 Also, old photos of the arena featured an old school electronic scoreboard, but in 2024, the building received massive upgrades - one of them replacing the scoreboard with a modern video board; in fact, the women's team spent half of a season at Agganis to accommodate these renovations. However, the strangest thing I found was in the men's bathroom, where there's a certain machine much, MUCH more likely to be found in a women's bathroom (but also urinals, so it's highly unlikely women are in there that often).
 
-In a lot of ways, it's a minor miracle that this trip occurred AND that it's "_26 in 26_ eligible". I had intended to see the women back in December (along with [one final visit to Matthews](2025-12-13_farewallmatthews)), but ended up being unable to due to a schedule mix up and a vintage market (which I only found out about that morning)[^4]. In addition, I had made other plans for this weekend, but something came up which not only made those plans unfeasible, but opened up THIS opportunity. Tickets are rather inexpensive for hockey IMO, but do be forewarned if you want to come to a game: the Ticketmaster shenanigans are rather INSANE here...
+In a lot of ways, it's a minor miracle that this trip occurred AND that it's "_26 in 26_ eligible". I had intended to see the women back in December (along with [one final visit to Matthews](2025-12-13_farewallmatthews)), but ended up being unable to due to a schedule mix up and a vintage market (which I only found out about that morning)[^4]. In addition, I had made other plans for this weekend, but something came up which not only made those plans unfeasible, but opened up THIS opportunity. Tickets are rather inexpensive for hockey IMO, but do be forewarned if you want to come to a game: the Ticketmaster shenanigans are a bit INSANE here...
 
 This is not only the first time I've seen a Hockey East women's conference game, but in addition, it features the conference's sole women's only member: the [College of the Holy Cross](2025-10-21_holycrosshockey_mens) (the men are in Atlantic Hockey America)[^5]. Apparently, the two schools have a rivalry trophy known as the "Turnpike Trophy" due to them being in the Patriot League for other sports; the winner is based on whichever school wins more events against the other across all sports (BU has won it every year its been contested, and it typically isn't close).
 
@@ -72,9 +72,15 @@ A few final notes on this trip:
 ---
 
 [^1]: Two schools with one appearance each - coincidentally, those schools are Boston College and Northeastern.
+
 [^2]: Boston College has had two, Northeastern three, and somehow, Harvard is tied for the most winners in the country with SIX.
+
 [^3]: Not-so-fun fact for Clevelandtown baseball fans: Braves Field is where the team clinched its last World Series title...
+
 [^4]: Speaking of vintage markets, I would've gone to one today had this trip not happened!
+
 [^5]: Hockey East has two men's only members: the two UMass schools ([Amherst](2025-10-05_umasshockey) and [Lowell](2025-08-29_bosfleet&umlhockey)).
+
 [^6]: The Huskies are using various arenas as "home" venues for the rest of this season (though oddly, one of the arenas had to back out). BTW, don't ask how things have been going for them since my visit back in November...
+
 [^7]: The lowest price I saw the day before the game was $70!

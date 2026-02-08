@@ -58,6 +58,9 @@ One other note: Congratulations to [New York Red Bulls II](2025-09-22_rbnyii) fo
 ---
 
 [^1]: The league is known as the Gainbridge Super League because SPONSOR
+
 [^2]: Soccer teams loan players to other teams in order for those players to get playing time and experience with a competitive first team. It's a system that is rather unique to soccer, as I don't know of ANY other sport that does this.
+
 [^3]: Both teams are well ahead of Brooklyn attendance wise, so it's not likely that this is contributing to the attendance woes...
+
 [^4]: Also, I must mention how wild it was to see Coney Island so empty as it was WELL outside of tourist season...

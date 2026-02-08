@@ -6,13 +6,7 @@ date: 16 August 2025
 published: true
 pinned: false
 tags:
-  [
-    "Other Sports",
-    "Wiffle Ball",
-    "New York",
-    "Repeat Visit",
-    "Outdoor Sports",
-  ]
+  ["Other Sports", "Wiffle Ball", "New York", "Repeat Visit", "Outdoor Sports"]
 ---
 
 _\*This trip occurred on June 28, 2025. I was initially on the fence about how to write about this, as it’s a return to a place I’d already been to this year for a separate event; ultimately, I decided to make it its own post. As [I’ve already been here for the FerryHawks](2025-08-14_siferryhawks), I won’t talk about the facilities (for the most part), as they obviously haven’t changed since my last visit a month prior, but I’ll instead focus on the event itself. Also, as the focus was on the event itself more than its teams (after all, neither team technically calls the stadium “home”), I’ve listed the event and then the matchup in the title._
@@ -54,4 +48,5 @@ Oddly, the merch table shut down (everything was packed up and moved out) when t
 ---
 
 [^1]: I feel like I should mention that the word “Wiffle” is TECHNICALLY a trademark of The Wiffle Ball, Inc.
+
 [^2]: I originally wrote that I thought "MLW Wiffle Ball" was the league's legal name, but in finding the video of the game I went to, I found out that there's another "MLW" on YouTube: Major League Wrestling. Interestingly, however, the "MLW Wiffle Ball" name dates back to 2010 - though there are a couple of reasons that might be.

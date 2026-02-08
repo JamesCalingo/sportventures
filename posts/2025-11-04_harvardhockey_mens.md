@@ -58,7 +58,11 @@ I said I wasn’t going to talk about Harvard Square, but I do need to mention t
 ---
 
 [^1]: I don't feel the need to dive into the ECAC's history, but it's the oldest conference in college hockey - on the men's side. There is one conference that is TECHNICALLY older, but it's currently women's hockey only as its men's league disbanded in 2021 after a series of realignments stemming from the Big Ten stepping into the college hockey landscape.
+
 [^2]: If you need a quick refresher: the Beanpot is Boston's annual college hockey tournament between four local schools, and is (probably) one of the most famous tournaments in the hockey world. Also, given how BC's been this year, it looks like this will still be valid for quite a bit longer...
+
 [^3]: From what I could glean, Columbia has NEVER had D-I hockey, while Penn used to but disbanded the program a LONG time ago. Both schools do maintain club teams however.
+
 [^4]: As mentioned in the [Bentley post](2025-10-25_bentleyhockey), college hockey games can end in ties if, after regulation and overtime, they're...well, tied. This game happened before that game, but since that post went up first, I did the explanation of the whole process then. Also, I assume since Princeton won that shooutout, the extra point counts towards the "Ivy League" standings.
+
 [^5]: The NHL does not do this as its rules prohibit fans from throwing things onto the ice.

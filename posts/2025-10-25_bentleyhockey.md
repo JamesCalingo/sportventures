@@ -17,7 +17,7 @@ tags:
     "Pre-2025",
     "Catch-Up",
     "Indoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
@@ -56,5 +56,7 @@ As an aside, this game is, as of now, my only visit to Bentley, so I haven’t s
 ---
 
 [^1]: If that's not enough small schools west of Boston for you, I recently befriended a couple who met at Olin College of Engineering, which is right next to Babson (and they've told me about using some of Babson's facilities for various reasons).
+
 [^2]: AHA has something of an interesting history; I wrote about it when I talked about [Holy Cross](2025-10-21_holycrosshockey_mens). Also, obligatory link to <a href="https://upload.wikimedia.org/wikipedia/en/7/77/Atlhocklogo.png" target="blank">their former logo</a> - I seriously cannot get over the fact that this was in use until **2024**.
+
 [^3]: I paid around $12 when I went in 2024, but a check on ticket prices the day before this was posted indicated that tickets are now up to $22 dollars depending on opponent - though that's the "premium opponent" price, so it's still pretty good value (especially for Boston).

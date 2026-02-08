@@ -68,8 +68,10 @@ Both the merch and concession stands in the lobby closed shortly after the secon
 
 ---
 
-
 [^1]: Women's games were also 2-20 minute halves until 2015.
+
 [^2]: The men's college shot clock went from 35 seconds to 30 in 2015.
+
 [^3]: Furthermore, my somewhat limited research indicated that no Ivy League women's basketball program has ever reached the Final Four (unless Yale living vicariously through UConn counts...).
+
 [^4]: I mentioned in my Merrimack post that there's a dedicated basketball court at their athletics complex, but apparently both the men and women's basketball teams play exclusively at Lawler now - probably due to the premium seats.

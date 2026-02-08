@@ -63,7 +63,11 @@ If you were ever curious about visiting this place, [I have some bad news for yo
 ---
 
 [^1]: Should I include Stonehill in this list since they currently play at the Bruins' practice facility? I feel like the answer is "no", since I feel like that opens a whole can of worms...
+
 [^2]: The banner for the Celtics labels Matthews as the team's "secondary home" - I guess they consider the old Boston Garden as their main home.
+
 [^3]: I still have yet to visit Maine, as it's FAR (around four hours from Boston). It's the only arena in Hockey East I have yet to even try to visit, but a 2025-26 trip is not in the cards as all of their games sold out MONTHS ago.
+
 [^4]: Not to be confused with the "Dog Pound" or "Dawg Pound" - that's BU.
+
 [^5]: I did a count, and somehow Merrimack is tied with BC as the college hockey team I've seen the most at four games. This game at Northeastern, however, represents the only time I've seen Merrimack _win_.

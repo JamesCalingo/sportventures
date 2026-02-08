@@ -57,4 +57,5 @@ One other thing to mention: UMass sells NIL jerseys for hockey (online), but als
 ---
 
 [^1]: The Mullins Center still has a banner commemorating this however...
+
 [^2]: Said arena also hosted American International College’s hockey team - a small school and even smaller hockey program that recently left D-I.

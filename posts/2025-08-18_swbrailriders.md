@@ -15,7 +15,7 @@ tags:
     "Triple A",
     "Yankees",
     "Outdoor Sports",
-    "First Visit"
+    "First Visit",
   ]
 ---
 
@@ -58,8 +58,13 @@ Finally, I MUST show you one of the most horrifying caps I have ever seen a Mino
 ---
 
 [^1]: In the process, the Yankees moved their AAA operations out of Columbus, OH - a city they had been in since 1979.
+
 [^2]: Shout out to all y’all out there who understand this reference.
+
 [^3]: Well screw you too George!
+
 [^4]: Despite my relative disdain for the Yankees, as someone who was going to college in Newark at the time, I can’t help but think that this would’ve been cool...
+
 [^5]: There's also the factor of LLWS crowds/traffic being MUCH larger than I had anticipated based on a YouTube video I saw.
+
 [^6]: MULTIPLE guests of the hotel at the SkyDome (screw Rogers) have been caught doing things you probably shouldn’t do in public because they didn’t realize people could see INTO their windows.

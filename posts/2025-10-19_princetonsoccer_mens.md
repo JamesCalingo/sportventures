@@ -58,5 +58,7 @@ I will also note, however, that Princeton has two stores which feature school me
 ---
 
 [^1]: The school was originally the "College of New Jersey", but became "Princeton University" in 1896 (I think - Wikipedia is a little vague). Confusingly, there exists a "College of New Jersey" today about ten miles away...
+
 [^2]: There exists a third Premier League manager (David Wagner) who is recognized by FIFA as American; however, he was born in Germany.
+
 [^3]: Not saying in case they fix it because of me
