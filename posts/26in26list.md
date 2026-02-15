@@ -12,5 +12,6 @@ I'm hoping to visit at least 26 new venues in 2026. You can read more about this
 2. [Walter Brown Arena - Boston, MA](2026-01-18_buhockey_womens)
 3. [Westchester County Center - White Plains, NY](2026-01-25_wcknicks)
 4. [Barclays Center - Brooklyn, NY](2026-02-08_bknets)
+5. [Danbury Ice Arena - Danbury, CT](2026-02-15_dbyhattricks)
 
 5. **COMING SOON**
