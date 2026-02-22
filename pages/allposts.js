@@ -44,7 +44,7 @@ const AllPosts = ({ posts }) => {
             <div className="controls">
                 <div id="tag-filter">
                     <label htmlFor="tag-select">Filter by: </label>
-                    <select id="tag-select" onChange={(e) => {
+                    <select id="tag-select" defaultValue={""} onChange={(e) => {
                         const selectedTag = e.target.value;
                         setTag(selectedTag);
                     }}>
