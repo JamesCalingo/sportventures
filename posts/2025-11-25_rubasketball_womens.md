@@ -53,7 +53,9 @@ If you're in this section, your seat is basically one of those fancy chairs you 
 
 This game featured the Siena Saints from Siena College - a small Catholic school near Albany, NY that I'm fairly certain most people don't know that much about. In fact, you probably know so little about Siena that you didn't realize that it's NOT "Siena College" - the school is actually "Siena University" now[^2]! To my surprise, they seemed to have a decently large traveling contingent with them despite being some three or four hours away from Rutgers.
 
-This game ended up being one of the most intense games to be featured on this blog. Despite the talent disparity on paper (plus the fact that Siena came into this game WINLESS), Siena played tough, had the lead at various points in the second half. However, Rutgers pulled away at the end - with a last-second free throw giving the Scarlet Knights a grand total of 67 points (for the culture). Also, the PA announcer for this game sounded like the same guy the [Jersey Shore BlueClaws][2025-08-08_jsblueclaws] had when I saw them way back in April (whose name I can't seem to find on the internet).
+This game ended up being one of the most intense games to be featured on this blog. Despite the talent disparity on paper (plus the fact that Siena came into this game WINLESS), Siena played tough, had the lead at various points in the second half. However, Rutgers pulled away at the end - with a last-second free throw giving the Scarlet Knights a grand total of 67 points (for the culture). Also, the PA announcer for this game sounded like the same guy the [Jersey Shore BlueClaws](2025-08-08_jsblueclaws) had when I saw them way back in April (whose name I can't seem to find on the internet).
+
+<div id="merch" />
 
 ### MERCH
 
