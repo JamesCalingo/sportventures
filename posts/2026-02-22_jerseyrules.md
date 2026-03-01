@@ -1,7 +1,7 @@
 ---
 display: "Da Rules"
 title: "The Jersey Rules"
-subtitle: "How I determine if I'm going home with something"
+subtitle: "My rules for collecting jerseys - because limits have to be set"
 date: 22 February 2026
 published: true
 pinned: false
@@ -96,12 +96,6 @@ As mentioned earlier, it's difficult to find NFL and NBA jerseys that DON'T have
 \-\-\-
 
 So those are my rules for buying jerseys. I feel like this will evolve over time (again, as I'm trying to downsize both physically and in terms of my collection), but I hope it's something I hope some people out there find interesting (especially if anyone out there is thinking of starting a jersey collection). Of course, your rules may be different from mine, but that's the thing with hobbies like this: there's no real "right" way to do it.
-
----
-
-### ON DECK
-
-HOPEFULLY we don't get another snowstorm next weekend, because I have plans that I've been thinking about for a few months...partially as it involves something new for this blog.
 
 ---
 
