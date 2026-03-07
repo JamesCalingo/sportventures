@@ -53,7 +53,7 @@ My original intention was to wear the away jersey to the game, and then MAYBE pu
 
 ---
 
-One other note: Congratulations to [New York Red Bulls II](2025-09-22_rbnyii) for winning the MLS Next Pro championship! I thought about going to that game as they were hosting and tickets were pretty inexpensive, but the combination of the long journey to/from Brooklyn, a 7 PM start time, having to pay for parking in Harrison, and weekend PATH scheduling nixed that idea almost instantly - and then the game going to PKs confirmed that going would probably not have been a good idea.
+One other note: Congratulations to [New York Red Bulls II](2025-09-22_rbnyii) for winning the MLS NEXT Pro championship! I thought about going to that game as they were hosting and tickets were pretty inexpensive, but the combination of the long journey to/from Brooklyn, a 7 PM start time, having to pay for parking in Harrison, and weekend PATH scheduling nixed that idea almost instantly - and then the game going to PKs confirmed that going would probably not have been a good idea.
 
 ---
 
