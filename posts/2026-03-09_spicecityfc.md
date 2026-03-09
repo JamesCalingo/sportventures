@@ -1,7 +1,7 @@
 ---
 display: "Spice City FC (3/8/26)"
 title: "Spice City Fútbol Club (Major Arena Soccer League 2) @ Danbury Ice Arena (Danbury, CT)"
-subtitle: "¿Listo para el fútbol sala?"
+subtitle: "¿Listo para el fútbol caliente?"
 date: 9 March 2026
 published: true
 pinned: false
@@ -55,7 +55,7 @@ P.S.: [Brooklyn FC's men's team](2025-11-09_bkfc_womens) made its debut today - 
 
 Also, based on results this weekend, I CLEARLY know how to pick which soccer games to go...but at least I didn't have to see the [Red Bulls](2026-03-01_rbny) get blanked by freakin' CLUB DE FOOT MONTRÉAL...
 
-_For those who are actually curious about the subtitle, it (roughly) translates to "Ready for the indoor football?" (assuming Google Translate did this right...)_
+_For those who are actually curious about the subtitle, it (roughly) translates to "Ready for the hot football?" (assuming Google Translate did this right...)_
 
 ### ON DECK
 
