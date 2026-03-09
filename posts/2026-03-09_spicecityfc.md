@@ -18,7 +18,7 @@ tags:
 badge: "badges/newteam.png"
 ---
 
-_\*This trip occurred on March 8, 2026. _
+_\*This trip occurred on March 8, 2026._
 
 Indoor/Arena soccer[^1] is a bit of a loaded term. For most soccer fans around the world, the term more than likely refers to _futsal_ - a form of soccer on a smaller court/field where individual skillsets are more important than in the "regular" game. Here in the United States, however, indoor soccer is basically a hybrid of soccer and hockey (similar to what [box lacrosse](2025-08-27_phiwings) is to [field lacrosse](2025-08-26_rulacrosse_mens)) - five "outfield" players plus a goalkeeper on an enclosed field where the walls are "in play" (generally a hockey rink covered with turf - though field dimensions can vary WIDELY).
 
