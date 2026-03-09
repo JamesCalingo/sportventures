@@ -61,6 +61,8 @@ There were only three open concession stands here: the "main stand" with "regula
 
 Of course, if you're looking for Boston University stuff, the bookstore isn't too far: it's basically right across Comm Ave (having moved there from Kenmore Square some time ago) and features a TON of hockey merch since it's BU's top sport. I thought about taking a look at it before the game, but opted not to due to cold and snow (though I've been there quite a bit in the past for jerseys and other stuff). I should mention, however, that I recall seeing things at the men's game I went to in 2023 that I never saw in the bookstore (and I'm not just talking about the media guide).
 
+One quick note: BU has a program where students can get a free hockey jersey if they attend games. When I saw the men back in 2023, it was simply to attend eight men's games, but it seems to have been changed at some point, as it's now sixteen games between the men's and women's teams.
+
 ---
 
 A few final notes on this trip:

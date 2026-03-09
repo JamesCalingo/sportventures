@@ -15,7 +15,7 @@ tags:
     "New York",
     "First Visit",
     "26 in 26",
-    "Outdoor Sports"
+    "Outdoor Sports",
   ]
 badge: "badges/firstvisit.png"
 ---
@@ -35,6 +35,8 @@ Unfortunately, there was a MASSIVE issue with planning a visit: Mount Vernon is 
 My original plan was actually to come here next week (for reasons that will become clearer soon), but due to schedule conflicts, this trip got moved UP to today - the team's 2026 home opener! Expectations around the team are...mixed at best (especially given their AWFUL track record of losing leads), and when the team coming in to face them is the defending regular season AND overall champions in One Knoxville SC, it's hard to expect a result.
 
 Alas, the game went more or less as expected - Knoxville won, but mainly on the strength of a first half stoppage time goal (as Westchester got a goal with the final kick of the game to make it 3-2). Personally, I blame myself for this loss - I wore my [Vermont Green](2025-08-21_vgfc) hat for this game, and one of Knoxville's players was a former Vermont Green player who was making his professional debut - and scored the team's first two goals. There was some atmosphere from supporters, but it did seem kinda weak compared to the higher levels of soccer I've seen in this country (and also the aforementioned Green).
+
+<div id="merch" />
 
 ### MERCH
 
@@ -56,12 +58,6 @@ In terms of other items, several fans had hats that looked interesting, but the 
 
 Finally, I should also mention that the team has partnered with a local store who also sell their merch. I thought about going there before the game (for this as well as other reasons), but their hours didn't really "fit" with my schedule (they close at 5, gate time for the game is probably 6, and I'd rather not be hanging around a place like Mount Vernon based on its reputation - even if the stadium area seemed okay...).
 
-\-\-\-
-
-P.S.: [New York City FC](2025-08-13_nycfc) had their home opener today as well (a wild 5-0 win over fellow 2015 expansion side Orlando City SC involving the goalkeeper getting a red card). I did think about going to it, but ultimately decided not to - though I do intend to see them later this year.
-
 ---
 
-### ON DECK
-
-Soccer as you probably have never experienced it before.
+P.S.: [New York City FC](2025-08-13_nycfc) had their home opener today as well (a wild 5-0 win over fellow 2015 expansion side Orlando City SC involving a goalkeeper getting a red card). I did think about going to it, but ultimately decided not to - though I do intend to see them later this year.

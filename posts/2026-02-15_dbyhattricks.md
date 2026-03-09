@@ -1,6 +1,6 @@
 ---
 display: "Danbury Hat Tricks (2/14/26)"
-title: "Danbury Hat Tricks (North American Hockey League) @ Danbury Arena (Danbury, CT)"
+title: "Danbury Hat Tricks (North American Hockey League) @ Danbury Ice Arena (Danbury, CT)"
 subtitle: "Who doesn't *love* a little junior hockey?"
 date: 15 February 2026
 published: true
@@ -22,9 +22,9 @@ badge: "badges/firstvisit.png"
 
 _\*This trip occurred on February 14, 2026._
 
-Danbury, CT is an interesting place. Aside from being the birthplace of two of my cousins, it’s also been the home of a whole host of low level hockey teams, many of which have called the same place home: the Danbury Arena.
+Danbury, CT is an interesting place. Aside from being the birthplace of two of my cousins, it’s also been the home of a whole host of low level hockey teams, many of which have called the same place home: the Danbury Ice Arena.
 
-![An wide-angle image of the Danbury Arena](/images/2026/0214-arena.jpeg)
+![An wide-angle image of the Danbury Ice Arena](/images/2026/0214-arena.jpeg)
 
 I won't get too in depth about any of the teams that have played here in the past, but among them were a team called the Trashers, one of the founding members of the Federal Prospects Hockey League (who have since folded), a women's team in a predecessor of the [PWHL](2025-08-28_nysirens), and, of course, the current team: the Danbury Hat Tricks (who, it should be noted, are not connected to the former team in Danbury). Normally, I don't talk about building ownership in these posts, but I have to here, because part of why the Hat Tricks exist today: a 2019 sale of the building.
 
