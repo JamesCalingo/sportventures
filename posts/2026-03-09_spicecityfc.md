@@ -51,7 +51,9 @@ At this game, it seemed that they did not have most things in larger sizes - cas
 
 ---
 
-Also worth noting: [Brooklyn FC's men's team](2025-11-09_bkfc_womens) made its debut today - and won! Unlike NYCFC yesterday, I never really had any plans on going; also, I REALLY know how to pick which soccer games to go to...
+P.S.: [Brooklyn FC's men's team](2025-11-09_bkfc_womens) made its debut today - and won! Unlike NYCFC yesterday, I never really had any plans on going to this game - though a future game depends on what happens with the <a href="https://www.espn.com/soccer/story/_/id/48127662/usl-season-starts-players-silent-protest-amid-cba-dispute" target="blank">USL strike</a>.
+
+Also, based on results this weekend, I CLEARLY know how to pick which soccer games to go...but at least I didn't have to see the [Red Bulls](2026-03-01_rbny) get blanked by freakin' CLUB DE FOOT MONTRÉAL...
 
 _For those who are actually curious about the subtitle, it (roughly) translates to "Ready for the indoor football?" (assuming Google Translate did this right...)_
 
