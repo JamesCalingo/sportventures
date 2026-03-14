@@ -60,10 +60,6 @@ Also, based on results this weekend, I CLEARLY know how to pick which soccer gam
 
 _For those who are actually curious about the subtitle, it (roughly) translates to "Ready for the hot football?" (assuming Google Translate did this right...)_
 
-### ON DECK
-
-[Westchester SC's](2026-03-08_westchestersc) new local rival - but whether or not they're actually "new" may be up for debate.
-
 ---
 
 [^1]: Wikipedia does not use the term "indoor football" in relation to this sport, as that's something else entirely - and I intend to explore that later this year as well.
