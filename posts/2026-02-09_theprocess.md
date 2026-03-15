@@ -58,7 +58,7 @@ I think I've mentioned it somewhere, but this site is "self-published" - I'm usi
 
 One thing I am kinda bad with (especially if you obsessively read my old posts over and over): editing. I mentioned it earlier, but I don't typically take notes on what I want to write about at a game; I mostly go off of memory. However, there are times when I either think I need to clarify something better and/or forget a detail after initially publishing a post (for example, the original version of my [Westchester Knicks post](2026-01-25_wcknicks) did not have any mention of the NBA G League's experimental rules, which I felt was important to include). The way this blog is set up makes those edits a bit more difficult to post, so more often than not, any sneak edits are usually made when a new post goes up (unless they're CRITICALLY important).
 
-\-\-\-
+**\-\-\-**
 
 And that's how things work around here. Hopefully that was interesting to read, 
 
