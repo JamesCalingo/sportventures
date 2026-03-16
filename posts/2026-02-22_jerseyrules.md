@@ -93,7 +93,7 @@ I wasn't really sure where to put this within the "flow" of my ruleset, but to b
 
 As mentioned earlier, it's difficult to find NFL and NBA jerseys that DON'T have a name and number attached to them due to how they're designed/produced (and if you find one, there's a non-zero chance it's counterfeit)[^6]. In addition, while blank NHL and MLB (and MLS) jerseys are generally more available (and most minor league and college hockey/baseball jerseys I've seen have been blank), the NHL and MLB team stores I've been to rarely feature blanks - most of what they sell have names and numbers already on them.
 
-\-\-\-
+**\-\-\-**
 
 So those are my rules for buying jerseys. I feel like this will evolve over time (again, as I'm trying to downsize both physically and in terms of my collection), but I hope it's something I hope some people out there find interesting (especially if anyone out there is thinking of starting a jersey collection). Of course, your rules may be different from mine, but that's the thing with hobbies like this: there's no real "right" way to do it.
 
