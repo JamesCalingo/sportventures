@@ -1,8 +1,8 @@
 import Link from "next/link";
 
 function NewestListItem(props) {
-    const { slug, display, title, subtitle, date } = props
-    return <div className="grid-post newest-list-item">
+    const { slug, display, title, subtitle, date, background } = props
+    return <div className="grid-post newest-list-item" style={{ backgroundImage: `url(${background})`, "backgroundPositionX": "center", "backgroundPositionY": "top", }}>
         <Link href={`/${slug}`}>
             <h2 className="list-title">{display ? display : title}</h2>
             <em>{subtitle}</em>

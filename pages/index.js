@@ -14,7 +14,7 @@ const Index = () => {
         <p><Link href={"26in26list"}>Aiming to visit 26 new venues in 2026</Link></p>
       </div>
 
-      <NewestPost slug={latest.slug} display={latest.frontmatter.display ? latest.frontmatter.display : latest.frontmatter.title} subtitle={latest.frontmatter.subtitle} date={latest.frontmatter.date} />
+      <NewestPost slug={latest.slug} display={latest.frontmatter.display ? latest.frontmatter.display : latest.frontmatter.title} subtitle={latest.frontmatter.subtitle} date={latest.frontmatter.date} background={latest.frontmatter.background} />
 
       {pinned &&
         <div className="pinned">
