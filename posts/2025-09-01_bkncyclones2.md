@@ -68,7 +68,7 @@ The Rumble Ponies and Fireflies hats were only available in very small sizes, bu
 
 I also made a quick stop at the Barclays Center (home of the NBA's Brooklyn Nets and WNBA's New York Liberty) to check out their store on the way to the game, but didn't find anything interesting there (mainly because the jerseys were all either sublimated or heat-pressed).
 
-\---
+---
 
 As for Brooklyn FC, [I was finally able to make the trip a few months after this game](2025-11-09_bkfc_womens).
 
