@@ -3,7 +3,7 @@ display: "The Champeenship"
 title: "FROM THE ARCHIVES: Hockey East Championship 2024 @ TD Garden (Boston, MA)"
 subtitle: "A look back to when I saw the pinnacle of Hockey East"
 date: 21 March 2026
-published: true
+published: false
 pinned: false
 tags:
   [
