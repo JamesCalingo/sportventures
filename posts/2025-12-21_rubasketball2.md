@@ -27,6 +27,8 @@ My original thought for today was going to do some sightseeing in New York City 
 
 However, unlike the [Princeton games I went to ten days prior](2025-12-11_princetonbasketball), the start times for these games were separated by eight hours: the women's game was at noon, and the men's game at 8 PM[^1]. In the interim, Rutgers hosted a "Winter Village" outside the arena. Because of how "spread out" the entire day was (12 noon to 10 PM), I'm going to break this into sections and try and describe things in chronological order. Also, I won't get too deep into describing the arena since [I did that already](2025-11-25_rubasketball_womens), and I won't do a dedicated merchandise section for...reasons.
 
+<div id="womens" />
+
 ### THE WOMEN'S GAME
 
 Yes, this is the THIRD time I've watched Rutgers women's basketball in less than a month. Somewhat surprisingly, this was their first game since losing to Princeton, and it saw them take on the Lafayette Leopards - a team from a school just outside of Allentown, PA whose athletic teams are all consolidated into <a href="https://en.wikipedia.org/wiki/Lafayette_Leopards" target="blank">a singular Wikipedia page</a>. Truth be told, I had thoughts about sitting on the end again since I wanted to see what it was like from a section of seats similar to what I got the first time but at concourse level. However, since I was only offered 100 level sideline tickets for this game, I had to go with one of those - and I ended up with essentially a whole row (of three seats) all to myself.
