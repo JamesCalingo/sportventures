@@ -23,8 +23,6 @@ tags:
 
 _\*Since the 2026 Hockey East men's championship game is tonight, I figured I’d go back a bit and talk about the time I went to the game back on March 23, 2024 - almost exactly two years ago. A decent chunk of this was written back then, but I did update this quite a bit (for example, it includes mentions of subsequent Hockey East tournaments which obviously hadn’t happened when I first wrote this). Also, with this, I've officially caught up with all of my old hockey writing - at least until I get to certain games/arenas (hopefully in the fall)._
 
-
-
 A lot of sports leagues/events have their "signature venue" for their championship: England’s FA Cup has Wembley Stadium, the Australian Football League has the Melbourne Cricket Ground...and Hockey East has TD Garden.
 
 I don’t feel there’s a need to dive too deep into Hockey East’s history outside of its establishment in 1984 (as a "spin off" from the ECAC), but I should at least explain the conference tournament/championship game a little bit. For those who don’t know, most college athletic conferences in the United States host end-of-season tournaments (or sometimes a single game like in football) to determine an official conference champion. Said champion receives an automatic bid to their sport’s national tournament (with football, once again, being a semi-exception), where the best teams in the country compete to determine a singular national champion for that sport[^1].
@@ -71,10 +69,6 @@ At the Hockey East championship, I got a Hockey East crewneck sweater and hat (p
 ---
 
 _And yes, the display title of this page is the reference some of you think it is - if you don't get it, <a href="https://www.youtube.com/watch?v=yNSs2GZOl1k" target="blank">go get cultured or summat</a>_
-
-### ON DECK
-
-More hockey...though whether or not it's "better" really depends (as it doesn't feature FIVE NHL first round draft picks).
 
 ---
 
