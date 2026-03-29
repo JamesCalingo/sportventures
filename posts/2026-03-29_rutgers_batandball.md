@@ -94,6 +94,8 @@ I also want to mention one other thing I saw on sale: stadium blankets! I realiz
 
 As a side note, Princeton (which has been featured SEVERAL times on this blog) has its baseball and softball fields adjacent to each other as well, but I don't think I'll be getting down there for either sport this year. Their baseball field is neat in that the stands are built into a hill, but outside of that it doesn't seem like there's that much going on (and based on the soccer and hockey games I went to, merch is a massive question mark).
 
+Also, I realize I named this post "bat and ball sports", but I doubt we're getting NCAA sponsored cricket anytime soon...
+
 ### ON DECK
 
 I HAD a trip I was thinking about making the day this is being published, but again...**GAS PRICES**.<br>(SPOILER ALERT: I was going to go to Philly).
