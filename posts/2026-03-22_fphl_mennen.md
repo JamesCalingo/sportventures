@@ -18,7 +18,7 @@ tags:
     "26 in 26"
   ]
 badge: "badges/firstvisit.png"
-# background: "images/2026/0321-mennenarena.jpeg"
+background: "images/2026/0321-mennenarena.jpeg"
 ---
 
 ### _[26 IN 26 STOP 7](/26in26list)_
@@ -45,15 +45,15 @@ Moving on...
 
 ![A photo of the opening faceoff of a hockey game at Mennen Sports Arena](/images/2026/0321-mennenarena.jpeg)
 
-Mennen Sports Arena (where this game took place) was opened in 1975, named after the president of a local company known for its deodorant sticks, and hosts a lot of local hockey teams - mostly youth and school teams. I also recall reading about an indoor football team that was set to play here one time, but have NO IDEA if they ever played a game or not (which is...par for the course for indoor football[^5]). Technically, it's just outside of Morristown, NJ, but the area its in is often amalgamated into Morristown itself, so if you're a stickler for a specific location, it's kinda confusing (heck, Google got confused when I was trying to pin down where specifically the arena is).
+Mennen Sports Arena (where this game took place) was opened in 1975, named after the president of a local company known for its deodorant sticks, and hosts a lot of local hockey teams - mostly youth and school teams. I also recall reading about an indoor football team that was set to play here one time, but have NO IDEA if they ever played a game or not (which is...par for the course for indoor football[^5]). Technically, it's just outside of Morristown, NJ (which is probably best known for Washington's Headquarters), but the area its in is often amalgamated into Morristown itself, so if you're a stickler for a specific location, it's kinda confusing (heck, Google got confused when I was trying to pin down where specifically the arena is).
 
 In all honestly, the main arena is surprisingly "nice" for a community rink (especially as it was built in the 70s). There are large seating areas on both (long) sides of the rink, and there's actually a decent number of rows up both sections. In addition, it's all "bucket" seating here (as opposed to most places like this having benches), and several of the sections near center ice have armrests. Outside of the main arena, there's actually a fairly large lobby area as there are three rinks here, and for this game, I'm almost certain the PA announcer was actually the former PA announcer for the New Jersey Devils!
 
-I said that the Wolves were the "operational home team" for this game; this is important for on-ice purposes that I'm not completely clear on (I know it involves the "last change" after stoppages, but I don't exactly know how that works). However...they didn't FEEL like the home team: there were FAR more Danbury fans than Watertown fans (I think there was exactly ONE Wolves jersey in the crowd), the Hat Tricks spent 40 minutes skating circles around the Wolves en route to a 3-1 win, and...
+I said that the Wolves were the "operational home team" for this game (which, FWIW, may or may not be the FPHL doing a "market test"); this is important for on-ice purposes that I'm not completely clear on (I know it involves the "last change" after stoppages, but I don't exactly know how that works). However...they didn't FEEL like the home team: there were FAR more Danbury fans than Watertown fans (I think there was exactly ONE Wolves jersey in the crowd), I BELIEVE most operations were handled by the Hat Tricks, the Hat Tricks spent 40 minutes skating circles around the Wolves en route to a 3-1 win, and...
 
 ### MERCH
 
-At this game, the Hat Tricks (who, let me remind you, are technically the "away" team) had a merch table rinkside which included "game used" jerseys  - and I use quotes there because some of the jerseys were probably NOT used in games as they were made for guys who I don't think ever played in a game (a few still had the manufacturer's retail tag). I didn't ask whose idea it was to bring the FPHL to New Jersey, but methinks Danbury was more involved with the planning of this game more than the "home" team...
+At this game, the Hat Tricks (who, let me remind you, are technically the "away" team) had a merch table rinkside which included "game used" jerseys  - and I use quotes there because some of the jerseys were probably NOT used in games as they were made for guys who I don't think ever played in a game (a few still had the manufacturer's retail tag). I didn't ask whose idea it was to bring the FPHL to New Jersey, but methinks Danbury was more involved with the planning of this game more than the supposed "home" team...
 
 Also, because I cannot resist a deep dive into jerseys apparently, I went to the online store for EVERY team in the FPHL to see what types of jerseys they sell about a month before this game happened. While not every team sells jerseys online (or at least had jerseys available when I checked), the ones that did were quite "mixed": some teams sell only sublimated jerseys, some teams sell only jerseys with sewn logos, and a few teams sold both![^6] However, Danbury was the only team who sold "game used" jerseys online (see above for a caveat to that term); there's a distinct possibility that other teams also sell game used jerseys at games, but I have no way of confirming that right now (and given the locations of some of the teams, trips to see them are not super likely).
 
@@ -75,4 +75,4 @@ P.S.: The Pope Leo effect is real - congrats to FREAKIN' FRACKIN' MERRIMACK on w
 
 [^5]: More on this later this year.
 
-[^6]: I will note that I'm only looking at each team's "main" home and away jerseys here; several teams did sell specialty night jerseys, but those are almost always sublimated. Speaking of specialty jerseys, the Hat Tricks had special jerseys for this game that were inspired by <a href="https://www.nhluniforms.com/Devils/DevilsSpecial03.html" target="blank">this popular Devils jersey from a few years ago</a>; they had a few for sale after the game, but they were sublimated.
+[^6]: I will note that I'm only looking at each team's "main" home and away jerseys here; several teams did sell specialty night jerseys, but those are almost always sublimated. Speaking of specialty jerseys, the Hat Tricks had special jerseys for this game that were inspired by <a href="https://www.nhluniforms.com/Devils/DevilsSpecial03.html" target="blank">this popular Devils jersey from a few years ago</a>; they had a few for sale after the game, but they were fully sublimated.

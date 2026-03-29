@@ -21,9 +21,9 @@ tags:
 
 _This is part 3 of a multi-part post. You can easily access the other parts here:_
 
-- [PART 1](2025-08-23_bananaball1)
-- [PART 2](bananaball2)
-- [CONCLUSION](bananaball4)
+- [PART 1](2025-08-23_bananaball_bos)
+- [PART 2](bananaball_bospt2)
+- [CONCLUSION](bananaball_bospt4)
 
 Now that I've got a ticket to a Banana Ball game (plus some other things which will be VERY important - as you'll see soon), let's dive into the actual experience - starting with the "where" of this particular date:
 
@@ -62,7 +62,7 @@ At 1:00, MOST fans were let into the stadium itself. The exception: if you had a
 
 Some time after fans start taking their seats, a pregame show occurs featuring a few of the players and a cavalcade of characters the organization has introduced over the years, such as the “Man-nana’s Dad Bod Cheerleading Squad” (not sure if endearing or offensive), “The Young Professor”, and “Princess Potassia”. During this pregame, the two teams are introduced and do a bunch of crazy antics as they’re being introduced. Then...the real fun begins.
 
-![A photo of Banana Ball being played at Fenway Park](/images/2025/bananaballfenway.jpg)
+![A photo of Banana Ball being played at Fenway Park](/images/2025/bananaball_bosfenway.jpg)
 
 <figcaption>A photo of Banana Ball being played at Fenway Park</figcaption>
 
@@ -121,7 +121,7 @@ I am NOT adding up how much I spent over the two days, but it’s not a small nu
 
 My verdict on Banana Ball.
 
-[CONCLUSION](bananaball4)
+[CONCLUSION](bananaball_bospt4)
 
 ---
 

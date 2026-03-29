@@ -106,7 +106,7 @@ I had SOME thoughts about coming here, but in the end figured it was too far to 
 
 Given the historic haplessness of places like Chicago (both the North and South sides) and Cleveland, it’s easy to forget that the Phillies were the last of the original 16 MLB franchises to win their first World Series title back in 1980 (a 77 year wait given that the first World Series was in 1903). Despite the team having made multiple World Series appearances since then, they’ve only won one other championship in 2008 - tying them with the Guardians plus FOUR of MLB’s expansion franchises; two of whom are division rivals (the Marlins and Mets), and two of whom have beaten the Phillies in the World Series (the Blue Jays in 1993 and the Astros in 2022). Of course, their haplessness isn’t just related to their relatively awful World Series record - after all, they were the first MLB team to reach 10,000 losses back in 2007, and are MULTIPLE FULL SEASONS ahead of second place Atlanta in the loss column.
 
-For more on my visit to this ballpark/team store, [check it out here](bananaball5), but long story short: I got some 2026 All Star Game stuff since they're hosting it next year. I realize that this is a bit of a "cop-out", but I really like what I wrote for the Phillies' history (also the Blue Jays almost made this section WORSE).
+For more on my visit to this ballpark/team store, [check it out here](bananaball_bospt5), but long story short: I got some 2026 All Star Game stuff since they're hosting it next year. I realize that this is a bit of a "cop-out", but I really like what I wrote for the Phillies' history (also the Blue Jays almost made this section WORSE).
 
 ### NEW YORK METS
 
