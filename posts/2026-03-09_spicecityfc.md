@@ -16,6 +16,7 @@ tags:
     "First Visit",
   ]
 badge: "badges/newteam.png"
+background: "/images/2026/0308-scfc.jpeg"
 ---
 
 _\*This trip occurred on March 8, 2026._

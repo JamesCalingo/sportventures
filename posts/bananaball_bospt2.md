@@ -21,9 +21,9 @@ tags:
 
 _This is part 2 of a multi-part post. You can easily access the other parts here:_
 
-- [PART 1](2025-08-23_bananaball1)
-- [PART 3](bananaball3)
-- [CONCLUSION](bananaball4)
+- [PART 1](2025-08-23_bananaball_bos)
+- [PART 3](bananaball_bospt3)
+- [CONCLUSION](bananaball_bospt4)
 
 Last time, I introduced Banana Ball and spoke a little bit about its teams, and while watching them on YouTube is nice (they livestream pretty much all of their games), going to see them would be better (especially for the purposes of this blog).
 
@@ -96,7 +96,7 @@ For me, I was allowed to buy my tickets about a week or so before Thanksgiving 2
 
 I've done a bunch of build up, but now it's time to talk about the actual event itself.
 
-[PART 3](bananaball3)
+[PART 3](bananaball_bospt3)
 
 ---
 

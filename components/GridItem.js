@@ -7,7 +7,7 @@ function GridItem(props) {
         <Link href={`/${slug}`}>
             <h2 className="list-title">{display}</h2>
 
-            <p className="list-date">Published on<br/>{new Date(date).toLocaleDateString()}</p>
+            <p className="list-date">Published<br/>{new Date(date).toLocaleDateString()}</p>
 
         </Link>
     </div>

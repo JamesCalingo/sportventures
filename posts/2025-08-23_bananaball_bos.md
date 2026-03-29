@@ -23,9 +23,9 @@ tags:
 
 _\*This trip occurred on July 6, 2025, and I had so many thoughts on what happened that I’ve had to structure this post a bit differently than my other posts (case in point: my draft for this was SEVENTEEN PAGES LONG). To save everyone's sanity from having to scroll for all of that, I've broken this post into multiple parts - this one obviously being the intro._
 
-- [PART 2](bananaball2)
-- [PART 3](bananaball3)
-- [CONCLUSION](bananaball4)
+- [PART 2](bananaball_bospt2)
+- [PART 3](bananaball_bospt3)
+- [CONCLUSION](bananaball_bospt4)
 
 ### The Savannah Bananas (and friends)
 
@@ -43,9 +43,9 @@ Two more teams are being added in 2026, which will also see an organized “Bana
 
 ### ...So what the heck is Banana Ball?
 
-Banana Ball is, in essence, a modified version of baseball. The team lists eleven rules that make it distinct (these are taken directly from <a href="https://bananaball.com/rules/" target="blank">the Banana Ball website</a>):
+Banana Ball is, in essence, a modified version of baseball. The team lists eleven rules that make it distinct (these are taken directly from <a href="https://bananaball_bos.com/rules/" target="blank">the Banana Ball website</a>):
 
-![The rules of Banana Ball condensed into an image. They are too long to include as alt text.](https://bananaball.com/wp-content/uploads/2023/11/BananaBallRules.png)
+![The rules of Banana Ball condensed into an image. They are too long to include as alt text.](https://bananaball_bos.com/wp-content/uploads/2023/11/BananaBallRules.png)
 
 <figcaption>The rules of Banana Ball condensed into an image</figcaption>
 
@@ -62,7 +62,7 @@ I’ll give my full thoughts on these rules later, but in short: this is basical
 
 Tickets and the "easiest" way to get them (aka the reason this post got SO LONG).
 
-[PART 2](bananaball2)
+[PART 2](bananaball_bospt2)
 
 ---
 

@@ -21,9 +21,9 @@ tags:
 
 _This is the final part of a multi-part post. You can easily access the other parts here:_
 
-- [PART 1](2025-08-22_bananaball)
-- [PART 2](bananaball2)
-- [PART 3](bananaball3)
+- [PART 1](2025-08-22_bananaball_bos)
+- [PART 2](bananaball_bospt2)
+- [PART 3](bananaball_bospt3)
 
 So now that I've spent SO MUCH TIME discussing Banana Ball, what do I think? Is it truly the next greatest thing in baseball, or a giant waste of time and energy?
 
@@ -59,10 +59,10 @@ It’s crazy to think that the Savannah Bananas have grown so much in just three
 
 Also, shout out to the two other people I saw while I was leaving the game wearing the CPL-era “Tequila Sunrise” jersey with the Georgia outline on the back - I thought I was the only one for the longest time! I didn’t see any other CPL-era hats however...
 
-P.S.: Apparently another CPL team has seen the Bananas success and tried branching out as well, as the Tri-City Chili Peppers (located just south of Richmond, VA) recently introduced something called “Cosmic Baseball”. While the game is more or less just traditional baseball, what’s unique is that it’s played under black lights once it gets dark out. I almost tried to watch this in Allentown, PA, but getting in involves...a lottery. That I never entered.
+P.S.: Apparently another CPL team has seen the Bananas success and tried branching out as well, as the Tri-City Chili Peppers (located just south of Richmond, VA) recently introduced something called “Cosmic Baseball”. While the game is more or less just traditional baseball, what’s unique is that it’s played under black lights once it gets dark out.
 
 ---
 
 _If you've actually somehow made it all the way here, thank you. I realize that this was A TON to have to sit through (assuming you read it all and were not just jumping to my conclusions), but I honestly enjoyed doing this super deep dive into the Bananas and I'm hoping I can do something similar to this again (though given just how unique the ticket situation is, I don't know when that will be)._
 
-_While this is the end of the Fenway chapter, it's not quite the end of the Banana Ball story for 2025. I happened to do something else a few weeks after this game related to the Bananas: [EPILOGUE](bananaball5)_
+_While this is the end of the Fenway chapter, it's not quite the end of the Banana Ball story for 2025. I happened to do something else a few weeks after this game related to the Bananas: [EPILOGUE](bananaball_bospt5)_

@@ -19,6 +19,7 @@ tags:
     "Pre-2025",
     "Catch Up",
   ]
+background: "/images/2026/2024championship.jpg"
 ---
 
 _\*Since the 2026 Hockey East men's championship game is tonight, I figured I’d go back a bit and talk about the time I went to the game back on March 23, 2024 - almost exactly two years ago. A decent chunk of this was written back then, but I did update this quite a bit (for example, it includes mentions of subsequent Hockey East tournaments which obviously hadn’t happened when I first wrote this). Also, with this, I've officially caught up with all of my old hockey writing - at least until I get to certain games/arenas (hopefully in the fall)._
