@@ -66,7 +66,7 @@ I should also mention that the school is working with Middlesex County on a more
 
 ![An image of a pitch being thrown at a Rutgers softball game](/images/2026/0328-rusoftball.jpeg)
 
-I feel like softball has a bit of a "rap" as "the women's equivalent to baseball" in the United States. Yes, it's true that NCAA (and professional) softball is a women's sport, but there's actually a bit more to softball than "baseball on a smaller field and with two less innings".
+I feel like softball has a bit of a "rap" as "the women's equivalent to baseball" in the United States - though in fairness, this is the first time I've attended a softball game, and the only reason I did was because it was conveniently right next to the baseball game. While it is true that NCAA (and professional) softball is a women's sport, there's actually a bit more to softball than "baseball on a smaller field and with two less innings". 
 
 First, the pitcher's mound is not raised in softball, making the field completely flat. In addition, pitches are exclusively thrown underhand (as opposed to overhand or sidearm in baseball). Finally, there seems to be MUCH DIFFERENT rules for substitution; for example, there's something called a "Flex" which is a player which is a purely defensive as well as a role known as the "Designated Player" acts very similar to the Designated Hitter in baseball (except they bat in place of the Flex and NOT necessarily the pitcher). One thing I do find somewhat strange: despite being largely a women's sport, the fielders named for the bases are still referred to as "basemen" (i.e. first baseman, second baseman, and third baseman) - as opposed to other sports such as hockey, where the "linesmen" become "linepersons" in women's hockey[^4].
 
@@ -74,7 +74,7 @@ Anyway, Rutgers started its softball team in 1975 (around the same time as the w
 
 Unlike the baseball team, their field is still known as simply the "Rutgers Softball Field", but like Bainton, it just received pretty massive renovations this year. These renovations redid the grandstand (which, like Bainton, now features individual chairback seats and bleachers), but also added lights to the field (which means that this season is the first time the softball team is capable of hosting night games). This field also features a small set of outfield bleachers, but here, they're in right - and also hard to access as it seems the only way to get to them is from the main road (which divides the two fields from the basketball arena).
 
-Due to the smaller stand, the proportion of chairback seats to bleacher spots here seems higher than Bainton - though that may just be due to size. Also, access to the dugouts is via the same walkways used to get to the stands - though security officers are positioned to avoid any unwelcome visitors to the dugout.
+Due to the smaller stand, the proportion of chairback seats to bleacher spots here seems higher than Bainton - though that may just be due to size. Also, access to the dugouts is via the same walkways used to get to the stands - though security officers are positioned to avoid any unwelcome visitors to the dugout. Speaking of the dugouts, the visiting dugout felt like a Japanese ōendan (fan section) - they had these elaborate chants that they were doing at various points during the game.
 
 ## \-\-\-
 
@@ -96,12 +96,6 @@ As a side note, Princeton (which has been featured SEVERAL times on this blog) h
 
 Also, I realize I named this post "bat and ball sports", but I doubt we're getting NCAA sponsored cricket anytime soon...
 
-### ON DECK
-
-I HAD a trip I was thinking about making the day this is being published, but again...**GAS PRICES**.<br>(SPOILER ALERT: I was going to go to Philly).
-
-Also, I know I said I'd probably stop doing this, but I honestly can't resist these little teases. However, I've decided that with how quickly I add new posts to this blog, it's really only super useful if there's a few days between posts (as I typically delete it once the new post goes up). Having said _that_, there's a chance I go to a game next weekend (or possibly earlier), but it's not set in stone, so...
-
 ---
 
 [^1]: BTW, don't ask what happened with the women's basketball team after the Winter Village...
@@ -110,7 +104,7 @@ Also, I know I said I'd probably stop doing this, but I honestly can't resist th
 
 [^3]: To give an idea of how long ago that was, MLB still had the **Boston** Braves, **Philadelphia** Athletics, and **St. Louis Browns**.
 
-[^4]: Yes, the more common plural is "linespepole", but that is a TERRIBLE name...
+[^4]: Yes, the more common plural is "linespepole", but that is a TERRIBLE word...
 
 [^5]: The Women's College World Series has existed since 1969, but was run by another organization until 1982, when the NCAA took over. Rutgers' two WCWS appearances were prior to this takeover, so that's why I'm not sure how those are counted in NCAA records.
 
