@@ -57,12 +57,6 @@ One other thing I should mention here: The Manchester Chicken Tenders! Minor Lea
 
 ---
 
-### ON DECK
-
-I'm planning on going to a game that should be VERY special next weekend, but before I do, I have something a little different I want to post - though like this post, it also involves "baseball in New Hampshire".
-
----
-
 [^1]: The Hartford Yard Goats, meanwhile, have been top three in Eastern League attendance since they opened their current stadium despite (or because) their MLB affiliate is...Colorado. BTW, I'm thinking about a trip to their stadium as I've never seen a game there, but there's a chance the Yard Goats won't be home for it...
 
 [^2]: There is a second gate on the right field side, but given that most of the parking feeds into the main gate, I doubt many fans use it to enter.
