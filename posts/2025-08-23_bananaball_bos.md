@@ -43,9 +43,9 @@ Two more teams are being added in 2026, which will also see an organized “Bana
 
 ### ...So what the heck is Banana Ball?
 
-Banana Ball is, in essence, a modified version of baseball. The team lists eleven rules that make it distinct (these are taken directly from <a href="https://bananaball_bos.com/rules/" target="blank">the Banana Ball website</a>):
+Banana Ball is, in essence, a modified version of baseball. The team lists eleven rules that make it distinct (these are taken directly from <a href="https://bananaball.com/rules/" target="blank">the Banana Ball website</a>):
 
-![The rules of Banana Ball condensed into an image. They are too long to include as alt text.](https://bananaball_bos.com/wp-content/uploads/2023/11/BananaBallRules.png)
+![The rules of Banana Ball condensed into an image. They are too long to include as alt text.](https://bananaball.com/wp-content/uploads/2023/11/BananaBallRules.png)
 
 <figcaption>The rules of Banana Ball condensed into an image</figcaption>
 
