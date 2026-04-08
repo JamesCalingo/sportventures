@@ -3,7 +3,7 @@ display: "The Last Day of Summer (7/30/22)"
 title: "Winnipesaukee Muskrats (New England Collegiate Baseball League) @ Robbie Mills Field (Laconia, NH)"
 subtitle: "A story of a team lost to a cruel fate"
 date: 11 April 2026
-published: false
+published: true
 pinned: false
 tags:
   [
