@@ -93,11 +93,18 @@ figcaption {
   margin: 0;
 }
 
-#posts-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-  row-gap: 20px;
-  column-gap: 20px;
+.list-post {
+  border-bottom: 2px dashed green;
+  padding-bottom: 10px;
+  line-height: 1;
+}
+
+.list-post a {
+  text-decoration: none;
+}
+
+.list-post a:hover {
+  color: green;
 }
 
 #newest {

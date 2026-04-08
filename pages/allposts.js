@@ -9,6 +9,7 @@ const AllPosts = ({ posts }) => {
 
     const [postList, setPostList] = useState(published)
     const [tag, setTag] = useState('')
+    const [page, setPage] = useState(1)
     const [oldestFirst, setOldestFirst] = useState(false)
 
     useEffect(() => {
