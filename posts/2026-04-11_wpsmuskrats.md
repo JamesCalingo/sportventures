@@ -3,7 +3,7 @@ display: "The Last Day of Summer (7/30/22)"
 title: "Winnipesaukee Muskrats (New England Collegiate Baseball League) @ Robbie Mills Field (Laconia, NH)"
 subtitle: "A story of a team lost to a cruel fate"
 date: 11 April 2026
-published: false
+published: true
 pinned: false
 tags:
   [
@@ -63,7 +63,9 @@ As it turns out, my spontaneous decision was a "good" one: I was at the (second 
 
 I hope that you enjoyed this piece. It's quite different from most of what I post here, but I felt it was good for me to try and branch out to other forms of writing/content.
 
-I've had this post ready to go for a while, but my original intention was to post this in July to match the date this game took place. However, I moved it up to compare/contrast the story of "a team that never said goodbye" to the story of [a team that did](2026-04-12_phiwings2).
+I've had this post ready to go for a while, but my original intention was to post this in July to match the date this game took place. However, if you couldn't tell...I moved it up QUITE A BIT. You'll see why tomorrow.
+
+<!-- However, I moved it up to compare/contrast the story of "a team that never said goodbye" to the story of [a team that did](2026-04-12_phiwings2). -->
 
 ---
 
