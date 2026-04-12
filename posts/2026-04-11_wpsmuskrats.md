@@ -57,15 +57,13 @@ As it turns out, my spontaneous decision was a "good" one: I was at the (second 
 
 ![A photo of a Winnipesaukee Muskrats game](/images/2026/robbiemillsfield.jpg)
 
-<figcaption>I didn't think I had any photos for this post, but found this when I was going through my phone.</figcaption>
+<figcaption>I didn't think I had any photos for this post, but found this when I was going through my phone. If it looks kinda strange on the front page (where I have those photo banners), that's because it's cropped from an Instagram story.</figcaption>
 
 ---
 
 I hope that you enjoyed this piece. It's quite different from most of what I post here, but I felt it was good for me to try and branch out to other forms of writing/content.
 
-I've had this post ready to go for a while, but my original intention was to post this in July to match the date this game took place. However, if you couldn't tell...I moved it up QUITE A BIT. You'll see why tomorrow.
-
-<!-- However, I moved it up to compare/contrast the story of "a team that never said goodbye" to the story of [a team that did](2026-04-12_phiwings2). -->
+I've had this post ready to go for a while, but my original intention was to post this in July to match the date this game took place. However, I moved it up to compare/contrast the story of "a team that never said goodbye" to the story of [a team that did](2026-04-12_phiwings2).
 
 ---
 
