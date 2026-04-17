@@ -61,7 +61,7 @@ I think I've mentioned on this blog that I'm not super into MiLB alternate ident
 
 The Patriots also have a special alternate identity for this season (as it's the 250th annviersary of the signing of the Declaration of Independence): the Somerset Semiquincentennials (try saying and/or typing THAT five times fast). This one features a jersey which may be a record setter for "most letters on the front of a baseball jersey" (and may have influence on the future of this blog...)
 
-### \-\-\-
+## \-\-\-
 
 And yes, this means that just like the Phillies (whose [Eastern League affiliate](2025-08-24_rdgfightinphils), coincidentally, were the opponent for this game
 ), I’ve visited three of the Yankees' four MiLB affiliates. Don't expect to see the fourth one on this blog anytime soon however - they're in Florida, and I have no plans of traveling down there...
