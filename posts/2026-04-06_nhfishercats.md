@@ -12,6 +12,7 @@ tags:
     "Minor League Baseball",
     "Eastern League",
     "Double A",
+    "Blue Jays",
     "Minor Leagues",
     "First Visit",
     "Outdoor Sports",
