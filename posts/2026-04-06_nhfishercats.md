@@ -12,6 +12,7 @@ tags:
     "Minor League Baseball",
     "Eastern League",
     "Double A",
+    "Blue Jays",
     "Minor Leagues",
     "First Visit",
     "Outdoor Sports",
@@ -41,7 +42,7 @@ Similar to [Coca Cola Park](2025-08-11_lhvironpigs) in Allentown, the main gate 
 
 If you're inside the stadium, there's a bar and area shortly after you enter (in left field). Truth be told, however...it's really the only "unique" feature of the stadium: the rest is very much "standard" minor league fare (though one of the concession stands was closed for this game). However, if you're in the bar area (or the hotel) and can't really see the center field scoreboard, there are small scoreboards at either end of the suite level "deck" that display the pertinent information. (kinda similar to how the [Chatham Anglers](2025-08-17_chaanglers) have one on their press box for fans in the outfield).
 
-One thing that made this game actually feasible despite being on the day before Easter: a 1 PM start time. Because we typically visit our Massachusetts relatives for Easter, I was in the area for this game, and thanks to the early start (1 PM - kinda unusual for a Saturday game), I was able to squeeze this game in before my typical "night before Easter" activities. Despite being a bit more expensive (the lowest ticket price is ~$15, but parking for most fans will add ten bucks), I decided to "treat myself" and bought a ticket RIGHT BEHIND home plate in the FIRST ROW (the photo above should give a someewhat decent idea of what the view was like - I made sure to get a clean shot through the foul ball netting).
+One thing that made this game actually feasible despite being on the day before Easter: a 1 PM start time. Because we typically visit our Massachusetts relatives for Easter, I was in the area for this game, and thanks to the early start (1 PM - kinda unusual for a Saturday game), I was able to squeeze this game in before my typical "night before Easter" activities. Despite being a bit more expensive (the lowest ticket price is ~$15, but parking for most fans will add ten bucks), I decided to "treat myself" and bought a ticket RIGHT BEHIND home plate in the FIRST ROW (the photo above should give a somewhat decent idea of what the view was like - I made sure to get a clean shot through the foul ball netting).
 
 There's also not that much to say about the game itself - the Fisher Cats won 2-1, and the game winning run was scored on a home run while I was in the bathroom (because of course).
 
