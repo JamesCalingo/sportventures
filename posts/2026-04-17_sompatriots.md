@@ -59,7 +59,7 @@ I've visited this store SEVERAL times outside of games (partially due to parking
 
 I think I've mentioned on this blog that I'm not super into MiLB alternate identities. However, the Patriots have one of the best alt identities in all of Minor League Baseball: the Jersey Diners. Along with the [Manchester Chicken Tenders](2026-04-06_nhfishercats), this is one of the few alt identities that I actually have a hat for. I don't have the jersey, and I thought about getting it at this game, but the jersey is...kinda weird in a not-so-good way IMO. I should also mention MiLB's "Copa de la Diversión", wherein teams adopt special Spanish alternate identities, because this year, the hats for it feature special designs on the bill, which I think are actually very neat (I almost got the BlueClaws Copa hat when I was there last time).
 
-The Patriots also have a special alternate identity for this season (as it's the 250th annviersary of the signing of the Declaration of Independence): the Somerset Semiquincentennials (try saying and/or typing THAT five times fast). This one features a jersey which may be a record setter for "most letters on the front of a baseball jersey" (and may have influence on the future of this blog...)
+The Patriots also have a special alternate identity for this season (as it's the 250th anniviersary of the signing of the Declaration of Independence): the Somerset Semiquincentennials (try saying and/or typing THAT five times fast). This one features a jersey which may be a record setter for "most letters on the front of a baseball jersey" (and may have influence on the future of this blog...)
 
 ## \-\-\-
 
