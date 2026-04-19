@@ -14,7 +14,7 @@ tags:
     "USL League One",
     "New York",
     "First Visit",
-    "26 in 26",
+    "New in 2026",
     "Outdoor Sports",
   ]
 badge: "badges/firstvisit.png"

@@ -20,6 +20,7 @@ tags:
     "Major Leagues",
     "Women's Sports",
     "Repeat Visit",
+    "New in 2025",
   ]
 ---
 

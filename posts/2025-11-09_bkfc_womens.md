@@ -16,6 +16,7 @@ tags:
     "Repeat Visit",
     "Outdoor Sports",
     "Repeat Visit",
+    "New in 2025",
   ]
 ---
 

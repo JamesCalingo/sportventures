@@ -15,6 +15,7 @@ tags:
     "Ivy League",
     "New Jersey",
     "First Visit",
+    "New in 2025",
   ]
 ---
 

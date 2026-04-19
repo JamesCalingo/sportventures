@@ -17,6 +17,7 @@ tags:
     "College Football",
     "Outdoor Sports",
     "First Visit",
+    "New in 2025",
   ]
 ---
 

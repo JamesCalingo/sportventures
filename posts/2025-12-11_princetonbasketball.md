@@ -16,6 +16,7 @@ tags:
     "Indoor Sports",
     "Women's Sports",
     "First Visit",
+    "New in 2025",
   ]
 ---
 

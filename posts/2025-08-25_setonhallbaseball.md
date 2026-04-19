@@ -15,6 +15,7 @@ tags:
     "Big East",
     "Outdoor Sports",
     "First Visit",
+    "New in 2025",
   ]
 ---
 

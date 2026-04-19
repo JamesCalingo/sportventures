@@ -14,6 +14,7 @@ tags:
     "Repeat Visit",
     "Other Sports",
     "First Visit",
+    "New in 2026"
   ]
 badge: "badges/newteam.png"
 background: "/images/2026/0308-scfc.jpeg"

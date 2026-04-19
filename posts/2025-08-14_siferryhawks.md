@@ -13,6 +13,7 @@ tags:
     "Atlantic League",
     "Outdoor Sports",
     "First Visit",
+    "New in 2025",
   ]
 ---
 

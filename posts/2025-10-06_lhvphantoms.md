@@ -16,6 +16,7 @@ tags:
     "Philadelphia",
     "Indoor Sports",
     "First Visit",
+    "New in 2025",
   ]
 ---
 
