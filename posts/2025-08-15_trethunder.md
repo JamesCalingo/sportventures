@@ -13,6 +13,7 @@ tags:
     "MLB Draft League",
     "Outdoor Sports",
     "First Visit",
+    "New in 2025",
   ]
 ---
 

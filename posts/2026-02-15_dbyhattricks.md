@@ -13,7 +13,7 @@ tags:
     "NAHL",
     "Indoor Sports",
     "First Visit",
-    "26 in 26",
+    "New in 2026",
   ]
 badge: "badges/firstvisit.png"
 ---

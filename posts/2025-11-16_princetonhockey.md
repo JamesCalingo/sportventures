@@ -18,6 +18,7 @@ tags:
     "Women's Hockey",
     "Indoor Sports",
     "First Visit",
+    "New in 2025",
   ]
 ---
 

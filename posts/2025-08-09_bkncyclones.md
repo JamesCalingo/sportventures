@@ -17,6 +17,7 @@ tags:
     "Mets",
     "Outdoor Sports",
     "First Visit",
+    "New in 2025",
   ]
 ---
 

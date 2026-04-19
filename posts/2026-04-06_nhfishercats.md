@@ -16,7 +16,7 @@ tags:
     "Minor Leagues",
     "First Visit",
     "Outdoor Sports",
-    "26 in 26",
+    "New in 2026",
   ]
 badge: "badges/firstvisit.png"
 background: "/images/2026/0404-deltadentalstadium.jpeg"

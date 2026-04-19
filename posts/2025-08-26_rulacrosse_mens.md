@@ -16,6 +16,7 @@ tags:
     "Big Ten",
     "Outdoor Sports",
     "First Visit",
+    "New in 2025",
   ]
 ---
 
