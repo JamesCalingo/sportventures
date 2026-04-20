@@ -49,13 +49,15 @@ There's only a few rows of seats here (on the side opposite the entrance), but d
 
 I’ll be honest: the main reason this trip ended up on my radar was because I randomly looked up indoor football one day to see what leagues/teams were in existence this year. Once I saw that a team was playing in Jersey, I decided to look them up and found out that they were VERY close to home. Despite having a prior commitment that would, in part, conflict with the ending of this game (this game started at 4, and my other event was at 7), I chose to go to it to alleviate a potential "sticky" situation next month (which is when I was originally planning to go).
 
-Unfortunately, said prior commitment meant that I had to leave the game around halftime - which is quite early for my tastes. However, I apparently didn't miss too much, as the score was 40-6 when I left and ended 54-6, so it seems that not much happened during the second half. Also, I mentioned earlier that the AAL has only four teams this year; however, those four teams are "padding" their schedules by playing teams from what is now AAL2, and the Bearcats' opponent for this game was an AAL2 side: the "New Jersey" Eagles (New Jersey in quotes because my research indicates that they play in Pennsylvania).
+I must say: the game was an interesting vibe. There were a surprising number of spectators at the game, and it seemed like there were actually a decent number of people supporting the visitors. I do have to assume that they're family/friends of the players, but it was still nice to see a lot of people (as opposed to only seeing like 20 or so). One thing to be aware of if you do decide to check out a game: they do not take card payments at the door - it's either cash or one of the money changing apps.
+
+Unfortunately, my prior commitment meant that I had to leave the game at halftime - which is quite early for my tastes. However, I apparently didn't miss too much, as the score was 40-6 when I left and ended 54-6, so it seems that not much happened during the second half. Also, I mentioned earlier that the AAL has only four teams this year; however, those four teams are "padding" their schedules by playing teams from what is now AAL2, and the Bearcats' opponent for this game was an AAL2 side: the "New Jersey" Eagles (New Jersey in quotes because my research indicates that they play in Pennsylvania).
 
 Finally, for WHOLLY inexplicable reasons, the boards featured ads for the Dallas Vigilantes - a team from the original AFL that only existed for two seasons and folded in 2011 - FIFTEEN years ago.
 
 ### MERCH
 
-There was a t shirt toss that I was on the wrong side of the arena for...and that was it. There was also popcorn for sale from a group that also sells their popcorn at [Rutgers basketball games](2025-11-25).
+There was a t shirt toss that I was on the wrong side of the arena for...and that was it. However, I should also note that there was also popcorn for sale from a group that also sells their popcorn at [Rutgers](2025-11-25_rubasketball_womens) [Basketball](2025-12-21_rubasketball2).
 
 ---
 

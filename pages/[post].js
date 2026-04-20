@@ -21,7 +21,7 @@ function Post({ frontmatter, body }) {
           <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString()}</b></em>
           </div>
 
-          {frontmatter.badge && <img className="badge" src={frontmatter.badge} alt={"A badge"}/>}
+          {frontmatter.badge && <a href="/about#badges"><img className="badge" src={frontmatter.badge} alt={"A badge"}/></a>}
 
           <Markdown
             rehypePlugins={[rehypeRaw]}
