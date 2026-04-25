@@ -27,7 +27,7 @@ _\*That’s right - TODAY is Harvard’s home opener (and again, it's a Tuesday)
 
 I’m not going to get into any specifics regarding Harvard University here given its status as ONE OF THE MOST FAMOUS UNIVERSITIES IN THE WORLD. I also won’t talk about Harvard Square, as its rise as a tourist destination has changed the area in ways a lot of locals believe is for the worse (besides, the sports teams are in a different city altogether, and I don’t feel there’s much to say about them either). Instead, let’s focus on Harvard Crimson hockey: the crimson-headed stepchild of the Boston hockey scene.
 
-Okay, so maybe that’s not completely true, but they don’t exactly have either the profile of BC/BU or a historic arena like Northeastern. They’re also not in Hockey East: they’re in a conference known as ECAC Hockey (from which Hockey East sprung from 40-ish years ago)[^1]. Unlike Northeastern, however, they have an honest-to-God D-I national championship, which they won in 1989; they’ve also won more Beanpot titles than Northeastern (11 vs. 9), and their most recent Beanpot championship is more recent than Boston College’s last title (2017 vs. 2016)[^2].
+Okay, so maybe that’s not completely true, but they don’t exactly have either the profile of BC/BU or a historic arena like Northeastern. They’re also not in Hockey East: they’re in a conference known as ECAC Hockey (from which Hockey East sprung from 40-ish years ago)[^1]. Unlike Northeastern, however, they have an honest-to-God D-I national championship, which they won in 1989, and they’ve also won more Beanpot titles than Northeastern (11 vs. 9)[^2].
 
 However...astute readers may have realized that I've yet to mention the Ivy League (the famous athletics conference associated with Harvard) in this post. That's because...the Ivy League does not TECHNICALLY have a hockey conference; instead, the Ivy League schools with D-I hockey teams (Brown, Cornell, Dartmouth, Harvard, Princeton, and Yale) are members of the ECAC (also, ECAC is not currently an acronym[^3]). There does exist an unofficial “championship” for Ivy League Hockey: whichever team has the best record against the others is crowned the “Ivy League Champion”.
 
@@ -59,7 +59,7 @@ I said I wasn’t going to talk about Harvard Square, but I do need to mention t
 
 [^1]: I don't feel the need to dive into the ECAC's history, but it's the oldest conference in college hockey - on the men's side. There is one conference that is TECHNICALLY older, but it's currently women's hockey only as its men's league disbanded in 2021 after a series of realignments stemming from the Big Ten stepping into the college hockey landscape.
 
-[^2]: If you need a quick refresher: the Beanpot is Boston's annual college hockey tournament between four local schools, and is (probably) one of the most famous tournaments in the hockey world. Also, given how BC's been this year, it looks like this will still be valid for quite a bit longer...
+[^2]: If you need a quick refresher: the Beanpot is Boston's annual college hockey tournament between four local schools, and is (probably) one of the most famous tournaments in the hockey world. There was originally a comment about how Harvard's most recent Beanpot was after Boston College's when this was first posted, but guess who won the Beanpot in 2026?
 
 [^3]: From what I could glean, Columbia has NEVER had D-I hockey, while Penn used to but disbanded the program a LONG time ago. Both schools do maintain club teams however.
 

@@ -11,7 +11,7 @@ tags:
     "College Hockey",
     "College",
     "Hockey East",
-    "UNH",
+    "University of New Hampshire",
     "New Hampshire",
     "Pre-2025",
     "Catch-Up",

@@ -12,7 +12,7 @@ tags:
     "College",
     "College Baseball",
     "College Softball",
-    "Rutgers",
+    "Rutgers University",
     "New Jersey",
     "Big Ten",
     "Outdoor Sports",
@@ -108,4 +108,4 @@ Also, I realize I named this post "bat and ball sports", but I doubt we're getti
 
 [^5]: The Women's College World Series has existed since 1969, but was run by another organization until 1982, when the NCAA took over. Rutgers' two WCWS appearances were prior to this takeover, so that's why I'm not sure how those are counted in NCAA records.
 
-[^6]: The other schools I've gotten baseball hats/jerseys from are Boston College and UConn (multiple hats and one jersey from each school). Coincidentally, my decision to come here was made the day before they met in the [Hockey East tournament](2026-03-21_hechampionship2024).
+[^6]: The other schools I've gotten baseball hats/jerseys from are Boston College and UConn (multiple hats and one jersey from each school). Coincidentally, my decision to come here was made the day before they met in the [Hockey East tournament semifinals](2026-03-21_hechampionship2024).

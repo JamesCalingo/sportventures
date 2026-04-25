@@ -126,7 +126,6 @@ figcaption {
   text-align: center;
   font-weight: bold;
   font-size: 28pt;
-
 }
 
 #see-all-container {
@@ -215,7 +214,11 @@ figcaption {
 
 .badge {
   max-width: 250px;
+}
 
+.badge-list {
+  margin-bottom: 2.5em;
+  font-style: italic;
 }
 
 .section-header,

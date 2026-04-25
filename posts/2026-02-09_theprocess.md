@@ -5,7 +5,7 @@ subtitle: 'An "inside look" into how things work'
 date: 9 February 2026
 published: true
 pinned: false
-tags: ["Random Thoughts"]
+tags: ["Other Content"]
 ---
 
 Happy Birthday to me! I won't tell you how old I am, but instead, I figured I'd look into discussing what goes into making these posts today. It's something I've alluded to quite a bit, but I figure it'd be fun to show the people the amount of work that goes into this hobby of mine.

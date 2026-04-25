@@ -8,7 +8,7 @@ pinned: false
 tags:
   [
     "Non-Game",
-    "Random Thoughts",
+    "Other Content",
     "Cape Cod Baseball League",
     "Futures League",
     "Frontier League",

@@ -10,7 +10,7 @@ tags:
     "Hockey",
     "College Hockey",
     "College",
-    "Holy Cross",
+    "College of the Holy Cross",
     "Atlantic Hockey America",
     "Massachusetts",
     "Pre-2025",

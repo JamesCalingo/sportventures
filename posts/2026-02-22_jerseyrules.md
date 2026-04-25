@@ -5,7 +5,7 @@ subtitle: "My rules for collecting jerseys - because limits have to be set"
 date: 22 February 2026
 published: true
 pinned: false
-tags: ["Random Thoughts"]
+tags: ["Other Content"]
 badge:
 ---
 
