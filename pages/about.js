@@ -31,17 +31,17 @@ function About() {
 
                 <ul style={{ listStyleType: "none" }}>
 
-                    <li>
+                    <li className="badge-list">
                         <img className="badge" src="badges/firstvisit.png" alt='A badge that says /"FIRST VISIT /"' /><br />
                         The first time I've visited the place
                     </li>
 
-                    <li>
+                    <li className="badge-list">
                         <img className="badge" src="badges/newteam.png" alt='A badge that says "NEW TEAM"' /><br />
                         I've been to the stadium in the past, but I haven't seen the team before
                     </li>
 
-                    <li>
+                    <li className="badge-list">
                         <img className="badge" src="/badges/newtoblog.png" alt='A badge that says "NEW TO BLOG"' /><br />
 I've been to the stadium AND seen the team, but never posted about it until now
                     </li>

@@ -10,7 +10,7 @@ tags:
     "Baseball",
     "Summer League Baseball",
     "NECBL",
-    "Random Thoughts",
+    "Other Content",
     "Pre-2025",
     "New Hampshire",
   ]

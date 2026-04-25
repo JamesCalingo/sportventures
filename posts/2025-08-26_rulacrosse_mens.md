@@ -11,7 +11,7 @@ tags:
     "Field Lacrosse",
     "College",
     "Other College Sports",
-    "Rutgers",
+    "Rutgers University",
     "New Jersey",
     "Big Ten",
     "Outdoor Sports",

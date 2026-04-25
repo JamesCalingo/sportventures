@@ -5,7 +5,7 @@ subtitle: "What it means to be a fan in an increasingly fan unfriendly environme
 date: 12 September 2025
 published: true
 pinned: false
-tags: ["Random Thoughts", "Other Sports", "Non-Game"]
+tags: ["Other Content"]
 ---
 
 We interrupt my travels to bring you something that I REALLY need to get off my chest.

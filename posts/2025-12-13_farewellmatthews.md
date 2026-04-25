@@ -14,7 +14,7 @@ tags:
     "Northeastern University",
     "Boston",
     "Indoor Sports",
-    "Random Thoughts",
+    "Other Content"
   ]
 ---
 

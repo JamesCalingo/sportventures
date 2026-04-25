@@ -10,7 +10,7 @@ tags:
     "Hockey",
     "College Hockey",
     "College",
-    "Merrimack",
+    "Merrimack College",
     "Hockey East",
     "Massachusetts",
     "Pre-2025",
