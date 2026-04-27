@@ -55,7 +55,7 @@ Like I said earlier, I bought my max allotment of tickets for this game KNOWING 
 
 Another thing that made things complicated: rain. Due to the threat of rain ALL DAY on Saturday, there were (obvious) concerns about whether or not this game would happen (slight pun there), and literally 50 hours before the game, it was announced that it had been moved **UP** to the 24th. Despite the move causing a lot of fans to have to miss out, there was still a pretty good turnout IMO.
 
-On a personal note, with the scramble of a literal last minute rescheduling, I had to figure out if my friends were still going to be able to make it to this game - a scramble that lasted right up until the moment I had to leave home for this. In the end, however, two of the friends I invited (and their kids) ended up being able to make it.
+On a personal note, with the scramble of a literal last minute rescheduling, I had to figure out if my friends were still going to be able to make it to this game - a scramble that lasted right up until the moment I had to leave home for this. In the end, however, two of the friends I invited (and their kids) ended up being able to make it[^3].
 
 The pre game plaza here was "open to the public" (unlike most Banana Ball events), so I was able to go there early and catch the festivities there without having to worry about letting people in (as I had all the tickets). The plaza was at a public park which was the field of the "original" Yankee Stadium and was MUCH BIGGER than what Fenway had, so was nice to have the space to move around (unlike on the streets of Boston), but to be fully honest...I'm not sure I'm into the pre game show, as it was largely a "pep rally".
 
@@ -69,7 +69,7 @@ I mentioned this somewhere in that original post, but K Club members have been a
 
 At the game itself, the plaza had a VERY different merchandise setup from my trip to [Fenway](bananaball_bospt3): both teams were in one centralized area, and you made your selections (for BOTH teams) and then went to a check out area to pay (like a regular store). Inside the stadium, the stands were more similar to how they were in Boston - though oddly, I was only able to find ONE Party Animals merch tent (which, as you may expect, ended up being quite busy the entire night).
 
-One item I saw that caught my interest: a dad hat featuring a logo the Bananas do not typically wear on any of their uniforms. Unfortunately, as it was on a dad hat, I didn't think I ever really choose to wear it over other Bananas hats (which sucks because I like the logo).
+One item I saw that caught my interest: a dad hat featuring a logo the Bananas do not typically wear on any of their uniforms (I believe they did wear it at some point during the Coastal Plain League era). Unfortunately, as it was on a dad hat, I didn't think I ever really choose to wear it over other Bananas hats (which sucks because I like the logo - shown below).
 
 ![An image of a hat with the letter "S" wrapping around a Banana logo](/images/2026/0424-hat.jpeg)
 
@@ -77,7 +77,7 @@ The "plaza store" also featured something I hadn't seen before: player jerseys! 
 
 ### The Bananas give their regards to Broadway
 
-As I understand it, Klena is a pitcher who joined the Bananas just this year, but is better known for his work on Broadway in various musicals. He showcased those talents twice during this game:
+As I understand it, Klena is a pitcher who joined the Bananas just this year, but is better known for his work on Broadway in various musicals (he did pitch for a bit in college before focusing on showbiz). He showcased those talents twice during this game (and in a way, this replaced the special guests like the former Red Sox I saw at Fenway):
 
 1. When he first entered the game, he was dressed as (and sang) the title character/song of _The Phantom of the Opera_.
 2. Before the final inning, he and the cast of _Aladdin_ did a very elaborate number with the Bananas (complete with PYROTECHNICS). While it was super cool to watch, bad EQ kinda ruined the whole thing...
@@ -94,7 +94,7 @@ The long and short of it is that each team has a chance to score in each showdow
 
 First, it's the pitcher, catcher, and one fielder versus the batter. If the game is tied after that, then the fielder is gone in the next showdown, so it's just pitcher, catcher, and batter. If the game is STILL not done, then subsequent showdowns (plural IIRC) return the fielder, but also load the bases for the batter. I don't remember what the rules for ball four are exactly, but this did come up during this game's showdowns, and it involved a pinch runner being placed on second.
 
-Neither team scored until the third showdown, where a base hit secured a walk off win for the Bananas.
+Neither team scored until the third showdown, where a base hit (with the bases loaded and only one fielder) secured a walk off win for the Bananas.
 
 ### Final thoughts
 
@@ -106,7 +106,7 @@ Here, while things do get SUPER loud (a common complaint amongst notably Yankee 
 
 \-\-\-
 
-As I mentioned earlier, this is NOT the last time you will be seeing Banana Ball on this blog in 2026 (like it or not). In fact, the Savannah Bananas and Party Animals may be back here much sooner than you may expect...
+As I mentioned earlier, this is NOT the last time you will be seeing Banana Ball on this blog in 2026 (like it or not). In fact, the Savannah Bananas and Party Animals may be back here [much sooner than you may expect](2026-04-27_bananaball_ny2)...
 
 ---
 
@@ -114,3 +114,4 @@ As I mentioned earlier, this is NOT the last time you will be seeing Banana Ball
 
 [^2]: This is one of the most common criticisms of the Savannah Bananas experience, but if we're being honest, the demand for tickets means it's hard for them to really do much to remedy this. Heck, I was originally told I can’t even get tickets to see any action in Savannah...keyword "originally".
 
+[^3]: I found out later that said friends ended up on the game's broadcast. I didn't check if I was there, but I'd honestly prefer NOT to be on camera.
