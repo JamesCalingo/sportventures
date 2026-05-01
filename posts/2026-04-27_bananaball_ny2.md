@@ -16,7 +16,7 @@ tags:
     "Outdoor Sports",
     "Repeat Visit",
   ]
-background: "images/2026/0426-suiteseat.jpeg"
+background: "images/2026/0426-ysmodel.jpeg"
 ---
 
 _\*This trip occurred on April 26, 2026._
@@ -47,7 +47,7 @@ Also, two exhibits that I didn't get to see last time were open, so I checked th
 
 MONUMENT PARK: I mentioned Monument Park [before](2025-08-13_nycfc), but this time, I was able to go down and check it out as it was open before the game. It's a little difficult to walk around when there are so many people inside, but it's an interesting look into historical figures in Yankees history (plus one of my favorite Immaculate Grid deep cuts: Red Ruffing).
 
-![An ](/images/2026/0426-monumentpark.jpeg)
+![An image of several monuments at Yankee Stadium](/images/2026/0426-monumentpark.jpeg)
 
 <figcaption>There are monuments for Mantle and DiMaggio in the row behind these three - an interesting choice given what links the two outside of the Yankees...</figcaption>
 
@@ -57,7 +57,7 @@ THE YANKEES MUSEUM: located on the second deck of the stadium, the Yankees museu
 
 <figcaption>This was honestly my favorite thing in the museum: A miniature model of the stadium complete with "working" video board!</figcaption>
 
-THE YANKEES TEAM STORE: I didn't mention it on Friday, but the Yankees main team store was open for both games. There wasn't much that I was interested in getting there (because Yankees), but I VERY briefly considered getting a Team USA Baseball Jersey that they had (with the main reason I couldn't justify buying it being the name and number on the back...).
+Finally, I didn't mention it on Friday, but the Yankees main team store was open for both games. There wasn't much that I was interested in getting there (because Yankees), but I VERY briefly considered getting a Team USA Baseball Jersey that they had (with the main reason I couldn't justify buying it being the name and number on the back...).
 
 Once I was done with those, I spent the rest of the game in the area my seat was in (partially because I had to deal with a leg cramp):
 
@@ -92,19 +92,13 @@ Besides the stuff mentioned in the prior section, this game felt VERY different 
 
 ## \-\-\-
 
-So that's the story of Banana Ball in New York City for 2026 (or at least my version of it). I went to both games, and while they were vastly different experiences IMO, they both had their moments that remind me of why I think there's something very interesting with Banana Ball despite all the craziness - even as a "traditional sports fan" (as many seem to despise the gimmicks).
+So that's the story of Banana Ball in New York City for 2026 (or at least my version of it). I went to both games, and while they were vastly different experiences IMO, they both had their moments that remind me of why I think there's something very interesting with Banana Ball despite the mid-game hakas and all the other craziness - even as a "traditional sports fan" (as many seem to despise the gimmicks).
 
 Banana Ball will be back at some point in the near future (because I've already bought tickets for the entire year already), but it'll be a bit before the Savannah Bananas show up here again.
 
 Also, I found a surprise from the <a href="https://www.mariowiki.com/Banana_Fairy" target="blank">Banana Fairy</a> in my merch bag (I ended up buying a few things today) that I don't know if I should talk more about...
 
 (P.S.: As a longtime church musician, I find it VERY interesting that one of the Bananas had a worship song as their regular walk up song...)
-
----
-
-### ON DECK
-
-I found something amazing I want to do later this week, but once again, weather...
 
 ---
 

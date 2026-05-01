@@ -69,6 +69,8 @@ This is the stadium that is closest to where I live - which makes it all the mor
 
 I did think about going to SEVERAL games here, but never ended up doing so. However, I’ve been here quite a few times in the past for merch (as well as a few games WAY back in the day), and this year, two visits to the team store ended with me getting two MiLB game balls (one for display, the other for messing around with) and a couple of hats, including one for their award winning alternate identity: the Jersey Diners (it’s honestly really good). In fact, I was planning on going to a Jersey Diners jersey giveaway game, but other plans + Jazz Chisholm Jr. forced me to miss it...
 
+[I did end up coming here for a game in 2026.](2026-04-17_sompatriots)
+
 ### POLAR PARK (WORCESTER, MA) - WORCESTER RED SOX/2025 FUTURES LEAGUE ALL STAR GAME
 
 Outside of the massive 2020 MiLB realignment, one of the most controversial moves in recent Minor League history has to be that of the Pawtucket Red Sox moving 40 miles north to Worcester, MA. I could get into the weeds of the move, but I’m trying to keep these sections brief (maybe if I return for a game...).
@@ -83,7 +85,7 @@ The Double-A affiliate of the Toronto Blue Jays (which, unfortunately, dampens i
 
 For the longest time, the team had literally ZERO flex fits (or at least the ones I’d consider buying). Heck, even though they had some flex fit hats when I visited the team store here in 2025, the selection was still rather limited...though I did find one for one of my favorite MiLB alt identities: the Manchester Chicken Tenders. They’re also one of the few teams I’ve seen sell old jerseys, so I got one of those (and also have one I got a few years ago that features a large hole unfortunately).
 
-I contemplated coming to a game here as I was considering an event in Boston the day after, but ended up nixing both events as I wanted to reduce travel (and costs).
+I contemplated coming to a game here as I was considering an event in Boston the day after, but ended up nixing both events as I wanted to reduce travel (and costs). [I was, however, able to make it here for a game in 2026.](2026-04-06_nhfishercats)
 
 ### DUNKIN PARK (HARTFORD, CT) - HARTFORD YARD GOATS
 
@@ -110,9 +112,11 @@ For more on my visit to this ballpark/team store, [check it out here](bananaball
 
 ### NEW YORK METS
 
-The New York Mets are one of baseball’s most...curious franchises. They’ve had some notably GOOD things happen, such as being the first expansion team to win a World Series (the ‘69 “Miracle Mets”), and then being the first expansion team to win a second World Series in 1986 because of John McNamara (you’re welcome). On the other hand, they set the modern era record for futility in their first year when they went 40-120 in 1962 (and then passed by the 2024 Chicago White Sox losing 121 games), famously collapsed at the end of both the 2007 and 2008 seasons (with the Phillies the beneficiaries of both collapses), have had some other memorably WILD losses (like an infamous 2019 implosion against the Washington Nationals), were owned by someone implicated in the Bernie Madoff scheme, and also...Bobby Bonilla Day (which is actually connected to the Madoff saga).
+The New York Mets are one of baseball’s most...curious franchises. They’ve had some notably GOOD things happen, such as being the first expansion team to win a World Series (the ‘69 “Miracle Mets”), and then being the first expansion team to win a second World Series in 1986 because of John McNamara (you’re welcome). On the other hand, they set the modern era record for futility in their first year when they went 40-120 in 1962 (since passed by the 2024 Chicago White Sox losing 121 games), famously collapsed at the end of both the 2007 and 2008 seasons (with the Phillies the beneficiaries of both collapses), have had some other memorably WILD losses (like an infamous 2019 implosion against the Washington Nationals), were owned by someone implicated in the Bernie Madoff scheme, and also...Bobby Bonilla Day (which is actually connected to the Madoff saga).
 
 On some level, the Mets SHOULDN'T be in this section, as I didn’t get to see the stadium/official team store itself (a game here was never really on my radar, though I've been to at least two Mets games at Citi Field). However, they did have a pop-up in New York City’s Union Square during the spring of 2025, which I visited the day I saw [New York City Football Club](2025-08-13_nycfc). I didn’t see authentic jerseys there (which, for some reason, I only see in official team stores), but I did end up getting a City Connect hat - which, thankfully, was NOT overpriced (technically).
+
+[I did eventually go to the Mets Team Store and Citi Field itself in 2026.](2026-05-01_nymets)
 
 ## INDOOR ARENAS
 
@@ -124,11 +128,15 @@ Thank you for thinking declining superstars were what you needed to beat the Hea
 
 Anyway, I felt that there wasn't anything interesting in the store - they had a bunch of jerseys, but they were either sublimated or featured iron-on letters and numbers. Of course, their selection may be different during games, but by the time I thought about it the season was almost over (plus Liberty tickets are not easy to get with how the team is doing nowadays).
 
+[I ended up coming here in 2026 for a Brooklyn Nets game (though it featured two of the worst teams in the league).](2026-02-08_bknets)
+
 ### TD GARDEN (BOSTON, MA) - BOSTON BRUINS AND BOSTON CELTICS
 
 TD Garden is one of eleven arenas in North America that hosts both the NBA (Boston Celtics) and NHL (Boston Bruins)[^5]. I won't get too deep into either team since they're VERY old (the Celtics being a founding member of the NBA and the Bruins being part of the NHL's so-called "Original Six"), but both have...decently winning pedigrees (one WAY MORE SO than the other).
 
 I didn't see anything inside the Garden (at least THIS year), but its official ProShop is located OUTSIDE the arena's "secure area" in the lobby of North Station - a major commuter hub underneath the arena. While I've gotten a TON of things from here in the past, this year saw me getting a special jersey designed to commemorate 100 years of Bruins hockey (and as a side note, I've found that the ProShop is typically more Bruins focused when nothing's going on as they're the ones who own the arena).
+
+While I haven't been here since this visit (at least for any events), [I did write about an old trip from 2024](2026-03-21_hechampionship2024).
 
 ## THRIFTVENTURES
 
