@@ -2,7 +2,7 @@ import Link from "next/link";
 
 function NewestPost(props) {
     const { slug, display, title, subtitle, date, background } = props
-    return <div id="newest" className="grid-post" style={{ backgroundImage: `url(${background})`, "backgroundPositionX": "center", "backgroundPositionY": "45%",  }}>
+    return <div id="newest" className="grid-post" style={{ backgroundImage: `url(${background})`, "backgroundPositionX": "center", "backgroundPositionY": "55%",  }}>
         <Link href={`/${slug}`}>
             <div className="section-header">
 
