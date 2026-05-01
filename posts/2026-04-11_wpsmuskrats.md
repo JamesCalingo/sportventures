@@ -57,7 +57,7 @@ As it turns out, my spontaneous decision was a "good" one: I was at the (second 
 
 ![A photo of a Winnipesaukee Muskrats game](/images/2026/robbiemillsfield.jpg)
 
-<figcaption>I didn't think I had any photos for this post, but found this when I was going through my phone. If it looks kinda strange on the front page (where I have those photo banners), that's because it's cropped from an Instagram story.</figcaption>
+<figcaption>I didn't think I had any photos for this post, but found this when I was going through my phone.</figcaption>
 
 ---
 

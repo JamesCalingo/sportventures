@@ -1,5 +1,5 @@
 ---
-display: "Somerset Patriots (4/16/25)"
+display: "Somerset Patriots (4/16/26)"
 title: "Somerset Patriots (Eastern League) @ TD Bank Ballpark (Bridgewater, NJ)"
 subtitle: "A former Indie darling that aligned with..."
 date: 17 April 2026
@@ -65,8 +65,7 @@ The Patriots also have a special alternate identity for this season (as it's the
 
 ## \-\-\-
 
-And yes, this means that just like the Phillies (whose [Eastern League affiliate](2025-08-24_rdgfightinphils), coincidentally, were the opponent for this game
-), I’ve visited three of the Yankees' four MiLB affiliates. Don't expect to see the fourth one on this blog anytime soon however - they're in Florida, and I have no plans of traveling down there...
+And yes, this means that just like the Phillies (whose [Eastern League affiliate](2025-08-24_rdgfightinphils), coincidentally, were the opponent for this game), I’ve visited three of the Yankees' four MiLB affiliates. Don't expect to see the fourth one on this blog anytime soon however - they're ALSO in Florida, and I have no plans of traveling down there...
 
 Also, inasmuch as I (think I) prefer the Mets and Red Sox, most of their affiliates are WAY TOO FAR for visits - I'm not sure if/when I'd ever want to visit Syracuse, Binghamton, Greenville, SC, or Salem, VA (or, once again, Florida...).[^5]
 

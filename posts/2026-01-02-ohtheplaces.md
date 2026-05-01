@@ -11,6 +11,7 @@ tags:
     "Other Content",
     "Cape Cod Baseball League",
     "Futures League",
+    "New England Collegiate Baseball League",
     "Frontier League",
     "Other Sports",
     "Baseball",

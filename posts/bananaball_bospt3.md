@@ -62,7 +62,7 @@ At 1:00, MOST fans were let into the stadium itself. The exception: if you had a
 
 Some time after fans start taking their seats, a pregame show occurs featuring a few of the players and a cavalcade of characters the organization has introduced over the years, such as the “Man-nana’s Dad Bod Cheerleading Squad” (not sure if endearing or offensive), “The Young Professor”, and “Princess Potassia”. During this pregame, the two teams are introduced and do a bunch of crazy antics as they’re being introduced. Then...the real fun begins.
 
-![A photo of Banana Ball being played at Fenway Park](/images/2025/bananaball_bosfenway.jpg)
+![A photo of Banana Ball being played at Fenway Park](/images/2025/bananaballfenway.jpg)
 
 <figcaption>A photo of Banana Ball being played at Fenway Park</figcaption>
 

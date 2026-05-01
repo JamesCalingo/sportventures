@@ -104,7 +104,7 @@ One of the biggest gripes a lot of people have about professional sports is that
 
 Here, while things do get SUPER loud (a common complaint amongst notably Yankee fans HEYO), the team and its hosts are trying to keep fans engaged with what's going on (one of the biggest examples of this being fan caught outs). Sure, it's not perfect, but I do find that it generates a much more lively atmosphere than your average American sporting event, and those are always fun (I am eagerly awaiting the day the Bananas do a Japanese-style oendan).
 
-\-\-\-
+## \-\-\-
 
 As I mentioned earlier, this is NOT the last time you will be seeing Banana Ball on this blog in 2026 (like it or not). In fact, the Savannah Bananas and Party Animals may be back here [much sooner than you may expect](2026-04-27_bananaball_ny2)...
 
