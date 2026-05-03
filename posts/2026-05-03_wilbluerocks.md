@@ -24,7 +24,7 @@ background: "images/2026/0502-frawley.jpeg"
 
 ### _[26 IN 26 STOP 12](/26in26list)_
 
-_\*This trip occurred on May 2, 2026,._
+_\*This trip occurred on May 2, 2026._
 
 Founded in 1993 when the Peninsula Pilots moved from Hampton, Virginia[^1], the Wilmington Blue Rocks were named after a former minor league team in Wilmington and a long-time Carolina League member (which is mildly odd given how far they are from the Carolinas) until the 2020 MiLB realignment, when they "moved up" (as the Carolina League became Low A level) and became a South Atlantic League team. As a member of the Carolina League, the team was decently successful both on the field (five Carolina League championships) and in the stands (usually in the upper half of the Carolina League - at least for the 2010s).
 
@@ -48,7 +48,7 @@ Initially, I wasn't really sure if I wanted to come here: it's two hours from wh
 
 Originally, I WANTED to take advantage of the Savannah Bananas [playing against the Texas Tailgaters in Philadelphia](bananaball_bospt5) by going to Wilmington first for a quick merch stop back in 2025 (it’s only about half an hour from Wilmington to Philadelphia); circumstances prevented me from leaving the house on the specific day I was going to do this, so I ended up going to Philly the following day - when the stadium in Wilmington was closed. Still thinking about making a visit, I thought about going to a game, but it didn’t really feel right (due to the things mentioned above), but eventually, thanks to the _26 in 26_ challenge, this game here became reality.
 
-This game was a pitcher's duel for a while, but once the visiting Asheville Tourists went to their bullpen in the seventh inning, everything broke loose, and eventually, the Blue Rocks won. The game also featured a "flop contest" between innings where the contestants were trying to flop "like Sidney Crosby receiving his first embellishment penalty" (a reference to something that happened in the NHL playoffs in case you forgot about which major sports market Wilmington tends to support...)
+This game was a pitcher's duel for a while, but once the visiting Asheville Tourists went to their bullpen in the seventh inning, everything broke loose, and eventually, the Blue Rocks won. The game also featured a "flop contest" between innings where the contestants were trying to flop "like Sidney Crosby receiving his first embellishment penalty" (a reference to something that happened in the NHL playoffs in case you forgot about which major sports market Wilmington tends to support...[^5])
 
 Finally, I should note that this Saturday night game was NEVER originally my intention. I wanted to do a Sunday afternoon game, but then things got complicated around the date I had in mind (read: threat of rain), and not wanting to wait for Memorial Day Weekend (where I have other things I'd like to do), I picked this date - partially because...
 
@@ -56,9 +56,11 @@ Finally, I should note that this Saturday night game was NEVER originally my int
 
 The team has Saturday as its giveaway day (as in they give away things every Saturday) - and this game featured something I was actually fairly interested in: a Blue Rocks soccer style jersey! It's actually quite nice if I do say so myself.
 
-Anyway, like I said earlier, the team store here is only accessible from the concourse, but it seemed a bit bigger than Trenton's (though a large part of that is it having double doors as opposed to a single door). While it doesn't exactly have much outside of "the ordinary", the team did unveil a refreshed visual identity for 2026, but the replica jerseys on sale were still from the prior look (I think I've mentioned this before, but I feel like MiLB teams sometimes struggle to sell older items).
+Anyway, like I said earlier, the team store here is only accessible from the concourse, but it seemed a bit bigger than Trenton's (though a large part of that is it having double doors as opposed to a single door). While it doesn't exactly have much outside of "the ordinary", it does have a cool name ("The Quarry"), and the team did unveil a refreshed visual identity for 2026, but the replica jerseys on sale were still from the prior look (I think I've mentioned this before, but I feel like MiLB teams sometimes struggle to sell older items).
 
 The store also had a bunch of game-worn jerseys available, but also had old nameplates taken from old jerseys (which you'd have to attach to the jersey yourself if you were so interested) as well as a patch featuring <a href="https://www.sportslogos.net/logos/view/c581j7hyn2ijvzwlhxez0e3ra/Kansas-City-Royals-Logo/2002/Alternate-Logo" target="blank">this obscure old Kansas City Royals logo</a>.
+
+One side note I think is worth mentioning: New Era (the cap provider for MLB and MiLB) made some changes to their flexfit hats this year (the big one being they now feature the "batterman" logo on the back instead of a team script), and I've had to size down as the size I used to get is now firmly too big for me. I haven't done this with their fitted hats, however, as those are still kinda wonky.
 
 ---
 
@@ -75,3 +77,5 @@ I'm FINALLY going to be able to post about a stadium I actually like quite a lot
 [^3]: The team was established as a Royals affiliate, but weirdly spent the 2005 and 2006 seasons as a Red Sox affiliate right after the big 2004 World Series win (i.e. [the event that started this whole mess](about), so to speak).
 
 [^4]: There are a couple of notable Delaware sports names not in the hall (yet), and I found out that it's because they need to be retired for three years to be eligible. Therefore, the expectation is that Elena Delle Donne (a basketball player) should be inducted soon (she's being inducted into the Basketball Hall of Fame for crying out loud!), but Joe Flacco is a bit of a different story...
+
+[^5]: I also found out the day after the game that the Blue Rocks' in-stadium host is a Flyers cheerleader for what it's worth...
