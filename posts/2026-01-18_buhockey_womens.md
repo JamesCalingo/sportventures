@@ -33,7 +33,7 @@ For starters, there wasn't an "official" NCAA women's hockey tournament until 20
 
 Hockey East started its women's conference in 2002, but Boston University wasn't one of its original members. While there was an existing club team for women's hockey, it wasn't until 2005 that the program became a D-I program (and thus joined Hockey East). They haven't won a national championship (again, only five schools have, and all of them are in states that touch the Great Lakes), but they have been to the national championship game twice - which is the same amount of finals as the rest of Hockey East combined[^1]. The school also doesn't have a Patty Kazmaier Award winner (the award for the best player in women's college hockey) despite having Marie-Philip Poulin - widely regarded as one of the best players in women's hockey today - as an alum[^2]. What they do have, however, is an arena all to themselves: Walter Brown Arena.
 
-![An image](/images/2026/20260117-wba.jpeg)
+![An image](/images/2026/0117-wba.jpeg)
 
 Walter Brown Arena opened in 1971, and is named after the original owner of the Boston Celtics (who retired the number 1 in honor of him). When it opened, [Boston University's men's hockey team](2025-10-04_buhockey_mens) moved in from what eventually became [Matthews Arena](2025-11-30_northeasternhockey_mens), and played here until they “outgrew” the just under 4,000 seats of the arena and moved (again) to Agganis Arena (where they play now). Coincidentally, the move occurred right when the women's team became a D-I program, so they basically got an arena all to themselves - something which is quite rare in D-I women’s hockey (case in point: it’s the only “women’s only” arena in Hockey East). Part of the reason the women got Walter Brown: it's part of an athletics complex which includes the school's basketball arena (which is on the top floor of the complex - leading to its nickname of "The Roof"). Also, fun fact: the arena (along with BU's soccer/lacrosse stadium) is on the site of the old Braves Field - where the now-Atlanta Braves played from 1915-1952[^3].
 
@@ -47,11 +47,11 @@ This is not only the first time I've seen a Hockey East women's conference game,
 
 To my surprise, there was a band at this game (and only about a dozen other students). However, the crowd seemed a lot more behind Holy Cross, and the Crusaders ended up winning 4-2 - their first win in the Turnpike Trophy series this year. Before moving on, however, I should mention that this is the first college hockey game I've been to since I don't know when where they used the red/green lights behind the goals (the red lights signal that a goal has been scored, and the green lights signal the end of a period/intermission), and this arena also has one of the things I really liked from Agganis: Boston University's patented system for determining which end they're defending each period:
 
-![A photo of a banner that says "GOALIE"](/images/2026/20260117-goalie.jpeg)
+![A photo of a banner that says "GOALIE"](/images/2026/0117-goalie.jpeg)
 
 <figcaption>hung near the entrance for the first and third periods</figcaption>
 
-![A photo of a banner that says "SIEVE"](/images/2026/20260117-sieve.jpeg)
+![A photo of a banner that says "SIEVE"](/images/2026/0117-sieve.jpeg)
 
 <figcaption>hung near the entrance for the second period. The reason the scoreboard says "1" is because this was during the intermission between periods.</figcaption>
 
