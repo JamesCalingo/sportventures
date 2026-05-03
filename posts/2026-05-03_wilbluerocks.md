@@ -60,7 +60,7 @@ Anyway, like I said earlier, the team store here is only accessible from the con
 
 The store also had a bunch of game-worn jerseys available, but also had old nameplates taken from old jerseys (which you'd have to attach to the jersey yourself if you were so interested) as well as a patch featuring <a href="https://www.sportslogos.net/logos/view/c581j7hyn2ijvzwlhxez0e3ra/Kansas-City-Royals-Logo/2002/Alternate-Logo" target="blank">this obscure old Kansas City Royals logo</a>.
 
-One side note I think is worth mentioning: New Era (the cap provider for MLB and MiLB) made some changes to their flexfit hats this year, and I've had to size down as the size I used to get is now firmly too big for me. I haven't done this with their fitted hats, however, as those are still kinda wonky.
+One side note I think is worth mentioning: New Era (the cap provider for MLB and MiLB) made some changes to their flexfit hats this year (the big one being they now feature the "batterman" logo on the back instead of a team script), and I've had to size down as the size I used to get is now firmly too big for me. I haven't done this with their fitted hats, however, as those are still kinda wonky.
 
 ---
 
