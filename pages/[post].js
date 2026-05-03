@@ -28,7 +28,7 @@ function Post({ frontmatter, body }) {
             remarkPlugins={[remarkGfm, remarkRehype]}
             components={{
               img: (props) => {
-                return <Image src={props.src} alt={props.alt} width={1000} height={1000} style={{ width: "75%", height: "auto", }} />
+                return <a href={props.src} target="blank"><Image src={props.src} alt={props.alt} width={1000} height={1000} style={{ width: "75%", height: "auto", }} /></a>
               }
             }}>
             {body}
