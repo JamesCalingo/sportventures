@@ -32,7 +32,7 @@ However, their attendance has dipped considerably since joining the SAL and is n
 
 Their home - Judy Johnson Field at Daniel S. Frawley Stadium - was opened in 1993 and named after Judy Johnson (a Negro League player from Delaware) and Daniel Frawley (a former mayor of Wilmington who was instrumental in the founding of the current Blue Rocks). Parking here is free (super nice), and unlike Reading, it's one big lot dedicated to the stadium and the adjacent convention center (the lot I parked at in Reading was shared with an office building).
 
-However, before we talk about the stadium, I want to discuss one other thing I found out about while researching the stadium: the Delaware Sports Museum and Hall of Fame! It's a museum/Hall of Fame located at Frawley, and it is free and open before games. I decided to head to the stadium early to check it out, and I thought it was actually kinda interesting (though one of its more interesting exhibits - a supposed conversation between a kid and Judy Johnson - did have a weird anachronism).
+However, before we talk about the stadium, I want to discuss one other thing I found out about while researching the stadium: the Delaware Sports Museum and Hall of Fame! It's a museum/Hall of Fame located at Frawley, and it is free and open before games. I decided to head to the stadium early to check it out, and I thought it was actually kinda interesting (though one of its more interesting exhibits - a supposed conversation between a kid and Judy Johnson - did have a weird anachronism)[^4].
 
 ![An image of the field at Frawley Stadium](/images/2026/0502-frawley.jpeg)
 
@@ -56,7 +56,7 @@ Finally, I should note that this Saturday night game was NEVER originally my int
 
 The team has Saturday as its giveaway day (as in they give away things every Saturday) - and this game featured something I was actually fairly interested in: a Blue Rocks soccer style jersey! It's actually quite nice if I do say so myself.
 
-Anyway, like I said earlier the team store here is only accessible from the concourse, but it seemed a bit bigger than Trenton's (though a large part of that is it having double doors as opposed to a single door). While it doesn't exactly have much outside of "the ordinary", the team did unveil a refreshed visual identity for 2026, but the replica jerseys on sale were still from the prior look (I think I've mentioned this before, but I feel like MiLB teams sometimes struggle to sell older items).
+Anyway, like I said earlier, the team store here is only accessible from the concourse, but it seemed a bit bigger than Trenton's (though a large part of that is it having double doors as opposed to a single door). While it doesn't exactly have much outside of "the ordinary", the team did unveil a refreshed visual identity for 2026, but the replica jerseys on sale were still from the prior look (I think I've mentioned this before, but I feel like MiLB teams sometimes struggle to sell older items).
 
 The store also had a bunch of game-worn jerseys available, but also had old nameplates taken from old jerseys (which you'd have to attach to the jersey yourself if you were so interested) as well as a patch featuring <a href="https://www.sportslogos.net/logos/view/c581j7hyn2ijvzwlhxez0e3ra/Kansas-City-Royals-Logo/2002/Alternate-Logo" target="blank">this obscure old Kansas City Royals logo</a>.
 
@@ -73,3 +73,5 @@ I'm FINALLY going to be able to post about a stadium I actually like quite a lot
 [^2]: One of the teams below them (attendance wise) is rumored to be on the chopping block, with their potential replacement surprisingly close to the Blue Rocks...
 
 [^3]: The team was established as a Royals affiliate, but weirdly spent the 2005 and 2006 seasons as a Red Sox affiliate right after the big 2004 World Series win (i.e. [the event that started this whole mess](about), so to speak).
+
+[^4]: There are a couple of notable Delaware sports names not in the hall (yet), and I found out that it's because they need to be retired for three years to be eligible. Therefore, the expectation is that Elena Delle Donne (a basketball player) should be inducted soon (she's being inducted into the Basketball Hall of Fame for crying out loud!), but Joe Flacco is a bit of a different story...
