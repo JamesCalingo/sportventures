@@ -64,15 +64,9 @@ One side note I think is worth mentioning: New Era (the cap provider for MLB and
 
 ---
 
-### ON DECK
-
-I'm FINALLY going to be able to post about a stadium I actually like quite a lot...hopefully.
-
----
-
 [^1]: A team in the same city with the same name currently plays in the Coastal Plain League (the summer collegiate league that once had the [Savannah Bananas](2025-08-23_bananaball_bos) amongst its teams).
 
-[^2]: One of the teams below them (attendance wise) is rumored to be on the chopping block, with their potential replacement surprisingly close to the Blue Rocks...
+[^2]: Of note: the team which is LAST in SAL attendance is rumored to be on the chopping block, with their potential replacement surprisingly close to the Blue Rocks...
 
 [^3]: The team was established as a Royals affiliate, but weirdly spent the 2005 and 2006 seasons as a Red Sox affiliate right after the big 2004 World Series win (i.e. [the event that started this whole mess](about), so to speak).
 
