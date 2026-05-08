@@ -15,7 +15,7 @@ tags:
     "Repeat Visit",
   ]
 badge: "badges/newtoblog.png"
-background: "/images/2026/0507-frontrow.jpeg"
+background: "/images/2026/0507-clover-frontrow.jpeg"
 ---
 
 _\*This trip occurred on May 7, 2026._
