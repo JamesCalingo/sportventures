@@ -40,14 +40,14 @@ However, inside the stadium, there's a LOT of features that end up making this o
 
 The outfield also features two field level bar areas (one in left, one in right) where you can watch the game at field level. The bar in right field (along with another area on the suite/press box level) are apparently supposed to be premium areas, but with this game having less than 1,000 fans and no one really enforcing things, you could have watched the game from them (though nothing was served in these areas)[^3]. I ended up catching bits of the game from both outfield bars plus the upper deck, and while I do think there are unique quirks to each that might make them worthwhile if you want to "just get in", I must admit that I think I liked being behind home plate the best.
 
-In any case, the Boulders had the lead when I had to head out due to lateness and it being kinda cold, but unfortunately were unable to hold it and ended up losing (I found out when I got home that the game ended after 10 PM, so...).
+In any case, the Boulders had the lead when I had to head out due to lateness and it being kinda cold, but unfortunately were unable to hold it and ended up losing (I found out when I got home that the game ended after 10 PM, so...). Also, a repeat visit this year may depend on when the Palisades Parkway south to Thruway north/west ramp reopens, because I'm not sure three clover ramps is my idea of a "fun" detour[^4]...
 
 ### MERCH
 
 The team store here is actually kinda big by indie league standards IMO (heck, it's bigger than several team stores I've seen for **MiLB AFFILIATED** teams). However, I’m pretty sure that it’s only open during games that actually happen at night based on two times I’ve been to the stadium without being able to access the team store:
 
 1. A game that got canceled due to rain
-2. A morning (i.e. field trip) game; while they did have a merchandise table, it was set up right in front of the team store doors as if to block people from going in, and the main store appeared to be closed[^4]
+2. A morning (i.e. field trip) game; while they did have a merchandise table, it was set up right in front of the team store doors as if to block people from going in, and the main store appeared to be closed[^5]
 
 Alas, this is also the only Frontier League team I've visited where I've never seen game worn jerseys being sold (and this does, in a certain sense, include Brockton); the only jerseys in the store were sublimated replicas plus one weird "fake button down" jersey. However, I did see a few fans with what looked like game worn jerseys (i.e. jerseys with stitched on front scripts as well as numbers), so I'm wondering how they got those...
 
@@ -59,4 +59,6 @@ Alas, this is also the only Frontier League team I've visited where I've never s
 
 [^3]: There's also a "train" that fans can ride around the outfield, but again, it was not in operation for this game.
 
-[^4]: I've been to two other morning games for independent leagues (one of them being a [Staten Island FerryHawks doubleheader last year](2025-08-14_siferryhawks)), and both times, "regular" merchandise was available.
+[^4]: Route 59 is fine if you're willing to deal with a few traffic lights however.
+
+[^5]: I've been to two other morning games for independent leagues (one of them being a [Staten Island FerryHawks doubleheader last year](2025-08-14_siferryhawks)), and both times, "regular" merchandise was available.
