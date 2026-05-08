@@ -30,7 +30,7 @@ With that said, back to the Boulders: in case you couldn’t tell from me using 
 
 This year, there was an exhibition game against members of the New York Police Department that I was super interested in (largely due to five dollar tickets), but I was unavailable for it due to the [Wilmington Blue Rocks and their soccer jersey giveaway](2026-05-03_wilbluerocks), so I had to "settle" on "only" going to the home opener against the [Brockton Rox](2025-08-22_brorox). For a shade over 20 dollars, I was able to get THIS view:
 
-![An image of game action at Clover Stadium from the front row](/images/2026/0507-frontrow.jpeg)
+![An image of game action at Clover Stadium from the front row](/images/2026/0507-clover-frontrow.jpeg)
 
 <figcaption>There are ways to get this view for less, but I'm not super sure I want to do those sorts of things (as it can get AWKWARD if you choose the wrong seat).</figcaption>
 
