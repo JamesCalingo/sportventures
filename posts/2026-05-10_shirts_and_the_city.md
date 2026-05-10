@@ -27,8 +27,8 @@ I was hoping to have more time than I did for each store - my original plan was 
 
 On this occasion: I ended up getting one shirt from each store - both of them being teams from England:
 
-- **From Classic Football Shirts: <a href="https://www.footballkitarchive.com/sunderland-afc-2007-08-home-kit/11219/" target="blank">This Sunderland shirt from 2007</a>**[^4]<br>
-  The feel good story of the Premier League when this was originally published, Sunderland have been punching well above their weight in their first Premier League season since 2017 (and having been in the third division as recently as 2022). In fact, the day I bought this, Sunderland played a big game against league leading Arsenal and pulled out an exciting 2-2 draw. It's also apt that the link above includes a <a href="https://en.wikipedia.org/wiki/Dwight_Yorke" target="blank">Dwight Yorke</a> shirt as its example, as his name and number are on the shirt I got too!
+- **From Classic Football Shirts: <a href="https://www.footballkitarchive.com/sunderland-afc-2007-08-home-kit/11219/" target="blank">This Sunderland shirt from 2007</a>**<br>
+  The feel good story of the Premier League when this was originally published, Sunderland have been punching well above their supposed weight in their first Premier League season since 2017 (and having been in the third division as recently as 2022)[^4]. In fact, the day I bought this, Sunderland played a big game against league leading Arsenal and pulled out an exciting 2-2 draw. It's also apt that the link above includes a <a href="https://en.wikipedia.org/wiki/Dwight_Yorke" target="blank">Dwight Yorke</a> shirt as its example, as his name and number are on the shirt I got too!
 
   I also considered coming BACK here later in the day to check one thing out, but ultimately decided against doing that as well.
 
@@ -59,6 +59,6 @@ Let there be (black) light.
 
 [^3]: The original version of this post mentioned a third location in Chicago, but their website doesn't seem to mention it (which probably means it's closed).
 
-[^4]: I realize that saying I have an affinity for Newcastle United and then buying a Sunderland shirt would likely get me in trouble should I ever visit North East England...
+[^4]: Most experts had Sunderland finishing at or near the bottom this season, but they're well above that. Also, I realize that saying I had an affinity for Newcastle United and then buying a Sunderland shirt would likely get me in trouble should I ever visit North East England...
 
 [^5]: The other one was the famous Leicester City squad of 2016 - y'know, that team that is now in the THIRD division in England.
