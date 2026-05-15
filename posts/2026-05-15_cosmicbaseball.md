@@ -72,9 +72,9 @@ The game starts with an "Unceremonial First Pitch", where a lucky fan gets to th
 
 The first half of the game is basically "normal" baseball, but similar to Banana Ball's ruleset, bunting, mound visits, and batters stepping out of the box are not allowed. One major difference between the two is that in Cosmic Baseball, if a batter is thrown four balls, they get to take the ball and then throw it in front of them and hit it (what's known as a "fungo" swing - and yes, this CAN turn into an out). 
 
-There are also two "gimmick innings" - one reverses the order of bases (i.e. starting at third then going down to first), and the other features a "chaos period" where foul territory basically does not exist - and this includes balls going into the stands. I do not know if these are set to be in a specific order, but one fan determines which by selecting 
+There are also two "gimmick innings" - one reverses the order of bases (i.e. starting at third then going down to first), and the other features a "chaos period" where foul territory basically does not exist - and this includes balls going into the stands. I do not know if these are set to be in a specific order, but one fan determines which by selecting an UNO card before the second inning.
 
-After those two things happen, there's something that's almost unheard of in baseball: 
+After those two innings happen, I THINK there's supposed to be a fourth inning of "normal baseball", but at this particular game the fourth inning was "skipped" (partialy as the score was 0-0 at the time). After that, there's something that's almost unheard of in baseball: 
 
 ### Intermission
 
@@ -90,7 +90,7 @@ Once the lights switch, then the whole thing goes from "normal" to "a total rave
 
 One thing I found interesting was that the glow in the dark effect is more pronounced when seen from a distance: if you're looking at your own clothes in the black light, it honestly just looks like they're shining in normal light. However, if you look at someone a few feet away, you can see the "glow" in what they're wearing (assuming they're wearing the right colors for the effect to work - which a lot of people were because MERCH).
 
-The game goes back to "more traditional" baseball for this second half, but one thing unique to this second half: home run derbies after every inning. Each team sends one batter up, and that batter gets 45 seconds to hit as many home runs as they can - with each home run scoring a run for their team. This is part of why I think that batting second is less important (since most of the runs come from this HRD), and it also means that a Cosmic Baseball game will almost certainly be MUCH closer to a football score than a baseball one. This game didn't see as many runs scored as other Cosmic Baseball games I perused on the team's YouTube, but it did end with a 26-20 score in favor of the Glowmojis.
+The game goes back to "more traditional" baseball for this second half (without the gimmick innings), but one thing unique to this second half: home run derbies after every inning. Each team sends one batter up, and that batter gets 45 seconds to hit as many home runs as they can - with each home run scoring a run for their team. This is part of why I think that batting second is less important (since most of the runs come from this HRD), and it also means that a Cosmic Baseball game will almost certainly be MUCH closer to a football score than a baseball one. This game didn't see as many runs scored as other Cosmic Baseball games I perused on the team's YouTube, but it did end with a 26-20 score in favor of the Glowmojis.
 
 ### Cosmic Glow-Merch-ji
 
@@ -115,6 +115,8 @@ Another thing with Cosmic Baseball's future: I get the sense that MLB and NFL st
 Anyway, I realize that similar to Banana Ball, this is a hard-to-get-into experience that a lot of folks reading this may not get to see soon (and/or don't like for trying to make baseball more "gimmicky"). However, I do think these types of experiences are a nice way to try and make sporting events more "accessible" to people who find them boring, and I think that if you can find a way to get tickets, it's a fun night out if you're looking for something different to do.
 
 _P.S.: You may have noticed that I have not yet named the person who invented Cosmic Baseball. That's because unlike Jesse Cole, he seems to keep a LOW profile (as in I don't think he does any on-field stuff), but his name is Chris Martin, and I'm guessing he hasn't accidentally exposed any CEOs having affairs recently..._
+
+_Also, I was right about this not being 8,000 words again: According to my highly unscientific word counter, this post is just under 3,000 words including the footnotes AND this little tidbit._
 
 ---
 
