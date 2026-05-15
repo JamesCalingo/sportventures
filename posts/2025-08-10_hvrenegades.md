@@ -12,7 +12,7 @@ tags:
     "Minor League Baseball",
     "New York",
     "South Atlantic League",
-    "High A",
+    "High-A",
     "Yankees",
     "Outdoor Sports",
     "First Visit",

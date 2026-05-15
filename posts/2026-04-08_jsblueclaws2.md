@@ -12,7 +12,7 @@ tags:
     "Minor Leagues",
     "New Jersey",
     "South Atlantic League",
-    "High A",
+    "High-A",
     "Phillies",
     "Outdoor Sports",
     "Repeat Visit",

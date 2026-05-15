@@ -11,7 +11,7 @@ tags:
     "New Hampshire",
     "Minor League Baseball",
     "Eastern League",
-    "Double A",
+    "Double-A",
     "Blue Jays",
     "Minor Leagues",
     "First Visit",

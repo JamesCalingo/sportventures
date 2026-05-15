@@ -11,7 +11,7 @@ tags:
     "Minor League Baseball",
     "Minor Leagues",
     "South Atlantic League",
-    "High A",
+    "High-A",
     "Delaware",
     "Nationals",
     "Outdoor Sports",
@@ -26,7 +26,7 @@ background: "images/2026/0502-frawley.jpeg"
 
 _\*This trip occurred on May 2, 2026._
 
-Founded in 1993 when the Peninsula Pilots moved from Hampton, Virginia[^1], the Wilmington Blue Rocks were named after a former minor league team in Wilmington and a long-time Carolina League member (which is mildly odd given how far they are from the Carolinas) until the 2020 MiLB realignment, when they "moved up" (as the Carolina League became Low A level) and became a South Atlantic League team. As a member of the Carolina League, the team was decently successful both on the field (five Carolina League championships) and in the stands (usually in the upper half of the Carolina League - at least for the 2010s).
+Founded in 1993 when the Peninsula Pilots moved from Hampton, Virginia[^1], the Wilmington Blue Rocks were named after a former minor league team in Wilmington and a long-time Carolina League member (which is mildly odd given how far they are from the Carolinas) until the 2020 MiLB realignment, when they "moved up" (as the Carolina League became Single-A level) and became a South Atlantic League team. As a member of the Carolina League, the team was decently successful both on the field (five Carolina League championships) and in the stands (usually in the upper half of the Carolina League - at least for the 2010s).
 
 However, their attendance has dipped considerably since joining the SAL and is near the bottom of the league's rankings[^2]. While there are probably a few reasons for the attendance drop, one notable reason may be because the 2020 realignment that "promoted" them to the SAL also saw them become a Washington Nationals affiliate after spending all but two years of their existence as a Kansas City Royals affiliate[^3] - a rather tough affiliation to "sell" given that Wilmington, DE is very firmly in the Philadelphia media market.
 
