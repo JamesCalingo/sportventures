@@ -13,7 +13,7 @@ tags:
     "Brooklyn",
     "New York",
     "South Atlantic League",
-    "High A",
+    "High-A",
     "Mets",
     "Repeat Visit",
     "Outdoor Sports",
@@ -59,8 +59,8 @@ I will admit here that part of the reason I didn’t want to wait to return was 
 
 These four hats are for other teams that WERE affiliated with the Mets back in the day; two are still affiliated with the Mets today, one changed affiliation during the 2020 realignment, and the last team was axed in 2020. They are:
 
-- Columbia Fireflies (top left): a Carolina League team and the current Low-A affiliate of the Kansas City Royals. The Fireflies were a Mets affiliate when they moved to South Carolina’s capital in 2016 and switched to KC during the 2020 realignment. As for the city they moved from, [well...](2025-08-23_bananaball_bos)
-- St. Lucie Mets (top right): the team below the Cyclones in the Mets’ organizational ladder (in the Low-A Florida State League). They play at the Mets' Spring Training facility in Port St. Lucie, FL (about midway between Orlando and Miami).
+- Columbia Fireflies (top left): a Carolina League team and the current Single-A affiliate of the Kansas City Royals. The Fireflies were a Mets affiliate when they moved to South Carolina’s capital in 2016 and switched to KC during the 2020 realignment. As for the city they moved from, [well...](2025-08-23_bananaball_bos)
+- St. Lucie Mets (top right): the team below the Cyclones in the Mets’ organizational ladder (in the Single-A Florida State League). They play at the Mets' Spring Training facility in Port St. Lucie, FL (about midway between Orlando and Miami).
 - Binghamton Rumble Ponies (bottom left): The team above the Cyclones in the Mets’ organizational ladder (in the Double-A Eastern League). I read somewhere that the Cyclones were supposed to take their place in the Eastern League during the 2020 realignment, but multiple groups nixed that idea (one of them being New York State itself).
 - Kingsport Mets (bottom right): There's a LOT I could say here, but the basic gist of it is that Kingsport was a former Mets affiliate (at a level that no longer exists) who became a summer collegiate league team and rebranded to the Axmen in the 2020 realignment (hence the earlier use of the term "axed"). While the Axmen have a championship in their current league/form (in 2022), the most notable thing that happened to them is when <a href="https://www.timesnews.net/news/game-over-usa-baseball-cancels-kingsport-axmens-current-season/article_7069404a-e5a0-11eb-9ad4-a726554e93d5.html" target="blank">they were forced to become a traveling team after one of the players made death threats after getting cut</a> (though thankfully, <a href="https://www.wjhl.com/sports/local-sports/appy-league/kingsport-road-warriors-return-to-hunter-wright-stadium-axmen-name/" target="blank">the situation was resolved before the end of the season</a>).
 

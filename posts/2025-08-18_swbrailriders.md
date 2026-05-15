@@ -12,7 +12,7 @@ tags:
     "Minor Leagues",
     "Pennsylvania",
     "International League",
-    "Triple A",
+    "Triple-A",
     "Yankees",
     "Outdoor Sports",
     "First Visit",
@@ -28,9 +28,9 @@ _Also, I’m sure at least some of you out there understand what I’m referenci
 
 <figcaption>The hills beyond the outfield of PNC Field</figcaption>
 
-In 1989, Lackawanna County Stadium opened in Moosic, PA - a town just south of Scranton, and a bit north of Wilkes-Barre. The new stadium was built to accommodate the Phillies AAA team, who had just moved in from Old Orchard Beach, Maine (fun fact: they played at a stadium historically and currently known simply as “The Ballpark”). The new team was called the Scranton/Wilkes-Barre Red Barons as a nod to two previous minor league teams from the area. Before you ask...Ryan Howard played here during parts of the 2004 and 2005 seasons; as mentioned previously, he did NOT spend a single day working for Dunder Mifflin (though the Office character was apparently named after him).
+In 1989, Lackawanna County Stadium opened in Moosic, PA - a town just south of Scranton, and a bit north of Wilkes-Barre. The new stadium was built to accommodate the Phillies Triple-A team, who had just moved in from Old Orchard Beach, Maine (fun fact: they played at a stadium historically and currently known simply as “The Ballpark”). The new team was called the Scranton/Wilkes-Barre Red Barons as a nod to two previous minor league teams from the area. Before you ask...Ryan Howard played here during parts of the 2004 and 2005 seasons; as mentioned previously, he did NOT spend a single day working for Dunder Mifflin (though the Office character was apparently named after him).
 
-In 2007, the stadium’s name changed to its current name of PNC Field. The affiliation also changed, as the Phillies entered an agreement with the team that eventually became the Lehigh Valley IronPigs. The Red Barons became the new AAA affiliate of the New York Yankees[^1]...sorta: because George Steinbrenner couldn’t resist going on an ego trip (or something like that), the team was renamed the Scranton/Wilkes-Barre Yankees (or as I like to call them: the Scrankees). Why’d they change it I can’t say; maybe people just liked it better that way[^2], but it may also have to do with the fact that one of the teams the Red Barons were named after was a team called...the Red Sox[^3]. In 2012, massive renovations to PNC Field forced the team to spend the whole season as a traveling team (as the Mets nixed a temporary stay in Newark, NJ[^4]). When the team returned to their rebuilt stadium, they opted to rebrand again - this time becoming the RailRiders we know today.
+In 2007, the stadium’s name changed to its current name of PNC Field. The affiliation also changed, as the Phillies entered an agreement with the team that eventually became the Lehigh Valley IronPigs. The Red Barons became the new Triple-A affiliate of the New York Yankees[^1]...sorta: because George Steinbrenner couldn’t resist going on an ego trip (or something like that), the team was renamed the Scranton/Wilkes-Barre Yankees (or as I like to call them: the Scrankees). Why’d they change it I can’t say; maybe people just liked it better that way[^2], but it may also have to do with the fact that one of the teams the Red Barons were named after was a team called...the Red Sox[^3]. In 2012, massive renovations to PNC Field forced the team to spend the whole season as a traveling team (as the Mets nixed a temporary stay in Newark, NJ[^4]). When the team returned to their rebuilt stadium, they opted to rebrand again - this time becoming the RailRiders we know today.
 
 I was never really sure if I wanted to come here as it’s kinda far; Google estimates it’s between 90 minutes and two hours away without traffic (plus the whole “being an affiliate of the Yankees” thing). However, while looking into them, I found out about a deal with the local trolley museum: for $25, you can get a ticket to a game (seating type not listed) AND a trolley ride to and from the local trolley museum (the only “catch” with this is that you have to do something known as “making a phone call” to book it). However, I realized that this would put me at the mercy not only of baseball’s lack of concrete timing, but whatever their schedule would entail, so that made me pause a bit (may do it next year though). In addition, I contemplated just visiting the team store and not seeing the rest of the ballpark by combining this visit with a Little League World Series trip (it’s more or less on the way to/from Williamsport though still about 90 minutes away), but once I decided the likely three+ hour drive one way wasn’t worth it (especially without any company)[^5], a game here ended up back on my radar. In the end, I was thankfully able to find a way to go to this game, and it’s a good thing I opted to skip the trolley - I ended up leaving WAY too late to have caught it thanks to a surprising amount of traffic.
 
@@ -44,7 +44,7 @@ The game was...mildly interesting: the #DamnScrankees won off the back of one si
 
 ### MERCH
 
-There's...honestly not much to say about merch. The store is decently sized (though it feels like it's the smallest among the AAA stadiums I've been to), and doesn't really stray too far from what you'd expect a minor league baseball team to have (outside of them having a few adjustable hats for non-Yankee MLB teams hidden in a shelf - including the Cleveland [REDACTED IN 2022]).
+There's...honestly not much to say about merch. The store is decently sized (though it feels like it's the smallest among the Triple-A stadiums I've been to), and doesn't really stray too far from what you'd expect a minor league baseball team to have (outside of them having a few adjustable hats for non-Yankee MLB teams hidden in a shelf - including the Cleveland [REDACTED IN 2022]).
 
 Most of the jerseys were sublimated (and also featured velcro closures, which I don't like as it makes it hard to wear the jersey open without potentially damaging your shirt), and the ones that weren't were mainly fashion jerseys. There was one that I was at least mildly interested in, but I didn't like that it was kinda short and it had the number 99 on it (stupid sexy Aaron Judge...).
 
@@ -58,7 +58,7 @@ Finally, I MUST show you one of the most horrifying caps I have ever seen a Mino
 
 ---
 
-[^1]: In the process, the Yankees moved their AAA operations out of Columbus, OH - a city they had been in since 1979.
+[^1]: In the process, the Yankees moved their Triple-A operations out of Columbus, OH - a city they had been in since 1979.
 
 [^2]: Shout out to all y’all out there who understand this reference.
 

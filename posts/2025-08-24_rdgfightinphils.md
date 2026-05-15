@@ -12,7 +12,7 @@ tags:
     "Minor Leagues",
     "Pennsylvania",
     "Eastern League",
-    "Double A",
+    "Double-A",
     "Phillies",
     "Outdoor Sports",
     "First Visit",

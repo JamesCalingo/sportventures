@@ -13,7 +13,7 @@ tags:
     "Brooklyn",
     "New York",
     "South Atlantic League",
-    "High A",
+    "High-A",
     "Mets",
     "Outdoor Sports",
     "First Visit",

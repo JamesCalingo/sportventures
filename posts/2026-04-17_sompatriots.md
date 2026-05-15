@@ -12,7 +12,7 @@ tags:
     "Minor League Baseball",
     "Eastern League",
     "Yankees",
-    "Double A",
+    "Double-A",
     "Minor Leagues",
     "Repeat Visit",
     "Outdoor Sports",
@@ -71,7 +71,7 @@ Also, inasmuch as I (think I) prefer the Mets and Red Sox, most of their affilia
 
 ---
 
-[^1]: My memory of this game is SUPER hazy, but I want to say it was against the Sugar Land Skeeters - another former Atlantic League team that is now affiliated (they're the Houston Astros' AAA affiliate).
+[^1]: My memory of this game is SUPER hazy, but I want to say it was against the Sugar Land Skeeters - another former Atlantic League team that is now affiliated (they're the Houston Astros' Triple-A affiliate).
 
 [^2]: The Thunder just got picked up by Diamond Baseball Holdings (i.e. the company that owns almost half the minor leagues now), and word on the street is that their return to affiliated ball may be coming soon: people around the Eastern League believe they're going to swap places with a team that was supposed to be replaced in the league by the [Brooklyn Cyclones](2025-08-09_bkncyclones) in 2020 before local politicians stepped in...
 
