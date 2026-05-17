@@ -20,4 +20,5 @@ I'm hoping to visit at least 26 new venues in 2026. You can read more about this
 10. [Delta Dental Stadium - Manchester, NH](2026-04-06_nhfishercats)
 11. [Warinanco Sports Complex - Roselle, NJ](2026-04-19_jerseybearcats)
 12. [Judy Johnson Field at Daniel S. Frawley Stadium - Wilmington, DE](2026-05-03_wilbluerocks)
+13. [Ranger Stadium - Madison, NJ](2026-05-17_fcmotown_npsl)
 27. COMING SOON
