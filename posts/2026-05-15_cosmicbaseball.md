@@ -94,17 +94,17 @@ The game goes back to "more traditional" baseball for this second half (without 
 
 ### Cosmic Glow-Merch-ji
 
-There are TONS of different Cosmic Baseball hats and jerseys on the Chili Peppers' online store for both teams (along with shirts and stuff, but I'm mostly focused on hats and jerseys). When I checked their store shortly after winning the tickets, I found that each team had no less than three hats that appeared to be for games, as well as FOUR jerseys each (and since then, more hats have been released).
+There are TONS of different Cosmic Baseball hats and jerseys on the Chili Peppers' online store for both teams (along with shirts and stuff, but I'm mostly focused on hats and jerseys). When I checked their store shortly after winning the tickets, I found that each team had no less than three hats that appeared to be for games, as well as FOUR jerseys each (and since then, more hats have been released). Notably, a few items were available at the game that were listed as "sold out" online (though I assume the team has more on the way).
 
 A few days after getting my tickets I ordered hats marked "game hats" for the two teams (one hat per team); notably, all hats (including the game hats) are snapbacks - probably because the manufacturer doesn't want to waste materials on fitteds/flexfits that may or may not sell.
 
 At the game, there was a merch area in the plaza (which was SUPER busy before the game), but also one in the outfield (which I beelined for when that part of the park opened), plus the aforementioned booth in the second floor club area. I did also check out the IronPigs store to see if there was anything interesting as I saw they had non-sublimated jerseys, but since said jerseys didn't have the scripts on them "fully" stitched on, I decided to pass on all of them (and the one I was most interested in had FAUX STITCHES - WHY?????).
 
-One VERY interesting thing about merch: the team clearly has a deeply religious identity. Every hat and jersey I saw has the phrase "YOU CAN'T LIMIT GOD" inside of it, and the game ended with one of the players leading a prayer.\
+One VERY interesting thing about merch (and the team in general): the team clearly has a deeply religious identity. Every hat and jersey I saw has the phrase "YOU CAN'T LIMIT GOD"[^4] inside of it, and the game ended with one of the players leading a prayer.
 
 ### Final thoughts
 
-Cosmic Baseball was REALLY fun - I could honestly make an argument that it's _better_ than Banana Ball (though that may be due to a few factors - namely how long it's been around and the fact that I've only seen Banana Ball at MLB stadiums)[^4]. However...I can't help but wonder what the Chili Peppers are thinking about for the future.
+Cosmic Baseball was REALLY fun - I could honestly make an argument that it's _better_ than Banana Ball (though that may be due to a few factors - namely how long it's been around and the fact that I've only seen Banana Ball at MLB stadiums)[^5]. However...I can't help but wonder what the Chili Peppers are thinking about for the future.
 
 The day I started writing this post, I found out that they "split" their Cosmic Baseball and CPL team websites with no real interconnection; the Cosmic Baseball site ranked higher on Google's search results. In addition, their YouTube channel was simply named "Cosmic Baseball", but old Chili Peppers videos/broadcasts still exist on the channel indicating that it was once the Chili Peppers YouTube channel. There is also the fact that, as I mentioned earlier, I ordered a few items from the team before the game, and the shipping label had "Cosmic Sports" as the sender.
 
@@ -116,7 +116,7 @@ Anyway, I realize that similar to Banana Ball, this is a hard-to-get-into experi
 
 _P.S.: You may have noticed that I have not yet named the person who invented Cosmic Baseball. That's because unlike Jesse Cole, he seems to keep a LOW profile (as in I don't think he does any on-field stuff), but his name is Chris Martin, and I'm guessing he hasn't accidentally exposed any CEOs having affairs recently..._
 
-_Also, I was right about this not being 8,000 words again: According to my highly unscientific word counter, this post is just under 3,000 words including the footnotes AND this little tidbit._
+_Also, I was right about this not being 8,000 words again: According to my highly unscientific word counter, this post is just over 3,000 words including the footnotes AND this little tidbit._
 
 ---
 
@@ -126,4 +126,6 @@ _Also, I was right about this not being 8,000 words again: According to my highl
 
 [^3]: Banana Ball also "First Pitch that Counts"...sometimes; the game I saw at [Fenway Park](bananaball_bospt3) had it, but neither Yankee Stadium game did.
 
-[^4]: Another part of this is likely due to the fact that if I'm being honest...the atmosphere at both Yankee Stadium games felt much, MUCH more muted compared to last year at Fenway Park.
+[^4]: Every time I see/hear this phrase, I can't help but think of <a href="https://www.youtube.com/watch?v=ovoBi3pXD_A" target="blank">this old Motown hit</a>...
+
+[^5]: Another part of this is likely due to the fact that if I'm being honest...the atmosphere at both Yankee Stadium games felt much, MUCH more muted compared to last year at Fenway Park.
