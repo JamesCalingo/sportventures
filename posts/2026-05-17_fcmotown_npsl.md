@@ -13,7 +13,7 @@ tags:
     "New Jersey",
     "First Visit",
     "Outdoor Sports",
-    "26 in 26"
+    "New in 2026"
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0516-motown.jpeg"
@@ -39,7 +39,7 @@ As an aside, a summer baseball team called the Jersey Pilots played at Drew a fe
 
 ![An image of soccer being played at Drew University's Ranger Stadium](/images/2026/0516-motown.jpeg)
 
-As you might expect from a D-III school, there’s not much to talk about in terms of the stadium: there’s only one set of bleachers here along one of the sides, and that's pretty much it. There is one other thing at the stadium, but I'll get to that later.
+As you might expect from a D-III school, there’s not much to talk about in terms of the stadium: there’s only one set of bleachers here along one of the sides, and that's pretty much it, though it should be noted that it has separate "sections" for Drew students, other Drew fans, and away fans (though how important those distinctions are is debatable at best). There is one other thing at the stadium, but I'll get to that later.
 
 FC Motown is the team that more or less introduced me to the NPSL as a whole (despite hearing about El Farolito during their US Open Cup run). I'll get into _how_ I found out about them soon enough, but the big thing is that this is far and away the closest soccer team to me, so I decided to check them out[^3].
 
@@ -53,7 +53,7 @@ Just a heads up: I'm going to be watching a lot of these "smaller" soccer teams 
 
 Anyway, when I first learned about FC Motown, I found out that the company that makes their jerseys sells direct to fans! I could not find any other "forms" of merchandise online, but at the match, there's a "snack shack" which has concessions and a few merchandise items (this is the "other thing" at the stadium I mentioned earlier).
 
-There was a list of several things that were , but the only items I saw were a hacky sack, a logo, and one of the aforementioned jerseys - which thankfully they had in my size.
+There was a list of several merch items that were apparently available for sale, but the only items they actually had were a hacky sack, a logo t-shirt, and one of the aforementioned jerseys - which thankfully they had in my size.
 
 ---
 
