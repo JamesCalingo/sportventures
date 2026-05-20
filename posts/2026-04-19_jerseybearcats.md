@@ -57,7 +57,7 @@ Finally, for WHOLLY inexplicable reasons, the boards featured ads for the Dallas
 
 ### MERCH
 
-There was a t shirt toss that I was on the wrong side of the arena for...and that was it. However, I should also note that there was also popcorn for sale from a group that also sells their popcorn at [Rutgers](2025-11-25_rubasketball_womens) [Basketball](2025-12-21_rubasketball2).
+There was a t-shirt toss that I was on the wrong side of the arena for...and that was it. However, I should also note that there was also popcorn for sale from a group that also sells their popcorn at [Rutgers](2025-11-25_rubasketball_womens) [Basketball](2025-12-21_rubasketball2).
 
 ---
 

@@ -44,7 +44,7 @@ I don't really want to speculate too much on this, but I do truly wonder what th
 
 And in case you were wondering about the game: Jackals won 7-1. As of this being posted (August 12, 2025), that win represents 4.5% of their win total for 2025 - they've won 22 games so far, putting them firmly in last place in the entire Frontier League (not to mention their most recent home series getting cancelled due to a water main break...).
 
-As a final note, A soccer team is moving in for 2026: the latest installment of the New York Cosmos.
+As a final note, A soccer team is moving in for 2026: [the latest installment of the New York Cosmos](2026-03-15_nycosmos).
 
 ### MERCH
 
