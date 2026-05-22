@@ -45,7 +45,7 @@ FC Motown is the team that more or less introduced me to the NPSL as a whole (de
 
 This game - Motown's home opener - saw them DOMINATE visiting Hershey SC even beyond winning 5-0: the game featured almost exclusively "one way traffic" (i.e. Motown had the ball WAY more than Hershey did), and the stadium's scoreboard had the visitors recording ZERO shots on goal.
 
-As a final note, there is a STRONG possibility that I will see FC Motown again in the near future - whether or not I write about it is yet to be seen, but I do want to try other types of postings (plus one other reason...).
+As a final note, there is a STRONG possibility that I will see FC Motown again in the near future - whether or not I write about it is yet to be seen, but I do want to try other types of postings ([plus one other reason...](2026-05-22_fcmotownsta)).
 
 ### MERCH
 
