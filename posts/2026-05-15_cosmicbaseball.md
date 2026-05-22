@@ -116,7 +116,7 @@ Anyway, I realize that similar to Banana Ball, this is a hard-to-get-into experi
 
 _P.S.: You may have noticed that I have not yet named the person who invented Cosmic Baseball. That's because unlike Jesse Cole, he seems to keep a LOW profile (as in I don't think he does any on-field stuff), but his name is Chris Martin, and I'm guessing he hasn't accidentally exposed any CEOs having affairs recently..._
 
-_Also, I was right about this not being 8,000 words again: According to my highly unscientific word counter, this post is just over 3,000 words including the footnotes AND this little tidbit._
+_Also, I was right about this not being 8,000 words again: According to my highly unscientific word counter, this post is just under 3,000 words including the footnotes AND this little tidbit._
 
 ---
 
