@@ -53,12 +53,6 @@ At this match, the only "official" merchandise available wasn't even FC Motown r
 
 ---
 
-### ON DECK
-
-I have a bunch of soccer games I was hoping to go to this weekend, but sadly, the weather is not looking good...mainly for Saturday.
-
----
-
 [^1]: I was on the fence about including these games as _26 in 26_ venues, as it's mostly small college stadiums with a few high schools thrown in. However, I felt that if I had already included places such as [a freakin' SHOPPING MALL](2026-05-19_iflcup) in the list, these stadiums should be there as well. Yes, this does mean that I will likely "finish" the _26 in 26_ quite early, but that's not necessarily a bad thing (especially as I've received several bits of news that will make getting to new places trickier in the VERY near future).
 
 [^2]: It must also be noted that having this dual "NPSL/USL2" arrangement is rather unusual amongst soccer clubs at this level - in fact, it seems that many clubs have moved from NPSL to USL2 in recent years for various reasons.
