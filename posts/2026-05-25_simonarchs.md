@@ -14,6 +14,7 @@ tags:
     "Outdoor Sports",
     "New York",
     "First Visit",
+    "New in 2026"
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0524-hamelinefield.jpeg"
@@ -21,7 +22,7 @@ background: "images/2026/0524-hamelinefield.jpeg"
 
 ### _[26 IN 26 STOP 16](/26in26list)_
 
-_\*This trip occurred on May 24, 2026._
+_\*This trip occurred on May 24, 2026. For more on USL2, [here's an overview](usl2_overview)_
 
 I've already discussed [Staten Island as a place](2025-08-14_siferryhawks), so I'll skip talking about it today[^1]. However, this team doesn't have a Wikipedia page, so information on them is somewhat hard to find - though their website is actually fairly decent IMO.
 

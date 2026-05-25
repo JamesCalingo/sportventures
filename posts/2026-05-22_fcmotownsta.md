@@ -14,6 +14,7 @@ tags:
     "Outdoor Sports",
     "New Jersey",
     "Repeat Visit",
+    "New in 2026"
   ]
 badge: "/badges/newteam.png"
 background: "images/2026/0521-motownsta.jpeg"
