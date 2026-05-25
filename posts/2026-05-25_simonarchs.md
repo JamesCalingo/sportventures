@@ -43,7 +43,7 @@ The team's website has pages for merchandise, but when I went to check it a few 
 
 ---
 
-Also, I decided that with this game being at 6 PM and the weather being not so hot, [I'd check something else out today as well](2026-05-26_iflcup2)
+Also, I decided that with this game being at 6 PM and the weather being not so great, [I'd check something else out today as well...](2026-05-26_iflcup2)
 
 ---
 
