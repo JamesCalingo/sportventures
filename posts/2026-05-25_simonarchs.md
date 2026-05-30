@@ -22,7 +22,7 @@ background: "images/2026/0524-hamelinefield.jpeg"
 
 ### _[26 IN 26 STOP 16](/26in26list)_
 
-_\*This trip occurred on May 24, 2026. For more on USL2, [here's an overview](usl2_overview)_
+_\*This trip occurred on May 24, 2026. For more on USL2, [here's an overview](usl2_overview)._
 
 I've already discussed [Staten Island as a place](2025-08-14_siferryhawks), so I'll skip talking about it today[^1]. However, this team doesn't have a Wikipedia page, so information on them is somewhat hard to find - though their website is actually fairly decent IMO.
 
@@ -34,7 +34,7 @@ Their stadium is...actually pretty much the same as [The Stadium at Memorial Fie
 
 ![An image of kickoff at Hameline Field](/images/2026/0524-hamelinefield.jpeg)
 
-Also, as the stadium is on a hill, there's actually a really neat view of the rest of Staten Island/the Verrazzano Bridge/I'm not sure what else is visible. However...it was cloudy/foggy/misty on this day, so the view was largely obscured by the clouds/fog - though 
+Also, as the stadium is on a hill, there's actually a really neat view of the rest of Staten Island/the Verrazzano Bridge/I'm not sure what else is visible. However...it was cloudy/foggy/misty on this day, so the view was largely obscured by the clouds/fog - though it did emerge a bit in the second half (I tried to take a picture but it wasn't very good IMO).
 
 This game was kinda even for most of it, as it seemed like a number of chances were missed and it was essentially 1-1 after the first ten minutes. Unfortunately, said first ten minutes featured visiting [FC Motown STA](2026-05-22_fcmotownsta) score two goals, which propelled them to victory.
 
