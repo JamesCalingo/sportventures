@@ -1,6 +1,6 @@
 ---
 display: "Metropolitan Monarchs (5/24/26)"
-title: "Staten Island ASC (USL League 2) @ Hameline Field at Wagner College Stadium (Staten Island, NY)"
+title: "Staten Island ASC (USL League Two) @ Hameline Field at Wagner College Stadium (Staten Island, NY)"
 subtitle: "USL2 soccer in the heart of Staten Island"
 date: 25 May 2026
 published: true
@@ -10,7 +10,7 @@ tags:
     "Football",
     "Soccer",
     "USL",
-    "USL League 2",
+    "USL League Two",
     "Outdoor Sports",
     "New York",
     "First Visit",

@@ -1,6 +1,6 @@
 ---
 display: "FC Motown STA (5/21/26)"
-title: "FC Motown STA (USL League 2) @ Ranger Stadium (Madison, NJ)"
+title: "FC Motown STA (USL League Two) @ Ranger Stadium (Madison, NJ)"
 subtitle: "Another visit to the local soccer club"
 date: 22 May 2026
 published: true
@@ -10,7 +10,7 @@ tags:
     "Football",
     "Soccer",
     "USL",
-    "USL League 2",
+    "USL League Two",
     "Outdoor Sports",
     "New Jersey",
     "Repeat Visit",
@@ -32,9 +32,9 @@ With that out of the way, I am willing to bet that some of you who read this blo
 
 Well...[you’re not wrong](2026-05-17_fcmotown_npsl)! However, this is actually a (fairly) distinct team from the side I talked about last weekend, so let's dive into them.
 
-In 2021, USL League 2 added FC Motown to its Metropolitan Division, then a year later, the club partnered with a local youth soccer organization called STA (which I believe stands for Sports Training Academy), which leads to the team's "official" name: FC Motown STA (which helps distinguish it from the NPSL side)[^2]. There's not much to say about their short history, but in 2025, the team won 11 of their 12 regular season games - with the twelfth game being a draw. This made them the top team in the country heading into the 2025 USL2 Playoffs - where the idea for this trip was born.
+In 2021, USL League Two added FC Motown to its Metropolitan Division, then a year later, the club partnered with a local youth soccer organization called STA (which I believe stands for Sports Training Academy), which leads to the team's "official" name: FC Motown STA (which helps distinguish it from the NPSL side)[^2]. There's not much to say about their short history, but in 2025, the team won 11 of their 12 regular season games - with the twelfth game being a draw. This made them the top team in the country heading into the 2025 USL2 Playoffs - where the idea for this trip was born.
 
-I had no idea that FC Motown (as a whole) existed until the 2025 USL League 2 Playoffs, when the USL2 team traveled up to Burlington, VT and lost a battle of undefeated sides to [Vermont Green FC](2025-08-21_vgfc). Their regular season success, however, gave the USL2 side a berth in the US Open Cup; they were drawn at home back in March, but I was busy with something and couldn’t make it (plus the game was at night in Newark)[^3].
+I had no idea that FC Motown (as a whole) existed until the 2025 USL League Two Playoffs, when the USL2 team traveled up to Burlington, VT and lost a battle of undefeated sides to [Vermont Green FC](2025-08-21_vgfc). Their regular season success, however, gave the USL2 side a berth in the US Open Cup; they were drawn at home back in March, but I was busy with something and couldn’t make it (plus the game was at night in Newark)[^3].
 
 ![An image of soccer being played at Drew University's Ranger Stadium](/images/2026/0521-motownsta.jpeg)
 
