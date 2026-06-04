@@ -25,4 +25,5 @@ I'm hoping to visit at least 26 new venues in 2026. You can read more about this
 15. [Brenner Family Field - Metuchen, NJ](2026-05-24_njunited)
 16. [Hameline Field at Wagner College Stadium - Staten Island, NY](2026-05-25_siasc)
 17. [Harrison High School - Harrison, NJ](2026-05-31_ironboundsc)
+18. [Frederick Douglass Field - Newark, NJ](2026-06-05_morriselite)
 27. COMING SOON
