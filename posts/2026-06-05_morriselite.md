@@ -38,7 +38,7 @@ In all honesty, this trip was a bit of a crapshoot because...Newark[^3]. While t
 
 I'm not sure if this game qualifies as the "Morris County Derby", as it saw Morris Elite take on USL2's other team based in Morris County, NJ: [FC Motown STA](2026-05-22_fcmotownsta). Yes, this just so happenes to be the THIRD time I've seen FC Motown STA this year, and they continued their dominance over the Metropolitan Division - cruising to a 4-0 victory (which means that not only have they won all three games I've seen, they've outscored their opponents 13-1 in those three games)[^5]. I also must note that they have one of the most vocal coaches in USL2 that I've noticed - though that may be because it's super easy to pick out his accent...
 
-Also, like [Ironbound SC](2026-05-31_ironboundsc) (which just so happens to be another "youth academy with a USL2 team"), there are no concessions or merchandise to be found here. However, if you are hungry, R U Hungry (a New Brunswick staple with a Newark location that opened - you guessed it - AFTER I graduated) is about a block away with its famous fat sandwiches.
+Also, like [Ironbound SC](2026-05-31_ironboundsc) (which just so happens to be another "youth academy with a USL2 team"), there are no concessions or merchandise to be found here. However, if you are hungry, RU Hungry (a New Brunswick staple with a Newark location that opened - you guessed it - AFTER I graduated) is about a block away with its famous fat sandwiches.
 
 ---
 
@@ -50,12 +50,12 @@ Having said that, NEXT weekend is a bit up in the air as well - by which I mainl
 
 ---
 
-[^1]: Rutgers Newark used to tout its identity as "the most culturally diverse campus in America" back in the day, but I don't know if they still do that - nor do I know if that is or should be viewed as a "good" thing...
+[^1]: Rutgers Newark used to tout its identity as "the most culturally diverse campus in America" back in the day, but I don't know if they still do that - nor do I know how that is viewed by modern America...
 
 [^2]: Our men's volleyball team (yes, that's a thing in the NCAA) was D-I when I went there, and I actually knew one of the guys on the team, but it went down to D-III around the time I graduated.
 
-[^3]: I had some thoughts about seeing a few soccer games at NJIT across the street, but these same concerns ended up scuttling BOTH trips (though one was also due to a prior commitment)
+[^3]: I had some thoughts about seeing a few soccer games at NJIT across the street, but concerns about Newark ended up scuttling BOTH trips (though one was also due to a prior commitment).
 
-[^4]: For a while, this game was going to be earlier in the year as well as the first "youth academy with a USL2 team" on this blog, but then it got delayed and I ended up seeing [Ironbound SC](2026-05-31_ironboundsc) first.
+[^4]: For a while, this game was going to be earlier in the year as well as the first "youth academy with a USL2 team" on this blog, but then it got delayed and I ended up seeing Ironbound first.
 
 [^5]: The record improves to 4-0 with a 18-1 goal differential if you include the [NPSL squad](2026-05-17_fcmotown_npsl).
