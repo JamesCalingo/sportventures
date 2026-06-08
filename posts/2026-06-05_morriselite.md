@@ -2,7 +2,7 @@
 display: "Meet the Elite"
 title: "Morris Elite SC (USL League Two) @ Frederick Douglass Field (Newark, NJ)"
 subtitle: "Summer soccer at my alma mater"
-date: 4 June 2026
+date: 5 June 2026
 published: true
 pinned: false
 tags:
@@ -39,14 +39,6 @@ In all honesty, this trip was a bit of a crapshoot because...Newark[^3]. While t
 I'm not sure if this game qualifies as the "Morris County Derby", as it saw Morris Elite take on USL2's other team based in Morris County, NJ: [FC Motown STA](2026-05-22_fcmotownsta). Yes, this just so happenes to be the THIRD time I've seen FC Motown STA this year, and they continued their dominance over the Metropolitan Division - cruising to a 4-0 victory (which means that not only have they won all three games I've seen, they've outscored their opponents 13-1 in those three games)[^5]. I also must note that they have one of the most vocal coaches in USL2 that I've noticed - though that may be because it's super easy to pick out his accent...
 
 Also, like [Ironbound SC](2026-05-31_ironboundsc) (which just so happens to be another "youth academy with a USL2 team"), there are no concessions or merchandise to be found here. However, if you are hungry, RU Hungry (a New Brunswick staple with a Newark location that opened - you guessed it - AFTER I graduated) is about a block away with its famous fat sandwiches.
-
----
-
-### ON DECK
-
-It's been a bit since I've done one of THESE, and that's largely because I've had my plans get changed last minute quite a bit these past few days (case in point: I had to cancel plans to see THREE separate games last weekend).
-
-Having said that, NEXT weekend is a bit up in the air as well - by which I mainly mean Saturday...
 
 ---
 
