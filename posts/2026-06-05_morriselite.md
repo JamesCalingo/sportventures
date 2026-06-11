@@ -20,7 +20,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0603-runewark.jpeg"
 ---
 
-### _[26 IN 26 STOP 17](/26in26list)_
+### _[26 IN 26 STOP 18](/26in26list)_
 
 _\*This trip occurred on June 3, 2026. For more on USL2, [here's an overview](usl2_overview)._
 
