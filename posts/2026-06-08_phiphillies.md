@@ -20,7 +20,7 @@ badge: "badges/newtoblog.png"
 background: "images/2026/0607/homeplateview.jpeg"
 ---
 
-*\*This trip occurred on June 7, 2026.*
+_\*This trip occurred on June 7, 2026._
 
 With teams in the “Big Four” leagues, I feel like I don’t REALLY need to talk about their histories. They’re a lot more well known than the minor league and weird indie teams I tend to cover on this site, and their histories are better documented on places like their websites and Wikipedia.
 
@@ -35,7 +35,7 @@ First, a lot of the ballpark's "non-game action" lies in the outfield. Here, an 
 
 ![A view of Citizens Bank Park from the roof of the concession stands in the outfield](/images/2026/0607/ashburnalley.jpeg)
 
-Underneath the massive left field scoreboard (known as "Phanvision") is a deck the Phillies recently renamed for a sponsor, but was formerly known as "Harry the K's" (more on "Harry the K" later). In right field, there's a rock climbing wall which was something completely different back in 2005 along with a mini field for things such as [Wiffle Ball](2025-08-16_mlwwiffleball) (MLW hosted a series here once); kids were having a "home run derby" at one point during the game. 
+Underneath the massive left field scoreboard (known as "Phanvision") is a deck the Phillies recently renamed for a sponsor, but was formerly known as "Harry the K's" (more on "Harry the K" later). In right field, there's a rock climbing wall which was something completely different back in 2005 along with a mini field for things such as [Wiffle Ball](2025-08-16_mlwwiffleball) (MLW hosted a series here once); kids were having a "home run derby" at one point during the game.
 
 Outside of that, the "infield" features three decks and concourses (which, coincidentally, is the same number [Citi Field](2026-05-01_nymets) and [Yankee Stadium](2026-06-04_nyyankees) have). These concourses feature a lot of "standard" concessions, but also some local stuff including - most importantly - Chickie's and Pete's (this IS Philadelphia, after all). This game happened on a day that was rather windy, but the wind was seemingly amplified on the upper decks - I had trouble keeping even a relatively full water bottle still on the third deck.
 
@@ -59,7 +59,7 @@ Kalas was a legendary Phillies broadcaster who sadly died while preparing for a 
 
 Before we continue, I should mention that I'm almost certain to go off on a LONG tangent here (you'll understand when I get to it), so let's start with the park's merchandise "situation".
 
-I mentioned it when I came here last year, but the Phillies main team store felt a bit small for an MLB team store. Maybe that's just because I'm so used to the bigger stores teams like the Mets and Red Sox have, but one thing to note, however, is that the main store here is two levels. The layout was fairly different between my last visit and this game: most notably, jerseys were all on the upper level, and for whatever reason, NO "retail authentic" jerseys (i.e. authentic style jerseys made for selling to fans)  were available.
+I mentioned it when I came here last year, but the Phillies main team store felt a bit small for an MLB team store. Maybe that's just because I'm so used to the bigger stores teams like the Mets and Red Sox have, but one thing to note, however, is that the main store here is two levels. The layout was fairly different between my last visit and this game: most notably, jerseys were all on the upper level, and for whatever reason, NO "retail authentic" jerseys (i.e. authentic style jerseys made for selling to fans) were available.
 
 Outside of the main store, there were surprisingly few merch areas around the ballpark. A lot of them were tents which were not climate controlled, but protip: if you NEED a relatively quite spot to cool down, the third deck's got a store which was fully indoors (i.e. it has AC) and pretty empty. There is also a booth on the main concourse that sels authentic Phillies memorabilia (game balls, player equipment, and even bases), and I do need to mention that at least one of the TEAM ISSUED jerseys they had (i.e. a jersey the team had made and tailored specifically for a certain player) cost LESS than the blank REPLICA jerseys they had at the team store! This store also featured something I feel like I'd heard about, but finally decided to get: a "MLB Parks Passport" where you can collect stamps from various MLB stadiums! Yes, the **MLB Ballpark** app basically does this now, but it's still kinda cool to have that "physical" representation of your travels.
 
@@ -73,7 +73,7 @@ I mentioned during my trip to Yankee Stadium that the former/current MLB jersey 
 
 In addition, the Phillies are one of two teams that feature a very unique and specific style to their jersey script (something known as "chain stitching") - except the 2024 template (i.e. the one that was SO BAD it was gone after just two seasons) doesn't have it[^5]. Therefore, if you're looking for an Authentic Phillies home jersey and don't want to traverse the world of vintage stores/eBay (where fakes abound - including some WITH the chain stitching), you're going to have to make one of two concessions: awkward design or a lack of the most iconic feature (though I also have a SUPER OLD home jersey replica I got back in 2005 - again, RIP Modell's).
 
-Again, I realize it's hard to understand EXACTLY what this means/entails, so here's a photo of two Phillies jerseys next to one another to illustrate. The one on the left features the chain stitch, while the one on the right doesn't - it's probably most noticeable with how the letters have a much more "holey" look on the chain stitched jerseys (plus the stars): 
+Again, I realize it's hard to understand EXACTLY what this means/entails, so here's a photo of two Phillies jerseys next to one another to illustrate. The one on the left features the chain stitch, while the one on the right doesn't - it's probably most noticeable with how the letters have a much more "holey" look on the chain stitched jerseys (plus the stars):
 
 ![An image of two Phillies jerseys - one with a chain stitched script, the other without](/images/2026/0607/scripts.jpeg)
 
@@ -95,4 +95,4 @@ Also, there's an oddly SMALL amount of "love" for the early 2000s era team: I sa
 
 [^6]: I didn't even get to mention that the Phillies' regular home jersey has a flaw that has nothing to do with jersey templates: red pinstripes. Due to the nature of washing red and white together, the pinstripes eventually turn “pink” as the jersey is washed more and more.
 
-[^7]: While I'm not 100% certain it's real, it passes the "checks" that most fake jerseys don't (i.e. correct manufacturer tag, no paper inside the script and/or numbers, and an MLB batterman patch that isn't sewn INTO the jersey - plus the chain stitching). 
+[^7]: While I'm not 100% certain it's real, it passes the "checks" that most fake jerseys don't (i.e. correct manufacturer tag, no paper inside the script and/or numbers, and an MLB batterman patch that isn't sewn INTO the jersey - plus the chain stitching).

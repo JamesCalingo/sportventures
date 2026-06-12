@@ -40,10 +40,4 @@ One other thing I feel like I should mention: The stadium's field house/parking 
 
 ---
 
-### ON DECK
-
-We go off the rails a little bit.
-
----
-
 [^1]: It's unclear if Teaneck is FDU's "main" campus , but Wikipedia indicates it's the oldest, and the fact that FDU's other campus (in Florham Park, NJ) is D-III also points to Teaneck being the main campus.
