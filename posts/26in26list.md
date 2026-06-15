@@ -27,4 +27,8 @@ I'm hoping to visit at least 26 new venues in 2026. You can read more about this
 17. [Harrison High School - Harrison, NJ](2026-05-31_ironboundsc)
 18. [Frederick Douglass Field - Newark, NJ](2026-06-05_morriselite)
 19. [University Stadium - Teaneck, NJ](2026-06-11_cedarstars)
+20. [Pelicans Ballpark - Myrtle Beach, SC](2026-06-15_mbpelicans)
+21. [Mike Alderson Field - Shallotte, NC](2026-06-16_shashallywags)
+22. [Brooks Field - Wilmington, NC](2026-06-17_cfghostcrabs)
+23. [Bill Smith Park - Southport, NC](2026-06-19_okiloggerheads)
 27. COMING SOON
