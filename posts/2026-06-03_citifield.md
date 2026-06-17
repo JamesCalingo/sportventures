@@ -2,7 +2,8 @@
 display: "A Citi Trip"
 title: "A tour of Citi Field"
 subtitle: "An inside look at the home of the New York Mets"
-date: 3 June 2026
+date: 2 June 2026
+publishDate: 3 June 2026
 published: true
 pinned: false
 tags:

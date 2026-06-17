@@ -2,7 +2,8 @@
 display: "Yankee Stadium goes ape****...again"
 title: "Savannah Bananas vs. The Party Animals @ Yankee Stadium (Bronx, NY)"
 subtitle: 'I get a taste of the "suite life"'
-date: 27 April 2026
+date: 26 April 2026
+publishDate: 27 April 2026
 published: true
 pinned: false
 tags:
@@ -18,8 +19,6 @@ tags:
   ]
 background: "images/2026/0426-ysmodel.jpeg"
 ---
-
-_\*This trip occurred on April 26, 2026._
 
 The backstory of _this_ post starts with [this trip from Friday](2026-04-25_bananaball_ny). Long story short: the Savannah Bananas and Party Animals were scheduled to be at Yankee Stadium the weekend of April 25-26, but rain on Saturday caused the first game to get pushed up to Friday.
 

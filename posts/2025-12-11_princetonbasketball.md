@@ -1,8 +1,9 @@
 ---
-display: "Princeton Basketball (12/10/25)"
-title: "Princeton Tigers Basketball (Ivy League) @ Jadwin Gymnasium (Princeotn,  NJ)"
+display: "Princeton Basketball"
+title: "Princeton Tigers Basketball (Ivy League) @ Jadwin Gymnasium (Princeton, NJ)"
 subtitle: "A double header at one of college basketball’s more unique arenas"
-date: 11 December 2025
+date: 10 December 2025
+publishDate: 11 December 2025
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on December 10, 2025._
 
 Yep - this is another Princeton visit AND another post covering two games! I will note that unlike the last time I covered two Princeton sporting events in one post (i.e. hockey), these two games were both on the same day (with the women's game starting about half an hour after the men's game ended). Also, for those of you who are getting tired of seeing Princeton University on this blog, this is the last time I will post about Princeton in 2025 - and potentially the last \*new\* Princeton sport I cover this academic year (as I’m a bit iffy on the spring sports).
 

@@ -1,8 +1,9 @@
 ---
-display: "ROC/ROX and Roll (5/7/26)"
+display: "ROC/ROX and Roll"
 title: "New York Boulders (Frontier League) @ Clover Stadium (Pomona, NY)"
 subtitle: "Independent baseball in ROC Nation"
-date: 8 May 2026
+date: 7 May 2026
+publishDate: 8 May 2026
 published: true
 pinned: false
 tags:
@@ -17,8 +18,6 @@ tags:
 badge: "badges/newtoblog.png"
 background: "/images/2026/0507-clover-frontrow.jpeg"
 ---
-
-_\*This trip occurred on May 7, 2026._
 
 The Rockland Boulders were founded in 2011 as an expansion to the Can-Am League. In 2014, they won a league championship, and in 2020, they moved with the rest of the surviving Can-Am teams to the Frontier League.
 

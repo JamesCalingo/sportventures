@@ -1,8 +1,9 @@
 ---
-display: "Boston Fleet (4/26/25)"
+display: "Boston Fleet"
 title: "Boston Fleet (Professional Women's Hockey League) @ Tsongas Center (Lowell, MA)"
 subtitle: 'Including "bonus coverage" of UMass Lowell River Hawks Hockey'
-date: 29 August 2025
+date: 26 April 2025
+publishDate: 29 August 2025
 published: true
 pinned: false
 tags:
@@ -24,7 +25,7 @@ tags:
   ]
 ---
 
-_\*The trip that this post is largely based on occurred on April 26, 2025 - after I started the baseball stadium reports (but I didn't end up writing about it until some time later). However, I ended up merging in some details from when I wrote about this arena after a UMass Lowell game I attended on November 10, 2023[^1] - and I'll start with a little bit of information on them (as the university owns the arena)._
+_\*I ended up merging in some details from when I wrote about this arena after a UMass Lowell game I attended on November 10, 2023[^1] - and I'll start with a little bit of information on them (as the university owns the arena)._
 
 The University of Massachusetts Lowell (commonly known as UMass Lowell or UML) has a very interesting history. The "current" school was founded in the 1970s as the merger of two schools: Lowell State College and Lowell Technological Institute. Originally, the merged school was the University of Lowell, but merged with the University of Massachusetts system in 1991 (hence the quotes around "current" in the last sentence).
 

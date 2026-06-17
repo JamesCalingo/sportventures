@@ -2,7 +2,7 @@
 display: "Da Rules"
 title: "The Jersey Rules"
 subtitle: "My rules for collecting jerseys - because limits have to be set"
-date: 22 February 2026
+publishDate: 22 February 2026
 published: true
 pinned: false
 tags: ["Other Content"]

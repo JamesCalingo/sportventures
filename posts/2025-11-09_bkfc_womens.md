@@ -1,8 +1,9 @@
 ---
-display: "Brooklyn FC (11/8/25)"
+display: "Brooklyn FC"
 title: "Brooklyn FC (Gainbridge Super League) @ Maimonides Park (Brooklyn, NY)"
 subtitle: "After a three month delay, I FINALLY get to see Brooklyn FC"
-date: 9 November 2025
+date: 8 November 2025
+publishDate: 9 November 2025
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on November 8, 2025._
 
 Brooklyn FC was established in 2023 by a group of investors. Originally, the plan was for a men’s team to be established in USL League One (the second tier of the USL, and the "third tier" of soccer in America) and a women’s team to be established in the newly formed USL Super League (a top level women’s league)[^1] in 2025. However, the women’s team had their debut moved up to 2024, while the men’s team got “promoted” to the USL Championship (the highest level of the USL and the second tier of US Soccer), but had their debut postponed to 2026.
 

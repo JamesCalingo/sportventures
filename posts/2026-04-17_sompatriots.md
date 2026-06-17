@@ -1,8 +1,9 @@
 ---
-display: "Somerset Patriots (4/16/26)"
+display: "Somerset Patriots"
 title: "Somerset Patriots (Eastern League) @ TD Bank Ballpark (Bridgewater, NJ)"
 subtitle: "A former Indie darling that aligned with..."
-date: 17 April 2026
+date: 16 April 2026
+publishDate: 17 April 2026
 published: true
 pinned: false
 tags:
@@ -21,7 +22,7 @@ badge: badges/newtoblog.png
 background: images/2026/0416-somerset.jpeg
 ---
 
-_\*This trip occurred on April 16, 2026. I’ve been to this stadium AND seen this team before, but since I’ve never talked about either yet, I’ve indicated this situation with this “New to Blog” badge. I don't think I’ll use it that often, but I can almost guarantee that this is NOT the only time I'll use it._
+_\*I’ve been to this stadium AND seen this team before, but since I’ve never talked about either yet, I’ve indicated this situation with this “New to Blog” badge. I don't think I’ll use it that often, but I can almost guarantee that this is NOT the only time I'll use it._
 
 Oh, the Somerset Patriots.
 

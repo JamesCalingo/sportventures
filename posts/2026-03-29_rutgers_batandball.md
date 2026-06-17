@@ -1,8 +1,9 @@
 ---
-display: "Bat and Ball at Rutgers (3/28/26)"
+display: "Bat and Ball at Rutgers"
 title: "Rutgers Bat and Ball Sports DOUBLE FEATURE"
 subtitle: "I attend TWO GAMES AT THE SAME TIME"
-date: 29 March 2026
+date: 28 March 2026
+publishDate: 29 March 2026
 published: true
 pinned: false
 tags:
@@ -24,9 +25,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0328-rusoftball.jpeg"
 ---
 
-_\*This trip occurred on March 28, 2026._
-
-_I've also made a few visual updates to the blog, which were a bit of a struggle to implement in a way that's legible, but I do think it adds character._
+_I've made a few visual updates to the blog, which were a bit of a struggle to implement in a way that's legible, but I do think it adds character._
 
 I've gone over Rutgers and its various athletic programs MULTIPLE times in the past, but for those who don't know: Rutgers is...not exactly the "major sporting power" it seems to think it is (and I say this as an alumnus). We've got a football team that the rest of the Big Ten poaches easy wins from, a middling men's basketball team (even if they did [some cool stuff when I saw them](2025-12-21_rubasketball2#mens)), a women's basketball team that largely scrapes by against seemingly "[lesser](2025-11-25_rubasketball_womens) [competition](2025-12-21_rubasketball2#womens)" (then gets waxed by [an actually decent team](2025-12-11_princetonbasketball))[^1], and also other things like a [lacrosse team](2025-08-26_rulacrosse_mens) (which I THINK is supposed to be good but got blown out the day I saw them).
 
@@ -44,7 +43,7 @@ The two stadiums are basically right next to each other, and are VERY similar - 
 
 ## Rutgers Scarlet Knights Baseball (Big Ten) @ Bainton Field (Piscataway, NJ)
 
-### _[26 IN 26 STOP 8](26in26list)_
+## _[26 IN 26 STOP 8](26in26list)_
 
 ![An image of a pitch being thrown at a Rutgers baseball game](/images/2026/0328-rubaseball.jpeg)
 
@@ -62,7 +61,7 @@ I should also mention that the school is working with Middlesex County on a more
 
 ## Rutgers Scarlet Knights Softball (Big Ten) @ Rutgers Softball Field (Piscataway, NJ)
 
-### _[26 IN 26 STOP 9](26in26list)_
+## _[26 IN 26 STOP 9](26in26list)_
 
 ![An image of a pitch being thrown at a Rutgers softball game](/images/2026/0328-rusoftball.jpeg)
 

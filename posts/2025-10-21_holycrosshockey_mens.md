@@ -2,7 +2,7 @@
 display: "HOCKEY CATCH-UP: Holy Cross"
 title: "FROM THE ARCHIVES: Holy Cross Crusaders Men's Hockey (Atlantic Hockey America) @ Hart Center at the Luth Athletic Complex (Worcester, MA)"
 subtitle: 'Or "What happens when you go to a college RIGHT BEFORE Thanksgiving"'
-date: 21 October 2025
+publishDate: 21 October 2025
 published: true
 pinned: false
 tags:

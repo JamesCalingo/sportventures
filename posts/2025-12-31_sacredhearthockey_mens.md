@@ -1,8 +1,9 @@
 ---
-display: "Sacred Heart Hockey (12/30/25)"
+display: "Sacred Heart Hockey"
 title: "Sacred Heart Pioneers Men's Hockey (Atlantic Hockey America) @ Martire Family Arena (Fairfield, CT)"
 subtitle: "My final trip for 2025: one of college hockey's newest gems"
-date: 31 December 2025
+date: 30 December 2025
+publishDate: 31 December 2025
 published: true
 pinned: false
 tags:
@@ -18,8 +19,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on December 30, 2025, but there's also a little bit about a visit to the university bookstore on a date I forgot._
 
 Sacred Heart University in Fairfield, CT (about 60 miles from the heart of New York City) is a rather small university...you’d think. However, it’s the second largest Catholic university in New England (behind good ol’ Boston College), and was one of the first Catholic universities to be staffed by laypeople (i.e. not priests/nuns/other religious men and women). It's also a surprisingly "young" institution, having been founded in 1963 (which means that there's a decent chance that some of the professors who teach there are older than the university itself).
 

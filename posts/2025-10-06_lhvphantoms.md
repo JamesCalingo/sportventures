@@ -1,8 +1,9 @@
 ---
-display: "Lehigh Valley Phantoms (10/5/25)"
+display: "Lehigh Valley Phantoms"
 title: "Lehigh Valley Phantoms (American Hockey League) @ PPL Center (Allentown, PA)"
 subtitle: "The life of a Phantom(s preseason game)"
-date: 6 October 2025
+date: 5 October 2025
+publishDate: 6 October 2025
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on October 5, 2025._
 
 Since this is the first time we’re diving into affiliated "minor league hockey" on this blog, I figured I’d give a little rundown of how it's structured, because it’s (theoretically) a lot simpler than baseball’s structure.
 

@@ -1,8 +1,9 @@
 ---
-display: "Reading Fightin Phils (7/22/25)"
+display: "Reading Fightin Phils"
 title: "Reading Fightin Phils (Eastern League) @ FirstEnergy Stadium (Reading, PA)"
 subtitle: 'When a place calls itself "Baseballtown", you have to check it out'
-date: 24 August 2025
+date: 22 July 2025
+publishDate: 24 August 2025
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on July 22, 2025._
 
 ![America's Classic Ballpark, Baseballtown](/images/2025/baseballtown.jpeg)
 

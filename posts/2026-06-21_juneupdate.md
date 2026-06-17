@@ -2,7 +2,7 @@
 display: ""
 title: "June Update"
 subtitle: "Not one, not two, but FOUR new posts are now available"
-date: 21 June 2026
+publishDate: 21 June 2026
 published: true
 pinned: false
 tags: []
@@ -15,7 +15,7 @@ If you're reading this, then I recently got back from a week long vacation in th
 
 Originally, I was going to publish my posts on these games one at a time starting today (June 21). However...I'm going to be quite busy this week into next weekend, and space for posting about "old" trips is...a bit tight. Also, I felt that it would be kinda awkward if the dates of the posts was WAY off for people going back through this blog's archives (outside of my initial "burst" when I started this blog).
 
-Therefore, I've decided to "retroactively" publish these posts - they're all "dated" the way I normally do this (i.e. the day AFTER the game), but they're all up now:
+Therefore, I've decided to "retroactively" publish these posts - but if you poke around a bit, you'll notice that I've made MAJOR changes to the layout of this blog and how posts are dated, so this also marks the debut of THOSE changes as well! Anyway: here's what's new:
 
 - [Myrtle Beach Pelicans](2026-06-15_mbpelicans)
 - [Shallotte Shallywags](2026-06-16_shashallywags)

@@ -1,8 +1,9 @@
 ---
-display: "Danbury Hat Tricks (2/14/26)"
+display: "Danbury Hat Tricks"
 title: "Danbury Hat Tricks (North American Hockey League) @ Danbury Ice Arena (Danbury, CT)"
 subtitle: "Who doesn't *love* a little junior hockey?"
-date: 15 February 2026
+date: 14 February 2026
+publishDate: 15 February 2026
 published: true
 pinned: false
 tags:
@@ -18,9 +19,7 @@ tags:
 badge: "badges/firstvisit.png"
 ---
 
-### _[26 IN 26 STOP 5](/26in26list)_
-
-_\*This trip occurred on February 14, 2026._
+## _[26 IN 26 STOP 5](/26in26list)_
 
 Danbury, CT is an interesting place. Aside from being the birthplace of two of my cousins, it’s also been the home of a whole host of low level hockey teams, many of which have called the same place home: the Danbury Ice Arena.
 

@@ -2,7 +2,8 @@
 display: "Yankee Stadium goes ape****"
 title: "Savannah Bananas vs. The Party Animals @ Yankee Stadium (Bronx, NY)"
 subtitle: "Banana Ball where you’d LEAST expect"
-date: 25 April 2026
+date: 24 April 2026
+publishDate: 25 April 2026
 published: true
 pinned: false
 tags:
@@ -18,8 +19,6 @@ tags:
   ]
 background: "images/2026/0424-aladdin.jpeg"
 ---
-
-_\*This trip occurred on April 24, 2026._
 
 Last year, [I wrote over **8,000** words on the Savannah Bananas and Banana Ball](2025-08-23_bananaball_bos) - and that was just ONE GAME. This year, I may or may not approach that number again, but if I do, it’ll be a bit more spread out, as I intend to see more than one Banana Ball game this year - starting with this trip.
 

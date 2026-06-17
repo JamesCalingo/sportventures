@@ -2,7 +2,7 @@
 display: "The Future of Watching"
 title: "On the Future of Watching Sports"
 subtitle: "What it means to be a fan in an increasingly fan unfriendly environment"
-date: 12 September 2025
+publishDate: 12 September 2025
 published: true
 pinned: false
 tags: ["Other Content"]

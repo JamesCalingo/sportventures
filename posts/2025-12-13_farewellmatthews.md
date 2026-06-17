@@ -2,7 +2,7 @@
 display: "Farewell Matthews Arena"
 title: "Farewell Matthews Arena"
 subtitle: "A fond-ish farewell to a true sports landmark"
-date: 13 December 2025
+publishDate: 13 December 2025
 published: true
 pinned: false
 tags:

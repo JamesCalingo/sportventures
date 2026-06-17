@@ -1,8 +1,9 @@
 ---
-display: "Scranton/Wilkes-Barre RailRiders (8/17/25)"
+display: "Scranton/Wilkes-Barre RailRiders"
 title: "Scranton/Wilkes-Barre RailRiders (International League) @ PNC Field (Moosic, PA)"
 subtitle: "Old friends and new friends in Scranton/Wilkes-Barre"
-date: 18 August 2025
+date: 17 August 2025
+publishDate: 18 August 2025
 published: true
 pinned: false
 tags:
@@ -20,9 +21,7 @@ tags:
   ]
 ---
 
-_\*This trip occurred on August 17, 2025. I decided to post about it here rather than waiting to catch up with the rest of my backlog - partially as a sort of "preview" of how rapidly I expect non-backlog posts to be posted._
-
-_Also, I’m sure at least some of you out there understand what I’m referencing in the subtitle - I couldn’t stop thinking about it after hearing how the “Barre” in Wilkes-Barre is pronounced..._
+_This trip occurred in the middle of me "catching up" with my writings after I started this blog, which is why it's formatted a BIT differently from the posts around it. Also, I’m sure at least some of you out there understand what I’m referencing in the subtitle - I couldn’t stop thinking about it after hearing how the “Barre” in Wilkes-Barre is pronounced..._
 
 ![The hills beyond the outfield of PNC Field](/images/2025/swb.jpeg)
 

@@ -1,8 +1,9 @@
 ---
-display: "Staten Island FerryHawks (5/29/25)"
+display: "Staten Island FerryHawks"
 title: "Staten Island FerryHawks (Atlantic League) @ SIUH Community Ballpark (Staten Island, NY)"
 subtitle: "A borough often scorned gets a second chance at baseball"
-date: 14 August 2025
+date: 29 May 2025
+publishDate: 14 August 2025
 published: true
 pinned: false
 tags:
@@ -16,8 +17,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on May 29, 2025._
 
 ![An image of the New York City skyline as seen from SIUH Community Ballpark](/images/2025/siuhskyline.jpeg)<br>
 

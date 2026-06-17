@@ -1,8 +1,9 @@
 ---
-display: "For the Birds (6/14/26)"
+display: "For the Birds"
 title: "Myrtle Beach Pelicans (Carolina League) @ Pelicans Ballpark (Myrtle Beach, SC)"
 subtitle: "I FINALLY experience Baseball at the Beach"
-date: 15 June 2026
+date: 14 June 2026
+publishDate: 15 June 2026
 published: true
 pinned: false
 tags:
@@ -21,9 +22,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0614-pelicansballpark.jpeg"
 ---
 
-### _[26 IN 26 STOP 20](/26in26list)_
-
-_\*This trip occurred on June 14, 2026._
+## _[26 IN 26 STOP 20](/26in26list)_
 
 As I understand it, Myrtle Beach is one of South Carolina’s most popular tourist spots (with one of the other BIG ones being Hilton Head Island at the other end of the state's coastline). I have no idea what the actual statistics are, but it is one of the most visited sites in South Carolina, and a YouTuber I watched a TON of back in the day is originally from Myrtle Beach. While I’ve personally never spent a night in Myrtle Beach, my extended family has been doing biannual vacations to a small community just across the Carolina border since 2010. In addition, a bunch of my friends made the trip down for July 4th weekend one year, but I had prior plans (in CANADA) - though I heard some WILD things happened on that trip[^1].
 

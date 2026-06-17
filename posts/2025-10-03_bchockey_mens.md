@@ -2,7 +2,7 @@
 display: "HOCKEY CATCH-UP: Boston College"
 title: "FROM THE ARCHIVES: Boston College Eagles Men's Hockey (Hockey East) @ (Kelley Rink at) Conte Forum (Chestnut Hill, MA)"
 subtitle: "The hockey team closest to my childhood home"
-date: 3 October 2025
+publishDate: 3 October 2025
 published: true
 pinned: false
 tags:

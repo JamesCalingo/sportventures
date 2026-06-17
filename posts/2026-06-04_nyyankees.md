@@ -2,7 +2,8 @@
 display: "Heck Friezes Over"
 title: "New York Yankees (Major League Baseball) @ Yankee Stadium (Bronx, NY)"
 subtitle: "I CANNOT believe this is a thing"
-date: 4 June 2026
+date: 2 June 2026
+publishDate: 3 June 2026
 published: true
 pinned: false
 tags:
@@ -18,8 +19,6 @@ tags:
 badge: "badges/newtoblog.png"
 background: "images/2026/0602-why.jpeg"
 ---
-
-_\*This trip occurred on June 2, 2026._
 
 If you know anything about baseball, then you probably don’t need me to explain the history of the New York Yankees. Heck, as someone who viscerally _dislikes_ them, I feel like the less I say here, the better.
 

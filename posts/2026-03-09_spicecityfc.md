@@ -1,8 +1,9 @@
 ---
-display: "Spice City FC (3/8/26)"
+display: "Spice City FC"
 title: "Spice City Fútbol Club (Major Arena Soccer League 2) @ Danbury Ice Arena (Danbury, CT)"
 subtitle: "¿Listo para el fútbol caliente?"
-date: 9 March 2026
+date: 8 March 2026
+publishDate: 9 March 2026
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
 badge: "badges/newteam.png"
 background: "/images/2026/0308-scfc.jpeg"
 ---
-
-_\*This trip occurred on March 8, 2026._
 
 Indoor/Arena soccer[^1] is a bit of a loaded term. For most soccer fans around the world, the term more than likely refers to _futsal_ - a form of soccer on a smaller court/field where individual skillsets are more important than in the "regular" game. Here in the United States, however, indoor soccer is basically a hybrid of soccer and hockey (similar to what [box lacrosse](2025-08-27_phiwings) is to [field lacrosse](2025-08-26_rulacrosse_mens)) - five "outfield" players plus a goalkeeper on an enclosed field where the walls are "in play" (generally a hockey rink covered with turf - though field dimensions can vary WIDELY).
 

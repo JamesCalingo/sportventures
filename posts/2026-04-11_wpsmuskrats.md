@@ -1,8 +1,8 @@
 ---
-display: "The Last Day of Summer (7/30/22)"
+display: "The Last Day of Summer"
 title: "Winnipesaukee Muskrats (New England Collegiate Baseball League) @ Robbie Mills Field (Laconia, NH)"
 subtitle: "A story of a team lost to a cruel fate"
-date: 11 April 2026
+publishDate: 11 April 2026
 published: true
 pinned: false
 tags:
@@ -19,7 +19,7 @@ background: "images/2026/robbiemillsfield.jpg"
 
 _This is the story of one of my old baseball trips. The trip occurred BEFORE I started truly writing stuff about stadiums in earnest, and I don’t remember every single detail about it, but a few stand out to me for reasons you’ll see soon enough._
 
-July 30, 2022.
+## July 30, 2022.
 
 As July turns into August, summer collegiate baseball begins to wind down. Many of the players have colleges to get back to, but there are still playoffs to be played and champions to be determined (which, unfortunately, has contributed to a decline in summer league participation; more on that later). Finding myself with nothing to do, and wanting to find SOMETHING, I look around at the schedule of the New England Collegiate Baseball League and find one game that piques my interest:
 

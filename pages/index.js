@@ -20,7 +20,7 @@ const Index = () => {
         </div>
       }
 
-      <NewestPost slug={latest.slug} display={latest.frontmatter.display ? latest.frontmatter.display : latest.frontmatter.title} subtitle={latest.frontmatter.subtitle} date={latest.frontmatter.date} background={latest.frontmatter.background} />
+      <NewestPost slug={latest.slug} display={latest.frontmatter.display ? latest.frontmatter.display : latest.frontmatter.title} subtitle={latest.frontmatter.subtitle} date={latest.frontmatter.date ? latest.frontmatter.date : latest.frontmatter.publishDate} background={latest.frontmatter.background} />
 
       <div className="section-header">
         <span>RECENT POSTS</span>

@@ -1,8 +1,9 @@
 ---
-display: "BU Women's Hockey (1/17/26)"
+display: "BU Women's Hockey"
 title: "Boston University Terriers Women's Hockey (Hockey East) @ Walter Brown Arena (Boston, MA)"
 subtitle: 'The Hockey East version of "No Boys Allowed"'
-date: 18 January 2026
+date: 17 January 2026
+publishDate: 18 January 2026
 published: true
 pinned: false
 tags:
@@ -23,9 +24,7 @@ tags:
 badge: "badges/firstvisit.png"
 ---
 
-### _[26 IN 26 STOP 2](26in26list)_
-
-_\*This trip occurred on January 17, 2026._
+## _[26 IN 26 STOP 2](26in26list)_
 
 Before I dive into the specifics of BU's women's hockey team, I should probably give a few details about NCAA women's hockey as a whole (something I probably should've read more about before visiting [Princeton](2025-11-16_princetonhockey#womens)...).
 

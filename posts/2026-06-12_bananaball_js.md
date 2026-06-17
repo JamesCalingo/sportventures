@@ -2,7 +2,8 @@
 display: "Banana Beach Ball"
 title: "Loco Beach Coconuts vs. The Party Animals @ ShoreTown Ballpark (Lakewood, NJ)"
 subtitle: "Banana Ball gets a little cray cray"
-date: 12 June 2026
+date: 11 June 2026
+publishDate: 12 June 2026
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
 badge: "/badges/newteam.png"
 background: "images/2026/0611-locobeach.jpeg"
 ---
-
-_\*This trip occurred on June 11, 2026._
 
 Where in the world is Loco Beach? I'm not sure if _anyone_ has the answer, but I'm also not sure how important that is...as long as it's not near Ep{**THE REST OF THIS JOKE WAS DEEMED TOO CONTROVERSIAL FOR THIS BLOG**}.
 

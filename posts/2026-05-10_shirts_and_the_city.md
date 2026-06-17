@@ -1,7 +1,7 @@
 ---
 title: "Shirts and the City"
 subtitle: 'or "I am FORCED to learn some modicum of self-control"'
-date: 10 May 2026
+publishDate: 10 May 2026
 published: true
 pinned: false
 tags: ["Football", "Soccer", "Other Content"]

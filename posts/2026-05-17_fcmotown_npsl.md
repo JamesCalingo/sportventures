@@ -1,8 +1,9 @@
 ---
-display: "FC Motown (5/16/26)"
+display: "FC Motown"
 title: "FC Motown (National Premier Soccer League) @ Ranger Stadium (Madison, NJ)"
 subtitle: "A visit to the local soccer club"
-date: 17 May 2026
+date: 16 May 20266
+publishDate: 17 May 2026
 published: true
 pinned: false
 tags:
@@ -19,9 +20,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0516-motown.jpeg"
 ---
 
-### _[26 IN 26 STOP 13](/26in26list)_
-
-_\*This trip occurred on May 16, 2026._
+## _[26 IN 26 STOP 13](/26in26list)_
 
 The National Premier Soccer League is...a bit hard to explain. It’s the highest level of an amateur system called the United States Adult Soccer Association (or USASA), and features purely amateur players (i.e. non-professionals). There are a fair number of college players in the league (as part of the season is during the summer, and it's essentially the same level as USL2), but the schedule for the NPSL is WEIRD: the league is divided into many divisions based on geography, but the divisions don’t all fully share a leadership group. What you end up with is a league that is “decentralized”: each division has its own schedule, and some divisions start way earlier than others (though I've heard that this is partially weather related).
 

@@ -2,7 +2,7 @@
 display: "HOCKEY CATCH-UP: Merrimack"
 title: "FROM THE ARCHIVES: Merrimack Warriors Men's Hockey (Hockey East) @ J. Thom Lawler Rink (North Andover, MA)"
 subtitle: "The official college hockey team of Pope Leo XIV (probably)"
-date: 10 October 2025
+publishDate: 10 October 2025
 published: true
 pinned: false
 tags:

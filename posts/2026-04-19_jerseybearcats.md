@@ -1,8 +1,9 @@
 ---
-display: "Jersey Bearcats (4/18/26)"
+display: "Jersey Bearcats"
 title: "Jersey Bearcats (American Arena League) @ Warinanco Sports Complex (Roselle, NJ)"
 subtitle: "Are you ready for some (partially) indoor football?"
-date: 19 April 2026
+date: 18 April 2026
+publishDate: 19 April 2026
 published: true
 pinned: false
 tags:
@@ -19,9 +20,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0419-warinanco.jpeg"
 ---
 
-### [26 IN 26 STOP 11](26in26list)
-
-_\*This trip occurred on April 18, 2026._
+## _[26 IN 26 STOP 11](26in26list)_
 
 Indoor football is a sport with a very WILD history. While there were a plethora of random exhibition indoor games held throughout the early part of the 20th century (and even an NFL playoff game), the sport as it is known today first debuted in 1987 when an executive who had previously worked with the NFL founded the Arena Football League - the first indoor football league (who, it should be noted, owned the trademark for "Arena Football" - hence the sport being called "indoor football" instead).
 
