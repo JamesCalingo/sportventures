@@ -5,7 +5,7 @@ subtitle: "Not one, not two, but FOUR new posts are now available"
 publishDate: 21 June 2026
 published: true
 pinned: false
-tags: []
+tags: ["Other Content"]
 badge:
 ---
 
@@ -23,3 +23,7 @@ Therefore, I've decided to "retroactively" publish these posts - but if you poke
 - [Oak Island Loggerheads](2026-06-19_okiloggerheads)
 
 I've also made some updates to the [Loco Beach Coconuts](2026-06-12_bananaball_js) post, as I'm finally able to explain why I went on a Thursday as opposed to a different day (it would've most likely been Friday had I not had to leave that day).
+
+### ON DECK
+
+I almost went to a FIFTH baseball game during this vacation, but didn't. I'll explain more about the team I didn't visit tomorrow (as they would've gotten the "NEW TO BLOG" badge had I gone).

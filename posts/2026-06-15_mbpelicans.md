@@ -30,6 +30,8 @@ In 1999, Minor League Baseball joined the list of things to do in Myrtle Beach w
 
 ![A photo of Pelicans Ballpark](/images/2026/0614-pelicansballpark.jpeg)
 
+<figcaption>I believe that green thing in left field with the "Champions Club" logo is the stadium's old scoreboard</figcaption>
+
 Their stadium - which has gone through a bevy of names but is currently just "Pelicans Ballpark" - opened with the team’s debut in 1999, and, among other things, was the filming site for an HBO show set in Myrtle Beach (_Eastbound and Down_). Questions about their future arose post-MiLB realignment due to the stadium’s need for improvements, but in 2025 (right at the deadline when the improvements needed to be made), the team, city (which owns the majority stake in the park), and Horry County (which Myrtle Beach is a part of and owns a minority stake in the park) came to an agreement on the upgrades[^3]. On some level, it's somewhat unremarkable as far as Minor League stadiums go, but there are a few things that make it interesting.
 
 First, similar to a number of stadiums, the seating bowl is split into upper and lower sections, and similar to [Heritage Financial Park](2025-08-10_hvrenegades), the main concourse runs under the seating bowl (as opposed to on top of it like in [Trenton](2025-08-15_trethunder) and [Somerset](2026-04-17_sompatriots)). However, the main gate is in right field as opposed to behind home plate, and the walkway between the upper and lower seating areas is much wider.

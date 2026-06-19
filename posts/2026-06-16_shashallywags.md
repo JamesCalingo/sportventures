@@ -51,7 +51,7 @@ When I found out about the ONSL and its teams, several teams were in the process
 
 The press box here features a concession stand, and in addition to various concession items, the team had shirts and player hats available for sale, as well as (what I think was only) ONE jersey.
 
-On a "technically not available for sale but something fans can go home with" note, I ended up finding a foul ball that flew into the parking lot during the game, and it was branded as an "Official Baseball of The Players League" and NOT an "Old North State League" ball, so I assume other member leagues use the same ball (though proving that will be near impossible...).
+On a "technically not available for sale but something fans can go home with" note, I ended up finding a foul ball that flew into the parking lot during the game, and it was branded as an "Official Baseball of The Players League" and NOT an "Old North State League" ball, so I assume other member leagues use the same ball (though proving that will be near impossible...). I will also note here that it seems that the team and/or league has instructed its players/teams to try and "conserve" baseballs: I heard a player make a joke about it during the game, and players from the Shallywags dugout would often run out to try and find foul balls that went out of play on their side of the field (first base side).
 
 ---
 
