@@ -11,6 +11,9 @@ header {
   font-size: 32pt;
   margin: 0;
   padding: 10px;
+  background: green;
+  background: linear-gradient(180deg, rgba(0, 128, 0, 1) 0%, rgba(0, 128, 0, 1) 50%, rgba(255, 165, 0, 1) 100%);
+  color: white;
 }
 
 main {
@@ -20,10 +23,16 @@ main {
 button {
   font-size: 16pt;
   padding: 10px 20px;
-  border: 2px solid green;
+  border: 2px solid orange;
   border-radius: 5px;
-  background: white;
+  background: green;
+  color: white;
   cursor: pointer;
+}
+
+button:hover {
+  background: orange;
+  border: 2px solid green;
 }
 
 article {
@@ -87,6 +96,8 @@ figcaption {
 #blog_title {
   font-size: 74pt;
   margin: 0;
+  color: white;
+  background: linear-gradient(180deg, rgba(0, 128, 0, 1) 0%, rgba(0, 128, 0, 1) 50%, rgba(255, 165, 0, 1) 100%);
 }
 
 #blog_tag {
@@ -186,7 +197,7 @@ figcaption {
 
 .grid-post:hover {
   background: green;
-  border-color: white;
+  border-color: orange;
   color: white;
 }
 
@@ -233,6 +244,12 @@ figcaption {
   font-size: 28pt;
 }
 
+.post-header {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 25px;
+}
+
 .tags-container p {
   margin-bottom: 0
 }
@@ -246,8 +263,11 @@ figcaption {
   text-align: center;
 }
 
-.title {
+
+
+.post-title {
   font-size: 28pt;
+  margin: 0;
 }
 
 .description {
@@ -314,6 +334,7 @@ figcaption {
 
   #blog_title {
     font-size: 36pt;
+
   }
 
   #blog_tag {

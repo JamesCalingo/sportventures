@@ -1,8 +1,9 @@
 ---
-display: "FC Motown STA (5/21/26)"
+display: "FC Motown STA"
 title: "FC Motown STA (USL League Two) @ Ranger Stadium (Madison, NJ)"
 subtitle: "Another visit to the local soccer club"
-date: 22 May 2026
+date: 21 May 2026
+publishDate: 22 May 2026
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
 badge: "/badges/newteam.png"
 background: "images/2026/0521-motownsta.jpeg"
 ---
-
-_\*This trip occurred on May 21, 2026._
 
 Before we get to today's "main event", I'd like to mention one thing:
 

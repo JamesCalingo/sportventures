@@ -1,8 +1,9 @@
 ---
-display: "Wilmington Blue Rocks (5/2/26)"
+display: "Wilmington Blue Rocks"
 title: "Wilmington Blue Rocks (South Atlantic League) @ Judy Johnson Field at Daniel S. Frawley Stadium (Wilmington, DE)"
 subtitle: "The first time I’ve spent more than 30 minutes in the state of Delaware"
-date: 3 May 2026
+date: 2 May 2026
+publishDate: 3 May 2026
 published: true
 pinned: false
 tags:
@@ -22,9 +23,7 @@ badge: "/badges/firstvisit.png"
 background: "images/2026/0502-frawley.jpeg"
 ---
 
-### _[26 IN 26 STOP 12](/26in26list)_
-
-_\*This trip occurred on May 2, 2026._
+## _[26 IN 26 STOP 12](/26in26list)_
 
 Founded in 1993 when the Peninsula Pilots moved from Hampton, Virginia[^1], the Wilmington Blue Rocks were named after a former minor league team in Wilmington and a long-time Carolina League member (which is mildly odd given how far they are from the Carolinas) until the 2020 MiLB realignment, when they "moved up" (as the Carolina League became Single-A level) and became a South Atlantic League team. As a member of the Carolina League, the team was decently successful both on the field (five Carolina League championships) and in the stands (usually in the upper half of the Carolina League - at least for the 2010s).
 

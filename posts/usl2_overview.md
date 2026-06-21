@@ -2,7 +2,7 @@
 display: "An Intro to USL2"
 title: "USL League Two: A Primer"
 subtitle: 
-date: 
+publishDate: 
 published: false
 pinned: false
 ---

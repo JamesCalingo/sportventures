@@ -2,7 +2,8 @@
 display: "The Ironbound"
 title: "Ironbound SC (USL League Two) @ Harrison High School (Harrison, NJ)"
 subtitle: "A seemingly innocuous game produces a blog first (NOT CLICKBAIT)"
-date: 31 May 2026
+date: 30 May 2026
+publishDate: 31 May 2026
 published: true
 pinned: false
 tags:
@@ -20,9 +21,9 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0530-ironbound.jpeg"
 ---
 
-### _[26 IN 26 STOP 17](/26in26list)_
+## _[26 IN 26 STOP 17](/26in26list)_
 
-_\*This trip occurred on May 30, 2026. For more on USL2, [here's an overview](usl2_overview)._
+_\*For more on USL2, [here's an overview](usl2_overview)._
 
 So far, I've talked about four pre-professional/high-level amateur teams on this blog: [Vermont Green](2025-08-21_vgfc), [FC Motown](2026-05-17_fcmotown_npsl), [New Jersey United](2026-05-24_njunited), and the [Staten Island Monarchs](2026-05-25_simonarchs). Today marks a bit of a change however, because where these teams are all mainly just small local teams with not much going on "outside" the main team (save for maybe the whole [STA thing](2026-05-22_fcmotownsta)), today's team is quite different: it's an entire youth soccer program designed to teach kids how to play soccer (aka an academy - which none of the other teams mentioned really have).
 

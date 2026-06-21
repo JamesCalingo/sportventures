@@ -1,8 +1,9 @@
 ---
-display: "Chatham Anglers (7/3/25)"
+display: "Chatham Anglers"
 title: "Chatham Anglers (Cape Cod Baseball League) @ Veterans Field (Chatham, MA)"
 subtitle: "One of the crown jewels of pre-professional baseball IMO"
-date: 17 August 2025
+date: 3 July 2025
+publishDate: 17 August 2025
 published: true
 pinned: false
 tags:
@@ -17,7 +18,7 @@ tags:
   ]
 ---
 
-_\*This trip occurred on July 3, 2025. For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
+_\*For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
 
 ![Veterans Field in Chatham as viewed from the nearby street](/images/2025/chatham.jpeg)<br>
 

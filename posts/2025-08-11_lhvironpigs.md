@@ -1,8 +1,9 @@
 ---
-display: "Lehigh Valley IronPigs (5/8/25)"
+display: "Lehigh Valley IronPigs"
 title: "Lehigh Valley IronPigs (International League) @ Coca-Cola Park (Allentown, PA)"
 subtitle: '"Well we''re living here in Allentown..."'
-date: 11 August 2025
+date: 8 May 2025
+publishDate: 11 August 2025
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on May 8, 2025._
 
 ![A view from the outfield at Coca-Cola Park](/images/2025/lehighvalley.jpeg)
 

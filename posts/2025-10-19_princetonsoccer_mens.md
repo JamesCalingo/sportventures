@@ -1,8 +1,9 @@
 ---
-display: "Princeton Soccer (10/18/25)"
+display: "Princeton Soccer"
 title: "Princeton Tigers Men's Soccer (Ivy League) @ Myslik Field at Roberts Stadium (Princeton, NJ)"
 subtitle: "A visit to a college football landmark - for association football"
-date: 19 October 2025
+date: 18 October 2025
+publishDate: 19 October 2025
 published: true
 pinned: false
 tags:
@@ -18,8 +19,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on October 18, 2025._
 
 Princeton University is one of America’s oldest colleges and a member of the famous Ivy League. I won’t get too deep into the school as they have a LONG alumni list (being the fourth oldest college in the United States will do that[^1]), but I will mention that their football team is technically tied with Rutgers for being the oldest football program in the United States - after all, SOMEONE had to be the opponent for the First Ever College Football Game™.
 

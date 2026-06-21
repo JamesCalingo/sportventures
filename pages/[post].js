@@ -7,6 +7,7 @@ import rehypeRaw from "rehype-raw";
 import remarkRehype from "remark-rehype";
 import remarkGfm from "remark-gfm";
 import Error500 from "./500";
+import { displayDate } from "../utils/utils.js";
 
 function Post({ frontmatter, body }) {
   if (!frontmatter || !Object.keys(frontmatter).length) return <Error500 />
@@ -15,13 +16,12 @@ function Post({ frontmatter, body }) {
     <Layout pageTitle={frontmatter.display ? `${frontmatter.display} - Sportventures` : `${frontmatter.title} - Sportventures`}>
       <div>
         <article>
-          <div>
-          <h1 className="title">{frontmatter.title}</h1>
-          <h2 className="description">{frontmatter.subtitle}</h2>
-          <em><b>{frontmatter.date && new Date(frontmatter.date).toLocaleDateString()}</b></em>
+          <div className="post-header">
+            <em className="post-date">{displayDate(frontmatter.publishDate, frontmatter.date)}</em>
+            <h1 className="post-title">{frontmatter.title}</h1>
+            <h3 className="description">{frontmatter.subtitle}</h3>
+          {frontmatter.badge && <a href="/about#badges"><img className="badge" src={frontmatter.badge} alt={"A badge"} /></a>}
           </div>
-
-          {frontmatter.badge && <a href="/about#badges"><img className="badge" src={frontmatter.badge} alt={"A badge"}/></a>}
 
           <Markdown
             rehypePlugins={[rehypeRaw]}

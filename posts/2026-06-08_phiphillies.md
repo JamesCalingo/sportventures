@@ -1,8 +1,9 @@
 ---
-display: "A Phine Day Out (6/7/26)"
+display: "A Phine Day Out"
 title: "Philadelphia Phillies (Major League Baseball) @ Citizens Bank Park (Philadelphia, PA)"
 subtitle: "I revisit a ballpark I haven't seen in over 20 years"
-date: 8 June 2026
+date: 7 June 2026
+publishDate: 8 June 2026
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
 badge: "badges/newtoblog.png"
 background: "images/2026/0607/homeplateview.jpeg"
 ---
-
-_\*This trip occurred on June 7, 2026._
 
 With teams in the “Big Four” leagues, I feel like I don’t REALLY need to talk about their histories. They’re a lot more well known than the minor league and weird indie teams I tend to cover on this site, and their histories are better documented on places like their websites and Wikipedia.
 

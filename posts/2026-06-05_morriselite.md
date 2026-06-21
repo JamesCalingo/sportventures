@@ -2,7 +2,8 @@
 display: "Meet the Elite"
 title: "Morris Elite SC (USL League Two) @ Frederick Douglass Field (Newark, NJ)"
 subtitle: "Summer soccer at my alma mater"
-date: 5 June 2026
+date: 3 June 2026
+publishDate: 4 June 2026
 published: true
 pinned: false
 tags:
@@ -20,9 +21,9 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0603-runewark.jpeg"
 ---
 
-### _[26 IN 26 STOP 18](/26in26list)_
+## _[26 IN 26 STOP 18](/26in26list)_
 
-_\*This trip occurred on June 3, 2026. For more on USL2, [here's an overview](usl2_overview)._
+_\*For more on USL2, [here's an overview](usl2_overview)._
 
 Morris Elite Soccer Club was founded in 2016 by a former player after his "pro career" ended, and has become one of the fastest growing youth soccer programs in the United States (according to the club). In 2021, the club started up a USL League Two team; however, said team has yet to make the USL playoffs. Also, despite being named "Morris" Elite and the organization being headquartered in Madison, NJ (where FC Motown happens to play), the USL2 team’s home stadium is not in Morris County - it’s at my (true) alma mater: Rutgers Newark!
 

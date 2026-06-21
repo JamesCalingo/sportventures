@@ -1,8 +1,9 @@
 ---
-display: "Princeton Football (11/15/25)"
+display: "Princeton Football"
 title: "Princeton Tigers Football (Ivy League) @ Powers Field at Princeton Stadium (Princeton, NJ)"
 subtitle: "A visit to a college football landmark - this time for ”the real thing”"
 date: 15 November 2025
+publishDate: 15 November 2025
 published: true
 pinned: false
 tags:

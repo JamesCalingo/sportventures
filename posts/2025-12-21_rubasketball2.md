@@ -2,7 +2,8 @@
 display: "Rutgers and the Winter Village"
 title: "Rutgers Scarlet Knights Basketball (Big Ten) @ Jersey Mike's Arena (Piscataway, NJ)"
 subtitle: "A holiday hoops spectacular"
-date: 21 December 2025
+date: 20 December 2025
+publishDate: 21 December 2025
 published: true
 pinned: false
 tags:
@@ -18,8 +19,6 @@ tags:
     "Repeat Visit",
   ]
 ---
-
-_\*This trip occurred on December 20, 2025._
 
 My original thought for today was going to do some sightseeing in New York City with my friends whom I typically play pickleball with. However, pretty much none of them were available, but I was fine going by myself...and then I got an email: for one low price, I could get tickets to not one, but TWO Rutgers basketball games on the same day! The only caveat was that you'd be WAY UP at the 300 level for the men's game, but honestly, given how expensive men's tickets usually are (case in point: just a men's ticket in the 300s for this date was more than this combination ticket), it's a small price to pay (also, I ended up kinda liking the view - but not the climb).
 

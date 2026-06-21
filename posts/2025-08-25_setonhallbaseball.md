@@ -1,8 +1,9 @@
 ---
-display: "Seton Hall Baseball (3/11/25)"
+display: "Seton Hall Baseball"
 title: "Seton Hall Pirates Baseball (Big East) @ Owen T. Carroll Field (South Orange, NJ)"
 subtitle: "I go back to school to watch baseball"
-date: 25 August 2025
+date: 11 March 2025
+publishDate: 25 August 2025
 published: true
 pinned: false
 tags:
@@ -18,8 +19,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This visit occurred on March 11, 2025._
 
 In going over my calendar of sporting events, I had COMPLETELY forgotten that I came here once! Part of that is likely because this visit was before I started these reports; in fact, all but one of the rest of this month's posts are from games I attended before I started writing "2025 posts".
 

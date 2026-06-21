@@ -2,7 +2,7 @@
 display: "Places Unvisited"
 title: "Oh, the places you'll want to go to but can't fit"
 subtitle: 'A look back at some "missed connections" in 2025'
-date: 2 January 2026
+publishDate: 2 January 2026
 published: true
 pinned: false
 tags:
@@ -46,11 +46,15 @@ I’m not sure what to say about the Boulders: they’ve been around since 2011,
 
 The thing is, however, that I’ve been here a bunch of times before so when things started to get a little frantic for me, I didn’t feel quite as bad when I ended up having to cut this from my schedule (especially when you consider that there’s a parking fee).
 
+[I did end up visiting here in 2026](2026-05-08_rocboulders)
+
 ### SKYLANDS STADIUM (AUGUSTA, NJ) - SUSSEX COUNTY MINERS (FRONTIER LEAGUE)
 
 Skylands Stadium has been around since the 90s; it originally hosted a New York-Penn League team, then an independent league team that folded before the current independent league team (i.e. the Miners) were established in 2015.
 
 I kinda think that this is a cool stadium. Yes, it’s a hike to get to and it’s in the middle of basically nothing, but I like the aesthetic of the place plus parking is free. However, for the longest time, the highway leading to here had massive traffic issues due to a sinkhole. That situation has been resolved, and I did plan a somewhat last minute trip here, but it ended up getting shelved.
+
+[I did end up visiting here in 2026](2026-05-09_scminers)
 
 ### USTA BILLIE JEAN KING NATIONAL TENNIS CENTER (NEW YORK, NY) - US OPEN (FAN WEEK)
 

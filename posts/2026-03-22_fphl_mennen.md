@@ -1,8 +1,9 @@
 ---
-display: "Federal Prospects Hockey League (3/21/26)"
+display: "Federal Prospects Hockey League"
 title: "FEDERAL PROSPECTS HOCKEY LEAGUE: Danbury Hat Tricks vs. Watertown Wolves @ William G. Mennen Sports Arena (Morris Township, NJ)"
 subtitle: 'A visit to/from "Independent Hockey"'
-date: 22 March 2026
+date: 21 March 2026
+publishDate: 22 March 2026
 published: true
 pinned: false
 tags:
@@ -21,9 +22,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0321-mennenarena.jpeg"
 ---
 
-### _[26 IN 26 STOP 7](/26in26list)_
-
-_\*This trip occurred on March 21, 2026._
+## _[26 IN 26 STOP 7](/26in26list)_
 
 Some readers may remember me visiting the [Danbury "Jr." Hat Tricks](2026-02-15_dbyhattricks) about a month or so ago. While I mentioned that the "senior" Hat Tricks were in a league called the Federal Prospects Hockey League, I also noted that an FPHL game in Danbury was a tough sell due to timing. However...
 

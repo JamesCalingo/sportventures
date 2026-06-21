@@ -1,8 +1,9 @@
 ---
-display: "New Jersey Jackals (5/18/25)"
+display: "New Jersey Jackals"
 title: "New Jersey Jackals (Frontier League) @ Hinchliffe Stadium (Paterson, NJ)"
 subtitle: "A historic stadium gets a new lease on life"
-date: 12 August 2025
+date: 18 May 2025
+publishDate: 12 August 2025
 published: true
 pinned: false
 tags:
@@ -16,11 +17,9 @@ tags:
   ]
 ---
 
-_\*This trip occurred on May 18, 2025._
-
 ![A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.](/images/2025/hinchliffe.jpeg)<br>
 
-<figcaption>A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.</figcaption>
+<figcaption>Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.</figcaption>
 
 Paterson, New Jersey.
 

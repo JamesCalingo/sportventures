@@ -1,8 +1,9 @@
 ---
-display: "Rutgers Lacrosse (3/1/25)"
+display: "Rutgers Lacrosse"
 title: "Rutgers Scarlet Knights Men's Lacrosse (Big Ten) @ SHI Stadium (Piscataway, NJ)"
 subtitle: 'I visit the so called "Birthplace of College Football" for a completely different sport'
-date: 26 August 2025
+date: 1 March 2025
+publishDate: 26 August 2025
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on March 1, 2025._
 
 While it's hard for me to pin down a succinct description of (field) lacrosse, the best way to describe it is that it's similar to soccer, but with players using specialized sticks instead of their feet. It's famous for being more or less fully developed in North America by Native Americans, and those Native American roots are always present: it's one of the few sports where Native American nations field teams instead of their players playing for the U.S. (which is a bit of an issue for the sport's upcoming Olympic debut). While the official rules have been a bit "unclear" recently (partially due to its current pro league tinkering with them), the main things you really need to know are that it's a 10 vs. 10 game played on a field that's about as long as an American football field (though a bit wider).
 

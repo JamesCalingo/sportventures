@@ -1,8 +1,9 @@
 ---
-display: "New Hampshire Fisher Cats (4/4/26)"
+display: "New Hampshire Fisher Cats"
 title: "New Hampshire Fisher Cats (Eastern League) @ Delta Dental Stadium (Manchester, NH)"
 subtitle: "A trip that should've happened at least four years ago"
-date: 6 April 2026
+date: 4 April 2026
+publishDate: 6 April 2026
 published: true
 pinned: false
 tags:
@@ -22,9 +23,9 @@ badge: "badges/firstvisit.png"
 background: "/images/2026/0404-deltadentalstadium.jpeg"
 ---
 
-### _[26 IN 26 STOP 10](/26in26list)_
+## _[26 IN 26 STOP 10](/26in26list)_
 
-_\*This trip occurred on April 4, 2026 - I chose to "delay" this post a day due to Easter._
+_\*I chose to "delay" this post a day due to Easter._
 
 _Before I continue, I feel like I should also note that TECHNICALLY, I've been here before - several times, in fact. However, since all of those visits were limited to just the team store, I think this should count towards the 26 new venues I'm hoping to visit this year. In addition, several venues I'm thinking about going to fall under the same criteria as well (including a few where I actually saw the "main arena"), so there's that I guess._
 

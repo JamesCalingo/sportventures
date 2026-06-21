@@ -1,8 +1,9 @@
 ---
-display: "Stark Raving Baseball (5/14/26)"
+display: "Stark Raving Baseball"
 title: "Cosmic Baseball (Cosmic Chili Peppers vs. The Glowmojis) @ Coca-Cola Park (Allentown, PA)"
 subtitle: "Dancing in the Dark Light"
-date: 15 May 2026
+date: 14 May 2026
+publishDate: 15 May 2026
 published: true
 pinned: false
 tags:
@@ -19,7 +20,7 @@ badge: "badges/newteam.png"
 background: "images/2026/0514-darkness.jpeg"
 ---
 
-_\*This trip occurred on May 14, 2026, and if I'm being honest, the "NEW TEAM" badge doesn't really do this justice, but I don't have anything "better"._
+_\*If I'm being honest, the "NEW TEAM" badge doesn't really do this justice, but I don't have anything "better"._
 
 Back when I first talked about the [Savannah Bananas](2025-08-23_bananaball_bos), I mentioned that they used to part of a league called the Coastal Plain League. Apparently, said league is a hotbed for alternative forms of baseball, because today we're talking about another "alt baseball craze" started by a team from the CPL: Cosmic Baseball.
 

@@ -2,7 +2,7 @@
 display: "The Process"
 title: "Sportventures Insider: The Process"
 subtitle: 'An "inside look" into how things work'
-date: 9 February 2026
+publishDate: 9 February 2026
 published: true
 pinned: false
 tags: ["Other Content"]

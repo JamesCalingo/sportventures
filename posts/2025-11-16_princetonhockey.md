@@ -2,7 +2,7 @@
 display: "Princeton Hockey"
 title: "Princeton Tigers Hockey (ECAC Hockey) @ Hobey Baker Rink (Princeton, NJ)"
 subtitle: "Back-to-back nights at a hockey landmark"
-date: 16 November 2025
+publishDate: 16 November 2025
 published: true
 pinned: false
 tags:

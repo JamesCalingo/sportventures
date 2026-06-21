@@ -1,8 +1,9 @@
 ---
-display: "Nashua Silver Knights (7/4/25)"
+display: "Nashua Silver Knights"
 title: "Nashua Silver Knights (Futures League) @ Holman Stadium (Nashua, NH)"
 subtitle: "A historic stadium with a high-ish profile team"
-date: 19 August 2025
+date: 4 July 2025
+publishDate: 19 August 2025
 published: true
 pinned: false
 tags:
@@ -16,8 +17,6 @@ tags:
     "Outdoor Sports",
   ]
 ---
-
-_\*This trip occurred on July 4th, 2025._
 
 ![A photo I took ON THE FIELD at Holman Stadium back in 2022](/images/2025/nashua.jpeg)
 

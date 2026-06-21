@@ -5,7 +5,6 @@ function About() {
 
     return <Layout pageTitle={"About this site - Sportventures"}>
         <main>
-            <h2>About Me</h2>
 
             <p>I'm originally from the Greater Boston area, moved to New Jersey when I was 9, and have been here ever since (though I did spend two years in Boston as an adult).</p>
 

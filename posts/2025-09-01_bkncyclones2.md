@@ -1,8 +1,9 @@
 ---
-display: "Brooklyn Cyclones 2 (8/31/25)"
+display: "Brooklyn Cyclones 2"
 title: "Brooklyn Cyclones 2: Return to Coney Island"
 subtitle: "The first (and only) repeat trip of the 2025 baseball season is also its final trip"
-date: 1 September 2025
+date: 31 August 2025
+publishDate: 1 September 2025
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
     "Outdoor Sports",
   ]
 ---
-
-_\*This trip occurred on August 31, 2025._
 
 In prior years of my sports adventures (i.e. when I was living in Massachusetts), there were often several teams that I’d go and see multiple times a year (y'know, like Cape League teams since they're pretty close to each other). However, since I came back to Jersey, I haven’t been able to do that as much. Truth be told, I wasn’t sure if this year wasn’t going to feature any repeat visits to see certain teams again (outside of my two visits to Staten Island for two different events); I thought about several teams I wanted to return to, but never made any of those trips. Part of it is that the (increased) distance from where I live to a lot of these stadiums makes these trips difficult, but another part of that is due to the costs of tickets being more expensive than they used to be. Case in point: there's a recent article about how <a href = "https://www.baseballamerica.com/stories/milb-projected-to-draw-under-30-million-fans-for-first-time-in-decades/" target="blank">MiLB is expected to draw its lowest attendance in decades</a>, and a lot of fans are blaming rising costs for that. However, I was finally able to “follow through” with one of these "repeat visit plans" right at the end of the Minor League Baseball season.
 

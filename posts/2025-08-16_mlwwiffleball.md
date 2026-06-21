@@ -1,8 +1,9 @@
 ---
-display: "MLW Wiffle Ball (6/28/25)"
+display: "MLW Wiffle Ball"
 title: "MLW Wiffle Ball (Pacific Predators vs. Midwest Mallards) @ SIUH Community Park (Staten Island, NY)"
 subtitle: "A return to Staten Island to watch backyard sports gone semi-pro"
-date: 16 August 2025
+date: 28 June 2025
+publishDate: 16 August 2025
 published: true
 pinned: false
 tags:
@@ -16,7 +17,7 @@ tags:
   ]
 ---
 
-_\*This trip occurred on June 28, 2025. I was initially on the fence about how to write about this, as it’s a return to a place I’d already been to this year for a separate event; ultimately, I decided to make it its own post. As [I’ve already been here for the FerryHawks](2025-08-14_siferryhawks), I won’t talk about the facilities (for the most part), as they obviously haven’t changed since my last visit a month prior, but I’ll instead focus on the event itself. Also, as the focus was on the event itself more than its teams (after all, neither team technically calls the stadium “home”), I’ve listed the event and then the matchup in the title._
+_I was initially on the fence about how to write about this, as it’s a return to a place I’d already been to this year for a separate event; ultimately, I decided to make it its own post. As [I’ve already been here for the FerryHawks](2025-08-14_siferryhawks), I won’t talk about the facilities (for the most part), as they obviously haven’t changed since my last visit a month prior, but I’ll instead focus on the event itself. Also, as the focus was on the event itself more than its teams (after all, neither team technically calls the stadium “home”), I’ve listed the event and then the matchup in the title._
 
 Wiffle®[^1] Ball is a “variant” of baseball that’s been played in backyards and public parks since it was invented in 1953. Originally intended as a way to play baseball in smaller spaces, Wiffle Ball has seen a rise in popularity on social media recently. For example, several Wiffle Ball competitions have popped up on YouTube - many of which are more similar to baseball than the “official rules” of Wiffle Ball posted on the Wiffle Ball company’s website. While some of these online leagues do have more viewers than others, one of the biggest ones is also one of the oldest ones: MLW.
 

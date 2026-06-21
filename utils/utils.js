@@ -13,3 +13,16 @@ export const paginate = (page, perPage) => {
     const end = start + perPage;
     return postsData.filter((post) => post.frontmatter.published === true).reverse().slice(start, end);
 }
+
+export const displayDate = (publishDate, date) => {
+
+    if (!date && !publishDate) return null
+
+    if (!date) return `Published on ${new Date(publishDate).toLocaleDateString()}`
+
+    if (Math.floor((new Date(publishDate) - new Date(date)) / (1000 * 60 * 60 * 24)) > 1) {
+        return `${new Date(date).toLocaleDateString()} | Published on ${new Date(publishDate).toLocaleDateString()}`
+    }
+
+    return new Date(date).toLocaleDateString();
+}

@@ -1,8 +1,9 @@
 ---
-display: "Northeastern Men's Hockey (11/29/25)"
+display: "Northeastern Men's Hockey"
 title: "Northeastern Huskies Men's Hockey (Hockey East) @ Matthews Arena (Boston, MA)"
 subtitle: "A visit to a true sports landmark"
-date: 30 November 2025
+date: 29 November 2025
+publishDate: 30 November 2025
 published: true
 pinned: false
 tags:
@@ -20,7 +21,7 @@ tags:
   ]
 ---
 
-_\*This trip occurred on November 29, 2025, and there's info about two other trips from a few years ago in here as well. Those trips were on October 28, 2023 and February 2, 2024._
+_\*In addition to this game, this post has info about two other trips from a few years ago in here as well. Those trips were on October 28, 2023 and February 2, 2024._
 
 Northeastern University is probably best known known for its five-year co-op program (where students spend two semesters working full time). I don't know much else about the school except that I ALMOST went here for college, two of my cousins went there, and that they have their commencement at Fenway Park, as it's relatively close to the school (plus one other connection between the Red Sox and Northeastern which I'll get to in a sec - and I'm not talking about Spring Training).
 

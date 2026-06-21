@@ -1,8 +1,9 @@
 ---
-display: "Brooklyn Cyclones (4/30/25)"
+display: "Brooklyn Cyclones"
 title: "Brooklyn Cyclones (South Atlantic League) @ Maimonides Park (Brooklyn, NY)"
 subtitle: "Baseball in Brooklyn is BACK - Back in the New York Groove"
-date: 9 August 2025
+date: 30 April 2025
+publishDate: 9 August 2025
 published: true
 pinned: false
 tags:
@@ -20,8 +21,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on April 30, 2025._
 
 ![A beautiful day at Maimonides Park in Brooklyn](/images/2025/brooklyn.jpeg)
 

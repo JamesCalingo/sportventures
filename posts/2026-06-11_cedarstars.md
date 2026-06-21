@@ -1,8 +1,9 @@
 ---
-display: "Cedar Stars (6/10/26)"
+display: "Cedar Stars"
 title: "Cedar Stars (USL League Two) @ University Stadium (Teaneck, NJ)"
 subtitle: "USL2 soccer at a small school known for a BIG moment"
-date: 11 June 2026
+date: 10 June 2026
+publishDate: 11 June 2026
 published: true
 pinned: false
 tags:
@@ -14,17 +15,17 @@ tags:
     "Outdoor Sports",
     "New Jersey",
     "First Visit",
-    "New in 2026"
+    "New in 2026",
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0610-cedarstars.jpeg"
 ---
 
-### _[26 IN 26 STOP 19](/26in26list)_
+## _[26 IN 26 STOP 19](/26in26list)_
 
-*\*This trip occurred on June 10, 2026. For more on USL2, [here's an overview](usl2_overview).*
+_\*For more on USL2, [here's an overview](usl2_overview)._
 
-Cedar Stars is yet another youth academy with a USL2 team, but from what I can tell, it was once part of a larger soccer program in general known as "Rush": there are at least two other teams in USL2 that are also members - both in the same division as [Vermont Green](2025-08-21_vgfc). Information on the team is a bit limited, but indications are that the USL2 side started up in 2019, and that they have not won a national championship nor have they ever participated in the U.S. Open Cup. 
+Cedar Stars is yet another youth academy with a USL2 team, but from what I can tell, it was once part of a larger soccer program in general known as "Rush": there are at least two other teams in USL2 that are also members - both in the same division as [Vermont Green](2025-08-21_vgfc). Information on the team is a bit limited, but indications are that the USL2 side started up in 2019, and that they have not won a national championship nor have they ever participated in the U.S. Open Cup.
 
 Indications from various internet sources, however, seem to indicate that they're no longer part of the "Rush Soccer" system, as New Jersey is not listed on the Rush website, there are no mentions of Rush anywhere on the Cedar Stars Academy website, and the USL2 team is known as simply "Cedar Stars" this season (as opposed to "Cedar Stars Rush" in prior years). However, if this is true, it hasn't gotten to Google and/or Wikipedia yet, as they still indicate the club being part of Rush (mind you Wikipedia's information on most USL2 clubs is spotty at best).
 

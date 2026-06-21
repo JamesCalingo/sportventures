@@ -2,7 +2,7 @@
 display: "HOCKEY CATCH-UP: Bentley"
 title: "FROM THE ARCHIVES: Bentley Falcons Hockey (Atlantic Hockey America) @ Bentley Arena (Waltham, MA)"
 subtitle: "A very hidden gem of the Boston hockey scene"
-date: 25 October 2025
+publishDate: 25 October 2025
 published: true
 pinned: false
 tags:

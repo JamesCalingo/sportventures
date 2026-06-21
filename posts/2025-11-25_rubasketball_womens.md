@@ -1,8 +1,9 @@
 ---
-display: "Rutgers Women’s Basketball (11/24/25)"
+display: "Rutgers Women’s Basketball"
 title: "Rutgers Scarlet Knights Women's Basketball (Big Ten) @ Jersey Mike’s Arena (Piscataway, NJ)"
 subtitle: "Courtside at a surprisingly close game"
-date: 25 November 2025
+date: 24 November 2025
+publishDate: 25 November 2025
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on November 24, 2025._
 
 Growing up, I wanted to believe that basketball was a fun sport to watch...and I feel like I’m not sure if it is. Back in the day, my main issue was that it would take 15-20 minutes to play a singular minute of basketball at the end of games; nowadays, it’s just everyone in the NBA not knowing how to play defense and/or chucking threes nonstop and every game ending with both teams well into triple digits (an issue which, unfortunately, has shown signs of trickling down into college as well).
 

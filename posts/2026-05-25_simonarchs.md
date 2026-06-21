@@ -1,8 +1,9 @@
 ---
-display: "Metropolitan Monarchs (5/24/26)"
+display: "Metropolitan Monarchs"
 title: "Staten Island ASC (USL League Two) @ Hameline Field at Wagner College Stadium (Staten Island, NY)"
 subtitle: "USL2 soccer in the heart of Staten Island"
-date: 25 May 2026
+date: 24 May 2026
+publishDate: 25 May 2026
 published: true
 pinned: false
 tags:
@@ -20,9 +21,9 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0524-hamelinefield.jpeg"
 ---
 
-### _[26 IN 26 STOP 16](/26in26list)_
+## _[26 IN 26 STOP 16](/26in26list)_
 
-_\*This trip occurred on May 24, 2026. For more on USL2, [here's an overview](usl2_overview)._
+_\*For more on USL2, [here's an overview](usl2_overview)._
 
 I've already discussed [Staten Island as a place](2025-08-14_siferryhawks), so I'll skip talking about it today[^1]. However, this team doesn't have a Wikipedia page, so information on them is somewhat hard to find - though their website is actually fairly decent IMO.
 

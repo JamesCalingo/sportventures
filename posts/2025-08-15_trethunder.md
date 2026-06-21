@@ -1,8 +1,9 @@
 ---
-display: "Trenton Thunder (6/4/25)"
+display: "Trenton Thunder"
 title: "Trenton Thunder (MLB Draft League) @ Trenton Thunder Ballpark (Trenton, NJ)"
 subtitle: 'AKA "How to recover after a truly shocking breakup"'
-date: 15 August 2025
+date: 4 June 2025
+publishDate: 15 August 2025
 published: true
 pinned: false
 tags:
@@ -16,8 +17,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on June 4th, 2025._
 
 ![The pregame anthem from a Trenton Thunder game](/images/2025/trentonthunder.jpg)
 

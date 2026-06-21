@@ -1,8 +1,9 @@
 ---
-display: "Hudson Valley Renegades (5/1/25)"
+display: "Hudson Valley Renegades"
 title: "Hudson Valley Renegades (South Atlantic League) @ Heritage Financial Park (Wappingers Falls, NY)"
 subtitle: "A trip nearly 20 years in the making...probably"
-date: 10 August 2025
+date: 1 May 2025
+publishDate: 10 August 2025
 published: true
 pinned: false
 tags:
@@ -19,8 +20,6 @@ tags:
     "New in 2025",
   ]
 ---
-
-_\*This trip occurred on May 1, 2025._
 
 ![Heritage Financial Park](/images/2025/hudsonvalley.jpeg)
 

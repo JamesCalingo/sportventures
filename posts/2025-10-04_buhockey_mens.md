@@ -2,7 +2,7 @@
 display: "HOCKEY CATCH-UP: Boston University"
 title: "FROM THE ARCHIVES: Boston University Terriers Men's Hockey (Hockey East) @ (Jack Parker Rink at) Agganis Arena (Boston, MA)"
 subtitle: "Boston's secondary home for...a lot of things"
-date: 4 October 2025
+publishDate: 4 October 2025
 published: true
 pinned: false
 tags:
