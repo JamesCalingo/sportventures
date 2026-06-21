@@ -61,7 +61,7 @@ There, the Coconuts ended up winning anyway on the four most exciting words in b
 
 # RUN.
 
-One other note: the postgame plaza at smaller stadiums apparently features player appearances (neither Fenway Park nor Yankee Stadium did), but I couldn't hang around because I had to go home as THIS post was on a bit of a "tighter" schedule than most posts on this blog[^1].
+One other note: the postgame plaza at smaller stadiums apparently features player appearances (neither Fenway Park nor Yankee Stadium did), but I couldn't hang around because I had to go home as THIS post was on a bit of a "tighter" schedule than most posts on this blog due to it needing to be "out" before I left for vacation (even though I try to get these things up basically ASAP).
 
 ---
 
@@ -71,7 +71,7 @@ It is very likely that there's not going to be anything new on this blog for a b
 
 ---
 
-[^1]: I’ll explain what happened in a future update of THIS post - yes, I realize that's a little "scummy", but I have my reasons. One thing to remember, however: I only had one opportunity for K Club tickets in November 2025.
+[^1]: One thing to remember: I bought this ticket via the K Club in November 2025.
 
 [^2]: That's right kids: the [Cape League](ccbl_overview) isn't just where players go to get noticed - many broadcasters started there as well! I'm not sure who the most famous example would be, but a few who come to mind (besides Drake Toll) are Vegas Golden Knights radio voice Dan D'Uva and the twin sons of Cardinals broadcaster Chip Caray (who, in turn, are the great-grandsons of the legendary Harry Caray).
 
