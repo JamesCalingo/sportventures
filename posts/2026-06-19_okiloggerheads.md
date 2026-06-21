@@ -1,7 +1,7 @@
 ---
-display: 'console.loggerhead("OKI")'
+display: "Everything's OKI"
 title: "Oak Island Loggerheads (Old North State League) @ Bill Smith Park (Southport, NC)"
-subtitle: "An OKIdoki summer league team"
+subtitle: "The Old North State League's most lowkey team (at least from my experience)"
 date: 18 June 2026
 publishDate: 19 June 2026
 published: true
