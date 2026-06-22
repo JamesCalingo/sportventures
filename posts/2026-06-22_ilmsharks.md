@@ -3,7 +3,7 @@ display: "Summary of the Sharks"
 title: "Wilmington Sharks (Coastal Plain League) @ Buck Hardee Field at Legion Stadium (Wilmington, NC)"
 subtitle: "A little bit about Cape Fear's original summer league team"
 publishDate: 22 June 2026
-published: true
+published: false
 pinned: false
 tags:
   [

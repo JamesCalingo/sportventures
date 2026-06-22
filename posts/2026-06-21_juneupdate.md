@@ -3,8 +3,8 @@ display: ""
 title: "June Update"
 subtitle: "Not one, not two, but FOUR new posts are now available"
 publishDate: 21 June 2026
-published: false
-pinned: true
+published: true
+pinned: false
 tags: ["Other Content"]
 badge:
 ---
@@ -24,3 +24,4 @@ Therefore, I've decided to "retroactively" publish these posts - but if you poke
 
 I've also made some updates to the [Loco Beach Coconuts](2026-06-12_bananaball_js) post, as I'm finally able to explain why I went on a Thursday as opposed to a different day (it would've most likely been Friday had I not had to leave that day).
 
+Finally, these vacations have previously featured a team that I didn't get to see this year: the Wilmington Sharks. However, as I start these posts MONTHS in advance, I already had some work done on a post about them, so I figured I'd finish it and [publish it anyway](2026-06-22_ilmsharks).
