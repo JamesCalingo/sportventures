@@ -17,6 +17,7 @@ tags:
     "First Visit",
     "Outdoor Sports",
     "Single-A",
+    "New in 2026"
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0614-pelicansballpark.jpeg"

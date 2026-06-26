@@ -1,9 +1,9 @@
 ---
-display: "Summary of the Sharks"
+display: "Wilmington Sharks"
 title: "Wilmington Sharks (Coastal Plain League) @ Buck Hardee Field at Legion Stadium (Wilmington, NC)"
 subtitle: "A little bit about Cape Fear's original summer league team"
 publishDate: 22 June 2026
-published: false
+published: true
 pinned: false
 tags:
   [
@@ -37,7 +37,7 @@ Both times I’ve seen the Sharks live...they’ve lost. I can't recall too much
 
 As I recall, merch is based in a small shack on the concourse. While it doesn’t stray far from your standard fare of hats, shirts, and baseball novelties, some of the more interesting things I've found here include a broken bat and a special anniversary shirt.
 
-There is one unfortunate situation with the Sharks that I have to mention: I’ve found that hats are oddly hard to come by here. One year, I was told they were waiting on some players from the College World Series to arrive before they would sell hats, and the other time, only the largest size was available (which SORTA works for me, but I'm not a fan of it personally). Like some other summer league teams (i.e. several teams in the Cape League), the Sharks have the habit of changing their hats every year, which makes trying to pin them down more annoying. In fact, this difficulty in getting hats even extends to their online store: I tried ordering a hat one time only for them to email me saying the hat I ordered was sold out. However, I found out after I got back from the Loggerheads game that player hats were (apparently) available online, so I decided to order some[^4]. As of this being posted, I have no idea what's going to happen with them, so stay tuned!
+There is one unfortunate situation with the Sharks that I have to mention: I’ve found that hats are oddly hard to come by here. One year, I was told they were waiting on some players from the College World Series to arrive before they would sell hats, and the other time, only the largest size was available (which SORTA works for me, but I'm not a fan of it personally). Like some other summer league teams (i.e. several teams in the Cape League), the Sharks have the habit of changing their hats every year, which makes trying to pin them down more annoying. In fact, this difficulty in getting hats even extends to their online store: I tried ordering a hat one time only for them to email me saying the hat I ordered was sold out. However, I found out after I got back from the Loggerheads game that player hats were available online, so I decided to order some[^4].
 
 ---
 

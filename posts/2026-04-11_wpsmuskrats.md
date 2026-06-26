@@ -8,8 +8,9 @@ pinned: false
 tags:
   [
     "Baseball",
+    "College Baseball",
     "Summer League Baseball",
-    "NECBL",
+    "New England Collegiate Baseball League",
     "Other Content",
     "Pre-2025",
     "New Hampshire",
