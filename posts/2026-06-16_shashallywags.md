@@ -1,5 +1,5 @@
 ---
-display: "Shallywaggin'"
+display: "A Shallywaggin' Tale"
 title: "Shallotte Shallywags (Old North State League) @ Mike Alderson Field (Shallotte, NC)"
 subtitle: '"There once was a ship that put to sea..."'
 date: 15 June 2026

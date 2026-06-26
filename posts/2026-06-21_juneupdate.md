@@ -3,8 +3,8 @@ display: ""
 title: "June Update"
 subtitle: "Not one, not two, but FOUR new posts are now available"
 publishDate: 21 June 2026
-published: true
-pinned: false
+published: false
+pinned: true
 tags: ["Other Content"]
 badge:
 ---
