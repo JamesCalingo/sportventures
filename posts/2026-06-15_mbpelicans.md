@@ -55,9 +55,9 @@ Those issues aside, this game featured a fair amount of home runs and a 6-5 Peli
 
 ### MERCH
 
-Like I said, I’ve been to the team store here quite a few times. I'd like to believe that it's actually pretty decently sized, but it became hard to navigate at times when it was full of fans and it's in a part of the concourse where there’s no field views. Their slogan is "cool gear for cool fans", which given that it's the only part of the stadium accessible to all fans that's air conditioned, makes quite a bit of sense (especially on hot and/or humid nights).
+Like I said, I’ve been to the team store here quite a few times. I'd like to believe that it's actually pretty decently sized, but it became hard to navigate at times when it was full of fans and it's in a part of the concourse where there’s no field views. Their slogan is "cool stuff for cool fans", which given that it's the only part of the stadium accessible to all fans that's air conditioned, makes quite a bit of sense (especially on hot and/or humid nights).
 
-The amount of things I collected from those trips is, in all honestly, kinda staggering: a few jerseys, several hats, a t-shirt or two, some baseballs (including official game balls), and even a couple of media guides! Heck, this game featured sales of a program from an exhibition game the Rangers played against Coastal Carolina University here back in 2011 (to celebrate their then-new affiliation).
+The amount of things I collected from those trips is, in all honestly, kinda staggering: a few jerseys, several hats, a t-shirt or two, some baseballs (including official Carolina League game balls)[^6], and even a couple of media guides! Heck, this game featured sales of a program from an exhibition game the Rangers played against Coastal Carolina University here back in 2011 (to celebrate their then-new affiliation).
 
 There is one thing I should note, however: when I bought the jersey back in (I don’t even remember when), I ended up getting a size bigger than I probably should have. Years later, when I wanted to try and "downsize"...I learned that the team had moved from having the script as a sewn-on decoration to having it sublimated. This killed pretty much all interest I might have had in getting a "replacement" at this game (along with the one jersey I was most interested in - the team's road jersey - being unavailable in my size).
 
@@ -72,3 +72,5 @@ There is one thing I should note, however: when I bought the jersey back in (I d
 [^4]: The stadium features a SECOND "marquee replica" in a play area in left field.
 
 [^5]: One other thing I wasn't sure how to bring up in the "main" body of this post: the Pelicans - much like the Trenton Thunder - feature a dog who retrieves bats dropped by the players after at bats.
+
+[^6]: The team had MiLB game balls for sale at this game - something I've only seen two [other](2025-08-24_rdgfightinphils) [teams](2026-04-17_sompatriots) do.
