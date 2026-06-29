@@ -20,7 +20,7 @@ tags:
     "New in 2026",
   ]
 badge: "badges/firstvisit.png"
-background: "images/2026/0628-dunkinpark-frontrow.jpeg"
+background: "images/2026/0628-dunkinpark.jpeg"
 ---
 
 ### _[26 IN 26 STOP 24](/26in26list)_
@@ -32,6 +32,8 @@ In 1995, faced with a substandard stadium and the opportunity for newer faciliti
 In 2016, the team moved again - this time heading up Interstate 84 from New Britain to Connecticut’s capital: Hartford[^1]. I’m not fully sure why the team decided to make this move (though my guess is that it's either due to outdated facilities again or to try and attract fans from east of Hartford), but it came with a brand new stadium: Dunkin’ (Donuts) Park.
 
 ...or at least it was supposed to. However, the park wasn’t ready for 2016, so the Hartford Yard Goats spent that whole season as a traveling team with no home (as well as causing legal battles between the city of Hartford and the stadium builders). However, on April 13, 2017, the Yard Goats finally played their first game in Hartford, and things have been largely the same ever since. Despite the Rockies being...the Rockies, the move to Hartford seems to have worked, as the team has been in the top three of attendance every year since their stadium opened (including a few years as the league leaders), and in addition to the Yard Goats, the stadium has hosted a few [Cape Cod Baseball League](ccbl_overview) games (among other things).
+
+![An image of Dunkin' Park](/images/2026/0628-dunkinpark.jpeg)
 
 This is far and away the newest of the MiLB stadiums I've been to (it's the second newest in the Eastern League behind Richmond's shiny new stadium that just opened this year), and it's rather impressive IMO. The main concourse wraps fully around the field, but I must admit: it feels narrow in a few spots. I won't go over every single one of the party areas and beer in the stadium, but there are quite a few of them, and the seat I got for this game ended up being in a row ON the concourse. Several of the infield sections have a row on the concourse, and behind some of these rows are long "high top" seats which also have a table (I am NOT sure if these are typically "sold" however)
 
