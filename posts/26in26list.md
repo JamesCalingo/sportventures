@@ -31,4 +31,5 @@ I'm hoping to visit at least 26 new venues in 2026. You can read more about this
 21. [Mike Alderson Field - Shallotte, NC](2026-06-16_shashallywags)
 22. [Brooks Field - Wilmington, NC](2026-06-17_cfghostcrabs)
 23. [Bill Smith Park - Southport, NC](2026-06-19_okiloggerheads)
+24. [Dunkin' Park - Hartford, CT](2026-06-29_hfdyardgoats)
 27. COMING SOON
