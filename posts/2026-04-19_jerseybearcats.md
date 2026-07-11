@@ -20,7 +20,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0419-warinanco.jpeg"
 ---
 
-## _[26 IN 26 STOP 11](26in26list)_
+### _[2026: New Venue #11](26in26list)_
 
 Indoor football is a sport with a very WILD history. While there were a plethora of random exhibition indoor games held throughout the early part of the 20th century (and even an NFL playoff game), the sport as it is known today first debuted in 1987 when an executive who had previously worked with the NFL founded the Arena Football League - the first indoor football league (who, it should be noted, owned the trademark for "Arena Football" - hence the sport being called "indoor football" instead).
 

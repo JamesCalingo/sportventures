@@ -21,9 +21,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0616-rockingchairs.jpeg"
 ---
 
-## _[26 IN 26 STOP 22](/26in26list)_
-
-
+### _[2026: New Venue #22](/26in26list)_
 
 In late summer 2025, the Old North State League announced that they would be expanding by adding a third team in the Cape Fear region (a year after the [Shallotte Shallywags](2026-06-16_shashallywags) and [Oak Island Loggerheads](2026-06-19_okiloggerheads) debuted). The team held a name the team contest, and in November the winning name was announced: the Cape Fear Fish Sticks. Unfortunately...a month later, they had to rebrand after a copyright dispute (I assume it's with the DubSea Fish Sticks of another league), so after a SECOND name the team contest, the team became the Ghost Crabs (a type of crab that's known for being basically translucent).
 

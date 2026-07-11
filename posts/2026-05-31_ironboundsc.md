@@ -21,7 +21,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0530-ironbound.jpeg"
 ---
 
-## _[26 IN 26 STOP 17](/26in26list)_
+### _[2026: New Venue #17](/26in26list)_
 
 _\*For more on USL2, [here's an overview](usl2_overview)._
 

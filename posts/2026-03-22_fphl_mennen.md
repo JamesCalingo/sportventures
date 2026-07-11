@@ -22,7 +22,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0321-mennenarena.jpeg"
 ---
 
-## _[26 IN 26 STOP 7](/26in26list)_
+### _[2026: New Venue #7](/26in26list)_
 
 Some readers may remember me visiting the [Danbury "Jr." Hat Tricks](2026-02-15_dbyhattricks) about a month or so ago. While I mentioned that the "senior" Hat Tricks were in a league called the Federal Prospects Hockey League, I also noted that an FPHL game in Danbury was a tough sell due to timing. However...
 

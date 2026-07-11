@@ -96,8 +96,9 @@ figcaption {
 #blog_title {
   font-size: 74pt;
   margin: 0;
+  padding-bottom: 10px;
   color: white;
-  background: linear-gradient(180deg, rgba(0, 128, 0, 1) 0%, rgba(0, 128, 0, 1) 50%, rgba(255, 165, 0, 1) 100%);
+  background: linear-gradient(180deg, rgba(0, 128, 0, 1) 0%, rgba(0, 128, 0, 1) 40%, rgba(255, 165, 0, 1) 100%);
 }
 
 #blog_tag {
@@ -151,7 +152,6 @@ figcaption {
 
 #tag-filter select {
   font-size: 16pt;
-  /* padding: 5px 10px; */
 }
 
 #newest .section-header {
@@ -262,8 +262,6 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
-
-
 
 .post-title {
   font-size: 28pt;

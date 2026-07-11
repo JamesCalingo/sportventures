@@ -1,6 +1,6 @@
 ---
-display: "26 in 26: The List"
-title: "26 in 26: THE LIST"
+display: "The List"
+title: "New venues of 2026"
 subtitle:
 date:
 published: false
@@ -32,4 +32,5 @@ I'm hoping to visit at least 26 new venues in 2026. You can read more about this
 22. [Brooks Field - Wilmington, NC](2026-06-17_cfghostcrabs)
 23. [Bill Smith Park - Southport, NC](2026-06-19_okiloggerheads)
 24. [Dunkin' Park - Hartford, CT](2026-06-29_hfdyardgoats)
-27. COMING SOON
+25. [Rutgers Sports Club Field - Piscataway, NJ](2026-07-11_njcopa)
+27. **COMING SOON**

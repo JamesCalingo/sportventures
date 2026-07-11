@@ -21,7 +21,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0618-nofence.jpeg"
 ---
 
-## _[26 IN 26 STOP 23](/26in26list)_
+### _[2026: New Venue #23](/26in26list)_
 
 _\*As a side note, this is the 100th post on this blog![^1]_
 

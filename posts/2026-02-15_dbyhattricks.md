@@ -19,7 +19,7 @@ tags:
 badge: "badges/firstvisit.png"
 ---
 
-## _[26 IN 26 STOP 5](/26in26list)_
+### _[2026: New Venue #5](/26in26list)_
 
 Danbury, CT is an interesting place. Aside from being the birthplace of two of my cousins, it’s also been the home of a whole host of low level hockey teams, many of which have called the same place home: the Danbury Ice Arena.
 

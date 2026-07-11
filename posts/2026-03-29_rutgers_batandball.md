@@ -43,7 +43,7 @@ The two stadiums are basically right next to each other, and are VERY similar - 
 
 ## Rutgers Scarlet Knights Baseball (Big Ten) @ Bainton Field (Piscataway, NJ)
 
-## _[26 IN 26 STOP 8](26in26list)_
+### _[2026: New Venue #8](26in26list)_
 
 ![An image of a pitch being thrown at a Rutgers baseball game](/images/2026/0328-rubaseball.jpeg)
 
@@ -61,7 +61,7 @@ I should also mention that the school is working with Middlesex County on a more
 
 ## Rutgers Scarlet Knights Softball (Big Ten) @ Rutgers Softball Field (Piscataway, NJ)
 
-## _[26 IN 26 STOP 9](26in26list)_
+### _[2026: New Venue #9](26in26list)_
 
 ![An image of a pitch being thrown at a Rutgers softball game](/images/2026/0328-rusoftball.jpeg)
 
