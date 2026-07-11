@@ -21,7 +21,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0610-cedarstars.jpeg"
 ---
 
-## _[26 IN 26 STOP 19](/26in26list)_
+### _[2026: New Venue #19](/26in26list)_
 
 _\*For more on USL2, [here's an overview](usl2_overview)._
 

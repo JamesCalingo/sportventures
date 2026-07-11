@@ -24,7 +24,7 @@ tags:
 badge: "badges/firstvisit.png"
 ---
 
-## _[26 IN 26 STOP 2](26in26list)_
+### _[2026: New Venue #2](26in26list)_
 
 Before I dive into the specifics of BU's women's hockey team, I should probably give a few details about NCAA women's hockey as a whole (something I probably should've read more about before visiting [Princeton](2025-11-16_princetonhockey#womens)...).
 

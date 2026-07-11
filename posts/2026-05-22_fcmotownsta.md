@@ -43,8 +43,6 @@ This game seemingly featured more spectators than the NPSL game - and a bit more
 
 Also, for the third game in a row, I ended up touching a game ball - however, since I'm pretty sure soccer balls are supposed to be returned to the club, I ended up kicking it back to one of the ball boys.
 
-Alas, I am unsure if I'll be able to get back to Motown this season, as I've got a LOT of other things in the works. However, having a "local soccer team" to watch is definitely something I like, as it lets me watch a team without having to pay for too much (i.e. free parking and inexpensive tickets) and not have to worry about getting home after 10 PM.
-
 ### MERCH
 
 In doing some research for this post, I found out that the NPSL and USL2 sides have different jerseys altogether! As I mentioned when I saw the NPSL team, they have a manufacturer that "sells direct" to fans, but the USL2 team wears Nike (which I assume is related to the STA part). There is one major difference between the two teams' jerseys: the NPSL jerseys have sublimated graphics, while the USL2 ones have ironed-on graphics[^4]. Also...
