@@ -33,4 +33,5 @@ I'm hoping to visit at least 26 new venues in 2026. You can read more about this
 23. [Bill Smith Park - Southport, NC](2026-06-19_okiloggerheads)
 24. [Dunkin' Park - Hartford, CT](2026-06-29_hfdyardgoats)
 25. [Rutgers Sports Club Field - Piscataway, NJ](2026-07-11_njcopa)
+26. [Lyndhurst High School - Lyndhurst, NJ](2026-07-12_mlquadball)
 27. **COMING SOON**
