@@ -28,6 +28,7 @@ button {
   background: green;
   color: white;
   cursor: pointer;
+  width: 225px
 }
 
 button:hover {

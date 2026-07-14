@@ -21,7 +21,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0615-shallywags.jpeg"
 ---
 
-### _[2026: New Venue #21](/26in26list)_
+### _[2026: New Venue #21](2026newvenuelist)_
 
 The Old North State League is a summer collegiate league that's on the "newer" side. It was founded in 2018, and in 2023 it joined a collective of summer leagues known as The Players League (though there's indications that it was actually the league that started TPL). I'm not certain about what exactly The Players League is, but from what I could glean, it's a collaboratve effort by several leagues to foster growth and unity amongst these types of leagues (i.e. the small summer collegiate leagues that aren't as well recognized as the [Cape](ccbl_overview), Northwoods, or Coastal Plain Leagues).
 

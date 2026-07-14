@@ -23,7 +23,7 @@ badge: "/badges/firstvisit.png"
 background: "images/2026/0502-frawley.jpeg"
 ---
 
-### _[2026: New Venue #12](/26in26list)_
+### _[2026: New Venue #12](2026newvenuelist)_
 
 Founded in 1993 when the Peninsula Pilots moved from Hampton, Virginia[^1], the Wilmington Blue Rocks were named after a former minor league team in Wilmington and a long-time Carolina League member (which is mildly odd given how far they are from the Carolinas) until the 2020 MiLB realignment, when they "moved up" (as the Carolina League became Single-A level) and became a South Atlantic League team. As a member of the Carolina League, the team was decently successful both on the field (five Carolina League championships) and in the stands (usually in the upper half of the Carolina League - at least for the 2010s).
 

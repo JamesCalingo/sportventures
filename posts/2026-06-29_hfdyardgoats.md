@@ -23,7 +23,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0628-dunkinpark.jpeg"
 ---
 
-### _[2026: New Venue #24](/26in26list)_
+### _[2026: New Venue #24](2026newvenuelist)_
 
 Our story for today begins a few miles west of Hartford in Bristol, CT in 1973 (although it technically starts before this, but that part’s mostly irrelevant and kinda confusing). Six years before ESPN was created to broadcast Hartford Whalers games (look it up), the Boston Red Sox established a Double-A franchise - the Bristol Red Sox - at Muzzy Field. In 1983, the team moved east to New Britain, CT and became the New Britain Red Sox.
 

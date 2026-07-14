@@ -6,7 +6,7 @@ date:
 published: false
 ---
 
-I'm hoping to visit at least 26 new venues in 2026. You can read more about this goal [here](2026-01-01_26in26), and follow along with the journey right here!
+My original goal for 2026 was to visit [26 new stadiums/venues for sports](2026-01-01_26in26). However, I ended up hitting the goal somewhat "early", so here's just the list of all the new places I've visited in 2026:
 
 1. [Total Mortgage Arena - Bridgeport, CT](2026-01-12_bptislanders)
 2. [Walter Brown Arena - Boston, MA](2026-01-18_buhockey_womens)
@@ -33,5 +33,5 @@ I'm hoping to visit at least 26 new venues in 2026. You can read more about this
 23. [Bill Smith Park - Southport, NC](2026-06-19_okiloggerheads)
 24. [Dunkin' Park - Hartford, CT](2026-06-29_hfdyardgoats)
 25. [Rutgers Sports Club Field - Piscataway, NJ](2026-07-11_njcopa)
-26. [Lyndhurst High School - Lyndhurst, NJ](2026-07-12_mlquadball)
+26. [Lyndhurst Golden Bears Sports Field - Lyndhurst, NJ](2026-07-12_mlquadball)
 27. **COMING SOON**

@@ -21,7 +21,7 @@ tags:
 badge: "badges/firstvisit.png"
 ---
 
-### _[2026: New Venue #6](/26in26list)_
+### _[2026: New Venue #6](2026newvenuelist)_
 
 Westchester SC were founded in 2024 and played their first season in USL League One (the third tier of soccer in the United States) last year along with four other expansion teams. While two of the five new teams made the league's eight team playoffs, the other three didn’t - but Westchester ended up having the most "expansion club struggle" experience of the five. The team finished at the bottom of the 14 team league (though they had the league’s top goalscorer), and according to a graphic I saw during a broadcast, they dropped the most points from winning positions in league history (i.e. drew/lost games they held a lead in). That is all I really have to say about the team's history - though you should have expected that given that the team was only established two years ago.
 

@@ -21,7 +21,7 @@ badge: "badges/firstvisit.png"
 background: "images/2026/0524-hamelinefield.jpeg"
 ---
 
-### _[2026: New Venue #16](/26in26list)_
+### _[2026: New Venue #16](2026newvenuelist)_
 
 _\*For more on USL2, [here's an overview](usl2_overview)._
 

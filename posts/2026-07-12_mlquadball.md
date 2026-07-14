@@ -11,7 +11,7 @@ badge: "badges/firstvisit.png"
 background: "/images/2026/0711-mlq.jpeg"
 ---
 
-### _[2026: New Venue #26](/26in26list)_
+### _[2026: New Venue #26](2026newvenuelist)_
 
 You may not have heard of the sport of "Quadball" before, but most readers will probably recognize it by its former, more common name. I won't say it here for...reasons, but the sport originated from one of the most popular young adult novel series of all time (whose author...is one of the reasons the sport is called "Quadball" nowadays[^1]); if you somehow haven't figured out what it is yet, the main character's name rhymes with "Larry Cotter", and if THAT hasn't given it away yet, then...I don't know what to say.
 
