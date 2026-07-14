@@ -21,7 +21,7 @@ tags:
 badge: "badges/firstvisit.png"
 ---
 
-### _[2026: New Venue #1](26in26list)_
+### _[2026: New Venue #1](2026newvenuelist)_
 
 _Since this is my first trip of the new year, this marks the debut of the "FIRST VISIT" badge - an idea that came from a pin I got at the [Gotham FC](2025-09-08_gothamfc) match I went to last year, though I'm not sure it's my "best" work (visual art isn't exactly my thing)._
 

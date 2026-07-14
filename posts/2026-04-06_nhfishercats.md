@@ -23,7 +23,7 @@ badge: "badges/firstvisit.png"
 background: "/images/2026/0404-deltadentalstadium.jpeg"
 ---
 
-### _[2026: New Venue #10](/26in26list)_
+### _[2026: New Venue #10](2026newvenuelist)_
 
 _\*I chose to "delay" this post a day due to Easter._
 

@@ -11,7 +11,7 @@ const Index = () => {
       <div id="title">
         <h1 id="blog_title">Sportventures</h1>
         <p id="blog_tag">Travels and thoughts on the wide world of sports</p>
-        <p><Link href={"26in26list"}>Aiming to visit 26 new venues in 2026</Link></p>
+        {/* <p><Link href={"2026newvenuelist"}>Aiming to visit 26 new venues in 2026</Link></p> */}
       </div>
 
       {pinned &&
