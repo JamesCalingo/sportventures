@@ -74,4 +74,4 @@ I thought about getting a puck, but they didn't have any game pucks for sale (I 
 
 [^3]: I cannot believe a TWITTER MEME is how I found out one of the songs on the new album is about Travis Kelce's...wait, is this a family blog?
 
-[^4]: I also have a game-worn AHL jersey, which is even nicer quality than the authentics despite being MASSIVE on me even though it’s in the size I normally get (as retail jerseys aren’t made for hockey padding).
+[^4]: I also have a game worn AHL jersey, which is even nicer quality than the authentics despite being MASSIVE on me even though it’s in the size I normally get (as retail jerseys aren’t made for hockey padding).

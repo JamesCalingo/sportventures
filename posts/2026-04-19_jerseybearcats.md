@@ -34,7 +34,7 @@ In order to be able to talk about the team’s history, I ended up scrolling thr
 
 I don’t know the full history of the building, but its website indicates that it was built in 1961 as the first public "artificial" skating rink in its county (i.e. not just a frozen lake) and then extensively renovated in 2017; this renovation also saw the building get renamed to "Warinanco Sports Center" (and is also why I remember it being called "Warinanco Rink" when I was in high school).
 
-As a community sports center, I feel like a lot of the things I've said about other places like this apply - though it is smaller than many of the other community arenas I've been to (i.e. [Middletown](2025-09-14_njtitans), [Danbury](2026-02-15_dbyhattricks) or [Mennen](2026-03-22_fphl_mennen)). One thing that separates Warinanco from these places, however...
+As a community sports center, I feel like a lot of the things I've said about other places like this apply - though it is smaller than many of the other community arenas I've been to (i.e. [Middletown](2025-09-14_njtitans), [Danbury](2026-02-15_dbyjrhattricks) or [Mennen](2026-03-22_fphl_mennen)). One thing that separates Warinanco from these places, however...
 
 ...The arena isn't fully indoors.
 

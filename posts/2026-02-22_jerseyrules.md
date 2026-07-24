@@ -9,7 +9,7 @@ tags: ["Other Content"]
 badge:
 ---
 
-I had a trip planned for today and was actually quite excited about it - as indicated by the line I originally used to end my [last post](2025-02-15_dbyhattricks):
+I had a trip planned for today and was actually quite excited about it - as indicated by the line I originally used to end my [last post](2025-02-15_dbyjrhattricks):
 
 > _During the game, I found out about another team that plays in the building - in a sport I've been pretty interested in for a while._
 
@@ -35,7 +35,7 @@ To illustrate this a bit better, here's the tag from a jersey I own (which I got
 
 And here's the tag from a jersey I found in a thrift store which is (very probably) fake:
 
-![An ](/images/2026/faketag.jpeg)
+![An image of the tag on a fake MLB jersey. It looks similar to the authentic tag, but is made of fabric instead of being ironed on](/images/2026/faketag.jpeg)
 
 <figcaption>I don't know what to make of this jersey, as it actually got MOST of the other things fakes tend to overlook "right" - I am leaning towards it being fake, however.</figcaption>
 

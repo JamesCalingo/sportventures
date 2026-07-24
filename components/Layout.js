@@ -24,7 +24,7 @@ function Layout({ children, pageTitle }) {
           <div className="links">
             {pageTitle !== "About this site - Sportventures" && <Link href={"/about"}>About this site</Link>}
             {pageTitle !== "Sportventures" && <Link href={"/"}>Back to home</Link>}
-             {/* {pageTitle !== "About this site - Sportventures" && <Link href={"https://overclocked-overthoughts.netlify.app"} target="blank">My "main" blog</Link>} */}
+            {<a href="mailto:contact@sportventures.blog">Contact</a>}
           </div>
 
           <p>All content © James Calingo</p>
