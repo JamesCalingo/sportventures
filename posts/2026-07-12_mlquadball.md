@@ -6,7 +6,7 @@ date: 11 July 2026
 publishDate: 12 July 2026
 published: true
 pinned: false
-tags: ["Other Sports", "Outdoor Sports", "New in 2026"]
+tags: ["Other Sports", "Outdoor Sports", "First Visit", "New in 2026"]
 badge: "badges/firstvisit.png"
 background: "/images/2026/0711-mlq.jpeg"
 ---
@@ -58,7 +58,7 @@ I’m not going to assign a new “number” for this year (or attempt anything 
 ---
 
 [^1]: The other big reason: the trademark for the "old" name is owned by Warner Brothers - NOT the aforementioned author (or their publisher seemingly).
- 
+
 [^2]: This honestly makes me wonder: what were the big sports we know and love today like when they were developing 100+ years ago? Could the sport get its name back if/when the trademark on it expires? What will people think of quadball once its creator gets the P.T. Barnum treatment of "forget about the bad stuff, we should focus on their lasting legacy"? Why do I have such strong opinions on P.T. Barnum? Is it because of _The Greatest Showman_? Did this bit run out of steam several questions ago and is just me going on for no good reason?<br>(That last one is probably a "yes"...)
 
 [^3]: Call me crazy, but I kinda wanna see them later this year despite EVERYTHING - and this includes the fact that their stadium is ranked as one of the WORST fan experiences in the NFL (as well the poor reviews from its other recent use)...

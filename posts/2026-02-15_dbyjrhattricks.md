@@ -51,7 +51,7 @@ There was basically NO atmosphere for the entire game, which is a bit of a shame
 
 ### MERCH
 
-One of the more curious things about the Hat Tricks: their FPHL and NAHL teams each have their own online stores. The FPHL team has a store run by the team, while the NAHL team has one of those "spirit wear" sites. One thing that I found interesting on the FPHL team store: game used jerseys for both the FPHL and NAHL teams.
+One of the more curious things about the Hat Tricks: their FPHL and NAHL teams each have their own online stores. The FPHL team has a store run by the team, while the NAHL team has one of those "spirit wear" sites. One thing that I found interesting on the FPHL team store: game worn jerseys for both the FPHL and NAHL teams.
 
 At this game, unfortunately...the merch booth wasn't open. I guess it's only open for FPHL games, and while I DID consider sticking around for the evening contest between the FPHL Hat Tricks and the Indiana Sentinels (a game the Hat Tricks won 7-0), it didn't feel right to me for various reasons (not the least of which was the game ending just before 10:00 PM).
 

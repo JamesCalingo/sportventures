@@ -24,7 +24,7 @@ background: "images/2026/0321-mennenarena.jpeg"
 
 ### _[2026: New Venue #7](2026newvenuelist)_
 
-Some readers may remember me visiting the [Danbury "Jr." Hat Tricks](2026-02-15_dbyhattricks) about a month or so ago. While I mentioned that the "senior" Hat Tricks were in a league called the Federal Prospects Hockey League, I also noted that an FPHL game in Danbury was a tough sell due to timing. However...
+Some readers may remember me visiting the [Danbury "Jr." Hat Tricks](2026-02-15_dbyjrhattricks) about a month or so ago. While I mentioned that the "senior" Hat Tricks were in a league called the Federal Prospects Hockey League, I also noted that an FPHL game in Danbury was a tough sell due to timing. However...
 
 ...they ended up coming to me!
 
@@ -52,9 +52,9 @@ I said that the Wolves were the "operational home team" for this game (which, FW
 
 ### MERCH
 
-At this game, the Hat Tricks (who, let me remind you, are technically the "away" team) had a merch table rinkside which included "game used" jerseys  - and I use quotes there because some of the jerseys were probably NOT used in games as they were made for guys who I don't think ever played in a game (a few still had the manufacturer's retail tag). I didn't ask whose idea it was to bring the FPHL to New Jersey, but methinks Danbury was more involved with the planning of this game more than the supposed "home" team...
+At this game, the Hat Tricks (who, let me remind you, are technically the "away" team) had a merch table rinkside which included "game worn" jerseys  - and I use quotes there because some of the jerseys were probably NOT used in games as they were made for guys who I don't think ever played in a game (a few still had the manufacturer's retail tag). I didn't ask whose idea it was to bring the FPHL to New Jersey, but methinks Danbury was more involved with the planning of this game more than the supposed "home" team...
 
-Also, because I cannot resist a deep dive into jerseys apparently, I went to the online store for EVERY team in the FPHL to see what types of jerseys they sell about a month before this game happened. While not every team sells jerseys online (or at least had jerseys available when I checked), the ones that did were quite "mixed": some teams sell only sublimated jerseys, some teams sell only jerseys with sewn logos, and a few teams sold both![^6] However, Danbury was the only team who sold "game used" jerseys online (see above for a caveat to that term); there's a distinct possibility that other teams also sell game used jerseys at games, but I have no way of confirming that right now (and given the locations of some of the teams, trips to see them are not super likely).
+Also, because I cannot resist a deep dive into jerseys apparently, I went to the online store for EVERY team in the FPHL to see what types of jerseys they sell about a month before this game happened. While not every team sells jerseys online (or at least had jerseys available when I checked), the ones that did were quite "mixed": some teams sell only sublimated jerseys, some teams sell only jerseys with sewn logos, and a few teams sold both![^6] However, Danbury was the only team who sold "game worn" jerseys online (see above for a caveat to that term); there's a distinct possibility that other teams also sell game worn jerseys at games, but I have no way of confirming that right now (and given the locations of some of the teams, trips to see them are not super likely).
 
 One final note on merch: Watertown is somewhat odd in that they have a "spirit wear" site as their online store, but they sell jerseys and pucks via a form on their website. I should note, however, that the price for the jersey suggests that it's sublimated.
 

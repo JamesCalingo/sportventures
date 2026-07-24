@@ -36,7 +36,7 @@ I ended up pivoting away from plans to see the Indoor Football League up in Lowe
 
 ### MERCH
 
-I will admit that the other reason I chose to come here was because I was trying to get their new 2025 player hat (it’s different from the one I have), but when I got here, they only had small sizes available. I did end up going with their Fourth of July hat, however, plus a league ball with the new (as of 2024) commissioner’s signature as well as an old (potentially) game used jersey - something a fair number of teams in the summer collegiate leagues sell (but not all of them).
+I will admit that the other reason I chose to come here was because I was trying to get their new 2025 player hat (it’s different from the one I have), but when I got here, they only had small sizes available. I did end up going with their Fourth of July hat, however, plus a league ball with the new (as of 2024) commissioner’s signature as well as an old (potentially) game worn jersey - something a fair number of teams in the summer collegiate leagues sell (but not all of them).
 
 Chatham does have an online store, but I have no clue how up to date it is, so if you’re interested in shirts or hats, be forewarned of that. Also, if you’re busy buying merchandise (in the press box) or concessions (down the first base line) during the game and can’t see the field, you can still follow the action as the team plays their broadcast at these locations. I find this quite interesting - especially because it didn’t seem to have any delay (as opposed to the standard 30-second delay most internet broadcasts have).
 

@@ -12,7 +12,7 @@ My original goal for 2026 was to visit [26 new stadiums/venues for sports](2026-
 2. [Walter Brown Arena - Boston, MA](2026-01-18_buhockey_womens)
 3. [Westchester County Center - White Plains, NY](2026-01-25_wcknicks)
 4. [Barclays Center - Brooklyn, NY](2026-02-08_bknets)
-5. [Danbury Ice Arena - Danbury, CT](2026-02-15_dbyhattricks)
+5. [Danbury Ice Arena - Danbury, CT](2026-02-15_dbyjrhattricks)
 6. [The Stadium at Memorial Field - Mount Vernon, NY](2026-03-08_westchestersc)
 7. [Mennen Sports Arena - Morris Township, NJ](2026-03-22_fphl_mennen)
 8. [Bainton Field - Piscataway, NJ](2026-03-29_rutgers_batandball#baseball)

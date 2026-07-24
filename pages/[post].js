@@ -17,10 +17,12 @@ function Post({ frontmatter, body }) {
       <div>
         <article>
           <div className="post-header">
-            <em className="post-date">{displayDate(frontmatter.publishDate, frontmatter.date)}</em>
+            <div className="post-date">
+            <em>{displayDate(frontmatter.publishDate, frontmatter.date)}</em>
+          {frontmatter.badge && <a href="/about#badges"><img className="badge" src={frontmatter.badge} alt={"A badge"} /></a>}
+            </div>
             <h1 className="post-title">{frontmatter.title}</h1>
             <h3 className="description">{frontmatter.subtitle}</h3>
-          {frontmatter.badge && <a href="/about#badges"><img className="badge" src={frontmatter.badge} alt={"A badge"} /></a>}
           </div>
 
           <Markdown
