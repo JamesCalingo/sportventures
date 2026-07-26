@@ -29,7 +29,7 @@ Our story for today begins a few miles west of Hartford in Bristol, CT in 1973 (
 
 In 1995, faced with a substandard stadium and the opportunity for newer facilities for their prospects, the Red Sox moved their Double-A operations to Trenton, NJ ([the modern-day Thunder of the MLB Draft League](2025-08-15_trethunder)). Meanwhile, back in New Britain, the team was renamed to the "Hardware City Rock Cats" and became an affiliate of the Minnesota Twins. In 1996, a new stadium was built for the Rock Cats adjacent to the old one (and "Hardware City" turned back into "New Britain"), and it became their home until 2015 - the same year the team switched affiliation to the Colorado Rockies.
 
-In 2016, the team moved again - this time heading up Interstate 84 from New Britain to Connecticut’s capital: Hartford[^1]. I’m not fully sure why the team decided to make this move (though my guess is that it's either due to outdated facilities again or to try and attract fans from east of Hartford), but it came with a brand new stadium: Dunkin’ (Donuts) Park.
+In 2016, the team moved again - this time heading up Interstate 84/91 from New Britain to Connecticut’s capital: Hartford[^1]. I’m not fully sure why the team decided to make this move (though my guess is that it's either due to outdated facilities again or to try and attract fans from east of Hartford), but it came with a brand new stadium: Dunkin’ (Donuts) Park.
 
 ...or at least it was supposed to. However, the park wasn’t ready for 2016, so the Hartford Yard Goats spent that whole season as a traveling team with no home (as well as causing legal battles between the city of Hartford and the stadium builders). However, on April 13, 2017, the Yard Goats finally played their first game in Hartford, and things have been largely the same ever since. Despite the Rockies being...the Rockies, the move to Hartford seems to have worked, as the team has been in the top three of attendance every year since their stadium opened (including a few years as the league leaders), and in addition to the Yard Goats, the stadium has hosted a few [Cape Cod Baseball League](ccbl_overview) games (among other things).
 
@@ -61,10 +61,6 @@ The main store here is right next to the main gates of the stadium (which, again
 
 ---
 
-One FINAL final note: on some level, this game was "unnecessary", as I have plans to come back in about a month's time. However, I still wanted to talk about the stadium PRIOR to that visit, as I REALLY want to focus on the game next time - partially as it involves a certain former Portland Sea Dog[^6]...
-
----
-
 [^1]: New Britain's stadium was not left empty, however - more on that later.
 
 [^2]: These two plus Delta Dental Stadium in Manchester represent the only Eastern League ballparks opened in the 21st century - and I don't believe any Eastern League teams are planning new stadiums right now.
@@ -74,5 +70,3 @@ One FINAL final note: on some level, this game was "unnecessary", as I have plan
 [^4]: The ticket I originally got was part of the same deal I got my [2001 NYPL Ring Night](2026-06-26_bkncyclones3) ticket from.
 
 [^5]: The Yard Goats' next home opponent after this game is the Mets' Eastern League affiliate FWIW - though I don't know how many Met fans exist in central Connecticut (I've largely been under the impression that it's mainly Red Sox/Yankees, with Met fans more likely to be near the coast/in [Bridgeport](2026-01-12_bptislanders)). However, I did see like three or four Yankees jerseys and exactly ONE Mets jersey at the game.
-
-[^6]: It's also good that I found out how narrow the concourses are, as this game was apparently an overflow sellout, and my next visit is likely to be another...
