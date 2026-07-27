@@ -24,7 +24,7 @@ The Danbury Westerners have been part of _most_ of the NECBL's history: establis
 
 Their home for their entire existence has been at a public park known as Rogers Park. According to Wikipedia, the park was first opened in 1941, and features a war memorial as well as the Charles Ives House (the house where composer Charles Ives was born - though it's been relocated a few times); of course, I'm here to talk about the baseball field. Similar to [Bill Smith Park](2026-06-19_okiloggerheads), there's actually several fields here; the one the Westerners play at is located right next to a middle school which, in a sense, is similar to many [Cape League](ccbl_overview) fields such as [Wareham](2025-08-20_wargatemen). One major difference between the Cape League and Rogers Park: games are NOT free, but tickets are less than ten dollars a game, and unlike the "nearby" [Ice Arena](2026-02-15_dbyjrhattricks), there's free parking (partially because the arena is in downtown Danbury).
 
-![](/images/2026/0723-rogerspark.jpeg)
+![An image of Rogers Park](/images/2026/0723-rogerspark.jpeg)
 
 As a "public" field, there's not a lot to talk about in terms of "fan amenities" - but probably more than you might expect. There are three sets of bleachers: a small one down the first base side, a "medium" sized one behind home plate, and a large grandstand down the third base line "topped" by the press box. Due to how the field is oriented, this main stand has lots of shade thanks to the press box, which is nice if you don't want to be in the sun (especially on a hot day). If you're wondering about things to eat, drink, or wear, I'll get to that later.
 
@@ -32,7 +32,7 @@ I've been thinking about making this trip for quite a while, as it WAS supposed 
 
 Part of why I chose this date (besides AMAZING weather for once): the team had a doubleheader against the Marthas Vineyard Sharks (yep, there's a summer league team on Marthas Vineyard - more on them later this year), so the start time got moved up from 6:30 (which is mildly "doable" but kinda difficult) to 4 PM (which is WAY easier for the drive back). However, an evening commitment meant that I had to leave somewhere in the vicinity of 5:30 - midway through a WILD first game that saw Danbury score **10** runs in the first two innings en route to victory; I later found out that game 2 ended with another Danbury win (and I should note that these wins are coming against the best team in the NECBL).
 
-In addition, the [Bristol Blues game I went to that got rained out](2026-06-30_briblues) was resumed/completed the same day this trip took place, and it ended the same way it started: Bristol won 3-0.
+In addition, the [Bristol Blues game I went to that got rained out](2026-06-30_briblues) was resumed/completed the same day this trip took place, and it ended the same way it was left off: Bristol won 3-0.
 
 ### MERCH
 
