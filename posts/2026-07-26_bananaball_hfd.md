@@ -28,7 +28,7 @@ In 2025, it was announced that through a partnership with the Negro Leagues Base
 
 ...Though you might have known that already by reading the title and seeing "The Party Animals".
 
-On some level, this seems like something I should NOT be doing: Hartford is two and a half hours away AND known for being...not the best, plus this is a 7 PM game, which means that I'm almost certainly getting home near or after midnight if I tried to go home the same night. However, since I had guaranteed access to tickets thanks to being a [K Club member](bananaball_bospt2), I figured I'd get a ticket during the K Club period just in case I felt like going (i.e. "don't be sorry you missed out"). Also...JBJ.
+On some level, this seems like something I should NOT be doing: Hartford is two and a half hours away AND known for being...not the best, plus this is a 7 PM game, which means that I'm almost certainly getting home near or after midnight if I tried to go home the same night. However, since I had access to tickets thanks to being a [K Club member](bananaball_bospt2), I figured I'd get a ticket during the K Club period just in case I felt like going (i.e. "don't be sorry you missed out"). Also...JBJ.
 
 Some readers may recall that Jackie Bradley Jr. - a former Major League Baseball player known for his defensive prowess (and about one hot streak offensively a year) - was a special guest when I saw the Bananas at [Fenway Park](bananaball_bospt3), but this year, he's now a full fledged Banana Ball player for the Indianapolis Clowns.
 
@@ -36,7 +36,7 @@ Anyway, the plaza was actually pretty small this time (or at least it FELT small
 
 ![An image of the entryway into the plaza of an Indianapolis Clowns game](/images/2026/0725-entryway.jpeg)
 
-I’ve already been to [Dunkin’ Park](2026-06-29_hfdyardgoats) and talked about it, so I won't go over the stadium again. However, I do have to admit that I almost didn't go to that game KNOWING that I was coming for this (this was after buying a ticket to another Yard Goats game but then being unable to go), but I still wanted to see the stadium BEFORE Banana Ball, as it would probably be MUCH harder to explore when it was sold out (which ended up being prudent given how narrow the concourses can get). However, that game ended up being semi-prudent, because I didn't really explore the stadium that much since I got THIS view for the game[^2]:
+I’ve already been to [Dunkin’ Park](2026-06-29_hfdyardgoats) and talked about it, so I won't go over the stadium again. I do have to admit that I almost didn't go to that game KNOWING that I was coming for this (this was after buying a ticket to another Yard Goats game but then being unable to go), but I still wanted to see the stadium BEFORE Banana Ball, as it would probably be MUCH harder to explore when it was sold out. Me going to that game ended up being semi-prudent, because it made me realize how narrow the concourses can be, but also I didn't really explore the stadium that much since I got THIS view for the game[^2]:
 
 ![An image of the Indianapolis Clowns being introduced at Dunkin Park from one of the front rows](/images/2026/0725-bananaball-frontrow.jpeg)
 
@@ -54,13 +54,11 @@ Also, I mentioned back at the [first Banana Ball game I went to this year](2026-
 
 ### Send in the Clowns
 
-The thing with expansion teams is that they tend to struggle in their first year. On some level, the Clowns are no exception to that as they're last place in the Banana Ball Championship League standings. However, they went into this game with a chance to earn a sweep of the Party Animals...which they didn't as they lost by a rather wide margin (both in terms of points and "raw" runs scored). 
+The thing with expansion teams is that they tend to struggle in their first year. On some level, the Clowns are no exception to that as they're last place in the Banana Ball Championship League standings. However, they went into this game with a chance to earn a sweep of the Party Animals...which they didn't as they lost by a rather wide margin (both in terms of points and "raw" runs scored). A big part of that, sadly, was a WHOLE LOTTA unearned runs (runs scored from fielding errors), which feels a bit...not good for a competition where players are encouraged to wow fans with incredibly difficult trick plays defensively. However, I must admit that I think the Clowns have the best presentation of the three Banana Ball teams I've seen host games.
 
-Banana Ball has often been described as "baseball crossed with the circus", and while I don't know how the organization feels about that, one thing is for certain: the Clowns REALLY lean into that idea (again, their entryway display says "The Original Baseball Circus"). However, I must admit that I think the Clowns have the best presentation of the three Banana Ball teams I've seen host games.
+Banana Ball has often been described as "baseball crossed with the circus", and while I don't know how the organization feels about being called that, one thing is for certain: the Clowns REALLY lean into that idea (again, their entryway display says "The Original Baseball Circus"). Unlike the other two teams I've seen, the pregame felt a lot less "gimmicky" - it included where the team acknowledges legends from the history of the Clowns, a slapstick bit, probably the best hosts among the ones I've seen, and during the whole thing, the jumbotron was in grayscale. Also, while the Clowns don't have as many "characters" as some of the other teams, all of them felt USEFUL - including the mascot who pitches from time to time (but not this game). Finally, I don't recall if I mentioned the Bananas having a marching band, but the Clowns do as well (the Coconuts and Party Animals have rock bands), and having that makes the atmosphere so much cooler IMO.
 
-Unlike the other two teams I've seen, the pregame felt a lot less "gimmicky" - it included where the team acknowledges legends from the history of the Clowns, a slapstick bit, and during the whole thing, the jumbotron was in grayscale. Also, while the Clowns don't have as many "characters" as some of the other teams, all of them felt USEFUL - including the mascot who pitches from time to time (but not this game). Finally, I don't recall if I mentioned the Bananas having a marching band, but the Clowns do as well (the Coconuts and Party Animals have rock bands), and having that makes the atmosphere so much cooler IMO.
-
-The only thing I think that would have made the experience better (and may also help differentiate the other teams as well) is if the six BBCL teams didn't all have the same playlist for games. Sure, hearing "BOOM BOOM BOOM A-LET ME HEAR YOU SAY WAY-O" is great if you want fans to be active participants, but I feel like it'd be fun to hear some 50s and 60s music during the game - y'know, have fans jamming to stuff like Motown (and they play it in the plaza too, so...).
+The only thing I think that would have made the experience better (and may also help the other teams as well) is if the six BBCL teams didn't all have the same playlist during games. Sure, hearing "BOOM BOOM BOOM A-LET ME HEAR YOU SAY WAY-O" is great if you want fans to be active participants, but I feel like it'd be fun to hear some 50s and 60s music during the game - y'know, have fans jamming to stuff like Motown (and they play it in the plaza too, so...)[^5].
 
 ---
 
@@ -82,3 +80,5 @@ Here's the thing with THIS game: it started at 7 PM, which meant I would need to
 [^3]: In case you forgot: Hartford basically sits on the "Boston/New York" dividing line in Connecticut, and the Yard Goats game I went to featured a LOT of Sox fans, as the visiting team was their Double-A affiliate.
 
 [^4]: I ALMOST wore it to the [MLB All-Star festivities](20262-07-13_mlballstar2026), but ended up opting for a **MONTRÉAL EXPOS** jersey I got from eBay a few years ago.
+
+[^5]: Also, they never actually played "Send in the Clowns"...
