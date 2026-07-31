@@ -21,6 +21,7 @@ tags:
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0628-dunkinpark.jpeg"
+related: [{ title: "Indianapolis Clowns", link: "2026-07-26_bananaball_hfd" }]
 ---
 
 ### _[2026: New Venue #24](2026newvenuelist)_

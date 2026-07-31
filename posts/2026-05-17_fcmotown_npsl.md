@@ -14,10 +14,16 @@ tags:
     "New Jersey",
     "First Visit",
     "Outdoor Sports",
-    "New in 2026"
+    "New in 2026",
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0516-motown.jpeg"
+related:
+  [
+    { title: "FC Motown NPSL", link: "2026-05-17_fcmotown_npsl" },
+    { title: "FC Motown STA", link: "2026-05-22_fcmotownsta" },
+    { title: "FC Motown Double", link: "2026-07-03_fcmotown3" },
+  ]
 ---
 
 ### _[2026: New Venue #13](2026newvenuelist)_

@@ -18,6 +18,13 @@ tags:
     "Repeat Visit",
   ]
 background: "images/2026/0424-aladdin.jpeg"
+related:
+  [
+    { title: "Banana Ball", link: "2025-08-23_bananaball_bos" },
+    { title: "Banana Ball in New York 2", link: "2026-04-27_bananaball_ny2" },
+    { title: "New York City FC", link: "2025-08-13_nycfc" },
+    { title: "New York Yankees", link: "2026-06-04_nyyankees" },
+  ]
 ---
 
 Last year, [I wrote over **8,000** words on the Savannah Bananas and Banana Ball](2025-08-23_bananaball_bos) - and that was just ONE GAME. This year, I may or may not approach that number again, but if I do, it’ll be a bit more spread out, as I intend to see more than one Banana Ball game this year - starting with this trip.

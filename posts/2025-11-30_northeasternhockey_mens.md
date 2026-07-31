@@ -19,6 +19,15 @@ tags:
     "Indoor Sports",
     "Repeat Visit",
   ]
+badge: "badges/newtoblog.png"
+related:
+  [
+    {
+      title: "Northeastern Men's Hockey",
+      link: "2025-11-30_northeasternhockey_mens",
+    },
+    { title: "Farewell Matthews Arena", link: "2025-12-13_farewellmatthews" },
+  ]
 ---
 
 _\*In addition to this game, this post has info about two other trips from a few years ago in here as well. Those trips were on October 28, 2023 and February 2, 2024._

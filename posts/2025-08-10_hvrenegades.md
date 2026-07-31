@@ -19,6 +19,8 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related: [{ title: "New York Yankees", link: "2026-06-04_nyyankees" }]
 ---
 
 ![Heritage Financial Park](/images/2025/hudsonvalley.jpeg)

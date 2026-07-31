@@ -20,6 +20,14 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Brooklyn Cyclones 2025 2", link: "2025-09-01_bkncyclones2" },
+    { title: "Brooklyn FC", link: "2025-11-09_bkfc_womens" },
+    { title: "Brooklyn Cyclones 2026", link: "2026-06-26_bkncyclones3" },
+    { title: "New York Mets", link: "2026-05-01_nymets" },
+  ]
 ---
 
 ![A beautiful day at Maimonides Park in Brooklyn](/images/2025/brooklyn.jpeg)

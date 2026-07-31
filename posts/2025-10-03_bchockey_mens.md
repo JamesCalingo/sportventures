@@ -20,6 +20,13 @@ tags:
     "First Visit",
     "Repeat Visit",
   ]
+related:
+  [
+    {
+      title: "2024 Hockey East Championship",
+      link: "2026-03-21_hechampionship2024",
+    },
+  ]
 ---
 
 _\*This was written over the course of two visits to Boston College - the first one on November 17, 2023, and the second one on February 23, 2024[^1]. I will also mention that UMass Lowell's home opener is tonight as well, but [I've already talked about them](2025-08-29_bosfleet&umlhockey)._

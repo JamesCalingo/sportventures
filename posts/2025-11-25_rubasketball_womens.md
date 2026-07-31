@@ -19,6 +19,20 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Rutgers Men's Lacrosse", link: "2025-08-26_rulacrosse_mens" },
+    {
+      title: "Rutgers Women's Basketball",
+      link: "2025-11-25_rubasketball_womens",
+    },
+    { title: "Rutgers Basketball 2", link: "2025-12-21_rubasketball2" },
+    {
+      title: "Rutgers Baseball and Softball",
+      link: "2026-03-29_rutgers_batandball",
+    },
+  ]
 ---
 
 Growing up, I wanted to believe that basketball was a fun sport to watch...and I feel like I’m not sure if it is. Back in the day, my main issue was that it would take 15-20 minutes to play a singular minute of basketball at the end of games; nowadays, it’s just everyone in the NBA not knowing how to play defense and/or chucking threes nonstop and every game ending with both teams well into triple digits (an issue which, unfortunately, has shown signs of trickling down into college as well).

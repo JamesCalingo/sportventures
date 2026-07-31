@@ -20,6 +20,21 @@ tags:
     "First Visit",
     "Repeat Visit",
   ]
+related:
+  [
+    {
+      title: "Boston University Men's Hockey",
+      link: "2025-10-04_buhockey_mens",
+    },
+    {
+      title: "Boston University Women's Hockey",
+      link: "2026-01-18_buhockey_womens",
+    },
+    {
+      title: "2024 Hockey East Championship",
+      link: "2026-03-21_hechampionship2024",
+    },
+  ]
 ---
 
 _\*I’m about to mention two events in 2023 that I went to PRIOR to this event, but this was largely written after going to a BU game on December 2, 2023._

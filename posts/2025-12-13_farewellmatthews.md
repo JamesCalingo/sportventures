@@ -16,6 +16,14 @@ tags:
     "Indoor Sports",
     "Other Content"
   ]
+related:
+  [
+    {
+      title: "Northeastern Men's Hockey",
+      link: "2025-11-30_northeasternhockey_mens",
+    },
+    { title: "Farewell Matthews Arena", link: "2025-12-13_farewellmatthews" },
+  ]
 ---
 
 Two weeks ago, I went to a [Northeastern Huskies hockey game](2025-11-30_northeasternhockey_mens) at Matthews Arena. At the end of that post, I originally included this little snippet:

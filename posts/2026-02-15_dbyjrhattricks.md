@@ -17,6 +17,12 @@ tags:
     "New in 2026",
   ]
 badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Danbury Jr. Hat Tricks", link: "2026-02-15_dbyjrhattricks" },
+    { title: "Spice City FC", link: "2026-03-09_spicecityfc" },
+    { title: "FPHL @ Mennen Arena", link: "2026-03-22_fphl_mennen" },
+  ]
 ---
 
 ### _[2026: New Venue #5](2026newvenuelist)_

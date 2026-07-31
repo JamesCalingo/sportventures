@@ -22,6 +22,17 @@ tags:
     "New in 2026",
   ]
 badge: "badges/firstvisit.png"
+related:
+  [
+    {
+      title: "Boston University Men's Hockey",
+      link: "2025-10-04_buhockey_mens",
+    },
+    {
+      title: "Boston University Women's Hockey",
+      link: "2026-01-18_buhockey_womens",
+    },
+  ]
 ---
 
 ### _[2026: New Venue #2](2026newvenuelist)_

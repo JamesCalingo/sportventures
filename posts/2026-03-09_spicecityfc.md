@@ -15,10 +15,15 @@ tags:
     "Repeat Visit",
     "Other Sports",
     "First Visit",
-    "New in 2026"
+    "New in 2026",
   ]
 badge: "badges/newteam.png"
 background: "/images/2026/0308-scfc.jpeg"
+related:
+  [
+    { title: "Danbury Jr. Hat Tricks", link: "2026-02-15_dbyjrhattricks" },
+    { title: "Spice City FC", link: "2026-03-09_spicecityfc" },
+  ]
 ---
 
 Indoor/Arena soccer[^1] is a bit of a loaded term. For most soccer fans around the world, the term more than likely refers to _futsal_ - a form of soccer on a smaller court/field where individual skillsets are more important than in the "regular" game. Here in the United States, however, indoor soccer is basically a hybrid of soccer and hockey (similar to what [box lacrosse](2025-08-27_phiwings) is to [field lacrosse](2025-08-26_rulacrosse_mens)) - five "outfield" players plus a goalkeeper on an enclosed field where the walls are "in play" (generally a hockey rink covered with turf - though field dimensions can vary WIDELY).

@@ -5,6 +5,7 @@ publishDate: 10 May 2026
 published: true
 pinned: false
 tags: ["Football", "Soccer", "Other Content"]
+related: [{ title: "Brooklyn FC", link: "2025-11-09_bkfc_womens" }]
 ---
 
 _I was planning on going to a soccer game today, but it got rained out. In light of that cancellation, I've decided to share this. This was originally posted on <a href="https://overclocked-overthoughts.netlify.app/blog/2025-11-09_shirts_and_the_city" target="blank">another blog</a>, but since that blog is more or less dormant, I've decided to repost it here (with some edits). It was originally published on November 9, 2025, and the trip it details was prior to a [Brooklyn FC women's match](2025-11-09_bkfc_womens)._

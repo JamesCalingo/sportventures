@@ -17,6 +17,7 @@ tags:
     "Boston",
     "Outdoor Sports",
   ]
+related: [{ title: "Philadelphia Phillies", link: "2026-06-08_phiphillies" }]
 ---
 
 Yep - there's actually a bit more to my Banana Ball story!
@@ -25,7 +26,7 @@ A few weeks after seeing Banana Ball at Fenway, the Bananas were at Citizens Ban
 
 While the Bananas had a few “new” items I didn’t recall seeing at Fenway, I wasn’t really interested in any of it; however, they had a different opponent this time: the Texas Tailgaters (the team added in 2025), who had limited merch online (and no hats available that weren’t novelty cowboy hats). I decided to check out what they had for the Tailgaters once I saw that, once again, there was an early merchandise sale.
 
-Originally, I wanted to go on a Friday so I could combine this with a visit to the Wilmington Blue Rocks stadium/team store 30 minutes away in Wilmington, DE (and thus not have to think about going to a game there), but I wasn’t able to leave on that day (and it rained HARD, so it ended up being a good decision to stay home).  I ended up getting a flexfit Tailgaters hat (i.e. the traditional baseball style), mini bat, and ball - three things unavailable online as of when I made my visit (I should also note that the 4th of July hats I got in Boston were listed on the online store a day or so before I came here). There was also a denim-ish hat that I was thinking about, but decided against as it was a snapback (a type of hat I don’t typically wear if I have other options).
+Originally, I wanted to go on a Friday so I could combine this with a visit to the Wilmington Blue Rocks stadium/team store 30 minutes away in Wilmington, DE (and thus not have to think about going to a game there), but I wasn’t able to leave on that day (and it rained HARD, so it ended up being a good decision to stay home). I ended up getting a flexfit Tailgaters hat (i.e. the traditional baseball style), mini bat, and ball - three things unavailable online as of when I made my visit (I should also note that the 4th of July hats I got in Boston were listed on the online store a day or so before I came here). There was also a denim-ish hat that I was thinking about, but decided against as it was a snapback (a type of hat I don’t typically wear if I have other options).
 
 I also decided to check out the Phillies team store as well and found it...surprisingly small. Like Brooklyn, it is two levels, but both levels were much larger; however, the total floor space felt like it didn’t compare to the main Yankee or Red Sox stores (though it did feel a bit bigger than the one Yankees store that’s open on non-game days). I forgot to check their hat prices, but authentic player jerseys were priced at $400, so I’m willing to bet that hats also cost a little more here than they do at Lids...
 

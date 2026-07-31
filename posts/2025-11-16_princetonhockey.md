@@ -20,6 +20,14 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Princeton Soccer", link: "2025-10-19_princetonsoccer_mens" },
+    { title: "Princeton Football", link: "2025-11-15_princetonfootball" },
+    { title: "Princeton Hockey", link: "2025-11-16_princetonhockey" },
+    { title: "Princeton Basketball", link: "2025-12-11_princetonbasketball" },
+  ]
 ---
 
 Originally, I had a blurb here about the history of Princeton University, as this was going to be my first trip down. However, since I ended up going to a [soccer game](2025-10-19_princetonsoccer_mens) a few weeks before this game, it got moved to there. I ALSO had a blurb about the ECAC here as this trip was originally going to occur prior to the [Harvard post](2025-11-04_harvardhockey_mens), but in case you couldn't tell...it didn't.

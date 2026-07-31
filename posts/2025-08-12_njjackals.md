@@ -15,6 +15,13 @@ tags:
     "Outdoor Sports",
     "First Visit",
   ]
+badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "New Jersey Jackals 2025", link: "2025-08-12_njjackals" },
+    { title: "New York Cosmos", link: "2026-03-15_nycosmos" },
+    { title: "New Jersey Jackals 2026", link: "2026-05-20_njjackals2" },
+  ]
 ---
 
 ![A view of Hinchliffe Stadium from atop the parking garage. Despite the stadium not selling alcohol, a beer advertisement can be seen near the field.](/images/2025/hinchliffe.jpeg)<br>

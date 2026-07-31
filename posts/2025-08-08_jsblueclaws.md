@@ -19,6 +19,13 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Jersey Shore BlueClaws 2026", link: "2026-04-08_jsblueclaws2" },
+    { title: "Loco Beach Coconuts", link: "2026-06-12_bananaball_js" },
+    { title: "Philadelphia Phillies", link: "20226-06-08_phiphillies" },
+  ]
 ---
 
 It’s kinda hard to discuss the BlueClaws without talking about Lakewood, NJ (their home town) and what’s been going on there over the past few decades: a ridiculously sharp increase in population launching it past traditionally larger towns and cities to become the fifth most populous municipality in New Jersey as of 2020 (though census estimates have it at fourth). A large portion of that can be attributed to the fact that Lakewood has become known for its large Orthodox Jewish population - a group which is, to say the least, controversial. I don’t want to get too deep into the varying views on this Orthodox population, but in short: they are becoming more influential in the township (and the state), and it’s yet to be seen what will happen as said influence increases (as the population boom isn’t showing any signs of slowing down). However, I don't think a ban on Friday and Saturday games is in the cards just yet - though if it does become a possibility, it would almost certainly raise eyebrows around the state (with the team apparently having already looked at moving to Asbury Park, NJ + Trenton eager to get an affiliated team back).

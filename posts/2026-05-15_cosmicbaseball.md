@@ -14,10 +14,11 @@ tags:
     "Pennsylvania",
     "Outdoor Sports",
     "Repeat Visit",
-    "New in 2026"
+    "New in 2026",
   ]
 badge: "badges/newteam.png"
 background: "images/2026/0514-darkness.jpeg"
+related: [{ title: "Lehigh Valley IronPigs", link: "2025-08-11_lhvironpigs" }]
 ---
 
 _\*If I'm being honest, the "NEW TEAM" badge doesn't really do this justice, but I don't have anything "better"._
@@ -72,11 +73,11 @@ Also, there's appaprently no set "home team" heading into the game; the "home te
 
 The game starts with an "Unceremonial First Pitch", where a lucky fan gets to throw the first pitch of the game - to the first batter of the game[^3]. I'm not sure how "staged" it is, but the poor fan hit the first batter, which sparked a "benches clearing brawl".
 
-The first half of the game is basically "normal" baseball, but similar to Banana Ball's ruleset, bunting, mound visits, and batters stepping out of the box are not allowed. One major difference between the two is that in Cosmic Baseball, if a batter is thrown four balls, they get to take the ball and then throw it in front of them and hit it (what's known as a "fungo" swing - and yes, this CAN turn into an out). 
+The first half of the game is basically "normal" baseball, but similar to Banana Ball's ruleset, bunting, mound visits, and batters stepping out of the box are not allowed. One major difference between the two is that in Cosmic Baseball, if a batter is thrown four balls, they get to take the ball and then throw it in front of them and hit it (what's known as a "fungo" swing - and yes, this CAN turn into an out).
 
 There are also two "gimmick innings" - one reverses the order of bases (i.e. starting at third then going down to first), and the other features a "chaos period" where foul territory basically does not exist - and this includes balls going into the stands. I do not know if these are set to be in a specific order, but one fan determines which by selecting an UNO card before the second inning.
 
-After those two innings happen, I THINK there's supposed to be a fourth inning of "normal baseball", but at this particular game the fourth inning was "skipped" (partialy as the score was 0-0 at the time). After that, there's something that's almost unheard of in baseball: 
+After those two innings happen, I THINK there's supposed to be a fourth inning of "normal baseball", but at this particular game the fourth inning was "skipped" (partialy as the score was 0-0 at the time). After that, there's something that's almost unheard of in baseball:
 
 ### Intermission
 

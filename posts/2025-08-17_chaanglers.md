@@ -16,6 +16,8 @@ tags:
     "Repeat Visit",
     "Outdoor Sports",
   ]
+badge: "badges/newtoblog.png"
+related: []
 ---
 
 _\*For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._

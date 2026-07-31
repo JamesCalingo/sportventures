@@ -18,6 +18,16 @@ tags:
     "Women's Sports",
     "Repeat Visit",
   ]
+related:
+  [
+    { title: "Rutgers Men's Lacrosse", link: "2025-08-26_rulacrosse_mens" },
+    {
+      title: "Rutgers Women's Basketball",
+      link: "2025-11-25_rubasketball_womens",
+    },
+    { title: "Rutgers Basketball 2", link: "2025-12-21_rubasketball2" },
+    { title: "Rutgers Baseball and Softball", link: "2026-03-29_rutgers_batandball" },
+  ]
 ---
 
 My original thought for today was going to do some sightseeing in New York City with my friends whom I typically play pickleball with. However, pretty much none of them were available, but I was fine going by myself...and then I got an email: for one low price, I could get tickets to not one, but TWO Rutgers basketball games on the same day! The only caveat was that you'd be WAY UP at the 300 level for the men's game, but honestly, given how expensive men's tickets usually are (case in point: just a men's ticket in the 300s for this date was more than this combination ticket), it's a small price to pay (also, I ended up kinda liking the view - but not the climb).

@@ -19,6 +19,14 @@ tags:
     "Repeat Visit",
     "Outdoor Sports",
   ]
+badge: "badges/blank.png"
+related:
+  [
+    { title: "Brooklyn Cyclones 1", link: "2025-08-09_bkncyclones" },
+    { title: "Brooklyn FC", link: "2025-11-09_bkfc_womens" },
+    { title: "Brooklyn Cyclones 2026", link: "2026-06-26_bkncyclones3" },
+    {title: "New York Mets", link: "2026-05-01_nymets"}
+  ]
 ---
 
 In prior years of my sports adventures (i.e. when I was living in Massachusetts), there were often several teams that I’d go and see multiple times a year (y'know, like Cape League teams since they're pretty close to each other). However, since I came back to Jersey, I haven’t been able to do that as much. Truth be told, I wasn’t sure if this year wasn’t going to feature any repeat visits to see certain teams again (outside of my two visits to Staten Island for two different events); I thought about several teams I wanted to return to, but never made any of those trips. Part of it is that the (increased) distance from where I live to a lot of these stadiums makes these trips difficult, but another part of that is due to the costs of tickets being more expensive than they used to be. Case in point: there's a recent article about how <a href = "https://www.baseballamerica.com/stories/milb-projected-to-draw-under-30-million-fans-for-first-time-in-decades/" target="blank">MiLB is expected to draw its lowest attendance in decades</a>, and a lot of fans are blaming rising costs for that. However, I was finally able to “follow through” with one of these "repeat visit plans" right at the end of the Minor League Baseball season.

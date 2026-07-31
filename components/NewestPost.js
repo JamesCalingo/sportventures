@@ -1,7 +1,8 @@
 import Link from "next/link";
+import { displayDate } from "../utils/utils.js";
 
 function NewestPost(props) {
-    const { slug, display, title, subtitle, date, background } = props
+    const { slug, display, title, subtitle, date, publishDate, background } = props
     return <div id="newest" className="grid-post" style={{ backgroundImage: `url(${background})`, "backgroundPositionX": "center", "backgroundPositionY": "50%",  }}>
         <Link href={`/${slug}`}>
             <div className="section-header">
@@ -12,7 +13,7 @@ function NewestPost(props) {
                 </span>
             </div>
             <em>{subtitle}</em>
-            <p className="list-date">{new Date(date).toLocaleDateString()}</p>
+            <p className="list-date">{displayDate(publishDate, date)}</p>
         </Link>
 
     </div>
