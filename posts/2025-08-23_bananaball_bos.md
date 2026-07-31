@@ -21,6 +21,14 @@ tags:
     "Repeat Visit",
     "New in 2025",
   ]
+badge: "badges/newteam.png"
+related:
+  [
+    { title: "Banana Ball in New York 1", link: "2026-04-25_bananaball_ny" },
+    { title: "Banana Ball in New York 2", link: "2026-04-27_bananaball_ny2" },
+    { title: "Loco Beach Coconuts", link: "2026-06-12_bananaball_js" },
+    { title: "Indianapolis Clowns", link: "2026-07-26_bananaball_hfd" },
+  ]
 ---
 
 _\*I had so many thoughts on what happened that I’ve had to structure this post a bit differently than my other posts (case in point: my draft for this was SEVENTEEN PAGES LONG). To save everyone's sanity from having to scroll for all of that, I've broken this post into multiple parts - this one obviously being the intro._

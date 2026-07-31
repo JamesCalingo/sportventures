@@ -20,11 +20,15 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Princeton Soccer", link: "2025-10-19_princetonsoccer_mens" },
+    { title: "Princeton Football", link: "2025-11-15_princetonfootball" },
+    { title: "Princeton Hockey", link: "2025-11-16_princetonhockey" },
+    { title: "Princeton Basketball", link: "2025-12-11_princetonbasketball" },
+  ]
 ---
-
-_\*This trip occurred on November 15, 2025, and there was a [GOOD reason I had the time to post about it on the same day as the game](2025-11-16_princetonhockey). Also, if you haven't seen it yet, every post on this site now has tags! It's part of a bigger update I'm still working on, but I did get one BIG part of it working, so I felt it was good to have them now._
-
-_However, I should also mention that this site now has a new URL! The old one still works (I'm FAIRLY sure), but this new one feels a lot more "official". Now, onto today's featured trip:_
 
 I’ll be honest: I’m not really into gridiron football for a few reasons:
 

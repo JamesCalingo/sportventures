@@ -20,6 +20,12 @@ tags:
     "Repeat Visit",
   ]
 background: "images/2026/0625-coneyisland.jpeg"
+related:
+  [
+    { title: "Brooklyn Cyclones", link: "2025-08-09_bkncyclones" },
+    { title: "Brooklyn Cyclones 2025 2", link: "2025-09-01_bkncyclones2" },
+    { title: "Brooklyn FC", link: "2025-11-09_bkfc_womens" },
+  ]
 ---
 
 I alluded to it back when I visited [Brooklyn FC’s women’s team](2025-11-09_bkfc), but the Cyclones won the South Atlantic League title last year (2025). However, I should probably go back a bit more - especially as one part is relevant.
@@ -38,7 +44,7 @@ To my surprise, the drive over wasn't actually all that bad (home was a bit of a
 
 Sadly, the Cyclones have cycled from "SAL champions" to "kinda sorta bad" this year; they had the second worst record in the league heading into this game. In fairness, win-loss records aren't SUPER important in the Minor Leagues (given that the playoffs are viewed as more of a BURDEN than a reward), but with the Mets being...the Mets, it's not exactly great that the "alternative" is also struggling - and that after four good innings, their starter kinda sorta came apart and the team ended up losing to another team celebrating their 25th anniversary: the [Jersey Shore Blueclaws](2026-04-08_jsblueclaws2)[^3].
 
-One final note: 
+One final note:
 
 ### MERCH
 

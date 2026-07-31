@@ -19,6 +19,20 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Rutgers Men's Lacrosse", link: "2025-08-26_rulacrosse_mens" },
+    {
+      title: "Rutgers Women's Basketball",
+      link: "2025-11-25_rubasketball_womens",
+    },
+    { title: "Rutgers Basketball 2", link: "2025-12-21_rubasketball2" },
+    {
+      title: "Rutgers Baseball and Softball",
+      link: "2026-03-29_rutgers_batandball",
+    },
+  ]
 ---
 
 While it's hard for me to pin down a succinct description of (field) lacrosse, the best way to describe it is that it's similar to soccer, but with players using specialized sticks instead of their feet. It's famous for being more or less fully developed in North America by Native Americans, and those Native American roots are always present: it's one of the few sports where Native American nations field teams instead of their players playing for the U.S. (which is a bit of an issue for the sport's upcoming Olympic debut). While the official rules have been a bit "unclear" recently (partially due to its current pro league tinkering with them), the main things you really need to know are that it's a 10 vs. 10 game played on a field that's about as long as an American football field (though a bit wider).

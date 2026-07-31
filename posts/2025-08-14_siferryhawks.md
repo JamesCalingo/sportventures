@@ -16,6 +16,8 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related: [{title: "MLW Wiffle Ball", link: "2025-08-16_mlwwiffleball"}]
 ---
 
 ![An image of the New York City skyline as seen from SIUH Community Ballpark](/images/2025/siuhskyline.jpeg)<br>

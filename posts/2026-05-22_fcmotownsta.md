@@ -19,6 +19,12 @@ tags:
   ]
 badge: "/badges/newteam.png"
 background: "images/2026/0521-motownsta.jpeg"
+related:
+  [
+    { title: "FC Motown NPSL", link: "2026-05-17_fcmotown_npsl" },
+    { title: "FC Motown STA", link: "2026-05-22_fcmotownsta" },
+    { title: "FC Motown Double", link: "2026-07-03_fcmotown3" },
+  ]
 ---
 
 Before we get to today's "main event", I'd like to mention one thing:

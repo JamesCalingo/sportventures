@@ -27,13 +27,12 @@ const AllPosts = ({ posts }) => {
         } else {
             setPostList(published)
         }
-        console.log(postList[0], published[0])
     }, [oldestFirst])
 
     function handleResetSelect() {
         const selectElement = document.getElementById('tag-select');
-      selectElement.selectedIndex = 0;
-      setTag('');
+        selectElement.selectedIndex = 0;
+        setTag('');
     }
 
     return (
@@ -55,7 +54,7 @@ const AllPosts = ({ posts }) => {
                         ))}
                     </select>
                 </div>
-                  { tag ? <button onClick={() => handleResetSelect()}>Show All Posts</button> : <button onClick={() => setOldestFirst(!oldestFirst)}>Show {oldestFirst ? "Newest" : "Oldest"} First</button>}
+                {tag ? <button onClick={() => handleResetSelect()}>Show All Posts</button> : <button onClick={() => setOldestFirst(!oldestFirst)}>Show {oldestFirst ? "Newest" : "Oldest"} First</button>}
             </div>
             <PostList posts={postList} />
 

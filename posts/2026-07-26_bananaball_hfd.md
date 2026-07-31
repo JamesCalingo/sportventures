@@ -18,6 +18,11 @@ tags:
   ]
 badge: "badges/newteam.png"
 background: "images/2026/0725-bananaball-frontrow.jpeg"
+related:
+  [
+    { title: "Banana Ball", link: "2025-08-23_bananaball_bos" },
+    { title: "Hartford Yard Goats", link: "2026-06-29_hfdyardgoats" },
+  ]
 ---
 
 The Indianapolis Clowns were a member of the Negro Leagues from about 1942-1955 - though their history seems to date back to the 1930s. I won't go over EVERY bit of their history, but they won three league championships in the early 1950s and are also famous for signing one Henry Aaron to his first professional contract before he was signed by the Braves (while they were still in Boston - because screw Tom Yawkey apparently[^1]). However, even throughout that time, they were well known as a barnstorming team (as well as one of the first baseball teams to sign female players). In fact, even as the Negro Leagues went into decline thanks to the integration of Major League Baseball, the Clowns were still touring into the 1980s - though the organization went dormant in 1989.
@@ -66,10 +71,6 @@ P.S.: I checked, and I'm fairly certain my seat was NOT in the "standard" camera
 
 - Navy JBJ Clowns jersey over a [Danbury Westerners](2026-07-24_dbywesterners) "shirsey"
 - Party Animals hat
-
-### ON DECK
-
-Here's the thing with THIS game: it started at 7 PM, which meant I would need to find somewhere to spend the night or face getting home near or after midnight (which is something I'd rather avoid). The fact that I was able to make this trip indicates that I was able to solve that issue - and I'll get into that tomorrow.
 
 ---
 

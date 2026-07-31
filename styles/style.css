@@ -33,7 +33,7 @@ button:hover {
 }
 
 article {
-  width: 80%;
+  /* width: 80%; */
   margin: auto;
 }
 
@@ -65,7 +65,7 @@ sup a {
   text-decoration: none;
 }
 
-article a:hover {
+article a:hover, #side a:hover {
   color: green
 }
 
@@ -110,7 +110,7 @@ figcaption {
 }
 
 .list-post-text {
-margin: 0 3%
+  margin: 0 3%
 }
 
 .list-post a {
@@ -230,13 +230,18 @@ margin: 0 3%
 
 .badge {
   max-width: 250px;
-  float: right;
+  margin: 0 auto;
+}
+
+.mobile-badge {
+  display: none;
 }
 
 .badge-list {
   margin-bottom: 2.5em;
   font-style: italic;
 }
+
 
 .section-header,
 .section-subheader {
@@ -255,12 +260,27 @@ margin: 0 3%
   margin-top: 25px;
 }
 
-.tags-container p {
-  margin-bottom: 0
+.post-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  column-gap: 2%;
+  margin: 0 3%;
+}
+
+.tags-container h4 {
+margin-bottom: 0;
+padding: 0;
+}
+
+#tag-list {
+  margin: 0;
+  list-style: none;
 }
 
 .tag {
   font-size: 14pt;
+  margin: 0;
+  padding: 0
 }
 
 .list-date {
@@ -302,6 +322,10 @@ margin: 0 3%
   line-height: 1.2;
 }
 
+.footnotes :target {
+  background: yellow;
+}
+
 /* @media (prefers-color-scheme: dark) {
   body {
     background-color: #313030;
@@ -336,6 +360,23 @@ margin: 0 3%
     margin-bottom: 20px;
   }
 
+  .post-container {
+    display: block;
+    margin: 0 5%
+  }
+
+  .mobile-badge {
+    display: block;
+  }
+
+  .widescreen-badge {
+    display: none;
+  }
+
+  #side {
+    margin: auto;
+  }
+
   #blog_title {
     font-size: 36pt;
   }
@@ -357,14 +398,8 @@ margin: 0 3%
     display: none;
   }
 
-.post-date {
-  text-align: center;
-}
-
-  .badge {
-    float: none;
-    display: block;
-    margin: 0 auto;
+  .post-date {
+    text-align: center;
   }
 
   .controls {

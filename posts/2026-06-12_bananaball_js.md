@@ -15,10 +15,16 @@ tags:
     "New Jersey",
     "Outdoor Sports",
     "Repeat Visit",
-    "New in 2026"
+    "New in 2026",
   ]
 badge: "/badges/newteam.png"
 background: "images/2026/0611-locobeach.jpeg"
+related:
+  [
+    { title: "Banana Ball", link: "2025-08-23_bananaball_bos" },
+    { title: "Jersey Shore BlueClaws 2025", link: "2025-08-08_jsblueclaws" },
+    { title: "Jersey Shore BlueClaws 2026", link: "2026-04-08_jsblueclaws2" },
+  ]
 ---
 
 Where in the world is Loco Beach? I'm not sure if _anyone_ has the answer, but I'm also not sure how important that is...as long as it's not near Ep{**THE REST OF THIS JOKE WAS DEEMED TOO CONTROVERSIAL FOR THIS BLOG**}.
@@ -31,7 +37,7 @@ Unlike my prior Banana Ball games, there was no special K Club area in the prega
 
 This game marks the first time I've seen Banana Ball WITHOUT its signature team (the [Savannah Bananas](2025-08-23_bananaball_bos)) as well as the first time I'd seen it in a Minor League Baseball stadium, which is VERY important because I've heard that the Banana Ball experience is better at Minor League stadiums (which was proven to a certain extent by my [Cosmic Baseball](2026-05-15_cosmicbaseball) experience). There are a LOT of factors that go into why that is, but I think one of them is the fact that a good 50-60% of the crowd at a bigger stadium is too far removed from the action to be able to enjoy it, and even as someone in the "good seats" (thanks to the K Club), the relative lack of energy is noticeable (or at least it was at [Yankee](2026-04-25_bananaball_ny) [Stadium](2026-04-27_bananaball_ny2)).
 
-I've also heard that "once you've seen one Banana Ball team, you've seen them all"...and I can see why people say that (as well as the idea that Banana Ball is baseball mixed with RIDICULOUS sensory overload). The Coconuts (and by extension the Party Animals and other Banana Ball teams) do each have their own sets of "characters", but they all still feel a bit underutilized (save for mascots and maybe each team's "resident band" - though the Party Animals seemingly only had their mascot for this game[^3]). In addition, a lot of the pregame stuff seemed like takeoffs of what the Bananas do in their pregame buildup - a game involving the upper deck, a kid hitting a little league home run, and a baby (though this one featured a mix of the theme from Jaws and Baby Shark). 
+I've also heard that "once you've seen one Banana Ball team, you've seen them all"...and I can see why people say that (as well as the idea that Banana Ball is baseball mixed with RIDICULOUS sensory overload). The Coconuts (and by extension the Party Animals and other Banana Ball teams) do each have their own sets of "characters", but they all still feel a bit underutilized (save for mascots and maybe each team's "resident band" - though the Party Animals seemingly only had their mascot for this game[^3]). In addition, a lot of the pregame stuff seemed like takeoffs of what the Bananas do in their pregame buildup - a game involving the upper deck, a kid hitting a little league home run, and a baby (though this one featured a mix of the theme from Jaws and Baby Shark).
 
 ### MERCH
 
@@ -39,7 +45,7 @@ I usually save this for the end, but (I hope) you'll understand why I moved this
 
 The tropical theme of the Coconuts extends down to their merch: their "debut" jersey and hat both feature floral print on them. However, the merch stands here featured a pinstriped jersey which, to my knowledge, is not available online as of this post's publish date. Also, for whatever reason, the Coconuts have two different colors of minibat (which I haven't seen for any of the other Banana Ball teams).
 
-Each team had three merchandise stands: one each in the plaza outside the stadium, one  in left field (which I'm not sure I've mentioned before, but has a rather open area that I'm not fully certain as to what it's used for), and then the last stands were in different places. The Coconuts had a stand right outside the BlueClaws team store (inside the stadium proper), while the Party Animals had one in right field (near some "specialized" concession stands). 
+Each team had three merchandise stands: one each in the plaza outside the stadium, one in left field (which I'm not sure I've mentioned before, but has a rather open area that I'm not fully certain as to what it's used for), and then the last stands were in different places. The Coconuts had a stand right outside the BlueClaws team store (inside the stadium proper), while the Party Animals had one in right field (near some "specialized" concession stands).
 
 ### The game itself
 

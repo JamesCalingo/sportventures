@@ -19,6 +19,8 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related: [{ title: "New York Yankees", link: "2026-06-04_nyyankees" }]
 ---
 
 _This trip occurred in the middle of me "catching up" with my writings after I started this blog, which is why it's formatted a BIT differently from the posts around it. Also, I’m sure at least some of you out there understand what I’m referencing in the subtitle - I couldn’t stop thinking about it after hearing how the “Barre” in Wilkes-Barre is pronounced..._

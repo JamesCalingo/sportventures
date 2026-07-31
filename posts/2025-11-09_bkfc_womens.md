@@ -19,6 +19,14 @@ tags:
     "Repeat Visit",
     "New in 2025",
   ]
+badge: "badges/newteam.png"
+related:
+  [
+    { title: "Brooklyn Cyclones", link: "2025-08-09_bkncyclones" },
+    { title: "Brooklyn Cyclones 2025 2", link: "2025-09-01_bkncyclones2" },
+    { title: "Brooklyn FC", link: "2025-11-09_bkfc_womens" },
+    { title: "Brooklyn Cyclones 2026", link: "2026-06-26_bkncyclones3" },
+  ]
 ---
 
 Brooklyn FC was established in 2023 by a group of investors. Originally, the plan was for a men’s team to be established in USL League One (the second tier of the USL, and the "third tier" of soccer in America) and a women’s team to be established in the newly formed USL Super League (a top level women’s league)[^1] in 2025. However, the women’s team had their debut moved up to 2024, while the men’s team got “promoted” to the USL Championship (the highest level of the USL and the second tier of US Soccer), but had their debut postponed to 2026.

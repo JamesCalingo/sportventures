@@ -9,7 +9,7 @@ pinned: false
 tags:
   [
     "Hockey",
-    "PWHL",
+    "Professional Women's Hockey League",
     "Women's Hockey",
     "Boston",
     "Massachusetts",
@@ -23,6 +23,8 @@ tags:
     "Repeat Visit",
     "New in 2025",
   ]
+badge: "badges/newteam.png"
+related: []
 ---
 
 _\*I ended up merging in some details from when I wrote about this arena after a UMass Lowell game I attended on November 10, 2023[^1] - and I'll start with a little bit of information on them (as the university owns the arena)._

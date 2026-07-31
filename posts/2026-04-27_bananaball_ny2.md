@@ -18,6 +18,13 @@ tags:
     "Repeat Visit",
   ]
 background: "images/2026/0426-ysmodel.jpeg"
+related:
+  [
+    { title: "Banana Ball", link: "2025-08-23_bananaball_bos" },
+    { title: "Banana Ball in New York 1", link: "2026-04-25_bananaball_ny" },
+    { title: "New York City FC", link: "2025-08-13_nycfc" },
+    { title: "New York Yankees", link: "2026-06-04_nyyankees" },
+  ]
 ---
 
 The backstory of _this_ post starts with [this trip from Friday](2026-04-25_bananaball_ny). Long story short: the Savannah Bananas and Party Animals were scheduled to be at Yankee Stadium the weekend of April 25-26, but rain on Saturday caused the first game to get pushed up to Friday.
@@ -83,7 +90,7 @@ During the wait for the player parade before gates (when K Clubbers were already
 However, unlike Friday's game, this game had two special guests who played for the Bananas (both as batters):
 
 - Russell Wilson (the quarterback). Yeah, I got nothing...
-- Tino Martinez. Inasmuch as I don't like the Yankees, I feel like Tino is one of the most underrated players of their late 90s dynasty era. 
+- Tino Martinez. Inasmuch as I don't like the Yankees, I feel like Tino is one of the most underrated players of their late 90s dynasty era.
 
 ### The game itself
 

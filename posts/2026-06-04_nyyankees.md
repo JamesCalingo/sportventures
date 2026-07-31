@@ -18,6 +18,18 @@ tags:
   ]
 badge: "badges/newtoblog.png"
 background: "images/2026/0602-why.jpeg"
+related:
+  [
+    { title: "New York City FC", link: "2025-08-13_nycfc" },
+    { title: "Banana Ball 1", link: "2026-04-25_bananaball_ny" },
+    { title: "Banana Ball 2", link: "2026-04-27_bananaball_ny2" },
+    { title: "Hudson Valley Renegades", link: "2025-08-10_hvrenegades" },
+    {
+      title: "Scranton/Wilkes-Barre RailRiders",
+      link: "2025-08-18_swbrailriders",
+    },
+    { title: "Somerset Patriots", link: "2026-04-17_sompatriots" },
+  ]
 ---
 
 If you know anything about baseball, then you probably don’t need me to explain the history of the New York Yankees. Heck, as someone who viscerally _dislikes_ them, I feel like the less I say here, the better.

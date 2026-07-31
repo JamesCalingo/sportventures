@@ -16,6 +16,8 @@ tags:
     "Repeat Visit",
     "Outdoor Sports",
   ]
+badge: "badges/newtoblog.png"
+related: []
 ---
 
 ![A photo I took ON THE FIELD at Holman Stadium back in 2022](/images/2025/nashua.jpeg)

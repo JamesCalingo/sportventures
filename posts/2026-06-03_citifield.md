@@ -15,9 +15,10 @@ tags:
     "Mets",
     "Outdoor Sports",
     "Repeat Visit",
-    "Other Content"
+    "Other Content",
   ]
 background: "images/2026/0602-citifield-field.jpeg"
+related: [{ title: "New York Mets", link: "2026-05-01_nymets" }]
 ---
 
 One of the more interesting things about going to a sporting event: there's TONS you _don't_ get to see. The most "common" example of this would be luxury areas for people/companies who pay hundreds to thousands of dollars to access them, but there are areas of stadiums even _they_ don't see on a typical gameday.

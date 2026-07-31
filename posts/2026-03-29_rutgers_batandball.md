@@ -23,9 +23,20 @@ tags:
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0328-rusoftball.jpeg"
+related:
+  [
+    { title: "Rutgers Men's Lacrosse", link: "2025-08-26_rulacrosse_mens" },
+    {
+      title: "Rutgers Women's Basketball",
+      link: "2025-11-25_rubasketball_womens",
+    },
+    { title: "Rutgers Basketball 2", link: "2025-12-21_rubasketball2" },
+    {
+      title: "Rutgers Baseball and Softball",
+      link: "2026-03-29_rutgers_batandball",
+    },
+  ]
 ---
-
-_I've made a few visual updates to the blog, which were a bit of a struggle to implement in a way that's legible, but I do think it adds character._
 
 I've gone over Rutgers and its various athletic programs MULTIPLE times in the past, but for those who don't know: Rutgers is...not exactly the "major sporting power" it seems to think it is (and I say this as an alumnus). We've got a football team that the rest of the Big Ten poaches easy wins from, a middling men's basketball team (even if they did [some cool stuff when I saw them](2025-12-21_rubasketball2#mens)), a women's basketball team that largely scrapes by against seemingly "[lesser](2025-11-25_rubasketball_womens) [competition](2025-12-21_rubasketball2#womens)" (then gets waxed by [an actually decent team](2025-12-11_princetonbasketball))[^1], and also other things like a [lacrosse team](2025-08-26_rulacrosse_mens) (which I THINK is supposed to be good but got blown out the day I saw them).
 
@@ -65,7 +76,7 @@ I should also mention that the school is working with Middlesex County on a more
 
 ![An image of a pitch being thrown at a Rutgers softball game](/images/2026/0328-rusoftball.jpeg)
 
-I feel like softball has a bit of a "rap" as "the women's equivalent to baseball" in the United States - though in fairness, this is the first time I've attended a softball game, and the only reason I did was because it was conveniently right next to the baseball game. While it is true that NCAA (and professional) softball is a women's sport, there's actually a bit more to softball than "baseball on a smaller field and with two less innings". 
+I feel like softball has a bit of a "rap" as "the women's equivalent to baseball" in the United States - though in fairness, this is the first time I've attended a softball game, and the only reason I did was because it was conveniently right next to the baseball game. While it is true that NCAA (and professional) softball is a women's sport, there's actually a bit more to softball than "baseball on a smaller field and with two less innings".
 
 First, the pitcher's mound is not raised in softball, making the field completely flat. In addition, pitches are exclusively thrown underhand (as opposed to overhand or sidearm in baseball). Finally, there seems to be MUCH DIFFERENT rules for substitution; for example, there's something called a "Flex" which is a player which is a purely defensive as well as a role known as the "Designated Player" acts very similar to the Designated Hitter in baseball (except they bat in place of the Flex and NOT necessarily the pitcher). One thing I do find somewhat strange: despite being largely a women's sport, the fielders named for the bases are still referred to as "basemen" (i.e. first baseman, second baseman, and third baseman) - as opposed to other sports such as hockey, where the "linesmen" become "linepersons" in women's hockey[^4].
 

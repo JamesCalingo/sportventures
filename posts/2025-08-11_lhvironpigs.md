@@ -19,6 +19,12 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Cosmic Baseball", link: "2026-05-15_cosmicbaseball" },
+    { title: "Philadelphia Phillies", link: "20226-06-08_phiphillies" },
+  ]
 ---
 
 ![A view from the outfield at Coca-Cola Park](/images/2025/lehighvalley.jpeg)

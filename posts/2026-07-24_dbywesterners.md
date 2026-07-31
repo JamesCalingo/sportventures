@@ -52,6 +52,6 @@ I also ended up finding multiple NECBL game baseballs during my 2023 visit...in 
 
 [^3]: The merch booth opened after the first game started - I'm guessing the guys who run it had other things to do prior to 4:30...
 
-[^4]: I'll get into some of the other NECBL teams that sold jerseys later this year, but one of them was the [Winnipesaukee Muskrats](2026-04-11_wpsmuskrats)
+[^4]: I'll get into some of the other NECBL teams that sold jerseys later this year, but one of them was the [Winnipesaukee Muskrats](2026-04-11_wpsmuskrats).
 
 [^5]: Official Game Baseballs are surprisingly hard to find on sale outside of Major League Baseball and the Cape League...and yes this does include the Minor Leagues: I've only seen them in four MiLB team stores ([Brooklyn](2025-08-09_bkncyclones), [Reading](2025-08-24_rdgfightinphils), [Somerset](2026-04-17_sompatriots), and [Myrtle Beach](2026-06-15_mbpelicans)), and the Cyclones didn't have any the last time I was there. However, based on my last visit to Dick's Sporting Goods, MLB game balls are also getting a bit harder to find...

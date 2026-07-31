@@ -16,6 +16,8 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related: []
 ---
 
 ![The pregame anthem from a Trenton Thunder game](/images/2025/trentonthunder.jpg)

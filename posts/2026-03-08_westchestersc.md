@@ -19,6 +19,11 @@ tags:
     "Outdoor Sports",
   ]
 badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Westchester SC", link: "2026-03-08_westchestersc" },
+    { title: "New York Empire", link: "2026-05-30_nyempire" },
+  ]
 ---
 
 ### _[2026: New Venue #6](2026newvenuelist)_

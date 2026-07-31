@@ -18,6 +18,14 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
+related:
+  [
+    { title: "Princeton Soccer", link: "2025-10-19_princetonsoccer_mens" },
+    { title: "Princeton Football", link: "2025-11-15_princetonfootball" },
+    { title: "Princeton Hockey", link: "2025-11-16_princetonhockey" },
+    { title: "Princeton Basketball", link: "2025-12-11_princetonbasketball" },
+  ]
 ---
 
 Princeton University is one of America’s oldest colleges and a member of the famous Ivy League. I won’t get too deep into the school as they have a LONG alumni list (being the fourth oldest college in the United States will do that[^1]), but I will mention that their football team is technically tied with Rutgers for being the oldest football program in the United States - after all, SOMEONE had to be the opponent for the First Ever College Football Game™.

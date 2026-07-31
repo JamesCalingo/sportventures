@@ -11,7 +11,6 @@ const Index = () => {
       <div id="title">
         <h1 id="blog_title">Sportventures</h1>
         <p id="blog_tag">Travels and thoughts on the wide world of sports</p>
-        {/* <p><Link href={"2026newvenuelist"}>Aiming to visit 26 new venues in 2026</Link></p> */}
       </div>
 
       {pinned &&
@@ -20,7 +19,7 @@ const Index = () => {
         </div>
       }
 
-      <NewestPost slug={latest.slug} display={latest.frontmatter.display ? latest.frontmatter.display : latest.frontmatter.title} subtitle={latest.frontmatter.subtitle} date={latest.frontmatter.date ? latest.frontmatter.date : latest.frontmatter.publishDate} background={latest.frontmatter.background} />
+      <NewestPost slug={latest.slug} display={latest.frontmatter.display ? latest.frontmatter.display : latest.frontmatter.title} subtitle={latest.frontmatter.subtitle} date={latest.frontmatter.date} publishDate={latest.frontmatter.publishDate} background={latest.frontmatter.background} />
 
       <div className="section-header">
         <span>RECENT POSTS</span>

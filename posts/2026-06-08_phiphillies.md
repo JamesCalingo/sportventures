@@ -19,6 +19,14 @@ tags:
   ]
 badge: "badges/newtoblog.png"
 background: "images/2026/0607/homeplateview.jpeg"
+related:
+  [
+    { title: "Jersey Shore Blueclaws 2025", link: "2025-08-08_jsblueclaws" },
+    { title: "Lehigh Valley IronPigs", link: "2025-08-11_lhvironpigs" },
+    { title: "Reading Fightin Phils", link: "2025-08-24_rdgfightinphils" },
+    { title: "Jersey Shore BlueClaws 2026", link: "2026-04-08_jsblueclaws2" },
+    { title: "2026 All-Star Festivities", link: "2026-07-13_mlballstar2026" },
+  ]
 ---
 
 With teams in the “Big Four” leagues, I feel like I don’t REALLY need to talk about their histories. They’re a lot more well known than the minor league and weird indie teams I tend to cover on this site, and their histories are better documented on places like their websites and Wikipedia.

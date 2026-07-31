@@ -15,11 +15,16 @@ tags:
     "Connecticut",
     "FPHL",
     "Indoor Sports",
-    "First Visit", 
-    "New in 2026"
+    "First Visit",
+    "New in 2026",
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0321-mennenarena.jpeg"
+related:
+  [
+    { title: "Danbury Jr. Hat Tricks", link: "2026-02-15_dbyjrhattricks" },
+    { title: "FPHL @ Mennen Arena", link: "2026-03-22_fphl_mennen" },
+  ]
 ---
 
 ### _[2026: New Venue #7](2026newvenuelist)_
@@ -52,7 +57,7 @@ I said that the Wolves were the "operational home team" for this game (which, FW
 
 ### MERCH
 
-At this game, the Hat Tricks (who, let me remind you, are technically the "away" team) had a merch table rinkside which included "game worn" jerseys  - and I use quotes there because some of the jerseys were probably NOT used in games as they were made for guys who I don't think ever played in a game (a few still had the manufacturer's retail tag). I didn't ask whose idea it was to bring the FPHL to New Jersey, but methinks Danbury was more involved with the planning of this game more than the supposed "home" team...
+At this game, the Hat Tricks (who, let me remind you, are technically the "away" team) had a merch table rinkside which included "game worn" jerseys - and I use quotes there because some of the jerseys were probably NOT used in games as they were made for guys who I don't think ever played in a game (a few still had the manufacturer's retail tag). I didn't ask whose idea it was to bring the FPHL to New Jersey, but methinks Danbury was more involved with the planning of this game more than the supposed "home" team...
 
 Also, because I cannot resist a deep dive into jerseys apparently, I went to the online store for EVERY team in the FPHL to see what types of jerseys they sell about a month before this game happened. While not every team sells jerseys online (or at least had jerseys available when I checked), the ones that did were quite "mixed": some teams sell only sublimated jerseys, some teams sell only jerseys with sewn logos, and a few teams sold both![^6] However, Danbury was the only team who sold "game worn" jerseys online (see above for a caveat to that term); there's a distinct possibility that other teams also sell game worn jerseys at games, but I have no way of confirming that right now (and given the locations of some of the teams, trips to see them are not super likely).
 

@@ -19,6 +19,12 @@ tags:
     "Repeat Visit",
   ]
 background: "images/2026/0407-openingday.jpeg"
+related:
+  [
+    { title: "JS BlueClaws 2025", link: "2025-08-08_jsblueclaws" },
+    { title: "Loco Beach Coconuts", link: "2026-06-12_bananaball_js" },
+    { title: "Philadelphia Phillies", link: "2026-06-08_phiphillies" },
+  ]
 ---
 
 If you're a long time reader of this blog, you may remember that ShoreTown Ballpark was [the first stadium I ever posted about on this blog](2025-08-08_jsblueclaws) (and if you're not, you've just learned a small piece of "lore"). Thanks to that, I feel like there’s not much to say about the Jersey Shore BlueClaws (or the town they play in) that I haven’t already discussed when I came here last year (and given current events, I don't think a recap is a good idea).

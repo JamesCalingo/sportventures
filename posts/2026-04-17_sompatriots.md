@@ -18,11 +18,10 @@ tags:
     "Repeat Visit",
     "Outdoor Sports",
   ]
-badge: badges/newtoblog.png
-background: images/2026/0416-somerset.jpeg
+badge: "badges/newtoblog.png"
+background: "images/2026/0416-somerset.jpeg"
+related: [{ title: "New York Yankees", link: "2026-06-04_nyyankees" }]
 ---
-
-_\*I’ve been to this stadium AND seen this team before, but since I’ve never talked about either yet, I’ve indicated this situation with this “New to Blog” badge. I don't think I’ll use it that often, but I can almost guarantee that this is NOT the only time I'll use it._
 
 Oh, the Somerset Patriots.
 

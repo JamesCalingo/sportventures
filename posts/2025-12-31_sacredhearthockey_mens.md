@@ -18,6 +18,7 @@ tags:
     "First Visit",
     "New in 2025",
   ]
+badge: "badges/firstvisit.png"
 ---
 
 Sacred Heart University in Fairfield, CT (about 60 miles from the heart of New York City) is a rather small university...you’d think. However, it’s the second largest Catholic university in New England (behind good ol’ Boston College), and was one of the first Catholic universities to be staffed by laypeople (i.e. not priests/nuns/other religious men and women). It's also a surprisingly "young" institution, having been founded in 1963 (which means that there's a decent chance that some of the professors who teach there are older than the university itself).
