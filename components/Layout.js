@@ -24,6 +24,7 @@ function Layout({ children, pageTitle }) {
           <div className="links">
             {pageTitle !== "About this site - Sportventures" && <Link href={"/about"}>About this site</Link>}
             {pageTitle !== "Sportventures" && <Link href={"/"}>Back to home</Link>}
+            {pageTitle !== "All Posts - Sportventures" && <Link href="/allposts">All Posts</Link>}
             {<a href="mailto:contact@sportventures.blog">Contact</a>}
           </div>
 

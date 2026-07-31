@@ -71,12 +71,6 @@ One other note: the postgame plaza at smaller stadiums apparently features playe
 
 ---
 
-### ON DECK
-
-It is very likely that there's not going to be anything new on this blog for a bit. I'll explain why soon enough (assuming that this ends up holding true).
-
----
-
 [^1]: One thing to remember: I bought this ticket via the K Club in November 2025.
 
 [^2]: That's right kids: the [Cape League](ccbl_overview) isn't just where players go to get noticed - many broadcasters started there as well! I'm not sure who the most famous example would be, but a few who come to mind (besides Drake Toll) are Vegas Golden Knights radio voice Dan D'Uva and the twin sons of Cardinals broadcaster Chip Caray (who, in turn, are the great-grandsons of the legendary Harry Caray).

@@ -51,14 +51,6 @@ Also, I TECHNICALLY mentioned it in my original post, but last year, the BlueCla
 
 ---
 
-### ON DECK
-
-I did say last time that I was planning on going to a game that should be VERY special next weekend, but I should note that this game ISN'T it.
-
-That game is still yet to happen, but I have something a little different I want to post before it.
-
----
-
 [^1]: I will say that ANOTHER return to ShoreTown is "scheduled" - but not to see the BlueClaws...(insert wink emoji here)
 
 [^2]: I have been to a minor league hockey home opener before, as well as several home openers in summer baseball, but the summer ball home openers seem to be not as "pompous" from my experience.
