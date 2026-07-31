@@ -20,7 +20,7 @@ tags:
     "New in 2025",
   ]
 badge: "badges/firstvisit.png"
-related: [  { title: "Philadelphia Phillies", link: "20226-06-08_phiphillies" },]
+related: [  { title: "Philadelphia Phillies", link: "2026-06-08_phiphillies" },]
 ---
 
 ![America's Classic Ballpark, Baseballtown](/images/2025/baseballtown.jpeg)

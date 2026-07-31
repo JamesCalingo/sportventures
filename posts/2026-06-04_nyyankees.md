@@ -21,8 +21,8 @@ background: "images/2026/0602-why.jpeg"
 related:
   [
     { title: "New York City FC", link: "2025-08-13_nycfc" },
-    { title: "Banana Ball 1", link: "2026-04-25_bananaball_ny" },
-    { title: "Banana Ball 2", link: "2026-04-27_bananaball_ny2" },
+    { title: "Banana Ball in New York 1", link: "2026-04-25_bananaball_ny" },
+    { title: "Banana Ball in New York 2", link: "2026-04-27_bananaball_ny2" },
     { title: "Hudson Valley Renegades", link: "2025-08-10_hvrenegades" },
     {
       title: "Scranton/Wilkes-Barre RailRiders",

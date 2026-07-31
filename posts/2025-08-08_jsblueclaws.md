@@ -24,7 +24,7 @@ related:
   [
     { title: "Jersey Shore BlueClaws 2026", link: "2026-04-08_jsblueclaws2" },
     { title: "Loco Beach Coconuts", link: "2026-06-12_bananaball_js" },
-    { title: "Philadelphia Phillies", link: "20226-06-08_phiphillies" },
+    { title: "Philadelphia Phillies", link: "2026-06-08_phiphillies" },
   ]
 ---
 

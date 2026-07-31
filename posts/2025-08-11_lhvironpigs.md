@@ -23,7 +23,7 @@ badge: "badges/firstvisit.png"
 related:
   [
     { title: "Cosmic Baseball", link: "2026-05-15_cosmicbaseball" },
-    { title: "Philadelphia Phillies", link: "20226-06-08_phiphillies" },
+    { title: "Philadelphia Phillies", link: "2026-06-08_phiphillies" },
   ]
 ---
 

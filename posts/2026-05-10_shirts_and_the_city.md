@@ -1,6 +1,7 @@
 ---
 title: "Shirts and the City"
 subtitle: 'or "I am FORCED to learn some modicum of self-control"'
+date: 8 November 2025
 publishDate: 10 May 2026
 published: true
 pinned: false
@@ -8,7 +9,7 @@ tags: ["Football", "Soccer", "Other Content"]
 related: [{ title: "Brooklyn FC", link: "2025-11-09_bkfc_womens" }]
 ---
 
-_I was planning on going to a soccer game today, but it got rained out. In light of that cancellation, I've decided to share this. This was originally posted on <a href="https://overclocked-overthoughts.netlify.app/blog/2025-11-09_shirts_and_the_city" target="blank">another blog</a>, but since that blog is more or less dormant, I've decided to repost it here (with some edits). It was originally published on November 9, 2025, and the trip it details was prior to a [Brooklyn FC women's match](2025-11-09_bkfc_womens)._
+_I was planning on going to a soccer game today, but it got rained out. In light of that cancellation, I've decided to share this: it was originally posted on <a href="https://overclocked-overthoughts.netlify.app/blog/2025-11-09_shirts_and_the_city" target="blank">another blog</a>, but since that blog is more or less dormant, I've decided to repost it here (with some edits). It was originally published on November 9, 2025, and the trip it details was prior to a [Brooklyn FC women's match](2025-11-09_bkfc_womens)._
 
 If you’re of a certain age, you may be a fan of vintage or thrift store shopping. It’s become a massive trend amongst the younger generations for various reasons (at least I think it has), and thrift/vintage stores are quite popular on social media.
 
@@ -45,12 +46,6 @@ There are, of course, A TON MORE vintage stores - and that’s just if you’re 
 Also, thank goodness I realized I (almost) forgot my shirts at the pizza place I ate lunch at almost immediately after leaving it...
 
 (One final note for those who don't understand the divisions mentioned in the shirt descriptions: most countries have all of their soccer/football clubs in a singular "pyramid" which is divided into several divisions, and teams can go up and down the divisions depending on if they play well/poorly season by season.)
-
----
-
-### ON DECK
-
-Let there be (black) light.
 
 ---
 
