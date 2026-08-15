@@ -12,7 +12,7 @@ tags:
     "Summer League Baseball",
     "New England Collegiate Baseball League",
     "Other Content",
-    "Pre-2025",
+    
     "New Hampshire",
   ]
 background: "images/2026/robbiemillsfield.jpg"

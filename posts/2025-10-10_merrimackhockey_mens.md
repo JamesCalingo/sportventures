@@ -13,7 +13,7 @@ tags:
     "Merrimack College",
     "Hockey East",
     "Massachusetts",
-    "Pre-2025",
+    
     "Catch-Up",
     "Indoor Sports",
     "First Visit",

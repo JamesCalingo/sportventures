@@ -13,7 +13,7 @@ tags:
     "Hockey East",
     "University of New Hampshire",
     "New Hampshire",
-    "Pre-2025",
+    
     "Catch-Up",
     "Indoor Sports",
     "First Visit",

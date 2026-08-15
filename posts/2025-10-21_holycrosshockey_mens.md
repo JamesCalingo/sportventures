@@ -13,7 +13,7 @@ tags:
     "College of the Holy Cross",
     "Atlantic Hockey America",
     "Massachusetts",
-    "Pre-2025",
+    
     "Catch-Up",
     "Indoor Sports",
     "First Visit",
