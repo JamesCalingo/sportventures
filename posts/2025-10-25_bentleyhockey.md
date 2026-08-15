@@ -14,7 +14,7 @@ tags:
     "Bentley University",
     "Boston",
     "Massachusetts",
-    "Pre-2025",
+    
     "Catch-Up",
     "Indoor Sports",
     "First Visit",

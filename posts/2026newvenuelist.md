@@ -34,4 +34,4 @@ My original goal for 2026 was to visit [26 new stadiums/venues for sports](2026-
 24. [Dunkin' Park - Hartford, CT](2026-06-29_hfdyardgoats)
 25. [Rutgers Sports Club Field - Piscataway, NJ](2026-07-11_njcopa)
 26. [Lyndhurst Golden Bears Sports Field - Lyndhurst, NJ](2026-07-12_mlquadball)
-27. **COMING SOON**
+27. [Metlife Stadium - East Rutherford, NJ](2026-08-15_nyjets)

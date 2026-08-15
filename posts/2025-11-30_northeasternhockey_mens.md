@@ -9,7 +9,7 @@ pinned: false
 tags:
   [
     "Hockey",
-    "Pre-2025",
+    
     "College",
     "College Hockey",
     "Hockey East",

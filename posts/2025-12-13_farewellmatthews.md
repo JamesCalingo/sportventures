@@ -8,7 +8,7 @@ pinned: false
 tags:
   [
     "Hockey",
-    "Pre-2025",
+    
     "College",
     "Hockey East",
     "Northeastern University",

@@ -16,7 +16,6 @@ tags:
     "UMass Lowell",
     "College",
     "College Hockey",
-    "Pre-2025",
     "Hockey East",
     "Major Leagues",
     "Women's Sports",
