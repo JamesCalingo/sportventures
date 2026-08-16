@@ -69,7 +69,9 @@ A few final notes:
 
 ### ON DECK
 
-We're going to start this series tomorrow with a somewhat "interesting" team.
+We're going to start this series tomorrow with a somewhat "interesting" team...probably.
+
+There's a chance I go and do something today, but the odds of it are honestly not super high and shrinking by the "hour" for various reasons, so I guess if I don't start this tomorrow, then I'll start on Monday.
 
 ---
 
