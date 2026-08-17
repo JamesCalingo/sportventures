@@ -20,6 +20,8 @@ badge: "badges/newtoblog.png"
 related: []
 ---
 
+### [SUMMER OF BASEBALL 2023: STOP 3](2026-08-16_summerofbaseball2023)
+
 ![A photo I took ON THE FIELD at Holman Stadium back in 2022](/images/2025/nashua.jpeg)
 
 <figcaption>A photo I took ON THE FIELD at Holman Stadium back in 2022</figcaption>

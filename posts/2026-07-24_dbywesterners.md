@@ -20,6 +20,8 @@ badge: "badges/newtoblog.png"
 background: "images/2026/0723-rogerspark.jpeg"
 ---
 
+### [SUMMER OF BASEBALL 2023: STOP 28](2026-08-16_summerofbaseball2023)
+
 The Danbury Westerners have been part of _most_ of the NECBL's history: established in Danbury in 1995, they are the oldest continuously operating NECBL team that have never relocated[^1]. Despite three decades of history as the westernmost team in all of New England summer ball (hence the name “Westerners”), they’ve only won the NECBL title once - back in 2021 (which was the first year I followed the New England summer baseball leagues). As the southwesternmost team in all of New England, they're a bit unique in that they're pretty much the ONLY team fully in (New York) Yankee territory - a fact marked by Yankees themed raffles and the PC Richard and Son whistle for strikeouts (something the Yankees do).
 
 Their home for their entire existence has been at a public park known as Rogers Park. According to Wikipedia, the park was first opened in 1941, and features a war memorial as well as the Charles Ives House (the house where composer Charles Ives was born - though it's been relocated a few times); of course, I'm here to talk about the baseball field. Similar to [Bill Smith Park](2026-06-19_okiloggerheads), there's actually several fields here; the one the Westerners play at is located right next to a middle school which, in a sense, is similar to many [Cape League](ccbl_overview) fields such as [Wareham](2025-08-20_wargatemen). One major difference between the Cape League and Rogers Park: games are NOT free, but tickets are less than ten dollars a game, and unlike the "nearby" [Ice Arena](2026-02-15_dbyjrhattricks), there's free parking (partially because the arena is in downtown Danbury).
