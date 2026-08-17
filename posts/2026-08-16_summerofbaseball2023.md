@@ -17,16 +17,16 @@ tags:
 badge:
 ---
 
-Today marks the final day of the New England summer leagues, as the third and final game of the Futures League's championship series is set to take place[^1].
+_(NOTE: The day this was originally published was the final day of the New England summer leagues, as the Futures League crowned its 2026 champions: the [New Britain Bees](2026-07-27_nbbees)[^1].)_
 
 Back in 2023, I had a goal: Visit every summer collegiate team I knew of in New England. This ended up taking MONTHS of planning, as I had to figure out how to squeeze the 31 visits into the weekends of June and July (though thankfully, I was also able to use a few weekdays as well). After each visit, I wrote down a few thoughts on the stadiums and what I thought about the experiences (aka the precursor to THIS site).
 
 In the years that followed. I never looked back at what I wrote...until I started this blog. I felt that what I had back then was too widely varied: some were interesting, others a bit too simple, and I actually completely forgot to write about one of the venues! However, with me starting this blog combined with the fact that returns to many of these places being MASSIVE question marks for the future, I felt it was finally time to "finish" the posts and publish them here. They're going to be going up on days when I don't have a "game" post going up (because - surprise surprise - I have a few things I plan on doing this month). Also, don't be surprised if they're a bit more "vague" than normal - many of them are going to be based solely off of what I remember from THREE YEARS AGO.
 
-I'm going to be posting these in the order I visited them that summer with a few exceptions, as there are - of course - several teams in this list that I've visited since starting this blog, so they're already here in the list (no point talking about them a second time, right?):
+I'm going to be posting these in the order I visited them that summer (i.e. 2023, as I visited MANY of the teams the year before in a different order) with a few exceptions, as there are - of course - several teams in this list that I've visited since starting this blog, so they're already here in the list (no point talking about them a second time, right?):
 
 1. [Brockton Rox (Futures League)](2025-08-22_brorox)[^2]
-2. COMING SOON
+2. [Westfield Starfires (Futures League)](2026-08-17_wesstarfires) **\*\*NEWEST\*\***
 3. [Nashua Silver Knights (Futures League)](2025-08-19_nassilverknights)
 4. COMING SOON
 5. [New Britain Bees (Futures League)](2026-07-27_nbbees)
@@ -40,7 +40,7 @@ I'm going to be posting these in the order I visited them that summer with a few
 13. COMING SOON
 14. COMING SOON
 15. COMING SOON
-16. **_COMING LATER (I'll explain in due time)_**
+16. _COMING LATER (I'll explain in due time)_
 17. COMING SOON
 18. COMING SOON
 19. COMING SOON
@@ -66,12 +66,6 @@ A few final notes:
 3. I am aware of the existence of a fourth league (the Greater Northeast Collegiate Baseball League, which is a member of [The Players League](2026-06-22_shashallywags)). However, as it's currently based out of a single stadium in Maine[^3] (and the league's lack of status seems to be leading to stability issues), I'm not sure if or when I'll be able to get to it.
 
 4. I actually wrote about the Cape League stadiums as far back as 2021 after a family vacation on the Cape, but sadly those notes appear to be lost to time...
-
-### ON DECK
-
-We're going to start this series tomorrow with a somewhat "interesting" team...probably.
-
-There's a chance I go and do something today, but the odds of it are honestly not super high and shrinking by the "hour" for various reasons, so I guess if I don't start this tomorrow, then I'll start on Monday.
 
 ---
 

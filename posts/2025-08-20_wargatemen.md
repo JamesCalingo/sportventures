@@ -20,6 +20,8 @@ badge: "badges/newtoblog.png"
 related: ""
 ---
 
+### [SUMMER OF BASEBALL 2023: STOP 20](2026-08-16_summerofbaseball2023)
+
 _\*For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
 
 ![A photo of Clem Spillane Field from 2022. Since then, massive renovations have taken place; notably, the bleachers on the third base (right) side of this photo have been removed.](/images/2025/wareham2022.jpeg)
