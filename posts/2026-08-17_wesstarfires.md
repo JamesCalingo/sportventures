@@ -36,9 +36,3 @@ I will note, however, that this is the stadium where I learned the magic of putt
 It’s hard to miss the merchandise tent, as it’s basically right after you walk in. While most of it isn't super "out of the ordinary", Bullens Field has apparently seen a lot of crazy and interesting things happen during games, as the Starfires use the term "Bullens Magic" quite a bit (to the point that it's all over their merch).
 
 I’ll be honest: I think Westfield has my favorite hat in the Futures League; there’s something about the colors and logo that appeal a lot to me. Having said that, however...they didn’t have any hats I was interested in the first time I came here. I was able to get a hat the second time, however, and I actually got jerseys both times.
-
----
-
-### ON DECK
-
-The non-Cape League team I've seen the most - in the Heart of New England.
