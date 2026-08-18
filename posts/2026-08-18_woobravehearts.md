@@ -39,12 +39,6 @@ One of the reasons I ended up making many, MANY visits in 2022 specifically: jer
 
 ---
 
-### ON DECK
-
-A stadium that had a unique quirk for the couple of years that I visited.
-
----
-
 [^1]: Part of why I say "apparently": I've been to ONE WooSox game, but it was a company outing, so I didn't have to buy my ticket (also worth noting: my last Red Sox game at [Fenway](bananaball_bospt3) was a free ticket as well).
 
 [^2]: Had this trip included a visit to [Brockton](2025-08-22_brorox), I MIGHT have a Brockton Rox hat with a closed back (which, in case you forgot, I don't).
