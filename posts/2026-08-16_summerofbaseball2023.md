@@ -5,7 +5,7 @@ subtitle: "The last few things I've never published are going up soon!"
 date:
 publishDate: 16 August 2026
 published: true
-pinned: false
+pinned: true
 tags:
   [
     "Baseball",
@@ -26,9 +26,9 @@ In the years that followed. I never looked back at what I wrote...until I starte
 I'm going to be posting these in the order I visited them that summer (i.e. 2023, as I visited MANY of the teams the year before in a different order) with a few exceptions, as there are - of course - several teams in this list that I've visited since starting this blog, so they're already here in the list (no point talking about them a second time, right?):
 
 1. [Brockton Rox (Futures League)](2025-08-22_brorox)[^2]
-2. [Westfield Starfires (Futures League)](2026-08-17_wesstarfires) **\*\*NEWEST\*\***
+2. [Westfield Starfires (Futures League)](2026-08-17_wesstarfires) 
 3. [Nashua Silver Knights (Futures League)](2025-08-19_nassilverknights)
-4. COMING SOON
+4. [Worcester Bravehearts (Futures League)](2026-08-18_worbravehearts) **\*\*NEWEST\*\***
 5. [New Britain Bees (Futures League)](2026-07-27_nbbees)
 6. COMING SOON
 7. COMING SOON
