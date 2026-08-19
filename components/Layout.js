@@ -28,7 +28,7 @@ function Layout({ children, pageTitle }) {
             {<a href="mailto:contact@sportventures.blog">Contact</a>}
           </div>
 
-          <p>All content © James Calingo</p>
+          <p>All content © JCalingo Digital Ventures</p>
         </footer>
       </div>
     </>

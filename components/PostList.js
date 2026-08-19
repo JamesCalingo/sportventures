@@ -17,7 +17,7 @@ function PostList(props) {
                     const { frontmatter, slug } = post;
                     const { display, date, publishDate, title, subtitle, pinned, background } = frontmatter;
 
-                    return newest ? <NewestListItem key={index} slug={slug} display={display ? display: title } date={date ? date : publishDate} subtitle={subtitle} background={background}/> : (<GridItem key={index} slug={slug} display={display ? display: title} date={date} publishDate={publishDate} pinned={pinned} subtitle={subtitle} />
+                    return newest ? <NewestListItem key={index} slug={slug} display={display ? display: title } date={date} publishDate={publishDate} subtitle={subtitle} background={background}/> : (<GridItem key={index} slug={slug} display={display ? display: title} date={date} publishDate={publishDate} pinned={pinned} subtitle={subtitle} />
                     );
                 })}
 

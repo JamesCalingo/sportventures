@@ -28,7 +28,7 @@ Well, that "later" is now, as post will get into both teams and the connection t
 
 Dodd Stadium was opened in 1994, and was originally built for a Double-A team that debuted that same year (the Norwich Navigators, who became the Connecticut Defenders in the 2000s). However, after years of struggling with attendances, the team eventually moved to Richmond, VA (which had a AAA team until 2008), where they are now one of the highest draws in Double-A (and just got a new stadium - one of the reasons why the AAA team left). Another affiliated team moved in a few years after the original team left, but we’ll get to them in a little bit. As a former Minor League stadium, it’s probably a bit "average” for the Futures League (though personally I kinda prefer New Britain), but was easily the highest quality stadium in the NECBL during its time (which really isn’t saying a lot). 
 
-The stadium concourse here is at the top of the seating bowl, so there are views of the field from most of it save for right behind home plate where the press box is. Outside of that, it’s been too long since my last visit, so I can’t really recall much about the place - though in some ways, it felt kinda generic (as in VERY similar to places like [Somerset](2026-04-17_sompatriots), [Wilmington](2026-05-03_wilbluerocks), and [Rockland](2026-05-08_rocboulders)). The games I came to here didn’t really feature large crowds either, so the atmosphere was pretty muted (moreso for the NECBL team, who often drew under 100 fans at Dodd).
+The stadium concourse here is at the top of the seating bowl, so there are views of the field from most of it save for right behind home plate where the press box is. Outside of that, it’s been too long since my last visit, so I can’t really recall much about the place - though in some ways, it felt kinda generic (as in VERY similar to stadiums like those of the [Somerset Patriots](2026-04-17_sompatriots), [Wilmington Blue Rocks](2026-05-03_wilbluerocks), and [New York Boulders](2026-05-08_rocboulders)). The games I came to here didn’t really feature large crowds either, so the atmosphere was pretty muted (moreso for the NECBL team, who often drew under 100 fans at Dodd).
 
 Outside of the baseball I saw, I heard that a sale of the stadium was considered by the city of Norwich a few years ago. It doesn’t help that it’s in a corporate park, so there’s little reason to go there outside of games (plus the fact that it’s not a premier concert venue due to the presence of Mohegan Sun a mere 15 minutes away). The Futures League was worried that a sale of Dodd Stadium would almost certainly endanger the future of the Sea Unicorns (and potentially the league itself if I'm being honest), but I don’t remember if this situation got resolved (or how). I've also heard rumors of one of the independent baseball leagues taking interest in moving in, however, so there's also that to think about (though this may have just been a WILD rumor).
 
@@ -65,12 +65,6 @@ When they first moved to Mystic, the team was based out of a local high school, 
 For the Schooners games I went to, merch was sold at a table on the concourse, and the Sea Unicorns team store was closed. While there wasn’t a TON of special things here, the Schooners actually have a “side hustle” where they brew root bear and other sodas, and I got a growler at the second game I came to (along with a t-shirt I liked - one of few t-shirts I got from the NECBL).
 
 Also worth noting: the Sea Unicorns charged for parking both times I went (one of few teams in the New England summer leagues to do so), but I can't remember if the Schooners did.
-
----
-
-### ON DECK
-
-Quirk City.
 
 ---
 
