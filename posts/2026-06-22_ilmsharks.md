@@ -13,7 +13,7 @@ tags:
     "Coastal Plain League",
     "North Carolina",
     "Outdoor Sports",
-    "Other Content"
+    "Other Content",
   ]
 ---
 
@@ -21,7 +21,8 @@ If you couldn't tell from the past few posts, collegiate summer baseball has exp
 
 The Coastal Plain League is another summer wood bat league (y'know, like the ONSL and the [Cape Cod Baseball League](ccbl_overview)) that was founded in 1997 by an executive who wanted summer baseball closer to his home (somewhere in the South I guess). Named after a former minor league, it has grown considerably in its almost three decades of existence, and for long time readers, I've actually mentioned it quite a few times around here already, as its teams have also spawned two “alternate” forms of baseball: Banana Ball (which has been featured on this blog [four](2025-08-23_bananaball_bos) [different](2026-04-25_bananaball_ny) [times](2026-04-27_bananaball_ny2) [before](2026-06-12_bananaball_js)) and [Cosmic Baseball](2026-05-15_cosmicbaseball).
 
-Six teams were founded alongside the league: one of them being the Wilmington Sharks. As one of the founding members of the CPL, you may not be surprised to learn that they’re tied for the most championships in the league; however, what may surprise you is the years those titles were won: 1998, 1999, and then 2024[^1].
+Six teams were founded alongside the league: one of them being the Wilmington Sharks. As one of the founding members of the CPL, you may not be surprised to learn that ~~they’re tied for the most championships in the league; however, what may surprise you is the years those titles were won: 1998, 1999, and then 2024~~.<br>
+_**UPDATE:** They WERE tied for the most titles when this was originally published, but won in 2026 to move into sole possession of first place with four championships._
 
 Like a lot of summer baseball teams, the Sharks play at what is essentially a community field. I couldn’t find any information on when Buck Hardee Field actually opened, but apparently it received its current name back in 1981. In all honesty, there isn’t much to say about the place as it’s very similar to other community fields (y’know, like the ones on Cape Cod), but one thing that is different from the Cape: I believe alcohol is available at a bar area down the right field line (in other words, it's very similar to [Bill Smith Park](2026-06-19_okiloggerheads)).
 
@@ -40,8 +41,6 @@ As I recall, merch is based in a small shack on the concourse. While it doesn’
 There is one unfortunate situation with the Sharks that I have to mention: I’ve found that hats are oddly hard to come by here. One year, I was told they were waiting on some players from the College World Series to arrive before they would sell hats, and the other time, only the largest size was available (which SORTA works for me, but I'm not a fan of it personally). Like some other summer league teams (i.e. several teams in the Cape League), the Sharks have the habit of changing their hats every year, which makes trying to pin them down more annoying. In fact, this difficulty in getting hats even extends to their online store: I tried ordering a hat one time only for them to email me saying the hat I ordered was sold out. However, I found out after I got back from the Loggerheads game that player hats were available online, so I decided to order some[^4].
 
 ---
-
-[^1]: It should be noted that the Savannah Bananas also have three CPL championships. That’s right: The Savannah Bananas were founded, won three league championships, and then LEFT the CPL between the Sharks’ second and third championship.
 
 [^2]: According to one of the Ghost Crabs interns, the Sharks actually won a CPL marketing award in 2019 over Savannah.
 
