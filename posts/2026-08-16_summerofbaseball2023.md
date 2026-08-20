@@ -30,11 +30,11 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 3. [Nashua Silver Knights (Futures League)](2025-08-19_nassilverknights)
 4. [Worcester Bravehearts (Futures League)](2026-08-18_worbravehearts) 
 5. [New Britain Bees (Futures League)](2026-07-27_nbbees)
-6. [Norwich Sea Unicorns (Futures League)](2026-08-19_doddstadium#norwich) **\*\*NEWEST\*\***
-7. COMING SOON
+6. [Norwich Sea Unicorns (Futures League)](2026-08-19_doddstadium#norwich) 
+7. [Newport Gulls (New England League)](2026-08-20_nptgulls) **\*\*NEWEST\*\***
 8. COMING SOON
 9. COMING SOON
-10. [Mystic Schooners (New England League)](2026-08-19_doddstadium#mystic)[^3] **\*\*NEWEST\*\***
+10. [Mystic Schooners (New England League)](2026-08-19_doddstadium#mystic)[^3] 
 11. COMING SOON
 12. COMING SOON
 13. COMING SOON

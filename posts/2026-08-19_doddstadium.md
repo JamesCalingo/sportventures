@@ -28,9 +28,9 @@ Well, that "later" is now, as post will get into both teams and the connection t
 
 Dodd Stadium was opened in 1994, and was originally built for a Double-A team that debuted that same year (the Norwich Navigators, who became the Connecticut Defenders in the 2000s). However, after years of struggling with attendances, the team eventually moved to Richmond, VA (which had a AAA team until 2008), where they are now one of the highest draws in Double-A (and just got a new stadium - one of the reasons why the AAA team left). Another affiliated team moved in a few years after the original team left, but we’ll get to them in a little bit. As a former Minor League stadium, it’s probably a bit "average” for the Futures League (though personally I kinda prefer New Britain), but was easily the highest quality stadium in the NECBL during its time (which really isn’t saying a lot). 
 
-The stadium concourse here is at the top of the seating bowl, so there are views of the field from most of it save for right behind home plate where the press box is. Outside of that, it’s been too long since my last visit, so I can’t really recall much about the place - though in some ways, it felt kinda generic (as in VERY similar to places like [Somerset](2026-04-17_sompatriots), [Wilmington](2026-05-03_wilbluerocks), and [Rockland](2026-05-08_rocboulders)). The games I came to here didn’t really feature large crowds either, so the atmosphere was pretty muted (moreso for the NECBL team, who often drew under 100 fans at Dodd).
+The stadium concourse here is at the top of the seating bowl, so there are views of the field from most of it save for right behind home plate where the press box is. Outside of that, it’s been too long since my last visit, so I can’t really recall much about the place - though in some ways, it felt kinda generic (as in VERY similar to stadiums like those of the [Somerset Patriots](2026-04-17_sompatriots), [Wilmington Blue Rocks](2026-05-03_wilbluerocks), and [New York Boulders](2026-05-08_rocboulders)). The games I came to here didn’t really feature large crowds either, so the atmosphere was pretty muted (moreso for the NECBL team, who often drew under 100 fans at Dodd).
 
-Outside of the baseball I saw, I heard that a sale of the stadium was considered by the city of Norwich a few years ago. It doesn’t help that it’s in a corporate park, so there’s little reason to go there outside of games (plus the fact that it’s not a premier concert venue due to the presence of Mohegan Sun a mere 15 minutes away). The Futures League was worried that a sale of Dodd Stadium would almost certainly endanger the future of the Sea Unicorns (and potentially the league itself if I'm being honest), but I don’t remember if this situation got resolved (or how). I've also heard rumors of one of the independent baseball leagues taking interest in moving in, however, so there's also that to think about (though this may have just been a WILD rumor).
+Outside of the baseball I saw, I heard that a sale of the stadium was considered by the city of Norwich a few years ago. It doesn’t help that it’s in a corporate park, so there’s little reason to go there outside of games (plus the fact that it’s not a premier concert venue due to the presence of Mohegan Sun a mere 15 minutes away). I have no clue what happened to those plans, but I found out after initially publishing this that a local soccer team is moving in for 2027 after being somewhat nomadic in 2026 (they were looking to build a stadium in Bridgeport, but it hasn't materialized).
 
 One small note before continuing: in something that can only be described as "intensely frustrating for me and me only", BOTH teams have gotten new hats since I last saw them. However, neither team has an online store as of the day this is being published, so I have NO IDEA how to get either of them without visiting (and as a reminder, the summer seasons are over, so I can't do anything about this until next June at the earliest). With that out of the way, let’s talk about the two teams - in order of how I saw them in 2023 (as well as 2022):
 
@@ -41,6 +41,8 @@ One small note before continuing: in something that can only be described as "in
 ### [SUMMER OF BASEBALL 2023: STOP 6](2026-08-16_summerofbaseball2023)
 
 The Norwich Sea Unicorns were founded in 2010 as an affiliated Minor League Baseball team in the New York-Penn League until it was eliminated in 2020, when they joined the Futures League (they were originally the Connecticut Tigers, but rebranded just in time for the pandemic to cancel what was supposed to be their last season as an affiliate). Since joining the Futures League, they’ve become a dynasty - having won the league title three times in a row from 2023-2025 (which represent three of the six years they’ve been in the league), but their in-state rival (aka the Bees) ended that run this year by beating them in the league semifinals.
+
+I mentioned the potential sale of Dodd Stadium in the intro, and the reason I know about said sale was because the Futures League was worried that a sale of Dodd  would almost certainly endanger the future of the Sea Unicorns (and potentially the league itself if I'm being honest), but I don’t remember if this situation got resolved (or how). I've also heard rumors of one of the independent baseball leagues taking interest in moving in, however, so there's also that to think about (though this may have just been a WILD rumor).
 
 While I don't remember that much about the 2022 game outside of it being the night before a weeklong vacation in the Carolinas (the same one where I saw the [Wilmington Sharks](2026-06-22_ilmsharks)[^1] for the first time), the 2023 game was actually one of the fastest baseball games I’ve ever been to, as it hit the halfway point (mid-fifth) in exactly one hour, and then finished in just over two hours (no pitch clock BTW). 
 
@@ -65,12 +67,6 @@ When they first moved to Mystic, the team was based out of a local high school, 
 For the Schooners games I went to, merch was sold at a table on the concourse, and the Sea Unicorns team store was closed. While there wasn’t a TON of special things here, the Schooners actually have a “side hustle” where they brew root bear and other sodas, and I got a growler at the second game I came to (along with a t-shirt I liked - one of few t-shirts I got from the NECBL).
 
 Also worth noting: the Sea Unicorns charged for parking both times I went (one of few teams in the New England summer leagues to do so), but I can't remember if the Schooners did.
-
----
-
-### ON DECK
-
-Quirk City.
 
 ---
 
