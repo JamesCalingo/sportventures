@@ -31,8 +31,8 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 4. [Worcester Bravehearts (Futures League)](2026-08-18_worbravehearts) 
 5. [New Britain Bees (Futures League)](2026-07-27_nbbees)
 6. [Norwich Sea Unicorns (Futures League)](2026-08-19_doddstadium#norwich) 
-7. [Newport Gulls (New England League)](2026-08-20_nptgulls) **\*\*NEWEST\*\***
-8. COMING SOON
+7. [Newport Gulls (New England League)](2026-08-20_nptgulls)
+8. [Ocean State Waves (New England League)](2026-08-21_oswaves) **\*\*NEWEST\*\***
 9. COMING SOON
 10. [Mystic Schooners (New England League)](2026-08-19_doddstadium#mystic)[^3] 
 11. COMING SOON
@@ -63,7 +63,7 @@ A few final notes:
 
 2. This list does not include the [Winnipesaukee Muskrats](2026-04-11_wpsmuskrats), who had folded before 2023.
 
-3. I am aware of the existence of a fourth league (the Greater Northeast Collegiate Baseball League, which is a member of [The Players League](2026-06-22_shashallywags)). However, as it's currently based out of a single stadium in Maine (and the league's relative "lack of status" seems to be leading to stability issues), I'm not sure if or when I'll be able to get to it. I did TRY to visit this stadium once as I drove past it, but an event was going on that I didn't want to deal with (it's in Old Orchard Beach, which is one of Maine's bigger tourist destinations).
+3. I am aware of the existence of a fourth league (the Greater Northeast Collegiate Baseball League, which is a member of [The Players League](2026-06-22_shashallywags)). However, as it's currently based out of a single stadium in Maine (and the league's relative "lack of status" seems to be leading to stability issues), I'm not sure if or when I'll be able to get to it. I did TRY to visit this stadium once as I drove past it one time, but an event was going on that I didn't want to deal with (it's in Old Orchard Beach, which is one of Maine's bigger tourist destinations).
 
 4. I actually wrote about the Cape League stadiums as far back as 2021 after a family vacation on the Cape, but sadly that work appears to be lost to time...
 
