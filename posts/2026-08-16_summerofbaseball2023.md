@@ -32,8 +32,8 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 5. [New Britain Bees (Futures League)](2026-07-27_nbbees)
 6. [Norwich Sea Unicorns (Futures League)](2026-08-19_doddstadium#norwich) 
 7. [Newport Gulls (New England League)](2026-08-20_nptgulls)
-8. [Ocean State Waves (New England League)](2026-08-21_oswaves) **\*\*NEWEST\*\***
-9. COMING SOON
+8. [Ocean State Waves (New England League)](2026-08-21_oswaves) 
+9. [North Shore Navigators (New England League)](2026-08-22_nsnavigators) **\*\*NEWEST\*\***
 10. [Mystic Schooners (New England League)](2026-08-19_doddstadium#mystic)[^3] 
 11. COMING SOON
 12. COMING SOON
