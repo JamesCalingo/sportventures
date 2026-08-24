@@ -38,9 +38,3 @@ For the first two years I visited, merch was sold out of a literal trailer; in 2
 I should also mention that the team USED to have a SMALL online store, but I only ordered one thing from it: a commemorative cap meant for the COVID cancelled 2020 season which featured the name of John Altobelli - a former baseball coach (and one time manager of the Whitecaps) who was killed in the same helicopter crash that killed Kobe Bryant.
 
 Oddly, I recall seeing a shirt here with a logo the team doesn't use - as it was actually an [Ocean State Waves](2026-08-21_oswaves) logo...
-
----
-
-### ON DECk
-
-Brewster's nearest rival - and the current Cape League champs.
