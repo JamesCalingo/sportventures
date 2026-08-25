@@ -33,14 +33,8 @@ The main parking lot, which is next to the school for which the field is named, 
 
 ### MERCH
 
-For the first two years I visited, merch was sold out of a literal trailer; in 2023, they upgraded to a full-on shack. There isn't exactly much that was (as ), but of note: I don't recall seeing jerseys ever sold, the team sold baseballs with their logos only (i.e. NOT the CCBL game ball other teams sell), and it took me until 2025 to find a shirt that I liked and was in stock.
+For the first two years I visited, merch was sold out of a literal trailer; in 2023, they upgraded to a full-on shack. There isn't exactly much that was (as ), but of note: I don't recall seeing jerseys ever sold, the team sold baseballs with their logos only (i.e. NOT the CCBL game ball other teams sell), and it took me until 2025 to find a shirt that I liked and was in stock (I actually talked about this [a while ago](2025-12-26_merchstops)).
 
 I should also mention that the team USED to have a SMALL online store, but I only ordered one thing from it: a commemorative cap meant for the COVID cancelled 2020 season which featured the name of John Altobelli - a former baseball coach (and one time manager of the Whitecaps) who was killed in the same helicopter crash that killed Kobe Bryant.
 
 Oddly, I recall seeing a shirt here with a logo the team doesn't use - as it was actually an [Ocean State Waves](2026-08-21_oswaves) logo...
-
----
-
-### ON DECk
-
-Brewster's nearest rival - and the current Cape League champs.
