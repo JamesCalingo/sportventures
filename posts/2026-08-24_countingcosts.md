@@ -1,6 +1,6 @@
 ---
 display: "Mony Money"
-title: "Is "
+title: "How much should one spend on their team?"
 subtitle: "Counting up the costs of being a fan"
 date:
 publishDate: 22 August 2026
