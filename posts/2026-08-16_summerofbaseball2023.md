@@ -26,17 +26,17 @@ In the years that followed. I never looked back at what I wrote...until I starte
 I'm going to be posting these in the order I visited them that summer (i.e. 2023, as I visited MANY of the teams the year before in a different order) with a few exceptions, as there are - of course - several teams in this list that I've visited since starting this blog, so they're already here in the list (no point talking about them a second time, right?):
 
 1. [Brockton Rox (Futures League)](2025-08-22_brorox)[^2]
-2. [Westfield Starfires (Futures League)](2026-08-17_wesstarfires) 
+2. [Westfield Starfires (Futures League)](2026-08-17_wesstarfires)
 3. [Nashua Silver Knights (Futures League)](2025-08-19_nassilverknights)
-4. [Worcester Bravehearts (Futures League)](2026-08-18_worbravehearts) 
+4. [Worcester Bravehearts (Futures League)](2026-08-18_worbravehearts)
 5. [New Britain Bees (Futures League)](2026-07-27_nbbees)
-6. [Norwich Sea Unicorns (Futures League)](2026-08-19_doddstadium#norwich) 
+6. [Norwich Sea Unicorns (Futures League)](2026-08-19_doddstadium#norwich)
 7. [Newport Gulls (New England League)](2026-08-20_nptgulls)
-8. [Ocean State Waves (New England League)](2026-08-21_oswaves) 
-9. [North Shore Navigators (New England League)](2026-08-22_nsnavigators) 
-10. [Mystic Schooners (New England League)](2026-08-19_doddstadium#mystic)[^3] 
-11. [Brewster Whitecaps (Cape League)](2026-08-23_brewhitecaps) **\*\*NEWEST\*\***
-12. [Harwich Mariners (Cape League)](2026-08-25_harmariners)
+8. [Ocean State Waves (New England League)](2026-08-21_oswaves)
+9. [North Shore Navigators (New England League)](2026-08-22_nsnavigators)
+10. [Mystic Schooners (New England League)](2026-08-19_doddstadium#mystic)[^3]
+11. [Brewster Whitecaps (Cape League)](2026-08-23_brewhitecaps)
+12. [Harwich Mariners (Cape League)](2026-08-25_harmariners) **\*\*NEWEST\*\***
 13. COMING SOON
 14. COMING SOON
 15. COMING SOON
