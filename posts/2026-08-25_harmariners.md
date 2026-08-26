@@ -3,7 +3,7 @@ display: "The OG Mariners"
 title: "Harwich Mariners (Cape Cod Baseball League) @ Whitehouse Field (Harwich, MA)"
 subtitle: "A team so old MLB couldn’t do anything about it"
 date: 
-publishDate: 24 August 2026
+publishDate: 25 August 2026
 published: true
 pinned: false
 tags:
@@ -40,12 +40,6 @@ This is also one of two stadiums on Cape Cod where I saw the league’s All-Star
 Concessions are at the base of the press box, and a merchandise stand (renovated in 2022) sits behind the first base bleachers. In addition to the games I've been to here, I also made a visit here in 2021 in the MORNING (as the stand had morning hours back then), but the only thing I got was an adjustable hat that I don't even know if I still have.
 
 Also, at the All Star Game in 2023, I ended up buying a warm up shirt with the best possible number on the back. I will not say which number that is (because I assume families with impressionable kids read this), but let's just say it's the OG meme number (and not the one that became a meme AFTER I bought the shirt).
-
----
-
-### ON DECK
-
-A team I TOTALLY forgot to write about in 2023!
 
 ---
 
