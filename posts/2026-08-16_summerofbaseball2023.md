@@ -37,8 +37,8 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 10. [Mystic Schooners (New England League)](2026-08-19_doddstadium#mystic)[^3]
 11. [Brewster Whitecaps (Cape League)](2026-08-23_brewhitecaps)
 12. [Harwich Mariners (Cape League)](2026-08-25_harmariners) 
-13. [Hyannis Harbor Hawks (Cape League)](2026-08-26_hyaharborhawks) **\*\*NEWEST\*\***
-14. COMING SOON
+13. [Hyannis Harbor Hawks (Cape League)](2026-08-26_hyaharborhawks) 
+14. [Falmouth Commodores (Cape League)](2026-08-27_falcommodores) **\*\*NEWEST\*\***
 15. COMING SOON
 16. _COMING LATER (I'll explain in due time)_
 17. COMING SOON
