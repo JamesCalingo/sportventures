@@ -3,7 +3,7 @@ display: "The Dore"
 title: "Falmouth Commodores (Cape Cod Baseball League) @ Guv Fuller Field (Falmouth, MA)"
 subtitle: "An original Cape League city - and their long wait"
 date: 
-publishDate: 28 August 2026
+publishDate: 27 August 2026
 published: true
 pinned: false
 tags:
@@ -34,12 +34,6 @@ Outside of that, there are no seats behind home plate here, so this is one of th
 ### MERCH
 
 As of 2025, Falmouth is the only field on the Cape with an “indoor merchandise store” under the press box. While many of the things inside are "common" fare (i.e. shirts/hoodies, hats[^1], mini bats, and Cape League baseballs), I've gotten rocks with the team's logo painted on them in the store, and they usually has game worn jerseys outside - one of which I've gotten in the past (and several of which I've thought about getting before saying "nah"). 
-
----
-
-### ON DECK
-
-A team in Massachusetts named the "Sox"...but a different color.
 
 ---
 
