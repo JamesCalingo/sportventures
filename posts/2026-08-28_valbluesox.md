@@ -1,7 +1,7 @@
 ---
 display: "Out of the Blue"
 title: "Valley Blue Sox (New England Collegiate Baseball League) @ Mackenzie Stadium (Holyoke, MA)"
-subtitle: ""
+subtitle: "...I honestly have no idea what to put here..."
 date: 
 publishDate: 28 August 2026
 published: true
@@ -32,12 +32,6 @@ Other than that...I'm honestly not sure what to say about the Blue Sox (except f
 Despite there being several buildings down the third base side (which serve concessions), there's no "permanent" structure for merchandise sales. Instead, there's a table between some of the buildings with mostly standard items (including a jersey with "fake buttons" that I saw one time).
 
 Also, during the 2023 visit, I got a polo with the old logo (on clearance IIRC).
-
----
-
-### ON DECK
-
-A more familiar color of Sox - but not from Boston.
 
 ---
 
