@@ -41,8 +41,8 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 14. [Falmouth Commodores (Cape League)](2026-08-27_falcommodores) 
 15. [Valley Blue Sox (New England League)](2026-08-28_valbluesox) 
 16. _COMING LATER (I'll explain in due time)_
-17. [Yarmouth-Dennis Red Sox (Cape League)](2026-08-29_ydredsox) **\*\*NEWEST\*\***
-18. COMING SOON
+17. [Yarmouth-Dennis Red Sox (Cape League)](2026-08-29_ydredsox) 
+18. [Orleans Firebirds (Cape League)](2026-08-30_orlfirebirds) **\*\*NEWEST\*\***
 19. COMING SOON
 20. [Wareham Gatemen (Cape League)](2025-08-20_wargatemen)
 21. COMING SOON
