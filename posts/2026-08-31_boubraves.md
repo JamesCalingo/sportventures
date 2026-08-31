@@ -36,9 +36,3 @@ One of Bourne’s biggest advantages if you want to see Cape League action but c
 If you’re wondering where all those fans got those hats (or the short sleeve hoodie I got in 2023), the merch store WAS in the lower level of the press box for a while. The terraces made it kinda hard to get to, and there’s only like one sign pointing to its location as the merch store, but it was one of two stadiums with a “walk-in” merch store (the other one being [Falmouth](2026-08-27_falcommodores)). Thanks to the press box blocking home plate from the terraces, the little window to the field here was the only place where fans can get a view from behind home plate.
 
 In 2025, however, the team store was moved to a shipping container at the edge of the parking lot. While I've never seen the team sell player jerseys (i.e. the button down ones) in my many visits, I saw a video on the internet that seemingly indicated that the team sold old jerseys in 2026 - alas, since I haven't been back since [a brief 2025 visit](2025-12-26_merchstops), I have no idea if they're still doing this or what they still have...
-
----
-
-### ON DECK
-
-The final Cape League team of this "catch-up" series - and its most successful one.
