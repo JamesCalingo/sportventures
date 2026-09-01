@@ -39,6 +39,8 @@ Since this is the final Cape League team I'm going to be talking about (at least
 
 ---
 
+_As a final, FINAL note on Cape Cod (partially with this post's title)...RIP the Cape Cod Potato Chip factory in Hyannis._
+
 ### ON DECK
 
 The greatest view in New England baseball - and it's NOT in Vermont or New Hampshire.
