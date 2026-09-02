@@ -45,9 +45,9 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 18. [Orleans Firebirds (Cape League)](2026-08-30_orlfirebirds) 
 19. [Bourne Braves (Cape League)](2026-08-31_boubraves) 
 20. [Wareham Gatemen (Cape League)](2025-08-20_wargatemen)
-21. [Cotuit Kettleers (Cape League)](2026-09-01_cotkettleers) **\*\*NEWEST\*\***
+21. [Cotuit Kettleers (Cape League)](2026-09-01_cotkettleers) 
 22. [Chatham Anglers (Cape League)](2025-08-17_chaanglers)
-23. COMING SOON
+23. [North Adams SteepleCats (New England League)](2026-09-02_nasteeplecats) **\*\*NEWEST\*\***
 24. COMING SOON
 25. COMING SOON
 26. COMING SOON
