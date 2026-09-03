@@ -2,7 +2,7 @@
 display: "Old Orleans"
 title: "Orleans Firebirds (Cape Cod Baseball League) @ Eldredge Park (Orleans, MA)"
 subtitle: 'The Cape League''s oldest field - emphasis on the "field"'
-date:
+date: 12 June 2023
 publishDate: 30 August 2026
 published: true
 pinned: false

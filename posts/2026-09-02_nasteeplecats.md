@@ -2,7 +2,7 @@
 display: "The Hills are Alive..."
 title: "North Adams SteepleCats @ Joe Wolfe Field (North Adams, MA)"
 subtitle: "...with New England Baseball's most scenic stadium"
-date: 
+date: 18 June 2023
 publishDate: 2 September 2026
 published: true
 pinned: false
@@ -23,7 +23,7 @@ badge:
 
 North Adams is, in some ways, a "quintessential New England town" given its location in the Berkshires, but it is SO FREAKIN' FAR from Boston that I had never heard about it until I was much older (despite it having a rather famous art museum)[^1]. However, to my surprise, the SteepleCats are quite old (and pretty "unsuccessful") by NECBL standards: founded in 2002, they have yet to even make the NECBL's championship series, but what they do have: one of the best views in all of New England Summer Ball.
 
-![A photo of the mountains behind Joe Wolfe Field](/images/2026/nahills.jpeg)
+![A photo of the mountains behind Joe Wolfe Field](/images/baseball2023/nahills.jpeg)
 
 <figcaption>Having grown up with Vermont/mountain vacations my whole life, I’m a sucker for mountain backdrops, and with all due respect to the teams in Vermont, this one beats them out by quite a bit.</figcaption>
 
@@ -37,13 +37,7 @@ For the first trip (2022), I came here from [Westfield](2026-08-17_wesstarfires)
 
 There’s a building on the third base line which houses concessions and merch. The Steeplecats had two or so hat logos when I visited (in multiple styles), and I also got a hoodie here that I like as it features an "extra" pocket. I also recall seeing what looked like practice jerseys here one time, but they weren't the best looking things I'd seen...
 
-I must say that it was rather unfortunate that management had apparently decided to not order 2023 player caps for fans...or at least that’s what I heard from the woman at the merchandise stand the day I went. She did say that multiple people had asked about it, but I wasn’t able to find if they ever sold them. However, images I've seen of the SteepleCats since 2023 indicate that they've had some pretty major color changes (they had blue, black, and yellow when I visited, but have seemingly dropped the blue), so I'm hoping I can return sometime in the future to see what's new.
-
----
-
-### ON DECK
-
-One of the NECBL's best supported teams - though much like North Adams, it's kinda remote IMO.
+I must say that it was rather unfortunate that management had apparently decided to not order 2023 player caps for fans...or at least that’s what I heard from the woman at the merchandise stand the day I went. She did say that multiple people had asked about it, but I wasn’t able to find if they ever sold them. However, images I've seen of the SteepleCats since 2023 indicate that they've had some pretty major color changes (they had blue, black, and yellow when I visited, but have seemingly dropped the blue), so I'm hoping I can return sometime in the future to see what's new (but not holding out hope for that as, again, it's a bit remote).
 
 ---
 

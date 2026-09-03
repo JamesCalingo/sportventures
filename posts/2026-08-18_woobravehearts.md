@@ -2,7 +2,7 @@
 display: "The Heart"
 title: "Worcester Bravehearts (Futures League) @ Hanover Insurance Park at Fitton Field (Worcester, MA)"
 subtitle: "Worcester's oldest current baseball team"
-date: 
+date: 29 May 2023
 publishDate: 18 August 2026
 published: true
 pinned: false

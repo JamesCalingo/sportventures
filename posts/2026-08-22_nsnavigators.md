@@ -2,7 +2,7 @@
 display: "The City of..."
 title: "North Shore Navigators (New England Collegiate Baseball League) @ Fraser Field (Lynn, MA)"
 subtitle: "Baseball mixed with one of the most infamous rhymes in Greater Boston"
-date: 
+date: 9 June 2023
 publishDate: 22 August 2026
 published: true
 pinned: false

@@ -2,7 +2,7 @@
 display: "The OG Mariners"
 title: "Harwich Mariners (Cape Cod Baseball League) @ Whitehouse Field (Harwich, MA)"
 subtitle: "A team so old MLB couldn’t do anything about it"
-date: 
+date: 10 June 2023
 publishDate: 25 August 2026
 published: true
 pinned: false

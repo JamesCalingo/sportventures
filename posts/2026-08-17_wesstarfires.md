@@ -2,7 +2,7 @@
 display: "Star Power"
 title: "Westfield Starfires (Futures League) @ Billy Bullens Field (Westfield, MA)"
 subtitle: "A modern anomaly for the Futures League"
-date: 
+date: 27 May 2023
 publishDate: 17 August 2026
 published: true
 pinned: false
@@ -24,6 +24,8 @@ badge:
 I realize I've never spoken about _why_ the Futures League exists when the NECBL is a thing, but a big part of its existence is two groups trying to set up NECBL clubs but being denied (the Futures League started up in 2011). While the Futures League is, more or less, a "standard" summer baseball league, many of its teams play in stadiums much more "built" than NECBL teams as many Futures League stadiums are former minor and independent league stadiums, but there are some exceptions to that - including today's team.
 
 The Westfield Starfires were added to the Futures League in 2019 after another team (who will be talked about later) moved to the NECBL (similar to [Bristol](2026-06-30_briblues)). As the newest member of the league with no Minor and/or Independent League ties, there's not that much to say about their history, but that's also because they've only been to the league's championship series one time - which they lost.
+
+![image](/images/baseball2023/bullensmagic.jpeg)
 
 As alluded to earlier, Billy Bullens Field is a bit of an anomaly in the Futures League (though it’s similar to the aforementioned team to be named later). Instead of being a former minor league/indie stadium, it’s basically a more built-up community ballpark (similar to, once again, [Bristol](2026-06-30_briblues)). In that sense, the atmosphere is quite different from your average Futures League game: it’s more similar to a higher level NECBL field (or the [Wilmington Sharks](2026-06-22_ilmsharks)) than a regular Futures League game.
 

@@ -2,7 +2,7 @@
 display: "The Dore"
 title: "Falmouth Commodores (Cape Cod Baseball League) @ Guv Fuller Field (Falmouth, MA)"
 subtitle: "An original Cape League city - and their long wait"
-date: 
+date: 10 June 2023
 publishDate: 27 August 2026
 published: true
 pinned: false

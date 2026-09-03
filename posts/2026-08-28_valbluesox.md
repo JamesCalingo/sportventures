@@ -2,7 +2,7 @@
 display: "Out of the Blue"
 title: "Valley Blue Sox (New England Collegiate Baseball League) @ Mackenzie Stadium (Holyoke, MA)"
 subtitle: "...I honestly have no idea what to put here..."
-date: 
+date: 11 June 2023
 publishDate: 28 August 2026
 published: true
 pinned: false
