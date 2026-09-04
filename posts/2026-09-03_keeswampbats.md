@@ -32,11 +32,3 @@ This is the FIRST instance in this series of posts where I only visited the fiel
 There's a trailer behind home plate that kinda sorta serves as the team store, and I say that because most of the items were actually in front of the trailer. Alas, as I only made one visit and the team does not have an online retail presence, I can't say I remember much about what they sell that isn't just "shirts, hoodies, and hats" (outside of me being somewhat interested in a jacket that I eventually decided not to go for).
 
 Keene is kinda weird in that their hat logo is literally just their whole primary logo (text and all - just like [their defunct in-state rival](2026-04-11_wpsmuskrats)), so while I do like the uniqueness of their colors (purple and black), the team's full name being on there makes it kinda weak amongst NECBL hats IMO (and they're also not the only team that wears purple and black in the league...).
-
----
-
-### ON DECK
-
-New England's version of the Loch Ness Monster.
-
-...But before that: something I totally should've at least thought about doing a dozen years ago. Also, as a heads up, I'm going to be alternating between these catch up posts and new stuff for a few days - which I recently realized is going to make things somewhat confusing.
