@@ -2,7 +2,7 @@
 display: "Kettle Chips"
 title: "Cotuit Kettleers (Cape Cod Baseball League) @ Lowell Park (Cotuit, MA)"
 subtitle: "Cape Cod’s version of the New York Yankees"
-date: 
+date: 15 June 2023
 publishDate: 1 September 2026
 published: true
 pinned: false

@@ -2,7 +2,7 @@
 display: "Put a Cap in it"
 title: "Brewster Whitecaps (Cape Cod Baseball League) @ Whitehouse FIeld (Brewster, MA)"
 subtitle: "The former summer home of...that man."
-date: 
+date: 10 June 2023
 publishDate: 23 August 2026
 published: true
 pinned: false

@@ -2,7 +2,7 @@
 display: "The Bourne Dynasty"
 title: "Bourne Braves (Cape Cod Baseball League) @ Doran Park (Bourne, MA)"
 subtitle: "Cape League Baseball just over the bridges"
-date: 
+date: 13 June 2023
 publishDate: 31 August 2026
 published: true
 pinned: false
