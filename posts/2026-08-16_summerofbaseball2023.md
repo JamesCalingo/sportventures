@@ -48,8 +48,8 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 21. [Cotuit Kettleers (Cape League)](2026-09-01_cotkettleers) 
 22. [Chatham Anglers (Cape League)](2025-08-17_chaanglers)
 23. [North Adams SteepleCats (New England League)](2026-09-02_nasteeplecats) 
-24. [Keene Swamp Bats (New England League)](2026-09-03_keeswampbats) **\*\*NEWEST\*\***
-25. COMING SOON
+24. [Keene Swamp Bats (New England League)](2026-09-03_keeswampbats) 
+25. [Vermont Lake Monsters (Futures League)](2026-09-05_vtlakemonsters) **\*\*NEWEST\*\***
 26. COMING SOON
 27. COMING SOON
 28. [Danbury Westerners (New England League)](2026-07-24_dbywesterners)
