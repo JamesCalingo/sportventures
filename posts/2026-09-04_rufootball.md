@@ -37,8 +37,6 @@ related:
   ]
 ---
 
-*It's been a while since I've had a post with a header image hasn't it? Also, in posting this, I realized that I have not one, but TWO catch-up posts I never published, so...whoops!*
-
 I've been to Rutgers quite a few times for a HOST of sports: [lacrosse](2025-08-26_rulacrosse_mens), [basketball](2025-11-25_rubasketball_womens) ([twice](2025-12-21_rubasketball2)), and even [two different sports at the same time](2026-03-29_rutgers_batandball) - but now it's time to talk about their "main" sport.
 
 I won't go over the ENTIRE history of the Rutgers football program, but for those unaware: Rutgers famously hosted the first college football game in 1869 and claims the national title from that year (i.e. the first national title EVER in college football). Since then...the program hasn't done much. Sure, there was that one time they upset Louisville back in 2006, but outside of that, I can't think of a singular notable thing Rutgers football is known for (save for maybe Eric LeGrand).
@@ -76,12 +74,6 @@ It is worth noting that the head coach for UMass was Rutgers' defensive coordina
 My last "non catch-up" post on this blog involved [football](2026-08-15_nyjets), but if you missed it: I'm not that into football items. Having said that, however, I do have a SUPER old Rutgers football jersey I got at a TJMaxx or Marshalls WAY back when (as in it's probably older than some of the kids attending Rutgers now), but the number on it...is a bit controversial (it's one of the school's biggest NFL stars, but he's partially remembered for that one night in Atlantic City).
 
 That aside, there were a fair amount of merchandise areas inside the stadium...but not much of interest outside of mini helmets (though I don't really have a place for one). The "main" store had fitted hats that were labeled as "baseball hats", but I looked at the baseball team's Instagram and they looked just different enough to the point where I'm fairly sure they're NOT the same.
-
----
-
-### ON DECK
-
-The first song that played immediately after the game ended was "Stick Season" by Noah Kahan. There's a line within that song that I do kinda resonate with...and I'm going to kinda sorta discuss it tomorrow (though I've actually talked about it before on this very blog).
 
 ---
 
