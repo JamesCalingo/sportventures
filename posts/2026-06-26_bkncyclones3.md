@@ -22,9 +22,11 @@ tags:
 background: "images/2026/0625-coneyisland.jpeg"
 related:
   [
-    { title: "Brooklyn Cyclones", link: "2025-08-09_bkncyclones" },
+    { title: "Brooklyn Cyclones 2025", link: "2025-08-09_bkncyclones" },
     { title: "Brooklyn Cyclones 2025 2", link: "2025-09-01_bkncyclones2" },
     { title: "Brooklyn FC", link: "2025-11-09_bkfc_womens" },
+    { title: "New York Mets", link: "2026-05-01_nymets" },
+    { title: "New York Mets 2", link: "2026-09-06_nymets2" },
   ]
 ---
 
