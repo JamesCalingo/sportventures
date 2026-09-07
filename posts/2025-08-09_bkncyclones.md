@@ -27,6 +27,7 @@ related:
     { title: "Brooklyn FC", link: "2025-11-09_bkfc_womens" },
     { title: "Brooklyn Cyclones 2026", link: "2026-06-26_bkncyclones3" },
     { title: "New York Mets", link: "2026-05-01_nymets" },
+    { title: "New York Mets 2", link: "2026-09-06_nymets2" },
   ]
 ---
 
