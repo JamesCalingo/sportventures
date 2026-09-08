@@ -1,5 +1,5 @@
 ---
-display: "Summer of Baseball 2023"
+display: "Summer of Baseball 2023 (aka why there are so many new posts on this site this month)"
 title: "The Summer of Baseball 2023: an Introduction"
 subtitle: "The last few things I've never published are going up soon!"
 date:
@@ -50,8 +50,8 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 23. [North Adams SteepleCats (New England League)](2026-09-02_nasteeplecats) 
 24. [Keene Swamp Bats (New England League)](2026-09-03_keeswampbats) 
 25. [Vermont Lake Monsters (Futures League)](2026-09-05_vtlakemonsters) 
-26. [Vermont Mountaineers (New England League)](2026-09-07_vtmountaineers) **\*\*NEWEST\*\***
-27. COMING SOON
+26. [Vermont Mountaineers (New England League)](2026-09-07_vtmountaineers) 
+27. [Upper Valley Nighthawks (New England League)](2026-09-08_uvnighthawks) **\*\*NEWEST\*\***
 28. [Danbury Westerners (New England League)](2026-07-24_dbywesterners)
 29. [Bristol Blues (New England League)](2026-06-30_briblues)
 30. COMING SOON

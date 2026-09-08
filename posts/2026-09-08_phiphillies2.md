@@ -80,18 +80,12 @@ This is almost certainly the final MLB game I go to this year, as I don't see my
 
 ---
 
-### ON DECK
-
-One of the most insane things I've ever done.
-
----
-
 [^1]: This is also part of why I opted to go to Mets/Giants, as I hadn't recorded the Giants on the app either.
 
 [^2]: It should also be noted that all of the games listed were weekday games - this one being the only afternoon game as it fell on a holiday (namely Labor Day).
 
 [^3]: 28 of MLB's 30 teams have had at least one City Connect - the two teams without one being the A's (due to the whole "Screw Oakland - Vegas or bust" thing) and...you can probably guess the other team.
 
-[^4]: There's a chance that there's more than ten teams, as there are a few Mets games I recall going to but don't remember the opponent. I'm almost certain these games were against the Diamondbacks and Marlins (so I put them in the app), but I could very easily be wrong (there's also a game I saw at Shea Stadium against what I'm fairly certain was the Astros).
+[^4]: There's a chance that there's more than ten teams, as there are a few Mets games I recall going to but don't remember the opponent. I'm almost certain these games were against the Diamondbacks, Marlins, and Astros so I put them in the app, but I could very easily be wrong (the Astros game being my lone visit to Shea Stadium).
 
-[^5]: I ALMOST saw the Mariners TWICE this year: once in Washington, DC (though it was never going to be likely - more on that soon), and then at Yankee Stadium with friends in August, but let's just say there are a fair number of reasons I wasn't able to make it - one of them being my inability to justify buying Yankees tickets (especially in light of several announcements they made in the days before the game...).
+[^5]: I ALMOST saw the Mariners TWICE this year: once in Washington, DC (though it was never going to be likely - more on that soon), and then at Yankee Stadium with friends in August, but let's just say there are a fair number of reasons I wasn't able to make it - one of them being my inability to justify willingly buying Yankees tickets (especially in light of several announcements they made in the days before the game...).
