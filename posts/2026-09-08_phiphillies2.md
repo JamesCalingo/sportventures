@@ -1,6 +1,6 @@
 ---
-display: "Another Phine Day Out"
-title: "Phillies 2: A real Labor Day-Bor"
+display: "A real Labor Day-Bor"
+title: "Phillies 2: Another Phine Day Out"
 subtitle: 'A THIRD trip down to "The Bank" in 2026'
 date: 7 September 2026
 publishDate: 8 September 2026
