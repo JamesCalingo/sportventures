@@ -52,6 +52,8 @@ And in case you were wondering about the game: Jackals won 7-1. As of this being
 
 As a final note, A soccer team is moving in for 2026: [the latest installment of the New York Cosmos](2026-03-15_nycosmos).
 
+<div id="merch" />
+
 ### MERCH
 
 Before I continue, I HAVE to talk about the team’s “online store”, because it is WEIRD.

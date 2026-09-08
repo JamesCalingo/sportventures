@@ -45,6 +45,8 @@ I realized in planning this trip that I don't know if/how I should count these w
 
 This game was rather interesting: it started around 7 PM, but I left around 8:30 to pick up dinner (so as to not annoy the place I wanted to go to which closes at 10 and was seemingly preparing to close when I left just before 9). At that point, the game had already reached the seventh inning in less than 90 minutes, but when I ended up deciding to come back to see what was going on, it was "only" the bottom of the eighth. I ended up going home before the end of the game, but the last thing I saw was a pitching change, as the Shallywags were down 3-2 to the UNDEFEATED Sandhills Bogeys but had the bases loaded with two outs. I eventually found out that the Shallywags were held, and 3-2 was the final score (and thus the Bogeys remain undefeated).
 
+<div id="merch" />
+
 ### MERCH
 
 When I found out about the ONSL and its teams, several teams were in the process of taking jersey "preorders". I ended up not getting any, but the Shallywags' pirate themed "fun" jersey was something I considered getting (though I can't exactly say I was fully interested).

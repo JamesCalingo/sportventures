@@ -55,6 +55,8 @@ This building, like a lot of other lower level arenas, does not have a center sc
 
 There was basically NO atmosphere for the entire game, which is a bit of a shame as the Hat Tricks withstood a 32-shot barrage and shut out the visiting New Hampshire Mountain Kings 3-0. I realized during this game what makes lower level hockey hard to watch for some: missed passes, whiffed shots, and guys falling over CONSTANTLY - which does not exactly make for the best entertainment...
 
+<div id="merch" />
+
 ### MERCH
 
 One of the more curious things about the Hat Tricks: their FPHL and NAHL teams each have their own online stores. The FPHL team has a store run by the team, while the NAHL team has one of those "spirit wear" sites. One thing that I found interesting on the FPHL team store: game worn jerseys for both the FPHL and NAHL teams.

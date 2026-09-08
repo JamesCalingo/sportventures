@@ -65,6 +65,8 @@ Also, a few final notes from this game:
 2. #JusticeforCroixKochendorfer - you cannot let a dude with a name like that ride the bench the whole game - especially when you make a goalie change...
 3. Sacred Heart's website indicates that women's hockey games are free - though a lot of that may be due to the fact that they're in a SUPER SMALL conference. It also likely means that there's fewer things open, and that suite level seats are unavailable...
 
+<div id="merch" />
+
 ### MERCH
 
 During a drive from New Jersey to Boston (I forget when), I decided to visit the Sacred Heart bookstore on the main campus to see what hockey merch they had. Alas, the bookstore didn’t have jerseys - just sticks and pucks (which I got back then). I mentioned earlier that parking is more or less a non-issue for hockey games; however, it was when I visited the bookstore as I could not find regular visitor parking for some reason.

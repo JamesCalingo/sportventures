@@ -55,6 +55,8 @@ As an aside, it turns out that it’s only ~50 minutes to get from Reading to Al
 
 And yes, this means that I’ve visited three of the Phillies' four MiLB affiliates. Don't expect the fourth one anytime soon however - it's in Florida, and I have no plans of traveling down there...
 
+<div id="merch" />
+
 ### MERCH
 
 When looking into the R-Phils, I saw that their team store had undergone some form of renovation prior to the 2025 season. As it turns out, as part of the construction of the new center field building, the team’s clubhouse/locker room was moved from the grandstand to the new building, and the team store was expanded into the space once occupied by the clubhouse (they were adjacent to each other, though apparently the team store didn’t exist until 1992 according to Wikipedia). This means that not only is the team store rather large (especially by Minor League standards), it’s also historic, as part of the space was once occupied by players who went on to become Major Leaguers! To honor this, a few lockers used in the old clubhouse now serve as displays; I don’t remember how many lockers they had, but I did see two: one for Ryan Howard and one for...Darin Ruf.

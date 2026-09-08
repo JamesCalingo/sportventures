@@ -46,6 +46,8 @@ Another cool thing: as a “Jersey Shore” team, one of the big things they try
 
 Their mascot - a yellow something-or-other named Buster - clearly studies his major league counterpart very closely, as he was goofing around the entire stadium. He tried to sell me on a hat that was too small for me in the team store, was seeking attention from the team store employees (who were treating him as if he were “real”, which was neat), and I even caught him trying to mess with the PA Announcer! He(?) was far and away the most interesting mascot I've seen in the minor leagues, which is why I'm noting him here (others just do the typical "walk around and high five/take photos with fans" thing).
 
+<div id="merch" />
+
 ### MERCH
 
 Speaking of the mascot, they have mascot plushies for sale (like a lot of teams). However, the thing that piqued my interest (though I ultimately didn't go for it) was a plush of the crab logo featured on the team's hats.

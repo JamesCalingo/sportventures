@@ -40,6 +40,8 @@ They also feature a somewhat “local-ish” item: Chickie's and Pete’s Crabfr
 
 On a final note, Thunder ownership is hellbent on getting affiliated ball back in Trenton, so they've been working on the stadium to get it to MiLB specifications (the changes mainly deal with player facilities, so you may not notice them). How they're going to get that team without an MLB expansion I'm not sure (though I did see a strange claim that they "deserved" the Jersey Shore BlueClaws' spot in the SAL), but given that we've seen several shuffles since 2020 (plus 2025 is when MLB wanted Minor League teams to meet specifications or else), anything is possible (and there are constant rumors about what teams may end up "moving”).
 
+<div id="merch" />
+
 ### MERCH
 
 I thought about coming to the team store here a few times before the game, but never did as it felt rather inconvenient; I thought about combining it with a return to ShoreTown Ballpark, but the two are close to an hour away from each other (also I later learned that the BlueClaws team store is apparently only open for games now). However, once I saw it, I was curious as to how it operates outside of games due to its somewhat unusual location: the store is fully on concourse level with its entrance inside the gates, meaning that if you're coming here outside of game time, you actually have to go into the stadium and climb up to the concourse to get to the store.

@@ -39,6 +39,8 @@ Similar to ShoreTown Ballpark, the concourse wraps completely around the field, 
 
 There are upper level seats here, but I didn't go up to check them out since I had some not-so-fun encounters with ushers in other parks. These seats are, surprisingly, MORE expensive than seats in the lower bowl (case in point: 15 dollars got me behind home plate PLUS the ability to pivot for no additional cost).
 
+<div id="merch" />
+
 ### MERCH
 
 This is where I tell you that the game was actually my second visit here; my first visit was just a “quick” stop at the team store to check a few things out. I couldn’t see much of the park from this quick visit, but the store is down the right field line right next to the main gate (as opposed to being behind home plate like a lot of other minor league team stores).

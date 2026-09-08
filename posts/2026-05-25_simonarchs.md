@@ -39,6 +39,8 @@ Also, as the stadium is on a hill, there's actually a really neat view of the re
 
 This game was kinda even for most of it, as it seemed like a number of chances were missed and it was essentially 1-1 after the first ten minutes. Unfortunately, said first ten minutes featured visiting [FC Motown STA](2026-05-22_fcmotownsta) score two goals, which propelled them to victory.
 
+<div id="merch" />
+
 ### MERCH
 
 The team's website has pages for merchandise, but when I went to check it a few days before this match, nothing was available - and nothing was available at this game either.

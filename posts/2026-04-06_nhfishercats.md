@@ -47,6 +47,8 @@ One thing that made this game actually feasible despite being on the day before 
 
 There's also not that much to say about the game itself - the Fisher Cats won 2-1, and the game winning run was scored on a home run while I was in the bathroom (because of course).
 
+<div id="merch" />
+
 ### MERCH
 
 The team store is right as you enter the main gates, with two entrances straddling the physical gates themselves. Therefore, it’s "off" the concourse and has no views to/from the field.

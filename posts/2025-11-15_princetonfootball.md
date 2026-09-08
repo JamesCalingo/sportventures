@@ -71,6 +71,8 @@ There are two other things I wanna mention before I go (besides the ol' merch si
 
 <figcaption>I made it onto an Ivy League field!<br>...Along with everyone else.</figcaption>
 
+<div id="merch" />
+
 ### MERCH
 
 About a month before this game (in October 2025), I visited one of Princeton's campus stores and saw shirts for three of their biggest rivals: Penn, Harvard, and the aforementioned Yale (because apparently the other four Ivies are far less relevant to Princeton). In terms of other merch, the only thing that I was even remotely interested in for football was a soft foam/plastic mini football (which, in all honesty, I wasn't actually that interested in).

@@ -69,6 +69,8 @@ _\*insert "Vine boom" sound_
 
 It is worth noting that the head coach for UMass was Rutgers' defensive coordinator before taking the UMass job last year, so in essence, Rutgers got "Bill Belichick against one of his former coordinators...'d"[^6].
 
+<div id="merch" />
+
 ### MERCH
 
 My last "non catch-up" post on this blog involved [football](2026-08-15_nyjets), but if you missed it: I'm not that into football items. Having said that, however, I do have a SUPER old Rutgers football jersey I got at a TJMaxx or Marshalls WAY back when (as in it's probably older than some of the kids attending Rutgers now), but the number on it...is a bit controversial (it's one of the school's biggest NFL stars, but he's partially remembered for that one night in Atlantic City).

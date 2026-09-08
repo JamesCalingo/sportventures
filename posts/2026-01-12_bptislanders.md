@@ -45,6 +45,8 @@ The good news for the Bridgeport Islanders: the night before this game, they rec
 
 Also, something I find kinda interesting: the Bridgeport Islanders use the same sequence of sounds that the New York Islanders use when they score - almost. For a few years (seemingly ever since they became the Islanders), they were using the same horn as the NHL team (or at least a recording of it), but this year, they're using a recording of their original goal horn (which sounds closer to the Buffalo Sabres IMO).
 
+<div id="merch" />
+
 ### MERCH
 
 Before I continue, I should mention that I once bought a Bridgeport Sound Tigers puck in a somewhat unusual place: Worcester, MA! The team there (the Worcester Railers) is currently the ECHL affiliate of the Islanders, and I visited their team store one day and they had Sound Tigers pucks for some reason![^5]

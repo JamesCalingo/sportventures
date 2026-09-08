@@ -54,6 +54,8 @@ Also, since a lot of fans left early (again, 6-0 with only two baserunners on a 
 
 <figcaption>This goes FIRMLY against my "don't end up on a broadcast" rule, but I can't deny this is COOL</figcaption>
 
+<div id="merch" />
+
 ### MERCH
 
 As I mentioned earlier, I’ve been to the team store here several times - scooping several jerseys, a few hats, and a logo baseball. Notably, however, I have never bought a flex fit hat here in the Yard Goats’ main color scheme (blue and green); the flex fit Yard Goats hats I have came from local malls, and any flex fit hats I've gotten here are alt identities. Speaking of alt identities, I ended up getting a hat for a "new" one the team introduced this year: the Hartford Rock Cats (which feels like a slap in the face to New Britain in several ways).

@@ -49,6 +49,8 @@ A few sections behind the goal on the third base side are marked as supporters' 
 
 The original match I wanted to go to saw Brooklyn defeat the league's defending champions. However, that was their only win of the season...until this game! Brooklyn ended up winning 1-0, with the lone goal being scored while I was in the bathroom.
 
+<div id="merch" />
+
 ### MERCH
 
 I’ve already mentioned pretty much everything worth noting about the store here during the prior posts about this place, but in case anyone forgot: the Maimonides Park team store is a two-level store with various items on both levels. During my first visit, a small selection of Brooklyn FC merch was available, but nothing was available during the second visit.

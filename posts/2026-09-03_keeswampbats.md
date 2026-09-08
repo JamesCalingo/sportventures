@@ -27,6 +27,8 @@ Alumni Field is, according to Wikipedia, the largest stadium in the NECBL by sea
 
 This is the FIRST instance in this series of posts where I only visited the field once (one of three). The game I went to featured a special kids event, and there were a ton of families at the game, but outside of that, I don't exactly remember much (it was on Juneteenth FWIW, and I found a used media store with Chuck E. Cheese plush toys for sale afterward).
 
+<div id="merch" />
+
 ### MERCH
 
 There's a trailer behind home plate that kinda sorta serves as the team store, and I say that because most of the items were actually in front of the trailer. Alas, as I only made one visit and the team does not have an online retail presence, I can't say I remember much about what they sell that isn't just "shirts, hoodies, and hats" (outside of me being somewhat interested in a jacket that I eventually decided not to go for).

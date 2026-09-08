@@ -38,6 +38,8 @@ Apparently, after UNH scores their first goal at all home games, someone throws 
 
 One other thing to note: my seat was in the first row I saw available, but ended up not being the first row in the arena. The ice here was shrunk down at some point (it was once 100 feet wide and is now 90 to be closer to NHL width), and vestiges of the wider ice are still visible (most notably behind the benches).
 
+<div id="merch" />
+
 ### MERCH
 
 I mentioned that the arena has a small merch stand, but what I should mention is that said merch stand straddles the lobby and concourse (so that fans can access it once they’ve scanned into the building); this is part of why I feel like the arena does both a lobby set up and a concourse set up. However, aside from the campus bookstore, Durham (the town UNH is in) has TWO additional stores in its downtown that specialize in sporting gear, so there’s no shortage of UNH merch to be bought...for the most part.

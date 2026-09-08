@@ -40,6 +40,8 @@ Also, I’m pretty sure the locker rooms are right underneath the seats, so be p
 
 Before I end this, I should probably mention that the school’s women’s hockey team (whom I haven't seen) is in Hockey East - supposedly, part of what’s holding the men back is the arena (it's only got 1,600 seats). While they could probably go the UConn route and play at the DCU Center[^3], losing to one-win teams (i.e. what happened when I went) does not seem like it would be conducive to jumping to a much more competitive conference...
 
+<div id="merch" />
+
 ### MERCH
 
 It’s hard for me to discuss merchandise for Holy Cross, as I can’t rate the merch selection at the game I went to since there was literally NONE. The game I went to was the Tuesday before Thanksgiving, and the staff seemingly didn’t know how to prepare: not only was there no merchandise (though they appeared to have a kiosk), but the concession stands had to close early because they ran out of food...

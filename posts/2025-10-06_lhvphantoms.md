@@ -55,6 +55,8 @@ In addition, the team was celebrating the recent release of Taylor Swift's "The 
 
 (And as a note to TSN’s BarDown crew: it’s “lee-HIGH”, NOT “LEE”. I’m not even from the area and I got mad at them butchering that!)
 
+<div id="merch" />
+
 ### MERCH
 
 There are two merch areas on the concourse: A small one near the Tim Hortons, and the main one at the top of the stairs/escalator from the parking garage (I should note that this puts them at adjacent corners of the concourse). If you are thinking about getting merch, it's important to know that both areas closed BEFORE the game ended.

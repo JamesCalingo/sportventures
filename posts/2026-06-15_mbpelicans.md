@@ -53,6 +53,8 @@ Those issues aside, this game featured a fair amount of home runs and a 6-5 Peli
 
 ![A flag with a "W" on in flies in the wind](/images/2026/0614-flythew.jpeg)
 
+<div id="merch" />
+
 ### MERCH
 
 Like I said, I’ve been to the team store here quite a few times. I'd like to believe that it's actually pretty decently sized, but it became hard to navigate at times when it was full of fans and it's in a part of the concourse where there’s no field views. Their slogan is "cool stuff for cool fans", which given that it's the only part of the stadium accessible to all fans that's air conditioned, makes quite a bit of sense (especially on hot and/or humid nights).

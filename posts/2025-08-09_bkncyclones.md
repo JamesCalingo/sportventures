@@ -54,6 +54,8 @@ I feel like tickets here are a little more than some of the other teams in the a
 
 Given that the Cyclones are technically in New York City, this is probably one of, if not the most transit accessible stadiums in the Minor Leagues, as no less than four of New York City's subway services stop a block or so away. However, it will take a lot of time to get here from most parts of NYC as it's at the end of the four lines that run nearby (as in it’s faster to get from here to Citi Field by car despite NYC traffic). Parking is ten dollars with a ticket if you choose to drive (which is pretty good by NYC standards), but be aware that depending on where you're coming from (i.e. New Jersey and/or Staten Island), you're looking at a hefty toll bill...
 
+<div id="merch" />
+
 ### MERCH
 
 This is one of those parks where the concourse is above ground level, so once you go through the gates, you have to climb up some stairs to get to it. In most parks I've seen with this setup (i.e. places like Worcester, Manchester, and Brockton), the team store is at “ground level” for easy access on non-game days (this is kinda awkward in Brockton, but I’ll get to that later). However, in Brooklyn, the team store is two levels, with a street level entrance AND an entrance on the concourse (which is kinda wild when you consider this was a team at the lowest levels of baseball for a long time); this is probably due to the fact that both floors are smaller than your average retail space.

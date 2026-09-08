@@ -52,6 +52,8 @@ This game - Motown's home opener - saw them DOMINATE visiting Hershey SC even be
 
 As a final note, there is a STRONG possibility that I will see FC Motown again in the near future - whether or not I write about it is yet to be seen, but I do want to try other types of postings ([plus one other reason...](2026-05-22_fcmotownsta)).
 
+<div id="merch" />
+
 ### MERCH
 
 Just a heads up: I'm going to be watching a lot of these "smaller" soccer teams in the coming weeks, and one thing with these teams: merchandise is always a crapshoot. Some of them do have a few things at games or online, while others don’t; for example, I’ve been to two USL2 games in the Boston area (one of which featured [Vermont Green](2025-08-21_vgfc) as the visitors); one featured a small merchandise selection (where I had to Zelle the team’s owner for a scarf), and the other had...nothing (also, [RBNY II](2025-09-22_rbnyii) and the [Jersey Bearcats](2026-04-19_jerseybearcats) had nothing when I saw them).

@@ -38,6 +38,8 @@ There’s not much to say about the field - it’s part of a multisport field on
 
 I don’t remember much about the game except that I arrived late, had to leave early, and that Seton Hall lost to my old college’s neighbor - the New Jersey Institute of Technology. As a side note, I’m kinda sad I didn’t get to see them (or my school, which was D-III) when I was in college, as they played in a stadium shared with an independent league team that folded in 2015 (the stadium has since been demolished).
 
+<div id="merch" />
+
 ### MERCH
 
 The one drawback of being a smaller program playing on a smaller, on campus field: there’s no dedicated merchandise or concessions sold at the game per se[^2]. However, the campus bookstore is close by and open to the public, so if you want to show your “Pirate Pride”, you still can! I'm not sure where you can get food however...

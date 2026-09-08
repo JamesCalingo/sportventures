@@ -114,6 +114,8 @@ This game featured a visit from hockey independent Stonehill College - a small s
 
 Thanks to this game having a 7 PM start time and the football game I went to in the afternoon ending just before 3, I was able to finish AND publish that post BEFORE this game started (it was either that or aimlessly wander around for three hours). I ended up going to a Barnes and Noble at a nearby mall and working on that post (as well as this one) at their cafe. Also, as an aside, the games I thought about but didn't go to were against one of the most remote programs in college hockey: the Alaska Nanooks from Fairbanks, AK - some 3,300 miles away from Princeton (games which the Tigers won more comfortably).
 
+<div id="merch" />
+
 ### MERCH
 
 Some time before this trip, I randomly perused Princeton's online store and found a hockey jersey there! I did have some thoughts about getting it, but wanted to wait until I could see it in person to figure out if I was interested (as it's basically a long sleeved version of a football jersey since the front only features the number).

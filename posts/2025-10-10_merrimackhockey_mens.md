@@ -50,6 +50,8 @@ Because of the super low ceiling, there’s a MASSIVE screen on the wall at the 
 
 One final note/"warning": this is a “closed” suburban campus with mostly residential things nearby, so postgame food is definitely a question mark if you need something. However, if you’re early enough, you could get food and/or drinks from Merrimack’s on campus Dunkin’ because MASSACHUSETTS!
 
+<div id="merch" />
+
 ### MERCH
 
 Remember how I mentioned that the campus bookstore was attached to the lobby? Well, guess what: it serves as the sole merch store! This is a bit unusual amongst Hockey East arenas, but it also makes sense given that, well, it’s in the same building. As mentioned earlier, Merrimack’s obligatory Dunkin’ is next to the bookstore, but it closes sometime close to puck drop, so it’s not exactly an “option” if you need to get food during/after the game.

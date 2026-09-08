@@ -48,6 +48,8 @@ This game was played at the same stadium the football team plays in. Currently k
 
 Only one side of the stadium was open for this game along one of the sidelines, but the entrance was near one of the end zones, so you ended up having to walk a bit from the entrance to the stands. While it was nice and sunny, strong winds made the stadium REALLY cold (again, this game was in March). It also didn’t help that Rutgers LOST this game to a team from Saint Joseph’s University in Philadelphia (a school you probably didn’t know existed until just now); in fact, it felt like more people were there to cheer THEM on than the home team (especially in the late stages of the game).
 
+<div id="merch" />
+
 ### MERCH
 
 Surprisingly, there was a small merch stand open for the game! While I don’t remember much of what they had, I ended up going home with was a couple of hats from the school’s baseball team.

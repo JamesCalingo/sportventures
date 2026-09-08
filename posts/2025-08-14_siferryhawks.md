@@ -49,6 +49,8 @@ Sadly, there are indications that the FerryHawks are facing the standard indie l
 
 But seriously, why did the Staten Island Yankees have to get terminated? Sure, the FerryHawks/Ducks rivalry is cool, but it’s no “Battle of the Verrazzano”...
 
+<div id="merch" />
+
 ### MERCH
 
 The team store here is rather small-ish, but it's got your standard selection of hats (most of which I had ordered years ago outside of a Wu-Tang Clan themed one that I still didn’t get), shirts/sweatshirts, and jerseys (including the aforementioned Kelsie Whitmore jersey). As you may expect from a lower league team, most of the jerseys are sublimated (including the ones the players wear); however, they did have a version of their home jersey with stitched-on letters and sleeve logos, so that was a nice find (had they not, I would have potentially gotten a light blue sublimated jersey because I liked it that much). There was a game-used jersey on display behind the register, but I didn't ask if it was for sale (nor was I super interested given the jersey I got had stitched on letters and patches).

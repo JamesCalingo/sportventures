@@ -46,6 +46,8 @@ I mentioned the potential sale of Dodd Stadium in the intro, and the reason I kn
 
 While I don't remember that much about the 2022 game outside of it being the night before a weeklong vacation in the Carolinas (the same one where I saw the [Wilmington Sharks](2026-06-22_ilmsharks)[^1] for the first time), the 2023 game was actually one of the fastest baseball games I’ve ever been to, as it hit the halfway point (mid-fifth) in exactly one hour, and then finished in just over two hours (no pitch clock BTW). 
 
+<div id="merch" />
+
 ### MERCH
 
 The Sea Unicorns team store has one of those sliding doors you usually see at grocery stores and hotels as well as one of the best team store names I’ve ever seen: the Point of Sail (and I say this NOT because I used to work for a PoS company). In my visits there, I found a lot of old Connecticut Tigers/NYPL items, including game used jerseys (one of which I bought), a few hats (which I did NOT buy), and even NYPL and Minor League game balls - this despite EVERYTHING that happened between 2019 (the final NYPL season after which the team rebranded) and 2021 (the team's Futures League debut).
@@ -61,6 +63,8 @@ Sadly, it seems the team has decided to shut down online merchandise sales, as t
 The Mystic Schooners are the longest continuous operation in the NECBL. They trace their history all the way back to the league’s first season in 1994 - though they’ve moved around quite a bit: originally from Willimantic, CT (east of Hartford and just south of UConn), the team moved to Pittsfield in the 2000s and then spent a year in [Bristol](2026-06-30_briblues) before landing in Mystic in 2011. They did win a championship in the NECBL’s first season, but have only won one other title since then (2016).
 
 When they first moved to Mystic, the team was based out of a local high school, but in 2022, the team moved into Dodd Stadium. The reason for this move is unclear to me, but they never really felt “at home” here (bad game times, tiny crowds), so they ended up moving BACK to their old field in 2024 (which I have yet to visit BTW). From what I could glean, they don't charge admission for games here (this could be VERY wrong however).
+
+<div id="merch" />
 
 ### MERCH
 

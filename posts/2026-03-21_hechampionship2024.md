@@ -68,6 +68,8 @@ Also, one of the main reasons I haven’t seen the Bruins at home in 20 years: I
 
 Finally, as a protip if you ever consider visiting: you probably don’t NEED to park in the Garden garage - it’s EXPENSIVE and you’ll end up being stuck for a while postgame. Evening and weekend parking in many parts of Boston (and its suburbs) is WAY CHEAPER (and surprisingly inexpensive by city standards)...so long as you’re willing to either walk a bit and/or trust the T (though I can understand if you’d rather not do either/both).
 
+<div id="merch" />
+
 ### MERCH
 
 I cannot tell you how many times I have been to the TD Garden ProShop. It was one of my "Sunday staples" when I lived in Massachusetts, and the number of things I have gotten from there is absolutely staggering. Part of that is thanks to a deal where if you have a TD Bank debit or credit card (which I’ve had since 2017), you can get a 15% discount on almost everything in the store - not a bad deal I must say (and it has come in VERY HANDY quite often[^6]). It’s also where I bought my first "authentic" hockey jersey - a 2023 NHL Winter Classic with Patrice Bergeron’s name, number, and captain’s patch (along with the actual NHL Winter Classic patch - something other places didn't have for some reason).

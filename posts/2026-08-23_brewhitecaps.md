@@ -31,6 +31,8 @@ As far as features, the school this field is attached to is an elementary school
 
 The main parking lot, which is next to the school for which the field is named, is not exactly big enough to handle all the spectators that come to these games (though honestly it doesn't seem like ANY Cape League stadium has enough parking), but I found out that there’s another school nearby where fans can park and then walk through some woods to get to the field. This is honestly one of the more interesting features I’ve seen on the Cape - just be careful of any woodland insects...
 
+<div id="merch" />
+
 ### MERCH
 
 For the first two years I visited, merch was sold out of a literal trailer; in 2023, they upgraded to a full-on shack. There isn't exactly much that was (as ), but of note: I don't recall seeing jerseys ever sold, the team sold baseballs with their logos only (i.e. NOT the CCBL game ball other teams sell), and it took me until 2025 to find a shirt that I liked and was in stock (I actually talked about this [a while ago](2025-12-26_merchstops)).

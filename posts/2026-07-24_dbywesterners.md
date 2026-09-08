@@ -36,6 +36,8 @@ Part of why I chose this date (besides AMAZING weather for once): the team had a
 
 In addition, the [Bristol Blues game I went to that got rained out](2026-06-30_briblues) was resumed/completed the same day this trip took place, and it ended the same way it was left off: Bristol won 3-0.
 
+<div id="merch" />
+
 ### MERCH
 
 Summer league baseball in New England is notorious in that a lot of teams do not sell merchandise online. As a baseball hat collector, it's even worse when you add the fact that even the teams that DO sell online merchandise often do not sell game hats (meaning you have to go to games to get them)[^2]. However, the Westerners are somewhat unique in that they occasionally do online merchandise sales - but not via an online store (such as Square or ShopPay); instead, they do the web version of “mail order”: you contact them via email, and then after a series of emails and a card transaction, you (should) receive a shiny new piece of merch in your mailbox. I’m not sure how often they do this, but I did get a hat from them back in 2022 this way.

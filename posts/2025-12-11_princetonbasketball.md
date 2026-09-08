@@ -66,6 +66,8 @@ Both games featured cheerleaders and the Princeton Band, which means...Straw Boa
 
 Also, there is probably one other thing I could mention about this trip, but I don't think it's a good idea for me to...
 
+<div id="merch" />
+
 ### MERCH
 
 As you might expect at a ticketed Princeton sporting event (save for hockey due to Baker Rink's small "concourse"), merch is sold in the lobby (which I have yet to mention, but is kinda sorta HUGE; it's essentially under the massive grandstand). During the first half of the men's game, I got a mini basketball (as I liked it more than the "regular size basketball") and some strange plush toy. However, I ended up not going home with the plush, because the men's game was their Teddy Bear Toss (i.e. I specifically bought the toy to toss it).

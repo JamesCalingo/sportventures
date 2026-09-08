@@ -26,6 +26,7 @@ related:
     { title: "Reading Fightin Phils", link: "2025-08-24_rdgfightinphils" },
     { title: "Jersey Shore BlueClaws 2026", link: "2026-04-08_jsblueclaws2" },
     { title: "2026 All-Star Festivities", link: "2026-07-13_mlballstar2026" },
+    { title: "Philadelphia Phillies 2", link: "2026-09-08_phiphillies2" },
   ]
 ---
 
@@ -61,6 +62,8 @@ Kalas was a legendary Phillies broadcaster who sadly died while preparing for a 
 ![An image of Citizens Bank Park](/images/2026/0607/homeplateview.jpeg)
 
 (P.S.: This was originally going to be the day I saw the [Sussex County Miners](2026-05-09_scminers), but due to this being my only opportunity to see the White Sox live in 2026, I decided to move that game up).
+
+<div id="merch" />
 
 ### MERCH
 

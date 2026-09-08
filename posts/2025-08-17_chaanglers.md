@@ -38,6 +38,8 @@ The outfield isn’t bad either. Yes, there’s no actual seating and you’re o
 
 I ended up pivoting away from plans to see the Indoor Football League up in Lowell, and instead sat in pre-July 4th Cape Cod traffic to make this visit. I ended up only staying for four innings, however, as it was PACKED - according to the box score, over 4,000 fans were in attendance (it should also be noted that Chatham typically leads the league in attendance each year). I didn’t end up staying for super long, however, due to the aforementioned distance from Boston (where I needed to head for the night). Chatham ended up losing the game, but similar to what happened in the Lehigh Valley, the game actually ended shortly after I left due to rain, which actually leads into...
 
+<div id="merch" />
+
 ### MERCH
 
 I will admit that the other reason I chose to come here was because I was trying to get their new 2025 player hat (it’s different from the one I have), but when I got here, they only had small sizes available. I did end up going with their Fourth of July hat, however, plus a league ball with the new (as of 2024) commissioner’s signature as well as an old (potentially) game worn jersey - something a fair number of teams in the summer collegiate leagues sell (but not all of them).

@@ -40,6 +40,8 @@ I guess I'll finish this by saying that there are two things to note before comi
 1. The team uses Ticketmaster, so be prepared for Ticketmaster shenanigans.
 2. Parking is ten dollars if bought at game time (which is kinda high when you consider that this is the same price as Brooklyn), but seven dollars if pre-purchased (though, once again, Ticketmaster). I know there are local streets and a strip mall nearby, but I don’t know what their parking rules are, so be careful if you’re trying to avoid paying parking fees (as there’s no real transit option).
 
+<div id="merch" />
+
 ### MERCH
 
 When I visited the team store the first time, I noticed that it was kinda small and very cramped due to the presence of merchandise racks that are usually on the concourse during games (as well as them preparing to ship online orders). I feel like it's probably the size you'd expect from this level of baseball (or at least the "old" level; other stadiums I've visited from the NYPL had similarly sized stores), and it DID have some VERY old hats from I don't even know when (they were all too small for me though), which was cool. Because Minor League Baseball teams LOVE playing dress up, the Renegades also have a TON of alternate identities (as well as throwback merch as they had recently celebrated their 30th anniversary), and each one had its own section of hats, shirts, and jerseys (contributing to the “crampedness”).

@@ -33,6 +33,8 @@ One interesting note about the game I went to: it seemed like they had a lot mor
 
 If you're thinking of coming here (and if you're ever in Burlington in the summer, I think you should), there’s two tiers of parking for games: you can park near the stadium for a fee (which is one of few "paid" parking options for the summer leagues), or by Gutterson Fieldhouse (where UVM's hockey team plays) and Virtue Field (which a few miles from the stadium), but you get shuttled to the ballpark (the parking and shuttle are free).
 
+<div id="merch" />
+
 ### MERCH
 
 I've said that the only Futures League stadiums with "fully enclosed team store" were the two former Double-A stadiums in Connecticut ([New Britain](2026-07-27_nbbees) and [Norwich](2026-08-19_doddstadium)), but I do have to update that a LITTLE BIT: Centennial Field does have a dedicated merchandise area/store, but I wouldn't consider it "enclosed" as it doesn't have doors (it's more like a garage). Of the 32 New England summer teams I visited, I must say that I feel like the Lake Monsters had the most extensive selection of things available (again, ex-MiLB).

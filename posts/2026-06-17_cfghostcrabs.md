@@ -44,6 +44,8 @@ The main grandstand has two seating areas: a club level lower area with folding 
 
 Despite being a "new" team, the Ghost Crabs are doing fairly decently this year (see: the Shallotte Shallywags[^1]). This contest was another interesting one, as the Ghost Crabs were down halfway through the game but took the lead right as I had to head out for the night (it's around an hour drive), and ended up winning via mercy rule (a rule where a team leading by ten runs at the end of an inning instantly wins[^2]).
 
+<div id="merch" />
+
 ### MERCH
 
 One thing the Ghost Crabs have that I didn't see elsewhere in this ONSL journey: a trailer! Merch is sold out of this trailer, and the team had quite a few items that weren't shirts and hats: yo-yos, Croc jibbitz, keychains, and not Livestrong bracelets. Some of these miscellaneous items could be had for free...if you caught/found a foul ball and returned it to the merch trailer[^3].

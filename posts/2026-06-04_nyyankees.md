@@ -54,6 +54,8 @@ This game was a rather close affair as the Yankees and Guardians spent a few inn
 
 Also, I've heard that Yankee fans don't like how many random noises there are in games nowadays, and while it's not Savannah Bananas level "music blaring the whole time" bad, those "YOU HAVE TWO STRIKES...WHAT WILL HAPPEN NEXT?" sounds are very much NOT necessary. In addition, I'm almost certain I saw the "home run bandit" Zack Hample (partially as he was wearing an MLB Umpire hat which is almost impossible to find)[^4] as well as Jomboy Media's Joez Mcfly during the game.
 
+<div id="merch" />
+
 ### MERCH
 
 I won't go over too much regarding Yankees merchandise (as I've gone over the stadium's merchandise areas before), but my goodness were there a TON of stands. I didn't go through all of them, as most of them had the same items which I'm REALLY not that interested in (replica jerseys, random other shirts, and various small collectibles which I'm trying to cut down on due to space limitations). I will mention that there was a special deal: buy a fitted hat, and you'd get a free mini bat. I will NOT say whether or not I ended up taking the deal however (though I've recently been getting fitteds again due to my old ones being too small for me now...).

@@ -47,6 +47,8 @@ On a somewhat unrelated note, most of the concession stands and the FerryHawks t
 If you want to watch (parts of) the action yourself, you can do so <a href="https://www.youtube.com/watch?v=f88rpImGEik" target="blank">here</a>. I am in this video an uncomfortable (for me) number of times, so have fun if you’re trying to find me!<br>
 (If you think about the stadium, though, you’ll realize just how easy finding me is...)
 
+<div id="merch" />
+
 ### MERCH
 
 A video of MLW’s previous stadium visit (somewhere near St. Louis, MO) implied that, despite what the ticket site said, merchandise would be available outside of the meet and greet...and sure enough, that was true!

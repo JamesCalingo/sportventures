@@ -92,6 +92,8 @@ Bat and ball sports are interesting in that they are meant to be played every da
 
 (Translation: Rutgers lost both games. One was a blowout, and the other game ended with the winning run being a two-out, last inning home run - I'll let you figure out which team suffered which fate)
 
+<div id="merch" />
+
 ### MERCH
 
 Earlier, I mentioned that the schools here in the Northeast don't seem too interested in baseball. However, a few of the "bigger" ones DO have baseball hats/jerseys in their campus stores (which I've gotten in the past) - Rutgers being one of them[^6].

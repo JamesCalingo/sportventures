@@ -33,6 +33,8 @@ Unfortunately, this is also probably the most remote field in all of the New Eng
 
 For the first trip (2022), I came here from [Westfield](2026-08-17_wesstarfires) (schedule timings worked out well for me in 2022), and part of that drive featured roads with ZERO cell service (which I found out when Spotify suddenly cut off). That date also featured a visit to a stadium the SteepleCats played a few games at in either 2024 or 2025 (I honestly don't remember) - and I will get to the "where" and "why" of that soon enough...
 
+<div id="merch" />
+
 ### MERCH
 
 There’s a building on the third base line which houses concessions and merch. The Steeplecats had two or so hat logos when I visited (in multiple styles), and I also got a hoodie here that I like as it features an "extra" pocket. I also recall seeing what looked like practice jerseys here one time, but they weren't the best looking things I'd seen...
