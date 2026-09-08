@@ -34,6 +34,8 @@ If you've been reading the last few posts on this blog, then you're already awar
 
 Both times I’ve seen the Sharks live...they’ve lost. I can't recall too much of what happened in the first game, but the second game (from which the photo above was taken) ended early due to mercy rule. Had I gone to the game I intended to see, I would've seen a THIRD loss, as the Sharks lost to a team of players from a small summer league based in Myrtle Beach (the Beach Collegiate Baseball League - don't look them up on Yelp). However, I found out that they had a game at the same time as the Loggerheads game I went to, but I didn't even know about it until I was already at that game - though I felt fine skipping the Sharks for various reasons (even though Wilmington did win their game against the team that I saw beat them in 2024)[^3].
 
+<div id="merch" />
+
 ### MERCH
 
 As I recall, merch is based in a small shack on the concourse. While it doesn’t stray far from your standard fare of hats, shirts, and baseball novelties, some of the more interesting things I've found here include a broken bat and a special anniversary shirt.

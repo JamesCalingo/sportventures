@@ -49,6 +49,8 @@ One more thing I should mention: in looking back at the details of these visits 
 
 This was the first of three teddy bear tosses I attended in 2023 (the other two being [Boston University](2025-10-04_buhockey_mens) and [UNH](2025-10-24_unhhockey_mens)), and the fact that I completely forgot about this, in a sense, should tell you how it was. I will note that the BU and UNH ones were definitely MUCH better though - and I recall one (or both) of them selling teddy bears to be tossed.
 
+<div id="merch" />
+
 ### MERCH
 
 Surprisingly, there’s a full fledged merchandise “store” here as opposed to a kiosk/some racks and a cash register along the concourse, which honestly feels a little crazy for a program as “small” as Harvard. Said store felt surprisingly large and had a decent selection of things; sadly, they didn’t have jerseys either time I went, and the pucks I saw were disappointing IMO so I didn’t get one, but I did get a wooden Zamboni as well as a “Hockey Hoodie” with Harvard’s logo on it.

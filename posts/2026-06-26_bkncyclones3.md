@@ -48,6 +48,8 @@ Sadly, the Cyclones have cycled from "SAL champions" to "kinda sorta bad" this y
 
 One final note:
 
+<div id="merch" />
+
 ### MERCH
 
 The team appears to have made some slight updates to their team store - either that or it's a bit better organized now. There was a special 25th anniversary jersey listed as the "item of the day", but if you were looking to get one in anything bigger than a size large, they were seemingly out (and they didn't have many larges either).

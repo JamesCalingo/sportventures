@@ -41,6 +41,8 @@ For those who forgot (and/or want a refresher), ShoreTown Ballpark in Lakewood, 
 
 For the second time in four days, I watched a Minor League Baseball game where the visiting team was an affiliate of the New York Mets (I forgot to mention the opponent for the [Fisher Cats](2026-04-06_nhfishercats) game, but it was the Binghamton Rumble Ponies[^3]). While the result wasn't quite the same, it was very similar: the BlueClaws defeated the Brooklyn Cyclones 5-1, dropping the Cyclones (who, it should be noted, are the defending South Atlantic League champions) to 0-3 on the young season.
 
+<div id="merch" />
+
 ### MERCH
 
 The other reason I chose to visit: the BlueClaws have a few new hats this season! Unfortunately, the ones I was interested in were sold out in my size when I checked online the night before this game, and were also not in stock at the game itself. While the aforementioned hats were available in flexfit versions, New Era made a pretty significant change to their flexfits this year, and I'm still trying to figure out if I like it or not, so I decided to pass on them (for now).

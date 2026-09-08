@@ -39,6 +39,8 @@ This game marks the first time I've seen Banana Ball WITHOUT its signature team 
 
 I've also heard that "once you've seen one Banana Ball team, you've seen them all"...and I can see why people say that (as well as the idea that Banana Ball is baseball mixed with RIDICULOUS sensory overload). The Coconuts (and by extension the Party Animals and other Banana Ball teams) do each have their own sets of "characters", but they all still feel a bit underutilized (save for mascots and maybe each team's "resident band" - though the Party Animals seemingly only had their mascot for this game[^3]). In addition, a lot of the pregame stuff seemed like takeoffs of what the Bananas do in their pregame buildup - a game involving the upper deck, a kid hitting a little league home run, and a baby (though this one featured a mix of the theme from Jaws and Baby Shark).
 
+<div id="merch" />
+
 ### MERCH
 
 I usually save this for the end, but (I hope) you'll understand why I moved this up once you get to the end of this post. Anyhoo...

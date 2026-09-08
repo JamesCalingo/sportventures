@@ -53,6 +53,8 @@ The game ended up being a bit of a wild one, but in the end, Somerset prevailed.
 
 (P.S.: Shout out to the choir from my old middle school, who sang the anthem before the game. I'm pretty sure all of them were still at least five years away from being born when I graduated...)
 
+<div id="merch" />
+
 ### MERCH
 
 This stadium has probably one of the smaller team stores I've seen in the Eastern League. I feel like it worked well when the team was independent, but as they've become an affiliated team and added several alternate identities, their merchandise selections have outgrown the small space; it really feels like half the store is on the concourse now.

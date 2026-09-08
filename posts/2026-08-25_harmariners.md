@@ -35,6 +35,8 @@ I must say: foul ball competition was probably fiercest here. Maybe it’s the f
 
 This is also one of two stadiums on Cape Cod where I saw the league’s All-Star Game[^1] - a showcase of the league's best talent (i.e. some of the best college baseball players in the country). Unlike the [MLB All-Star Festivities](2026-07-13_mlballstar2026), it's a bit of a "full day" event: gates are usually in the early afternoon, and then the All-Star players have a designated time where they sign autographs before a Home Run Derby and the game itself take place back to back (NOTE: I probably should have done this when I talked about the [North Shore Navigators](2026-08-22_nsnavigators), as I went to the All-Star Game they hosted the day after this one and it's pretty similar minus the autographs). This is one of those situations where parking is probably hard to get (as it draws WELL over what the team normally draws), so if you ever think about going to the Cape League All-Star Game, be aware of this (as well as the fact that it's the ONE game on Cape Cod that requires a ticket to attend).
 
+<div id="merch" />
+
 ### MERCH
 
 Concessions are at the base of the press box, and a merchandise stand (renovated in 2022) sits behind the first base bleachers. In addition to the games I've been to here, I also made a visit here in 2021 in the MORNING (as the stand had morning hours back then), but the only thing I got was an adjustable hat that I don't even know if I still have.

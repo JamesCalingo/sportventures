@@ -31,6 +31,8 @@ I couldn’t find any good information about their stadium history (one of them 
 
 One of Bourne’s biggest advantages if you want to see Cape League action but can’t justify traffic/driving is that it’s literally right between the two bridges! Sure, the traffic pattern getting to/from the stadium kinda sucks, but as long as someone hasn’t messed up in the rotary and shut it down, access is easy from "mainland" Massachusetts! This stadium also features one of the larger parking lots in the Cape (as it’s on the campus of a high school), and the team has contingency plans (read: a nearby ice arena + shuttles) when it gets full, so it’s highly accessible if you’re coming from Boston (like I typically did back in the day).
 
+<div id="merch" />
+
 ### MERCH
 
 If you’re wondering where all those fans got those hats (or the short sleeve hoodie I got in 2023), the merch store WAS in the lower level of the press box for a while. The terraces made it kinda hard to get to, and there’s only like one sign pointing to its location as the merch store, but it was one of two stadiums with a “walk-in” merch store (the other one being [Falmouth](2026-08-27_falcommodores)). Thanks to the press box blocking home plate from the terraces, the little window to the field here was the only place where fans can get a view from behind home plate.

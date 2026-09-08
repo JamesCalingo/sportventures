@@ -33,6 +33,8 @@ There is a rather large grandstand with plastic seat backs, but you could just a
 
 I will note, however, that this is the stadium where I learned the magic of putting barbecue sauce on plain mac and cheese, so there’s that...
 
+<div id="merch" />
+
 ### MERCH
 
 It’s hard to miss the merchandise tent, as it’s basically right after you walk in. While most of it isn't super "out of the ordinary", Bullens Field has apparently seen a lot of crazy and interesting things happen during games, as the Starfires use the term "Bullens Magic" quite a bit (to the point that it's all over their merch).

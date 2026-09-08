@@ -42,6 +42,8 @@ Alas, the game went more or less as expected - Knoxville won, but mainly on the 
 
 <div id="merch" />
 
+<div id="merch" />
+
 ### MERCH
 
 One of the big reasons I wanted to come here: Hummel.

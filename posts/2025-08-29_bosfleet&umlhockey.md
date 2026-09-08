@@ -69,6 +69,8 @@ I found myself getting into this game WAY more than I thought I would have - tho
 
 After the game ended, I found that the gates to another stadium were open while walking back to my car. [Thinking it strange, I looked inside the stadium, and...](lelacheurpark)
 
+<div id="merch" />
+
 ### MERCH
 
 There is a souvenir area in the lobby; it’s outside of where tickets are scanned, so if you don’t go before you enter the game, you have to “check in” with security if you want to look for merchandise pregame (or at least that’s what I had to do for the UML game).

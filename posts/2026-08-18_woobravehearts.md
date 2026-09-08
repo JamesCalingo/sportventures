@@ -31,6 +31,8 @@ In all honestly, there’s not much to say about the stadium: the entrance is to
 
 Worcester was, along with all ten Cape League stadiums, one of the places I visited BEFORE even living in Massachusetts: we did a week on Cape Cod in 2021, but I went up early and caught a game here[^2]. In addition to many Bravehearts games over the three years I made visits (2021, 2022, and 2023), I also saw a special "police vs. fire department" game which featured wavy foul lines and a walk-off (to date, it's actually the most recent time I've been to Fitton Field).
 
+<div id="merch" />
+
 ### MERCH
 
 Each time I visited, merchandise was sold immediately to the right of the gate. From what I remember, the stand has various layouts - some of them allowing fans to walk into them, and others not as much. 

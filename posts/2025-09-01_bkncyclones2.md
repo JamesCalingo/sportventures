@@ -54,6 +54,8 @@ As the game was a Sunday game, kids were allowed to run the bases after the game
 
 <figcaption>Hope that third base coach still has their shoulder intact...</figcaption>
 
+<div id="merch" />
+
 ### MERCH
 
 I discussed the Maimonides Park team store back during my first visit, but in case anyone forgot: it’s a two-level store with various items on both levels - some the same, some different. What I realized in writing THIS post, however, is that I forgot to mention that there was a small selection of Brooklyn FC merch at that game exclusively on the upper level (it must have gotten deleted in one of my edits). I thought about getting a jersey then, but I didn’t find anything in an appropriate size (or style - I’m pretty sure what I found were children’s and women’s jerseys).

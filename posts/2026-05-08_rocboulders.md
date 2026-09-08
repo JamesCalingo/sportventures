@@ -41,6 +41,8 @@ The outfield also features two field level bar areas (one in left, one in right)
 
 In any case, the Boulders had the lead when I had to head out due to lateness and it being kinda cold, but unfortunately were unable to hold it and ended up losing (I found out when I got home that the game ended after 10 PM, so...). Also, a repeat visit this year may depend on when the Palisades Parkway south to Thruway north/west ramp reopens, because I'm not sure three clover ramps is my idea of a "fun" detour[^4]...
 
+<div id="merch" />
+
 ### MERCH
 
 The team store here is actually kinda big by indie league standards IMO (heck, it's bigger than several team stores I've seen for **MiLB AFFILIATED** teams). However, I’m pretty sure that it’s only open during games that actually happen at night based on two times I’ve been to the stadium without being able to access the team store:

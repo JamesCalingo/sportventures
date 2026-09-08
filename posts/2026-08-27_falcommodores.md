@@ -31,6 +31,8 @@ The main entrance is behind a municipal building, and it’s in right field alon
 
 Outside of that, there are no seats behind home plate here, so this is one of the few stadiums on Cape Cod where you can watch the game directly behind home plate without being a scout (though you do have to stand if you don't bring a chair).
 
+<div id="merch" />
+
 ### MERCH
 
 As of 2025, Falmouth is the only field on the Cape with an “indoor merchandise store” under the press box. While many of the things inside are "common" fare (i.e. shirts/hoodies, hats[^1], mini bats, and Cape League baseballs), I've gotten rocks with the team's logo painted on them in the store, and they usually has game worn jerseys outside - one of which I've gotten in the past (and several of which I've thought about getting before saying "nah"). 

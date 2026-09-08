@@ -38,6 +38,8 @@ The nice thing about the summer leagues: tickets are usually very inexpensive (t
 
 Crowds here are fairly decent by New England Summer Collegiate standards (especially with the New Hampshire Fisher Cats only 17 miles away - though that’s a bit of a different story). I've been here quite a few times, and the thing that always strikes me about this place is the fans - quite possibly the rowdiest fans in all of New England. The most notable of these fans is the “Mad Dog”: a dude who’s constantly yelling at the players (usually trying to induce bad play from the opponents) and beating a drum for big plays (and his birthday just so happens to be July 4th). I remember hearing about a “two outs” tradition the team had back in the day, but for whatever reason, they didn’t have it when I went this year (despite the fan who leads it being present I THINK); my guess is that the umpires’ association felt it constituted harassment of their umpires...
 
+<div id="merch" />
+
 ### MERCH
 
 As a collegiate summer league team, merchandise isn't really one of their strong suits (this is the case for most summer league teams - especially the New England ones). They do have a stand with a few items, but most times I've tried to find a hat, I've found myself out of luck (the main exception being going to their second home game one year - but even then, they were MOSTLY out of hats). One thing that separates them from a lot of other teams in New England: they DO have online ordering available, though it’s a little weird and I’ve never ordered anything from them online.

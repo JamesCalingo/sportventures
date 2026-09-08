@@ -27,6 +27,8 @@ The big thing at Mackenzie (literally) is the large grandstand down the first ba
 
 Other than that...I'm honestly not sure what to say about the Blue Sox (except for one thing I'll talk about below). I came here twice (once in both 2022 and 2023), and the thing I honestly remember the most is hiding a foul ball I scooped from some kids (does this make me a bad person?). However, there is one other thing: they made a MASSIVE logo change between the two years I visited, and I have to say that the new logo is borderline FRIGHTENING (it honestly feels AI generated, which it still could be, but it came out in 2023 when AI was somehow still only in its infancy[^2]). 
 
+<div id="merch" />
+
 ### MERCH
 
 Despite there being several buildings down the third base side (which serve concessions), there's no "permanent" structure for merchandise sales. Instead, there's a table between some of the buildings with mostly standard items (including a jersey with "fake buttons" that I saw one time).

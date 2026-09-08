@@ -55,6 +55,8 @@ If you’re looking for food postgame, there are a few places near-ish campus, b
 
 Because the first game I went to fell on one of our unfortunately increasing “randomly warm days in what’s supposed to be fall and winter”, there was a special “fan fest” going on before the game at BC's adjacent football stadium - it was kinda unimpressive IMO: one concession stand where the grill wasn’t working properly and a merchandise table with VERY limited merchandise. Seemingly, they also hold these in a different location for colder weather games, so maybe that’s better (I WAS thinking of checking out one of these, but decided not to).
 
+<div id="merch" />
+
 ### MERCH
 
 Conte is somewhat unique amongst the college hockey arenas I’ve been to in that not only are there dedicated merchandise stands amongst the concession stands, there’s more than one of them. I actually don’t recall if I bought anything from these stands, however, as I got most things from other areas: the main campus bookstore and a secondary store on the way to the arena from the parking garage. This secondary store seems to specialize in BC athletics merch; it’s typically open before games, and MAYBE after (though I can’t be certain; I think it was open after one game but closed after the other).

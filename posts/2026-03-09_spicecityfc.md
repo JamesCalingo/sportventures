@@ -50,6 +50,8 @@ I first found out about Spice City when looking at images of the Danbury Ice Are
 
 Spice City billed this as one of their toughest tests yet, and with good reason: their opponent today was...the Harrisburg Heat! Apparently, the team changed arenas recently, and issues surrounding that arena change forced them to "drop down" to MASL 2 for this season. I don't know if they're still using the players who they used in their MASL time, but it would explain why they seemed to be the better team in an 8-4 win - and also how the Heat held a Spice City team without a goal in the second half (which is quite a feat given how high scoring indoor soccer tends to be).
 
+<div id="merch" />
+
 ### MERCH
 
 After the Hat Tricks game back in February, I was wandering around a bit and ended up finding a local store that specialized in soccer (and rugby) items which also had Spice City merch[^4]! While they did have a few jerseys, none were my size - though I did end up getting a scarf. I came back to this store to check one other thing out before the game, but Apple Maps apparently doesn't know the store is NORTH of 84 now...

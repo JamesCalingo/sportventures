@@ -71,6 +71,8 @@ This game ended up being one of the most intense games to be featured on this bl
 
 <div id="merch" />
 
+<div id="merch" />
+
 ### MERCH
 
 Before I continue, I DO want to mention another reason I'm not super into basketball: the jerseys.

@@ -57,6 +57,8 @@ I'll end with a few notes on college soccer itself (as it's a little different f
 - Like professional soccer, the game is played in two 45 minute halves. However, the clock typically counts DOWN from 45:00 to 0:00 and is somewhat continuous but can be stopped by the referee for various reasons. Once the clock hits 0:00, the half ends right then and there - marked by a horn attached to the scoreboard which is near impossible to hear unless you're right next to it.
 - It felt like there were a CRAZY amount of substitutions during this game. Part of that may be due to NCAA rules on substitutions (each team can make as many substitutions as they please at one time, but are limited to doing this six times per match), but it may also be because I THINK the rosters were much larger than your standard soccer game.
 
+<div id="merch" />
+
 ### MERCH
 
 There's a small merchandise area under the press box (on the west side of the stadium). It's got a bunch of your standard "school" stuff like shirts, hats, hoodies, and various novelty items, but did not feature jerseys.

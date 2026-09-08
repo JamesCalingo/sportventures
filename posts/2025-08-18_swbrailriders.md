@@ -43,6 +43,8 @@ One thing I think you should be aware of if you’re thinking of coming here: li
 
 The game was...mildly interesting: the #DamnScrankees won off the back of one singular huge inning, but I will note that their opponent for this game was the Triple-A affiliate of the Pittsburgh Pirates (they’re from Indianapolis, but their name is mildly controversial so I won’t say it here - it’s the name of their state with the last letter replaced with an "s"). I won’t go much further than that for now, but it’s something to keep in mind should I return to the area in the near future (though sadly, it’ll probably be after that Red Robin coupon they gave away expires).
 
+<div id="merch" />
+
 ### MERCH
 
 There's...honestly not much to say about merch. The store is decently sized (though it feels like it's the smallest among the Triple-A stadiums I've been to), and doesn't really stray too far from what you'd expect a minor league baseball team to have (outside of them having a few adjustable hats for non-Yankee MLB teams hidden in a shelf - including the Cleveland [REDACTED IN 2022]).

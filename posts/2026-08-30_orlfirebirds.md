@@ -31,6 +31,8 @@ A fair warning if you intend on coming here: if you don’t have a lawn chair bu
 
 It is due to this that I've heard about the practice of fans placing their chairs LONG before game time (for instance, the Firebirds made the championship series in 2023, but lost to Bourne), but I never brought a lawn chair to any of the Cape League games (as a reminder: I went to SEVERAL of these games on weekdays after work).
 
+<div id="merch" />
+
 ### MERCH
 
 Merchandise is sold under tents here, making Orleans the only team without a “physical” merchandise building (the press box here is kinda smallish and a bit too close to the field but has indications that it did used to house merchandise). However, I feel like it’s one of the more extensive merch selections on Cape Cod, so that may explain the tents.

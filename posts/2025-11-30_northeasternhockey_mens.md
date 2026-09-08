@@ -60,6 +60,8 @@ I will say that among the games I went to back in the day, the student section a
 
 One other note: if you're willing to walk a little bit across Northeastern's campus, free parking is provided at one of the university's garages. If not, however, paid options are available closer to the arena (though the garage next to the arena is quite pricey IMO). Also, if the concessions inside aren't your thing (or they're too busy - as they were during this game), there's several food options on nearby Huntington Avenue which, given that they tend to cater to students, are meant to be convenient (and are usually open quite late - especially by Boston standards).
 
+<div id="merch" />
+
 ### MERCH
 
 As mentioned earlier, there's a merch area in the lobby here, but it's really not that big. Most of the time, it doesn't stray from what you'd expect from a college sports merchandising area (though I should mention that Northeastern does sell hockey jerseys), but one of the games I came to here featured special items for its cancer awareness theme.

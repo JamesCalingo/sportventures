@@ -44,6 +44,8 @@ I wasn’t sure where to fit this in, but there’s another hockey rink with the
 
 As a final note: I didn't talk about the parking situation (as it was free back then), but I learned a few days ago that UMass is now charging for the lot I parked in...
 
+<div id="merch" />
+
 ### MERCH
 
 I’ll be honest: I think UMass has one of the better jerseys in Hockey East. I’m not sure if I can call it the best jersey in the conference (many will tell you that distinction belongs to Maine), but it’s one of my personal favorites.

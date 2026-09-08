@@ -65,6 +65,8 @@ To my surprise, there was a band at this game (and only about a dozen other stud
 
 <figcaption>hung near the entrance for the second period. The reason the scoreboard says "1" is because this was during the intermission between periods.</figcaption>
 
+<div id="merch" />
+
 ### MERCH
 
 There were only three open concession stands here: the "main stand" with "regular stadium food", a stand selling alcoholic beverages, and a Dippin' Dots stand, where you could get a novelty ice cream helmet! Here's the thing, however...that helmet was the only "merch" available at the game. There were two closed "stands" in the concourses that looked like they my have sold merchandise back in the day, but neither one was open (and there was one concession stand that was closed).

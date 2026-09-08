@@ -29,6 +29,8 @@ If I’m being honest, the Ketts have probably one of the better stadiums on Cap
 
 However...parking is kinda sorta absolute hell. The stadium has a tiny lot next to it that can only fit like 50 cars for spectators (the rest is for players, staff, and umpires), and if you park too close to the field, you’re liable to have a foul ball break a window/windshield (something that ALMOST happened to me at [Red Wilson Field](2026-08-29_ydredsox) the first time I went there). There is a bigger “main lot” that they use, but it’s a short walk away (i.e. not fun when it’s 80+ and humid, which is bound to happen at some point given Lowell Park being one of three Cape League fields without lights). In addition, you’ll often find cars parked ON the sidewalks near the park (though I THINK the team is trying to discourage fans from doing this). It's due to the parking situation plus the lack of lights that I feel like this is the stadium I have visited the LEAST, which is a bit of a shame.
 
+<div id="merch" />
+
 ### MERCH
 
 I mentioned this [some time ago](2025-12-26_merchstops), but Cotuit is one of few teams on Cape Cod that has online merchandise sales; while they’re not quite as "robust" as some other teams around New England, given that most teams barely sell ANYTHING, it's still nice. While most items the team offers do feel a bit "generic" (save for maybe a windbreaker I got back in 2022 plus the fact that I bought a game-worn jersey one time[^1]), the team did used to have a book written by the then-manager and his son (who was an MLB player probably best known for being a Baltimore Oriole).

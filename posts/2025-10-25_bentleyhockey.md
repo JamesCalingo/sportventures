@@ -43,6 +43,8 @@ One other important note about the game: I mentioned in the prior paragraph that
 
 (P.S.: If you want to hear bits and pieces of the game’s audio broadcast, sit to the left of the goal Bentley defends twice - unless they moved it since my visit)
 
+<div id="merch" />
+
 ### MERCH
 
 I was surprised to learn that not only was there merch at this game, but a pretty decent selection of it as well!

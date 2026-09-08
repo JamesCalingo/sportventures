@@ -42,6 +42,8 @@ My original plan was to stop here briefly to check out the "team store" before h
 
 When I got to Wareham, I found out why the game was moved: an intense thunderstorm had knocked out power to the field the day before, and initial indications were that the power would be back between 6 and 7 (thus the pushback). However, that ended up NOT being the case, so the game started at 7 with no lights, but with a contingency plan should the power not return in time. Fortunately, those plans ended up being unnecessary, as the lights came on during the third inning. UNfortunately, the Gatemen ended up giving up a 1-0 lead in the sixth and went on to lose 5-2 (I left during this sixth inning with Bourne having loaded the bases with no outs in a then tied game).
 
+<div id="merch" />
+
 ### MERCH
 
 Like a lot of other teams in the Cape League (seven before 2025, six this year), the Gatemen merchandise “store” is basically in/next to the press box. There’s also a small concession stand here that mainly serves drinks and light snacks, but the main concession stand at Wareham is behind the left field foul pole/home bullpen.

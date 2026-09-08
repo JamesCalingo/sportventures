@@ -54,6 +54,8 @@ Unfortunately, my prior commitment meant that I had to leave the game at halftim
 
 Finally, for WHOLLY inexplicable reasons, the boards featured ads for the Dallas Vigilantes - a team from the original AFL that only existed for two seasons and folded in 2011 - FIFTEEN years ago.
 
+<div id="merch" />
+
 ### MERCH
 
 There was a t-shirt toss that I was on the wrong side of the arena for...and that was it. However, I should also note that there was also popcorn for sale from a group that also sells their popcorn at [Rutgers](2025-11-25_rubasketball_womens) [Basketball](2025-12-21_rubasketball2).

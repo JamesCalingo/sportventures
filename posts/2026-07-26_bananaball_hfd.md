@@ -47,6 +47,8 @@ I’ve already been to [Dunkin’ Park](2026-06-29_hfdyardgoats) and talked abou
 
 Another reason I wanted to see Indianapolis Clowns "live":
 
+<div id="merch" />
+
 ### MERCH
 
 _(Yes, I am once again doing this "early" for narrative flow purposes)_

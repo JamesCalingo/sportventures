@@ -51,6 +51,8 @@ This game was a pitcher's duel for a while, but once the visiting Asheville Tour
 
 Finally, I should note that this Saturday night game was NEVER originally my intention. I wanted to do a Sunday afternoon game, but then things got complicated around the date I had in mind (read: threat of rain), and not wanting to wait for Memorial Day Weekend (where I have other things I'd like to do), I picked this date - partially because...
 
+<div id="merch" />
+
 ### MERCH
 
 The team has Saturday as its giveaway day (as in they give away things every Saturday) - and this game featured something I was actually fairly interested in: a Blue Rocks soccer style jersey! It's actually quite nice if I do say so myself.

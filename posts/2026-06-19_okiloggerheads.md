@@ -43,6 +43,8 @@ My original thought was to go after the [Myrtle Beach Pelicans](2026-06-15_mbpel
 
 One other note: the Loggerheads have this thing called "Boco Ball" that they debuted this year, and I ALMOST went to see it, but ultimately decided it wasn't worth it (partially as I would have not have been able to visit the [Ghost Crabs](2026-06-23_cfghostcrabs) - who, coincidentally, won _THIS_ particular game[^2] - had I gone). Boco Ball is a "variant" of baseball which has a strict 2-hour time limit and has an unusual rule for a foul ball on a full count, but outside of that it didn't seem all that different from regular baseball - though it DOES feature a "revived" version of the Brunswick Surfin Turfs in the "Glowmojis/Party Animals" role.
 
+<div id="merch" />
+
 ### MERCH
 
 When I checked the team's Instagram, they mentioned that player hats - i.e. the thing I am looking for MOST when I visit these summer league teams - were available online at one point (as they're usually a popular and hard-to-get item from summer league teams[^3]). Unfortunately, I was two months late for preorders...

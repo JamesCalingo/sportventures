@@ -62,6 +62,8 @@ If you're thinking of coming here, be forewarned that street parking is at a pre
 
 Also, I'm somewhat saddened to report that concessions are NOT cheap; if you’re worried about the combination of concession prices and concession quality (which, IMO, you should be), there are quite a few food options outside the arena you can go to pre or post game. For example, you can visit Massachusetts’ oldest Raising Cane’s a mere block away from the arena - but be aware that there may be a line out the door after games...
 
+<div id="merch" />
+
 ### MERCH
 
 Merch (not just for BU, but for the other events I went to[^2]) is typically on a “wider” part of the concourse at Agganis near one of the concourse’s landings from the lobby (mainly because the lobby is quite small, which I assume is partly due to the arena’s location on a major street in Boston). However, the BU Bookstore is just across the street (though getting there is a bit more intricate than you'd likely expect since that street is Commonwealth Avenue) and usually has a lot of hockey stuff as hockey is BU’s main sport (though it used to be a few Green Line stops away at the same station for Fenway Park). I’ve bought hockey jerseys from here plus a few other things such as a wooden zamboni, but I should also mention that I got a special "100 Years of BU Hockey" hat during the game.

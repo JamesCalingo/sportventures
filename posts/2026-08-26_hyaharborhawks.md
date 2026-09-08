@@ -29,6 +29,8 @@ I’ll be honest: I haven’t explored around this stadium as much as most of th
 
 Parking here is kinda crazy: there’s a few VERY SMALL lots near the stadium, but you’re only a few blocks from downtown Hyannis if you can find any parking there (though given Hyannis’ status as the “capital of Cape Cod”, that parking can be hard to come by and I don’t know the payment rules).
 
+<div id="merch" />
+
 ### MERCH
 
 As I mentioned earlier, concessions and merchandise are sold next to each other on the first floor of the press box; based on what I remember, the Harbor Hawks are the only team on Cape Cod with this setup (with the closet second being [Wareham](2025-08-20_wargatemen) having a small concession stand in their press box; their main concessions are in the outfield).

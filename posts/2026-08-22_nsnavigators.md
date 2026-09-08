@@ -29,6 +29,8 @@ Fraser Field has quite a history to it: It’s hosted a number of minor league a
 
 Not only did I come here for several Navigators games, but the team hosted the NECBL's All-Star Game in 2023. However, I was only able to see a few innings of the ACTUAL game, as I had to be somewhere in the evening - but I did end up snagging several foul balls from the Home Run Derby.
 
+<div id="merch" />
+
 ### MERCH
 
 Merch here was somewhat surprisingly limited, though that may be due to the fact that it was sold from a rather small booth at the top of the grandstand. Mind you, however, that they still had player hats available, which was more or less all I was looking for (heck, I remember hearing one time that the ONLY had the size I typically get somehow). I also have to mention the concession stand - it's in a seperate building behind the main stadium structure itself, but it had one of the better pizzas I've had at a New England summer ball stadium IMO (I forget where they got it however).

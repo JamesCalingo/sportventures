@@ -55,6 +55,8 @@ In all honestly, the main arena is surprisingly "nice" for a community rink (esp
 
 I said that the Wolves were the "operational home team" for this game (which, FWIW, may or may not be the FPHL doing a "market test"); this is important for on-ice purposes that I'm not completely clear on (I know it involves the "last change" after stoppages, but I don't exactly know how that works). However...they didn't FEEL like the home team: there were FAR more Danbury fans than Watertown fans (I think there was exactly ONE Wolves jersey in the crowd), I BELIEVE most operations were handled by the Hat Tricks, the Hat Tricks spent 40 minutes skating circles around the Wolves en route to a 3-1 win, and...
 
+<div id="merch" />
+
 ### MERCH
 
 At this game, the Hat Tricks (who, let me remind you, are technically the "away" team) had a merch table rinkside which included "game worn" jerseys - and I use quotes there because some of the jerseys were probably NOT used in games as they were made for guys who I don't think ever played in a game (a few still had the manufacturer's retail tag). I didn't ask whose idea it was to bring the FPHL to New Jersey, but methinks Danbury was more involved with the planning of this game more than the supposed "home" team...
