@@ -45,12 +45,4 @@ One thing I found interesting about Sanford: while most teams in the NECBL and F
 
 ---
 
-### ON DECK
-
-**I'M ON A BOAT** - to get to the final team I visited back in 2023.
-
-Coincidentally, they're the other team that sold both fitted and flexfit hats!
-
----
-
 [^1]: Who, it should be noted, lost to Sanford in the 2026 NECBL Championship series.

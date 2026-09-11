@@ -36,26 +36,26 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 9. [North Shore Navigators (New England League)](2026-08-22_nsnavigators)
 10. [Mystic Schooners (New England League)](2026-08-19_doddstadium#mystic)[^3]
 11. [Brewster Whitecaps (Cape League)](2026-08-23_brewhitecaps)
-12. [Harwich Mariners (Cape League)](2026-08-25_harmariners) 
-13. [Hyannis Harbor Hawks (Cape League)](2026-08-26_hyaharborhawks) 
-14. [Falmouth Commodores (Cape League)](2026-08-27_falcommodores) 
-15. [Valley Blue Sox (New England League)](2026-08-28_valbluesox) 
+12. [Harwich Mariners (Cape League)](2026-08-25_harmariners)
+13. [Hyannis Harbor Hawks (Cape League)](2026-08-26_hyaharborhawks)
+14. [Falmouth Commodores (Cape League)](2026-08-27_falcommodores)
+15. [Valley Blue Sox (New England League)](2026-08-28_valbluesox)
 16. _COMING LATER (I'll explain in due time)_
-17. [Yarmouth-Dennis Red Sox (Cape League)](2026-08-29_ydredsox) 
-18. [Orleans Firebirds (Cape League)](2026-08-30_orlfirebirds) 
-19. [Bourne Braves (Cape League)](2026-08-31_boubraves) 
+17. [Yarmouth-Dennis Red Sox (Cape League)](2026-08-29_ydredsox)
+18. [Orleans Firebirds (Cape League)](2026-08-30_orlfirebirds)
+19. [Bourne Braves (Cape League)](2026-08-31_boubraves)
 20. [Wareham Gatemen (Cape League)](2025-08-20_wargatemen)
-21. [Cotuit Kettleers (Cape League)](2026-09-01_cotkettleers) 
+21. [Cotuit Kettleers (Cape League)](2026-09-01_cotkettleers)
 22. [Chatham Anglers (Cape League)](2025-08-17_chaanglers)
-23. [North Adams SteepleCats (New England League)](2026-09-02_nasteeplecats) 
-24. [Keene Swamp Bats (New England League)](2026-09-03_keeswampbats) 
-25. [Vermont Lake Monsters (Futures League)](2026-09-05_vtlakemonsters) 
-26. [Vermont Mountaineers (New England League)](2026-09-07_vtmountaineers) 
-27. [Upper Valley Nighthawks (New England League)](2026-09-09_uvnighthawks) 
+23. [North Adams SteepleCats (New England League)](2026-09-02_nasteeplecats)
+24. [Keene Swamp Bats (New England League)](2026-09-03_keeswampbats)
+25. [Vermont Lake Monsters (Futures League)](2026-09-05_vtlakemonsters)
+26. [Vermont Mountaineers (New England League)](2026-09-07_vtmountaineers)
+27. [Upper Valley Nighthawks (New England League)](2026-09-09_uvnighthawks)
 28. [Danbury Westerners (New England League)](2026-07-24_dbywesterners)
 29. [Bristol Blues (New England League)](2026-06-30_briblues)
-30. [Sanford Mainers (New England League)](2026-09-10_sfdmainers) **\*\*NEWEST\*\***
-31. COMING SOON
+30. [Sanford Mainers (New England League)](2026-09-10_sfdmainers)
+31. [Martha's Vineyard Sharks (New England League)](2026-09-11_mvsharks) **\*\*NEWEST\*\***
 
 A few final notes:
 
