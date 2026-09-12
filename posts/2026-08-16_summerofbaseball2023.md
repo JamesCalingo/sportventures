@@ -40,7 +40,7 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 13. [Hyannis Harbor Hawks (Cape League)](2026-08-26_hyaharborhawks)
 14. [Falmouth Commodores (Cape League)](2026-08-27_falcommodores)
 15. [Valley Blue Sox (New England League)](2026-08-28_valbluesox)
-16. _COMING LATER (I'll explain in due time)_
+16. _[Pittsfield Suns (Futures League)](2026-09-12_pfdsuns)_ **\*\*NEWEST\*\***
 17. [Yarmouth-Dennis Red Sox (Cape League)](2026-08-29_ydredsox)
 18. [Orleans Firebirds (Cape League)](2026-08-30_orlfirebirds)
 19. [Bourne Braves (Cape League)](2026-08-31_boubraves)
@@ -55,7 +55,7 @@ I'm going to be posting these in the order I visited them that summer (i.e. 2023
 28. [Danbury Westerners (New England League)](2026-07-24_dbywesterners)
 29. [Bristol Blues (New England League)](2026-06-30_briblues)
 30. [Sanford Mainers (New England League)](2026-09-10_sfdmainers)
-31. [Martha's Vineyard Sharks (New England League)](2026-09-11_mvsharks) **\*\*NEWEST\*\***
+31. [Martha's Vineyard Sharks (New England League)](2026-09-11_mvsharks) 
 
 A few final notes:
 
