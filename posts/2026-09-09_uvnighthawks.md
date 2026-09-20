@@ -16,10 +16,10 @@ tags:
     "Outdoor Sports",
     "Catch-Up",
   ]
-badge: 
+badge:
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 27](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 27](summerofbaseball2023)
 
 The Upper Valley Nighthawks were founded in 2015 in the White River Junction area of Vermont (near the intersection of the two major interstate highways that travel through the state). The family who established the team (and it seemed like they were still in control when I visited) were involved with the then-[Laconia Muskrats](2026-04-11_wpsmuskrats), but I guess they moved from the Lakes and decided to set up operations in White River Junction.
 
@@ -35,7 +35,7 @@ On Monday, I saw that the team was scheduled to play a doubleheader - neat! I ca
 
 After that mild disappointment, I decided to give it another go on Wednesday - my weather models that I use to check conditions seemed to indicate that things should be fine. Unfortunately, things were very much NOT fine, and the game was postponed to I don't know or remember when because it's honestly not important.
 
-Finally, on Friday, things worked out and I ended up going to a game, getting the stuff done that I wanted to do before heading back to Massachusetts (where I lived at the time). Unfortunately for the team, they end up getting walloped by the worst team in the league that year ([North Adams](2026-09-02_nasteeplecats))... 
+Finally, on Friday, things worked out and I ended up going to a game, getting the stuff done that I wanted to do before heading back to Massachusetts (where I lived at the time). Unfortunately for the team, they end up getting walloped by the worst team in the league that year ([North Adams](2026-09-02_nasteeplecats))...
 
 <div id="merch" />
 

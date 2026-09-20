@@ -19,7 +19,7 @@ tags:
 badge: 
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 4](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 4](summerofbaseball2023)
 
 The Worcester Bravehearts are an interesting story. They came into the city of Worcester in 2014 and were the talk of the town baseball wise for a while - winning five league championships and attracting rather large crowds. However, in 2021...the WooSox moved in. There was concern that the arrival of affiliated Minor League Baseball would, in effect, kill the Bravehearts (a longer season, more seats, and a downtown location being major factors).
 

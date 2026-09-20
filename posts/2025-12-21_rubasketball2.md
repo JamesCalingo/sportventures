@@ -26,7 +26,11 @@ related:
       link: "2025-11-25_rubasketball_womens",
     },
     { title: "Rutgers Basketball 2", link: "2025-12-21_rubasketball2" },
-    { title: "Rutgers Baseball and Softball", link: "2026-03-29_rutgers_batandball" },
+    {
+      title: "Rutgers Baseball and Softball",
+      link: "2026-03-29_rutgers_batandball",
+    },
+    { title: "Rutgers Football", link: 2026-09-04_rutgersfootball },
   ]
 ---
 

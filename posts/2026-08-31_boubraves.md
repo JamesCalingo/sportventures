@@ -16,10 +16,10 @@ tags:
     "Outdoor Sports",
     "Catch-Up",
   ]
-badge: 
+badge:
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 19](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 19](summerofbaseball2023)
 
 _\*For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
 

@@ -19,7 +19,7 @@ tags:
 badge:
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 26](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 26](summerofbaseball2023)
 
 I could dive into the history of the Vermont Mountaineers, but <a href="https://www.youtube.com/watch?v=C_61ce44Jw8" target="blank">someone did it better</a>. Not much has changed since this song came out (though the team made the NECBL finals in 2022), which I personally think is kinda damning[^1]...
 

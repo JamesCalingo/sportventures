@@ -16,10 +16,10 @@ tags:
     "Outdoor Sports",
     "Catch-Up",
   ]
-badge: 
+badge:
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 25](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 25](summerofbaseball2023)
 
 As the final former Minor League team in this series (at least until I get to visit the Lowell Spinners), the Vermont Lake Monsters obviously have a lot of history. They were founded in 1994 as the Vermont Expos (and were affiliated with the Montreal Expos), changed their name to the Lake Monsters in 2006 (two years after the Expos moved to Washington), and then became a Futures League member in 2021 after getting kicked out of Minor League Baseball by the realignment (along with Norwich - Lowell didn't join the league until 2026). They've been in the playoffs every year since joining the Futures League and have been in the championship series four times, but only have one title in that span which they won in 2021 (plus a championship from the NYPL era).
 
