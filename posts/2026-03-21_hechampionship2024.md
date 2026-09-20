@@ -17,7 +17,6 @@ tags:
     "Boston College",
     "Boston University",
     "Indoor Sports",
-    
     "Catch-Up",
   ]
 background: "/images/2026/2024championship.jpg"
