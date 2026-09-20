@@ -19,7 +19,7 @@ tags:
 badge: 
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 2](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 2](summerofbaseball2023)
 
 I realize I've never spoken about _why_ the Futures League exists when the NECBL is a thing, but a big part of its existence is two groups trying to set up NECBL clubs but being denied (the Futures League started up in 2011). While the Futures League is, more or less, a "standard" summer baseball league, many of its teams play in stadiums much more "built" than NECBL teams as many Futures League stadiums are former minor and independent league stadiums, but there are some exceptions to that - including today's team.
 

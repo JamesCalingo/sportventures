@@ -35,6 +35,7 @@ related:
       title: "Rutgers Baseball and Softball",
       link: "2026-03-29_rutgers_batandball",
     },
+    { title: "Rutgers Football", link: 2026-09-04_rutgersfootball },
   ]
 ---
 

@@ -19,7 +19,7 @@ tags:
 badge: 
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 15](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 15](summerofbaseball2023)
 
 The team now known as the Valley Blue Sox was founded in 2001 and originally based in Concord, NH. At first, the team was doing fairly well, but things began to change once the [New Hampshire Fisher Cats](2026-04-06_nhfishercats) arrived a few miles south of Concord in 2004. After a 2007 sale, the new owners decided to move the team to Holyoke, MA due to rising costs and "low attendance"[^1] (as well as the departure of the now-[North Shore Navigators](2026-08-22_nsnavigators)).
 

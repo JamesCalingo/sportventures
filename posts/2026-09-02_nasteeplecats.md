@@ -19,7 +19,7 @@ tags:
 badge: 
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 23](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 23](summerofbaseball2023)
 
 North Adams is, in some ways, a "quintessential New England town" given its location in the Berkshires, but it is SO FREAKIN' FAR from Boston that I had never heard about it until I was much older (despite it having a rather famous art museum)[^1]. However, to my surprise, the SteepleCats are quite old (and pretty "unsuccessful") by NECBL standards: founded in 2002, they have yet to even make the NECBL's championship series, but what they do have: one of the best views in all of New England Summer Ball.
 

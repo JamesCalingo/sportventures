@@ -19,7 +19,7 @@ tags:
 badge: 
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 9](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 9](summerofbaseball2023)
 
 Lynn, MA: A city with...quite a reputation (which I did not know about for a LONG time). A famous poem has been “written” about Lynn, naming it “the city of (moral blunder)” and that "you never come out the way you went in" (or something like that). It's been QUITE a bit since I've been back, but in case it hasn't been made clear yet, Lynn is one of Boston's most notorious northern suburbs (I WANT to say similar to how [Brockton](2025-08-22_brorox) is viewed among the city's southern suburbs, but I don't quite know how accurate that is).
 

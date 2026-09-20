@@ -16,10 +16,10 @@ tags:
     "Outdoor Sports",
     "Catch-Up",
   ]
-badge: 
+badge:
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 30](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 30](summerofbaseball2023)
 
 You’ll probably never guess how the Sanford Mainers got their name, but they were founded in 2002. They’ve won three league championships (with the third being this past year), and while their average attendance seems a bit low, part of that is due to the relative “size” of Sanford vs. other cities in the NECBL as well as their stadium, as it’s the smallest one in the league at under 1,000 seats.
 
@@ -27,7 +27,7 @@ Goodall Park was opened in 1915 (one year before the Chicago Cubs moved to Wrigl
 
 ![A view of Goodall Park from the grandstand](/images/baseball2023/sanford.jpeg)
 
-Instead of wooden (or even metal) benches, the seats here are actual individual seats (like the ones you’d find in a regular stadium), the stairwells feel “modern” enough (even as they approach 30 years old), and there’s some rather ornate details. Thanks to this rebuilt grandstand, I would say that Goodall Park is one of the more "comfortable" NECBL parks to watch a game (though the grandstand is covered with foul ball netting if you're concerned about obscured views). There's also a little statue of a baseball behind the grandstand, and while it doesn't really do much to impact the overall experience, it is still a neat touch. 
+Instead of wooden (or even metal) benches, the seats here are actual individual seats (like the ones you’d find in a regular stadium), the stairwells feel “modern” enough (even as they approach 30 years old), and there’s some rather ornate details. Thanks to this rebuilt grandstand, I would say that Goodall Park is one of the more "comfortable" NECBL parks to watch a game (though the grandstand is covered with foul ball netting if you're concerned about obscured views). There's also a little statue of a baseball behind the grandstand, and while it doesn't really do much to impact the overall experience, it is still a neat touch.
 
 Somewhat similar to Bristol, there’s a large concourse outside the grandstand, but it’s a bit different in layout and the fact that it’s basically a small lot instead of a sidewalk and almost exclusively down the right field line. Lines for parking spots can be seen in this area, but it's off limits to vehicles during games (plus parking right next to a foul line during a baseball game is just asking for trouble in SO MANY ways...)
 

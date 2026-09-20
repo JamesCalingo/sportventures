@@ -20,7 +20,7 @@ badge: "badges/newtoblog.png"
 related: ""
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 20](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 20](summerofbaseball2023)
 
 _\*For more on the Cape Cod Baseball League, I wrote about it [here](ccbl_overview), and I personally recommend you check it out._
 

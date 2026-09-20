@@ -23,7 +23,7 @@ tags:
 badge: "badges/firstvisit.png"
 related:
   [
-    { title: "Princeton Soccer", link: "2025-10-19_princetonsoccer_mens" },
+    { title: "Princeton Men's Soccer", link: "2025-10-19_princetonsoccer_mens" },
     { title: "Princeton Football", link: "2025-11-15_princetonfootball" },
     { title: "Princeton Hockey", link: "2025-11-16_princetonhockey" },
     { title: "Princeton Basketball", link: "2025-12-11_princetonbasketball" },

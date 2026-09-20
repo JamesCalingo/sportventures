@@ -17,7 +17,7 @@ tags:
     "Outdoor Sports",
     "Catch-Up",
   ]
-badge: 
+badge:
 ---
 
 If you've been following this blog for at least the last month or so, you may recall this nugget from a post about the [New Britain Bees](2026-07-27_nbbees):
@@ -28,7 +28,7 @@ Well, that "later" is now, as post will get into both teams and the connection t
 
 ![An image of Dodd Stadium](/images/baseball2023/norwich.jpeg)
 
-Dodd Stadium was opened in 1994, and was originally built for a Double-A team that debuted that same year (the Norwich Navigators, who became the Connecticut Defenders in the 2000s). However, after years of struggling with attendances, the team eventually moved to Richmond, VA (which had a AAA team until 2008), where they are now one of the highest draws in Double-A (and just got a new stadium - one of the reasons why the AAA team left). Another affiliated team moved in a few years after the original team left, but we’ll get to them in a little bit. As a former Minor League stadium, it’s probably a bit "average” for the Futures League (though personally I kinda prefer New Britain), but was easily the highest quality stadium in the NECBL during its time (which really isn’t saying a lot). 
+Dodd Stadium was opened in 1994, and was originally built for a Double-A team that debuted that same year (the Norwich Navigators, who became the Connecticut Defenders in the 2000s). However, after years of struggling with attendances, the team eventually moved to Richmond, VA (which had a AAA team until 2008), where they are now one of the highest draws in Double-A (and just got a new stadium - one of the reasons why the AAA team left). Another affiliated team moved in a few years after the original team left, but we’ll get to them in a little bit. As a former Minor League stadium, it’s probably a bit "average” for the Futures League (though personally I kinda prefer New Britain), but was easily the highest quality stadium in the NECBL during its time (which really isn’t saying a lot).
 
 The stadium concourse here is at the top of the seating bowl, so there are views of the field from most of it save for right behind home plate where the press box is. Outside of that, it’s been too long since my last visit, so I can’t really recall much about the place - though in some ways, it felt kinda generic (as in VERY similar to stadiums like those of the [Somerset Patriots](2026-04-17_sompatriots), [Wilmington Blue Rocks](2026-05-03_wilbluerocks), and [New York Boulders](2026-05-08_rocboulders)). The games I came to here didn’t really feature large crowds either, so the atmosphere was pretty muted (moreso for the NECBL team, who often drew under 100 fans at Dodd).
 
@@ -40,13 +40,13 @@ One small note before continuing: in something that can only be described as "in
 
 ## Norwich Sea Unicorns (Futures League)
 
-### [SUMMER OF BASEBALL 2023: STOP 6](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 6](summerofbaseball2023)
 
 The Norwich Sea Unicorns were founded in 2010 as an affiliated Minor League Baseball team in the New York-Penn League until it was eliminated in 2020, when they joined the Futures League (they were originally the Connecticut Tigers, but rebranded just in time for the pandemic to cancel what was supposed to be their last season as an affiliate). Since joining the Futures League, they’ve become a dynasty - having won the league title three times in a row from 2023-2025 (which represent three of the six years they’ve been in the league), but their in-state rival (aka the Bees) ended that run this year by beating them in the league semifinals.
 
-I mentioned the potential sale of Dodd Stadium in the intro, and the reason I know about said sale was because the Futures League was worried that a sale of Dodd  would almost certainly endanger the future of the Sea Unicorns (and potentially the league itself if I'm being honest), but I don’t remember if this situation got resolved (or how). I've also heard rumors of one of the independent baseball leagues taking interest in moving in, however, so there's also that to think about (though this may have just been a WILD rumor).
+I mentioned the potential sale of Dodd Stadium in the intro, and the reason I know about said sale was because the Futures League was worried that a sale of Dodd would almost certainly endanger the future of the Sea Unicorns (and potentially the league itself if I'm being honest), but I don’t remember if this situation got resolved (or how). I've also heard rumors of one of the independent baseball leagues taking interest in moving in, however, so there's also that to think about (though this may have just been a WILD rumor).
 
-While I don't remember that much about the 2022 game outside of it being the night before a weeklong vacation in the Carolinas (the same one where I saw the [Wilmington Sharks](2026-06-22_ilmsharks)[^1] for the first time), the 2023 game was actually one of the fastest baseball games I’ve ever been to, as it hit the halfway point (mid-fifth) in exactly one hour, and then finished in just over two hours (no pitch clock BTW). 
+While I don't remember that much about the 2022 game outside of it being the night before a weeklong vacation in the Carolinas (the same one where I saw the [Wilmington Sharks](2026-06-22_ilmsharks)[^1] for the first time), the 2023 game was actually one of the fastest baseball games I’ve ever been to, as it hit the halfway point (mid-fifth) in exactly one hour, and then finished in just over two hours (no pitch clock BTW).
 
 <div id="merch" />
 
@@ -60,7 +60,7 @@ Sadly, it seems the team has decided to shut down online merchandise sales, as t
 
 ## Mystic Schooners (New England Collegiate Baseball League)
 
-### [SUMMER OF BASEBALL 2023: STOP 10](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 10](summerofbaseball2023)
 
 The Mystic Schooners are the longest continuous operation in the NECBL. They trace their history all the way back to the league’s first season in 1994 - though they’ve moved around quite a bit: originally from Willimantic, CT (east of Hartford and just south of UConn), the team moved to Pittsfield in the 2000s and then spent a year in [Bristol](2026-06-30_briblues) before landing in Mystic in 2011. They did win a championship in the NECBL’s first season, but have only won one other title since then (2016).
 
@@ -76,6 +76,6 @@ Also worth noting: the Sea Unicorns charged for parking both times I went (one o
 
 ---
 
-[^1]: Speaking of the Sharks, I've had to update their post, as they won the Coastal Plain League this year. 
+[^1]: Speaking of the Sharks, I've had to update their post, as they won the Coastal Plain League this year.
 
 [^2]: Several MiLB teams that were cut completely (i.e. not in the Appalachian or Draft leagues) in the 2020 realignment kept their MiLB store pages after the cut, but as of August 2026, the MiLB store page only links to affiliated teams. Keep this in mind, however, as there is one other team in this series which is affected by this...

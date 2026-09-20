@@ -19,7 +19,7 @@ tags:
 badge:
 ---
 
-### [SUMMER OF BASEBALL 2023: STOP 24](2026-08-16_summerofbaseball2023)
+### [SUMMER OF BASEBALL 2023: STOP 24](summerofbaseball2023)
 
 The Keene Swamp Bats are one of the NECBL's more successful teams. They were founded in 1997, have only missed the league's playoffs seven times (though most of those were in the past few years), and have won six league titles (which is second in the NECBL only to [Newport](2026-08-20_nptgulls)). They're also rather successful in the stands: despite (or because) Keene is kinda isolated from the "big cities" of New England, they draw in a lot of local support (though the team's leadership also seems to put a lot of work into promoting the team), and have been consistently third in the NECBL in attendance the past few years (the top two being [Newport](2026-08-20_nptgulls) and Martha's Vineyard).
 
