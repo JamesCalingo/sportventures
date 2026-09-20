@@ -1,6 +1,6 @@
 ---
 display: "King of the Sticks"
-title: "Premier Lacrosse League Championship: Denver Outlaws vs. Philadelphia Waterdogs @ Sports Illustrated Stadium (Harrison, NJ)"
+title: "Premier Lacrosse League Championship Game: Denver Outlaws vs. Philadelphia Waterdogs @ Sports Illustrated Stadium (Harrison, NJ)"
 subtitle: "America's professional Field Lacrosse league crowns its 2026 champion"
 date: 20 September 2026
 publishDate: 21 September 2026
@@ -49,7 +49,7 @@ This trip was NOT my intended time/place to see the PLL: I originally had plans 
 
 As this is the FIFTH time I'm visiting Sports Illustrated Stadium in the past year or so, I won't be talking about it much - use the links in the "sidebar" to read more about my other visits. However, I wasn't sure if there were plans to have a "plaza" outside the stadium (like the other games I've been to here), but I would not be surprised if the league had to move things due to the weather; there were plenty of related things in the "bowels" of the stadium (i.e. between the stadium gates and the stairs to the main concourse), including various activities and vendors (it's all under the main concourse, so it's all covered).
 
-One side note about field lacrosse: in hockey and soccer, I find that one of the more interesting things about watching them live versus on television is seeing the goaltender idle around while their team is attacking on the other side of the rink/field. I don't know how it's exactly worded, but in essence, field lacrosse rules require both teams to have at least three players on either side of the midfield line at ALL TIMES. Personally, I kinda enjoy watching the guys who have nothing to do while all the action occurs on the other half of the field, because it's something you don't get to see on television.
+One side note about field lacrosse: in hockey and soccer, I find that one of the more interesting things about watching them live versus on television is seeing the goaltender idle around while their team is attacking on the other side of the rink/field. I don't know how it's exactly worded, but in essence, field lacrosse rules require both teams to have at least three players on either side of the midfield line at ALL TIMES. Personally, I kinda enjoy watching the guys who have nothing to do while all the action occurs on the other half of the field, because it's something you don't get to see on television. Also, as lacrosse has deep Native American roots, this game featured a land acknowledgement (i.e. a statement about the natives who lived in America prior to its colonization in the 1600s) prior to the national anthem - something I've only seen done for Australian sports.
 
 ![An image of players on a lacrosse field](/images/2026/0920-backline.jpeg)
 
