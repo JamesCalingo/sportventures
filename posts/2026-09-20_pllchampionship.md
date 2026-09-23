@@ -87,10 +87,6 @@ Congratulations to your 2026 Premier Lacrosse League champions:
 
 As a final note: I was actually supposed to be doing something else COMPLETELY different this weekend, but there are reasons I had to "pivot" to this. In related news: don't be surprised to see me report on another champeenship soon...
 
-### ON DECK
-
-Another sport I REALLY like - whose top league I've yet to discuss somehow...
-
 ---
 
 [^1]: In case anyone was wondering: Fairfield IS part of the New York City media market, but the New York team had its homecoming weekend at Hofstra University on Long Island - after having it in Albany in the two prior seasons.
