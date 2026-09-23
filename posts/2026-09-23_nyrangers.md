@@ -52,6 +52,8 @@ Anyway, I realize I haven't actually discussed the team at hand, but I also don'
 
 Despite this being a preseason game, I felt like the crowd/atmosphere was quite lively, and there were quite a few chippy moments including an honest-to-god fight - likely because the Rangers were playing against the OTHER New York team in the Islanders. The Rangers have had a few down years recently (though this doesn't seem to have a major effect on the secondary market FWIW[^5]), but took a 3-0 lead about midway through the game...and then lost in regulation (though again, preseason...).
 
+Also, if you're not a fan of going to hockey games because of how loud goal horns are, I believe that MSG is one of two NHL arenas that lacks a real goal horn (the other being [TD Garden](2026-03-21_hechampionship2024)); they use a recording of a horn which is honestly a bit hard to hear in the arena.
+
 <div id="merch" />
 
 ### MERCH
@@ -70,7 +72,7 @@ Having said all of this, I will admit that like other major sports leagues, most
 
 Anyway, as you'd expect for a major arena, there are several merchandise areas dotted around the concourses of MSG; I counted two "stores" (both on the main concourse) and three "booths" around the arena - not including what I consider to be the "main" store. What I find interesting about the main store - i.e. the one that is open outside of events - is that it's fully inside the arena's "secure" area, so if you're trying to visit it during non-event times (which I've done in the past), you still have to go through security. Similar to TD Garden, however, is the fact that it's outside the "paid" area, so I'm pretty sure you can't visit it after you've scanned your ticket.
 
-(Finally, I feel like I should mention Gerry Cosby - a old local sports shop across the street - here; I got a few things from them back in the day, but they seem to have closed/retired.)
+(Finally, I feel like I should mention Gerry Cosby - a old local sports shop which used to be across the street from MSG. I got a few things from them back in the day, but based on things I saw when I looked them up, they've moved to...western Massachusetts.)
 
 ---
 
