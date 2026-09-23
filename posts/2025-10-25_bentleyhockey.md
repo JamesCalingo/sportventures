@@ -14,7 +14,6 @@ tags:
     "Bentley University",
     "Boston",
     "Massachusetts",
-    
     "Catch-Up",
     "Indoor Sports",
     "First Visit",
