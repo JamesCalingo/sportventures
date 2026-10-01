@@ -14,7 +14,7 @@ tags:
     "Princeton University",
     "New Jersey",
     "Ivy League",
-    "College",
+    "College Sports",
     "College Football",
     "Outdoor Sports",
     "First Visit",

@@ -14,7 +14,7 @@ tags:
     "Boston",
     "Massachusetts",
     "UMass Lowell",
-    "College",
+    "College Sports",
     "College Hockey",
     "Hockey East",
     "Major Leagues",

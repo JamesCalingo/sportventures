@@ -9,7 +9,7 @@ tags:
   [
     "Hockey",
     "College Hockey",
-    "College",
+    "College Sports",
     "Hockey East",
     "UMass Amherst",
     "Massachusetts",

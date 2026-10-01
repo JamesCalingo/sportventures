@@ -10,7 +10,7 @@ tags:
   [
     "Baseball",
     "Softball",
-    "College",
+    "College Sports",
     "College Baseball",
     "College Softball",
     "Rutgers University",

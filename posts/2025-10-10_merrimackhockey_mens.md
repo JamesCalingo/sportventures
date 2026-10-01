@@ -9,7 +9,7 @@ tags:
   [
     "Hockey",
     "College Hockey",
-    "College",
+    "College Sports",
     "Merrimack College",
     "Hockey East",
     "Massachusetts",

@@ -14,7 +14,7 @@ tags:
     "Rutgers University",
     "New Jersey",
     "Big Ten",
-    "College",
+    "College Sports",
     "College Football",
     "Outdoor Sports",
     "Repeat Visit",

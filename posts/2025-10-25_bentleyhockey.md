@@ -9,7 +9,7 @@ tags:
   [
     "Hockey",
     "College Hockey",
-    "College",
+    "College Sports",
     "Atlantic Hockey America",
     "Bentley University",
     "Boston",

@@ -10,7 +10,7 @@ tags:
   [
     "Football",
     "Soccer",
-    "College",
+    "College Sports",
     "College Soccer",
     "Princeton University",
     "Ivy League",

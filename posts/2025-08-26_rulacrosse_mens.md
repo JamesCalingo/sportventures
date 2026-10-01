@@ -10,7 +10,7 @@ tags:
   [
     "Lacrosse",
     "Field Lacrosse",
-    "College",
+    "College Sports",
     "Other College Sports",
     "Rutgers University",
     "New Jersey",
