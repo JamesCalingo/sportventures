@@ -9,7 +9,7 @@ pinned: false
 tags:
   [
     "Basketball",
-    "College",
+    "College Sports",
     "College Basketball",
     "Big Ten",
     "Rutgers University",

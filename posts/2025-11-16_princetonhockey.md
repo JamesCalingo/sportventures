@@ -8,7 +8,7 @@ pinned: false
 tags:
   [
     "Hockey",
-    "College",
+    "College Sports",
     "College Hockey",
     "Princeton University",
     "New Jersey",

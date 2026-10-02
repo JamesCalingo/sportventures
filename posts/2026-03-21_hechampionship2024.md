@@ -9,7 +9,7 @@ pinned: false
 tags:
   [
     "Hockey",
-    "College",
+    "College Sports",
     "College Hockey",
     "Boston",
     "Massachusetts",

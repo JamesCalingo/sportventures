@@ -9,7 +9,7 @@ tags:
   [
     "Hockey",
     "College Hockey",
-    "College",
+    "College Sports",
     "Harvard University",
     "Ivy League",
     "ECAC Hockey",

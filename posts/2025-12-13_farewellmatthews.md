@@ -9,7 +9,7 @@ tags:
   [
     "Hockey",
     
-    "College",
+    "College Sports",
     "Hockey East",
     "Northeastern University",
     "Boston",

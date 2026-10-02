@@ -9,7 +9,7 @@ pinned: false
 tags:
   [
     "Baseball",
-    "College",
+    "College Sports",
     "College Baseball",
     "Seton Hall",
     "New Jersey",

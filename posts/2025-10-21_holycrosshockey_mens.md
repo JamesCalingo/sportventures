@@ -9,7 +9,7 @@ tags:
   [
     "Hockey",
     "College Hockey",
-    "College",
+    "College Sports",
     "College of the Holy Cross",
     "Atlantic Hockey America",
     "Massachusetts",

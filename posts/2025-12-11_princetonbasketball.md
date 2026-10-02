@@ -9,7 +9,7 @@ pinned: false
 tags:
   [
     "Basketball",
-    "College",
+    "College Sports",
     "College Basketball",
     "Ivy League",
     "Princeton University",

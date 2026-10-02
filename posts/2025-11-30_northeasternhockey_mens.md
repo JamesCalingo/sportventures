@@ -10,7 +10,7 @@ tags:
   [
     "Hockey",
     
-    "College",
+    "College Sports",
     "College Hockey",
     "Hockey East",
     "Northeastern University",
