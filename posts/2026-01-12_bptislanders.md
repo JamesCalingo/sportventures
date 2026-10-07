@@ -2,6 +2,7 @@
 display: "Bridgeport Islanders"
 title: "Bridgeport Islanders (American Hockey League) @ Total Mortgage Arena (Bridgeport, CT)"
 subtitle: "I visit the Bridgeport Islanders for the first (and very possibly only) time"
+author: "James Calingo "
 date: 11 January 2026
 publishDate: 12 January 2026
 published: true

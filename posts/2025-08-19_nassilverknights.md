@@ -2,6 +2,7 @@
 display: "Nashua Silver Knights"
 title: "Nashua Silver Knights (Futures League) @ Holman Stadium (Nashua, NH)"
 subtitle: "A historic stadium with a high-ish profile team"
+author: "James Calingo "
 date: 4 July 2025
 publishDate: 19 August 2025
 published: true

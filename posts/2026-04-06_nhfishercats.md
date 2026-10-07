@@ -2,6 +2,7 @@
 display: "New Hampshire Fisher Cats"
 title: "New Hampshire Fisher Cats (Eastern League) @ Delta Dental Stadium (Manchester, NH)"
 subtitle: "A trip that should've happened at least four years ago"
+author: "James Calingo "
 date: 4 April 2026
 publishDate: 6 April 2026
 published: true

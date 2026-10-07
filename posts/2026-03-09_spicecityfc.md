@@ -2,6 +2,7 @@
 display: "Spice City FC"
 title: "Spice City Fútbol Club (Major Arena Soccer League 2) @ Danbury Ice Arena (Danbury, CT)"
 subtitle: "¿Listo para el fútbol caliente?"
+author: "James Calingo "
 date: 8 March 2026
 publishDate: 9 March 2026
 published: true

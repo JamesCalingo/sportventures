@@ -2,6 +2,7 @@
 display: "FC Motown STA"
 title: "FC Motown STA (USL League Two) @ Ranger Stadium (Madison, NJ)"
 subtitle: "Another visit to the local soccer club"
+author: "James Calingo "
 date: 21 May 2026
 publishDate: 22 May 2026
 published: true

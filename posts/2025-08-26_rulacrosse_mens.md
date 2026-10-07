@@ -2,6 +2,7 @@
 display: "Rutgers Lacrosse"
 title: "Rutgers Scarlet Knights Men's Lacrosse (Big Ten) @ SHI Stadium (Piscataway, NJ)"
 subtitle: 'I visit the so called "Birthplace of College Football" for a completely different sport'
+author: "James Calingo "
 date: 1 March 2025
 publishDate: 26 August 2025
 published: true

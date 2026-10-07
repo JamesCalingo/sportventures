@@ -2,6 +2,7 @@
 display: "Meet the Elite"
 title: "Morris Elite SC (USL League Two) @ Frederick Douglass Field (Newark, NJ)"
 subtitle: "Summer soccer at my alma mater"
+author: "James Calingo "
 date: 3 June 2026
 publishDate: 4 June 2026
 published: true

@@ -2,6 +2,7 @@
 display: "Federal Prospects Hockey League"
 title: "FEDERAL PROSPECTS HOCKEY LEAGUE: Danbury Hat Tricks vs. Watertown Wolves @ William G. Mennen Sports Arena (Morris Township, NJ)"
 subtitle: 'A visit to/from "Independent Hockey"'
+author: "James Calingo "
 date: 21 March 2026
 publishDate: 22 March 2026
 published: true

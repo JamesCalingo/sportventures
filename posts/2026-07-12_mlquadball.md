@@ -2,6 +2,7 @@
 display: "Major League Quadball"
 title: 'New York Titans (Major League Quadball) @ "Lyndhurst Golden Bears Sports Field" (Lyndhurst, NJ)'
 subtitle: "When fiction meets the real world"
+author: "James Calingo "
 date: 11 July 2026
 publishDate: 12 July 2026
 published: true

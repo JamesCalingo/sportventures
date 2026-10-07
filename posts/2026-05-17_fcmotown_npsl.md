@@ -2,6 +2,7 @@
 display: "FC Motown"
 title: "FC Motown (National Premier Soccer League) @ Ranger Stadium (Madison, NJ)"
 subtitle: "A visit to the local soccer club"
+author: "James Calingo "
 date: 16 May 2026
 publishDate: 17 May 2026
 published: true

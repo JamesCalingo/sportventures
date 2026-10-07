@@ -2,6 +2,7 @@
 display: "Maine Master"
 title: "Sanford Mainers (New England Collegiate Baseball League) @ Goodall Park (Sanford, ME)"
 subtitle: "All the information is in the team's name"
+author: "James Calingo "
 date: 5 July 2023
 publishDate: 10 September 2026
 published: true

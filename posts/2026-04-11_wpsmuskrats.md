@@ -2,6 +2,7 @@
 display: "The Last Day of Summer"
 title: "Winnipesaukee Muskrats (New England Collegiate Baseball League) @ Robbie Mills Field (Laconia, NH)"
 subtitle: "A story of a team lost to a cruel fate"
+author: "James Calingo "
 publishDate: 11 April 2026
 published: true
 pinned: false

@@ -2,6 +2,7 @@
 display: "The Hills are Alive..."
 title: "North Adams SteepleCats @ Joe Wolfe Field (North Adams, MA)"
 subtitle: "...with New England Baseball's most scenic stadium"
+author: "James Calingo "
 date: 18 June 2023
 publishDate: 2 September 2026
 published: true

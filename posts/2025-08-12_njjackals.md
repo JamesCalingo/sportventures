@@ -2,6 +2,7 @@
 display: "New Jersey Jackals"
 title: "New Jersey Jackals (Frontier League) @ Hinchliffe Stadium (Paterson, NJ)"
 subtitle: "A historic stadium gets a new lease on life"
+author: "James Calingo "
 date: 18 May 2025
 publishDate: 12 August 2025
 published: true

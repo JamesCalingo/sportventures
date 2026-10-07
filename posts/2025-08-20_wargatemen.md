@@ -2,6 +2,7 @@
 display: "Wareham Gatemen"
 title: "Wareham Gatemen (Cape Cod Baseball League) @ Clem Spillane Field (Wareham, MA)"
 subtitle: "Cape League baseball - off Cape Cod"
+author: "James Calingo "
 date: 4 July 2025
 publishDate: 20 August 2025
 published: true

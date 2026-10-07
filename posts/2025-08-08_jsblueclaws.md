@@ -2,6 +2,7 @@
 display: "Jersey Shore BlueClaws"
 title: "Jersey Shore BlueClaws (South Atlantic League) @ ShoreTown Ballpark (Lakewood, NJ)"
 subtitle: 'A trip down the shore BEFORE "Shore Season": good idea or bad idea?'
+author: "James Calingo "
 date: 12 April 2025
 publishDate: 8 August 2025
 published: true

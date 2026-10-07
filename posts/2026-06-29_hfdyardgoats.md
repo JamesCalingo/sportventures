@@ -2,6 +2,7 @@
 display: "The Kids in the Yard"
 title: "Hartford Yard Goats (Eastern League) @ Dunkin’ Park (Hartford, CT)"
 subtitle: 'Minor League Baseball in the "Hart" of Connecticut'
+author: "James Calingo "
 date: 28 June 2026
 publishDate: 29 June 2026
 published: true

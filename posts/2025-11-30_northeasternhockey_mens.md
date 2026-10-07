@@ -2,6 +2,7 @@
 display: "Northeastern Men's Hockey"
 title: "Northeastern Huskies Men's Hockey (Hockey East) @ Matthews Arena (Boston, MA)"
 subtitle: "A visit to a true sports landmark"
+author: "James Calingo "
 date: 29 November 2025
 publishDate: 30 November 2025
 published: true

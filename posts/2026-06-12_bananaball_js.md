@@ -2,6 +2,7 @@
 display: "Banana Beach Ball"
 title: "Loco Beach Coconuts vs. The Party Animals @ ShoreTown Ballpark (Lakewood, NJ)"
 subtitle: "Banana Ball gets a little cray cray"
+author: "James Calingo "
 date: 11 June 2026
 publishDate: 12 June 2026
 published: true
@@ -21,7 +22,7 @@ badge: "/badges/newteam.png"
 background: "images/2026/0611-locobeach.jpeg"
 related:
   [
-    { title: "Banana Ball", link: "2025-08-23_bananaball_bos" },
+    { title: "Banana Ball in Boston (2025)", link: "2025-08-23_bananaball_bos" },
     { title: "Jersey Shore BlueClaws 2025", link: "2025-08-08_jsblueclaws" },
     { title: "Jersey Shore BlueClaws 2026", link: "2026-04-08_jsblueclaws2" },
   ]

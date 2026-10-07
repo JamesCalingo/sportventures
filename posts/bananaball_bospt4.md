@@ -2,6 +2,7 @@
 display: ""
 title: "Banana Ball Conclusions"
 subtitle: "My personal thoughts on Banana Ball"
+author: "James Calingo"
 date:
 published: false
 pinned: false

@@ -2,6 +2,7 @@
 display: "Meet the...Harbor Hawks"
 title: "Hyannis Harbor Hawks (Cape Cod Baseball League) @ Judy Walden Scarafile Field at McKeon Park (Hyannis, MA)"
 subtitle: 'The Cape League''s "Capital Club"'
+author: "James Calingo "
 date: 10 June 2023
 publishDate: 26 August 2026
 published: true

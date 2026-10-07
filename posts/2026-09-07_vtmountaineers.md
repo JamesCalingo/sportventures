@@ -2,6 +2,7 @@
 display: "Green Mountaineers"
 title: "Vermont Mountaineers (New England Collegiate Baseball League) @ Montpelier Recreation Field (Montpelier, VT)"
 subtitle: "A New England summer team with A SONG"
+author: "James Calingo "
 date: 25 June 2023
 publishDate: 7 September 2026
 published: true

@@ -2,6 +2,7 @@
 display: "CHAMP IS REAL"
 title: "Vermont Lake Monsters (Futures League) @ Centennial Field (Burlington, VT)"
 subtitle: "A team I've been keen on for some time now"
+author: "James Calingo "
 date: 25 June 2023
 publishDate: 5 September 2026
 published: true

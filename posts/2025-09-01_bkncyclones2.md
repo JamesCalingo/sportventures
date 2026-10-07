@@ -2,6 +2,7 @@
 display: "Brooklyn Cyclones 2"
 title: "Brooklyn Cyclones 2: Return to Coney Island"
 subtitle: "The first (and only) repeat trip of the 2025 baseball season is also its final trip"
+author: "James Calingo "
 date: 31 August 2025
 publishDate: 1 September 2025
 published: true

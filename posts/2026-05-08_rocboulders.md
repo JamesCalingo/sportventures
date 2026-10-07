@@ -2,6 +2,7 @@
 display: "ROC/ROX and Roll"
 title: "New York Boulders (Frontier League) @ Clover Stadium (Pomona, NY)"
 subtitle: "Independent baseball in ROC Nation"
+author: "James Calingo "
 date: 7 May 2026
 publishDate: 8 May 2026
 published: true

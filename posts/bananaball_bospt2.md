@@ -2,6 +2,7 @@
 display: ""
 title: "Banana Ball Part 2"
 subtitle: 'A discussion on the hardest to get tickets in sports and the "easiest" way to get them.'
+author: "James Calingo"
 date:
 published: false
 pinned: false

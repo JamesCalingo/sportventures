@@ -2,6 +2,7 @@
 display: "Banana Ball"
 title: "Banana Ball (Savannah Bananas vs. the Firefighters) @ Fenway Park (Boston, MA)"
 subtitle: 'A very, VERY deep dive into the "Greatest Show in Sports"'
+author: "James Calingo "
 date: 6 July 2025
 publishDate: 23 August 2025
 published: true
@@ -24,10 +25,15 @@ tags:
 badge: "badges/newteam.png"
 related:
   [
-    { title: "Banana Ball in New York 1", link: "2026-04-25_bananaball_ny" },
-    { title: "Banana Ball in New York 2", link: "2026-04-27_bananaball_ny2" },
+    {
+      title: "Banana Ball in Boston (2025)",
+      link: "2025-08-23_bananaball_bos",
+    },
+    { title: "Banana Ball in New York 1 (2026)", link: "2026-04-25_bananaball_ny" },
+    { title: "Banana Ball in New York 2 (2026)", link: "2026-04-27_bananaball_ny2" },
     { title: "Loco Beach Coconuts", link: "2026-06-12_bananaball_js" },
     { title: "Indianapolis Clowns", link: "2026-07-26_bananaball_hfd" },
+    { title: "Banana Bowl (2026)", link: "2026-10-11_bananabowl2026" },
   ]
 ---
 

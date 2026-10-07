@@ -4,9 +4,9 @@ function Tag(props) {
     const { tag, index, last } = props
     return (
 
-            <li className="tag">{tag}</li>
+            <span className="tag">{tag}{index !== last && ", "}</span>
 
-        // <span className="tag"> <Link   href={"/allposts"} tag={tag}> {tag}</Link> {index !== last && "|"}</span>
+        // <span className="tag"> <Link   href={"/allposts"} tag={tag}> {tag}</Link> 
 
     )
 }

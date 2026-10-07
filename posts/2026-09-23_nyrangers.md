@@ -2,6 +2,7 @@
 display: "WHOA-OH-OH"
 title: "New York Rangers (National Hockey League) @ Madison Square Garden (New York, NY)"
 subtitle: "I FINALLY talk about the National Hockey League"
+author: "James Calingo "
 date: 22 September 2026
 publishDate: 23 September 2026
 published: true

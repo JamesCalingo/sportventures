@@ -2,6 +2,7 @@
 display: "Star Power"
 title: "Westfield Starfires (Futures League) @ Billy Bullens Field (Westfield, MA)"
 subtitle: "A modern anomaly for the Futures League"
+author: "James Calingo "
 date: 27 May 2023
 publishDate: 17 August 2026
 published: true

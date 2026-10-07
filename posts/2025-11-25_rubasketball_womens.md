@@ -2,6 +2,7 @@
 display: "Rutgers Women’s Basketball"
 title: "Rutgers Scarlet Knights Women's Basketball (Big Ten) @ Jersey Mike’s Arena (Piscataway, NJ)"
 subtitle: "Courtside at a surprisingly close game"
+author: "James Calingo "
 date: 24 November 2025
 publishDate: 25 November 2025
 published: true

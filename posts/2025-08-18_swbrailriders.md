@@ -2,6 +2,7 @@
 display: "Scranton/Wilkes-Barre RailRiders"
 title: "Scranton/Wilkes-Barre RailRiders (International League) @ PNC Field (Moosic, PA)"
 subtitle: "Old friends and new friends in Scranton/Wilkes-Barre"
+author: "James Calingo "
 date: 17 August 2025
 publishDate: 18 August 2025
 published: true

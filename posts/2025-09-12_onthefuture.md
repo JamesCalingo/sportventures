@@ -2,6 +2,7 @@
 display: "The Future of Watching"
 title: "On the Future of Watching Sports"
 subtitle: "What it means to be a fan in an increasingly fan unfriendly environment"
+author: "James Calingo "
 publishDate: 12 September 2025
 published: true
 pinned: false

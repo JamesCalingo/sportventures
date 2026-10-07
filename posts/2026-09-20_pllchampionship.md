@@ -2,6 +2,7 @@
 display: "King of the Sticks"
 title: "Premier Lacrosse League Championship Game: Denver Outlaws vs. Philadelphia Waterdogs @ Sports Illustrated Stadium (Harrison, NJ)"
 subtitle: "America's professional Field Lacrosse league crowns its 2026 champion"
+author: "James Calingo "
 date: 20 September 2026
 publishDate: 20 September 2026
 published: true
@@ -14,7 +15,7 @@ related:
     { title: "Red Bull New York", link: "2026-03-01_rbny" },
     { title: "Gotham FC", link: "2025-09-08_gothamfc" },
     { title: "Leeds United vs. Sunderland", link: "2026-07-31_leesun" },
-    { title: "PLL Championship", link: "2026-09-21_pllchampionship" },
+    { title: "PLL Championship", link: "2026-09-20_pllchampionship" },
   ]
 ---
 

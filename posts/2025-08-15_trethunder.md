@@ -2,6 +2,7 @@
 display: "Trenton Thunder"
 title: "Trenton Thunder (MLB Draft League) @ Trenton Thunder Ballpark (Trenton, NJ)"
 subtitle: 'AKA "How to recover after a truly shocking breakup"'
+author: "James Calingo "
 date: 4 June 2025
 publishDate: 15 August 2025
 published: true

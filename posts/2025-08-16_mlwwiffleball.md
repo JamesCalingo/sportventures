@@ -2,6 +2,7 @@
 display: "MLW Wiffle Ball"
 title: "MLW Wiffle Ball (Pacific Predators vs. Midwest Mallards) @ SIUH Community Park (Staten Island, NY)"
 subtitle: "A return to Staten Island to watch backyard sports gone semi-pro"
+author: "James Calingo "
 date: 28 June 2025
 publishDate: 16 August 2025
 published: true

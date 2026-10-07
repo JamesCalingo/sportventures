@@ -2,6 +2,7 @@
 display: "For the Birds"
 title: "Myrtle Beach Pelicans (Carolina League) @ Pelicans Ballpark (Myrtle Beach, SC)"
 subtitle: "I FINALLY experience Baseball at the Beach"
+author: "James Calingo "
 date: 14 June 2026
 publishDate: 15 June 2026
 published: true

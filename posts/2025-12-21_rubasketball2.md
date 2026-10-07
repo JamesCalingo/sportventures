@@ -2,6 +2,7 @@
 display: "Rutgers and the Winter Village"
 title: "Rutgers Scarlet Knights Basketball (Big Ten) @ Jersey Mike's Arena (Piscataway, NJ)"
 subtitle: "A holiday hoops spectacular"
+author: "James Calingo "
 date: 20 December 2025
 publishDate: 21 December 2025
 published: true

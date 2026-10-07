@@ -2,6 +2,7 @@
 display: "Yankee Stadium goes ape****"
 title: "Savannah Bananas vs. The Party Animals @ Yankee Stadium (Bronx, NY)"
 subtitle: "Banana Ball where you’d LEAST expect"
+author: "James Calingo "
 date: 24 April 2026
 publishDate: 25 April 2026
 published: true
@@ -20,8 +21,8 @@ tags:
 background: "images/2026/0424-aladdin.jpeg"
 related:
   [
-    { title: "Banana Ball", link: "2025-08-23_bananaball_bos" },
-    { title: "Banana Ball in New York 2", link: "2026-04-27_bananaball_ny2" },
+    { title: "Banana Ball in Boston (2025)", link: "2025-08-23_bananaball_bos" },
+    { title: "Banana Ball in New York 2 (2026)", link: "2026-04-27_bananaball_ny2" },
     { title: "New York City FC", link: "2025-08-13_nycfc" },
     { title: "New York Yankees", link: "2026-06-04_nyyankees" },
   ]

@@ -36,3 +36,4 @@ My original goal for 2026 was to visit [26 new stadiums/venues for sports](2026-
 26. [Lyndhurst Golden Bears Sports Field - Lyndhurst, NJ](2026-07-12_mlquadball)
 27. [MetLife Stadium - East Rutherford, NJ](2026-08-15_nyjets)
 28. [Madison Square Garden - New York, NY](2026-09-23_nyrangers)
+29. [CURE Insurance Arena - Trenton, NJ](2026-10-03_clubhockey)

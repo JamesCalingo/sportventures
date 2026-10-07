@@ -2,6 +2,7 @@
 display: "Up and Down and All Around"
 title: "Upper Valley Nighthawks @ Maxfield Sports Complex (White River Junction, VT)"
 subtitle: "A story of EXCRUCIATING travel"
+author: "James Calingo "
 date: 30 June 2023
 publishDate: 9 September 2026
 published: true

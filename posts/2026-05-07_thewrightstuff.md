@@ -2,6 +2,7 @@
 display: "The Wright Stuff"
 title: "An evening with Jay Wright"
 subtitle: "A few short thoughts about a night with a college basketball legend"
+author: "James Calingo "
 date: 6 May 2026
 publishDate: 7 May 2026
 published: true

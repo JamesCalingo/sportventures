@@ -2,6 +2,7 @@
 display: "Brooklyn Cyclones"
 title: "Brooklyn Cyclones (South Atlantic League) @ Maimonides Park (Brooklyn, NY)"
 subtitle: "Baseball in Brooklyn is BACK - Back in the New York Groove"
+author: "James Calingo "
 date: 30 April 2025
 publishDate: 9 August 2025
 published: true

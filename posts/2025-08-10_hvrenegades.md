@@ -2,6 +2,7 @@
 display: "Hudson Valley Renegades"
 title: "Hudson Valley Renegades (South Atlantic League) @ Heritage Financial Park (Wappingers Falls, NY)"
 subtitle: "A trip nearly 20 years in the making...probably"
+author: "James Calingo "
 date: 1 May 2025
 publishDate: 10 August 2025
 published: true

@@ -2,6 +2,7 @@
 display: "Lehigh Valley IronPigs"
 title: "Lehigh Valley IronPigs (International League) @ Coca-Cola Park (Allentown, PA)"
 subtitle: '"Well we''re living here in Allentown..."'
+author: "James Calingo "
 date: 8 May 2025
 publishDate: 11 August 2025
 published: true

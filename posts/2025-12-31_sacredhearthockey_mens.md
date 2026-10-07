@@ -2,6 +2,7 @@
 display: "Sacred Heart Hockey"
 title: "Sacred Heart Pioneers Men's Hockey (Atlantic Hockey America) @ Martire Family Arena (Fairfield, CT)"
 subtitle: "My final trip for 2025: one of college hockey's newest gems"
+author: "James Calingo "
 date: 30 December 2025
 publishDate: 31 December 2025
 published: true
