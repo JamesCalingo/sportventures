@@ -7,7 +7,15 @@ date: 20 September 2026
 publishDate: 20 September 2026
 published: true
 pinned: false
-tags: ["Other Sports", "Lacrosse", "Repeat Visit", "Outdoor Sports"]
+tags:
+  [
+    "Other Sports",
+    "Lacrosse",
+    "Major Leagues",
+    "Championship Game",
+    "Repeat Visit",
+    "Outdoor Sports",
+  ]
 badge: "badges/newtoblog.png"
 background: "/images/2026/0920-pllchampeenship.jpeg"
 related:

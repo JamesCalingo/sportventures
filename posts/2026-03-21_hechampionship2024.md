@@ -14,6 +14,7 @@ tags:
     "College Hockey",
     "Boston",
     "Massachusetts",
+    "Championship Game",
     "Hockey East",
     "Boston College",
     "Boston University",
