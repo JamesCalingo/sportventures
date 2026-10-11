@@ -1,6 +1,7 @@
 ---
 title: "Shirts and the City"
 subtitle: 'or "I am FORCED to learn some modicum of self-control"'
+author: "James Calingo "
 date: 8 November 2025
 publishDate: 10 May 2026
 published: true

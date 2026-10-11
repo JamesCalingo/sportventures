@@ -2,6 +2,7 @@
 display: ""
 title: "Banana Ball Part 3"
 subtitle: "A grand day out at the ol' ballpark"
+author: "James Calingo"
 date:
 published: false
 pinned: false

@@ -2,6 +2,7 @@
 display: "Heck Friezes Over"
 title: "New York Yankees (Major League Baseball) @ Yankee Stadium (Bronx, NY)"
 subtitle: "I CANNOT believe this is a thing"
+author: "James Calingo "
 date: 2 June 2026
 publishDate: 3 June 2026
 published: true

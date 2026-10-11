@@ -1,7 +1,7 @@
 html,
 body {
   font-family: Helvetica Neue, sans-serif;
-  font-size: 16pt;
+  font-size: 14pt;
 }
 
 header {
@@ -15,6 +15,7 @@ header {
   background: linear-gradient(180deg, rgba(0, 128, 0, 1) 0%, rgba(0, 128, 0, 1) 50%, rgba(255, 165, 0, 1) 100%);
   color: white;
 }
+
 
 button {
   font-size: 16pt;
@@ -33,7 +34,7 @@ button:hover {
 }
 
 article {
-  /* width: 80%; */
+  max-width: 750px;
   margin: auto;
 }
 
@@ -65,7 +66,8 @@ sup a {
   text-decoration: none;
 }
 
-article a:hover, #side a:hover {
+article a:hover,
+#side a:hover {
   color: green
 }
 
@@ -261,26 +263,16 @@ figcaption {
 }
 
 .post-container {
+  /* max-width: 1200px; */
   display: grid;
   grid-template-columns: 3fr 1fr;
-  column-gap: 2%;
-  margin: 0 3%;
-}
-
-.tags-container h4 {
-margin-bottom: 0;
-padding: 0;
+  /* column-gap: 10px; */
+  margin: auto 5%;
 }
 
 #tag-list {
-  margin: 0;
-  list-style: none;
-}
-
-.tag {
   font-size: 14pt;
   margin: 0;
-  padding: 0
 }
 
 .list-date {
@@ -389,17 +381,13 @@ padding: 0;
 
 @media only screen and (max-width: 600px) {
 
-
   .newest-list-item {
-    height: auto;
+    height: 200px;
+
   }
 
   .grid-post em {
     display: none;
-  }
-
-  .post-date {
-    text-align: center;
   }
 
   .controls {

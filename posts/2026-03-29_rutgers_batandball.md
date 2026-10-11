@@ -2,6 +2,7 @@
 display: "Bat and Ball at Rutgers"
 title: "Rutgers Bat and Ball Sports DOUBLE FEATURE"
 subtitle: "I attend TWO GAMES AT THE SAME TIME"
+author: "James Calingo "
 date: 28 March 2026
 publishDate: 29 March 2026
 published: true

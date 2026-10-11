@@ -2,6 +2,7 @@
 display: "Merch Stops 2025"
 title: "Merch Stops"
 subtitle: '"Everything will always be all right...when we go shopping"'
+author: "James Calingo "
 publishDate: 26 December 2025
 published: true
 pinned: false

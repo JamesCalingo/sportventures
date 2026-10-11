@@ -2,6 +2,7 @@
 display: "Staten Island FerryHawks"
 title: "Staten Island FerryHawks (Atlantic League) @ SIUH Community Ballpark (Staten Island, NY)"
 subtitle: "A borough often scorned gets a second chance at baseball"
+author: "James Calingo "
 date: 29 May 2025
 publishDate: 14 August 2025
 published: true

@@ -2,6 +2,7 @@
 display: "Jersey Bearcats"
 title: "Jersey Bearcats (American Arena League) @ Warinanco Sports Complex (Roselle, NJ)"
 subtitle: "Are you ready for some (partially) indoor football?"
+author: "James Calingo "
 date: 18 April 2026
 publishDate: 19 April 2026
 published: true

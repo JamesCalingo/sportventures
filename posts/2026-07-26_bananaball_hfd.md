@@ -2,6 +2,7 @@
 display: "The Amazing Baseball Circus"
 title: "Indianapolis Clowns vs. The Party Animals @ Dunkin’ Park (Hartford, CT)"
 subtitle: 'The "original" barnstorming baseball team returns'
+author: "James Calingo "
 date: 25 July 2026
 publishDate: 26 July 2026
 published: true
@@ -20,7 +21,7 @@ badge: "badges/newteam.png"
 background: "images/2026/0725-bananaball-frontrow.jpeg"
 related:
   [
-    { title: "Banana Ball", link: "2025-08-23_bananaball_bos" },
+    { title: "Banana Ball in Boston (2025)", link: "2025-08-23_bananaball_bos" },
     { title: "Hartford Yard Goats", link: "2026-06-29_hfdyardgoats" },
   ]
 ---

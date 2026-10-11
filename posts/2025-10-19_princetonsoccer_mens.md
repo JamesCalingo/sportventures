@@ -2,6 +2,7 @@
 display: "Princeton Soccer"
 title: "Princeton Tigers Men's Soccer (Ivy League) @ Myslik Field at Roberts Stadium (Princeton, NJ)"
 subtitle: "A visit to a college football landmark - for association football"
+author: "James Calingo "
 date: 18 October 2025
 publishDate: 19 October 2025
 published: true

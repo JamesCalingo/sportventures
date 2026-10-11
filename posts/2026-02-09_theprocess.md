@@ -2,6 +2,7 @@
 display: "The Process"
 title: "Sportventures Insider: The Process"
 subtitle: 'An "inside look" into how things work'
+author: "James Calingo "
 publishDate: 9 February 2026
 published: true
 pinned: false

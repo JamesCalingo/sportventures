@@ -2,6 +2,7 @@
 display: "Somerset Patriots"
 title: "Somerset Patriots (Eastern League) @ TD Bank Ballpark (Bridgewater, NJ)"
 subtitle: "A former Indie darling that aligned with..."
+author: "James Calingo "
 date: 16 April 2026
 publishDate: 17 April 2026
 published: true

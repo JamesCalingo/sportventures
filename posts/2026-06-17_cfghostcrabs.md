@@ -2,6 +2,7 @@
 display: "Going Crabbing"
 title: "Cape Fear Ghost Crabs (Old North State League) @ Brooks Field (Wilmington, NC)"
 subtitle: "The new reason why the ONSL is seeing ghosts"
+author: "James Calingo "
 date: 16 June 2026
 publishDate: 17 June 2026
 published: true

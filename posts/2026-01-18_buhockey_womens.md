@@ -2,6 +2,7 @@
 display: "BU Women's Hockey"
 title: "Boston University Terriers Women's Hockey (Hockey East) @ Walter Brown Arena (Boston, MA)"
 subtitle: 'The Hockey East version of "No Boys Allowed"'
+author: "James Calingo "
 date: 17 January 2026
 publishDate: 18 January 2026
 published: true

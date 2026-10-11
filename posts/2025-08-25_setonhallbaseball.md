@@ -2,6 +2,7 @@
 display: "Seton Hall Baseball"
 title: "Seton Hall Pirates Baseball (Big East) @ Owen T. Carroll Field (South Orange, NJ)"
 subtitle: "I go back to school to watch baseball"
+author: "James Calingo "
 date: 11 March 2025
 publishDate: 25 August 2025
 published: true

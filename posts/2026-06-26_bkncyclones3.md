@@ -2,6 +2,7 @@
 display: "25 Years"
 title: "Brooklyn Cyclones 2026 Edition"
 subtitle: "A (supposedly) special night on Coney Island"
+author: "James Calingo "
 date: 25 June 2026
 publishDate: 26 June 2026
 published: true

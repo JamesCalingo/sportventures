@@ -2,6 +2,7 @@
 display: "Opening Day Down the Shore"
 title: "Jersey Shore BlueClaws 2026 Edition"
 subtitle: "Testing the idea of going down the shore in April...again"
+author: "James Calingo "
 date: 7 April 2026
 publishDate: 8 April 2026
 published: true

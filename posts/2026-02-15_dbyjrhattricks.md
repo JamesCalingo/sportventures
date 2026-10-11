@@ -2,6 +2,7 @@
 display: "Danbury Hat Tricks"
 title: "Danbury Hat Tricks (North American Hockey League) @ Danbury Ice Arena (Danbury, CT)"
 subtitle: "Who doesn't *love* a little junior hockey?"
+author: "James Calingo "
 date: 14 February 2026
 publishDate: 15 February 2026
 published: true

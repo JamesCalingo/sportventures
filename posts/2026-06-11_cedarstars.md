@@ -2,6 +2,7 @@
 display: "Cedar Stars"
 title: "Cedar Stars (USL League Two) @ University Stadium (Teaneck, NJ)"
 subtitle: "USL2 soccer at a small school known for a BIG moment"
+author: "James Calingo "
 date: 10 June 2026
 publishDate: 11 June 2026
 published: true

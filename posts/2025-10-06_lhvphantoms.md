@@ -2,6 +2,7 @@
 display: "Lehigh Valley Phantoms"
 title: "Lehigh Valley Phantoms (American Hockey League) @ PPL Center (Allentown, PA)"
 subtitle: "The life of a Phantom(s preseason game)"
+author: "James Calingo "
 date: 5 October 2025
 publishDate: 6 October 2025
 published: true

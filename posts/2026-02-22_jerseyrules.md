@@ -2,6 +2,7 @@
 display: "Da Rules"
 title: "The Jersey Rules"
 subtitle: "My rules for collecting jerseys - because limits have to be set"
+author: "James Calingo "
 publishDate: 22 February 2026
 published: true
 pinned: false

@@ -2,6 +2,7 @@
 display: ""
 title: "Epilogue: A Philly Special"
 subtitle:
+author: "James Calingo"
 date:
 published: false
 pinned: false

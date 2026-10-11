@@ -2,6 +2,7 @@
 display: "CATCH-UP: The (ex-)Dunk"
 title: "Providence Bruins (American Hockey League) @ Amica Mutual Pavilion (Providence, RI)"
 subtitle: "A quick look at one of the AHL’s most historic markets"
+author: "James Calingo "
 date: 
 publishDate: 2 October 2026
 published: true

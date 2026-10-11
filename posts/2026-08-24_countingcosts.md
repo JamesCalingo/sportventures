@@ -2,6 +2,7 @@
 display: "Mony Money"
 title: "How much should one spend on their team?"
 subtitle: "Counting up the costs of being a fan"
+author: "James Calingo "
 date:
 publishDate: 22 August 2026
 published: true

@@ -2,6 +2,7 @@ import Image from "next/image";
 import Markdown from "react-markdown";
 import { postSlugs, postForSlug } from "../posts";
 import Layout from "../components/Layout";
+import Badge from "../components/Badge";
 import Tag from "../components/Tag";
 import RelatedPost from "../components/RelatedPost";
 import rehypeRaw from "rehype-raw";
@@ -19,15 +20,21 @@ function Post({ frontmatter, body, slug }) {
   return (
     <Layout pageTitle={frontmatter.display ? `${frontmatter.display} - Sportventures` : `${frontmatter.title} - Sportventures`}>
       <div className="post-container">
+
         <article>
           <div className="post-header">
-            <div className="post-date">
-              <em>{displayDate(frontmatter.publishDate, frontmatter.date)}</em>
-            </div>
+            <h3><em>{displayDate(frontmatter.publishDate, frontmatter.date)}</em></h3>
             <h1 className="post-title">{frontmatter.title}</h1>
             <h3 className="description">{frontmatter.subtitle}</h3>
             <div className="mobile-badge">
-              {frontmatter.badge && frontmatter.badge !== "badges/blank.png" ? <a href="/about#badges"><img className="badge" src={frontmatter.badge} alt={"A badge"} /></a> : <img className="badge" src="/badges/blank.png" alt={"A placeholder"} />}
+              {frontmatter.badge ? <Badge badge={frontmatter.badge} /> : <div style={{ height: "25px" }} />}
+              <h3><em>{frontmatter.author}</em></h3>
+              <span className="tag" id="tag-list">
+              {frontmatter.tags && !!frontmatter.tags.length && <span className="tag" id="tag-list">
+              Tags:<br />{frontmatter.tags.sort().map((tag, index) => <Tag key={index} index={index} last={frontmatter.tags.length - 1} tag={tag} />)}
+            </span>}
+              </span>
+
             </div>
           </div>
 
@@ -45,20 +52,17 @@ function Post({ frontmatter, body, slug }) {
         </article>
         <div id="side">
           <div className="widescreen-badge">
-            {frontmatter.badge && frontmatter.badge !== "badges/blank.png" ? <a href="/about#badges"><img className="badge" src={frontmatter.badge} alt={"A badge"} /></a> : <img className="badge" src="/badges/blank.png" alt={"A placeholder"} />}
+            {<Badge badge={frontmatter.badge} />}
+            <h3><em>{frontmatter.author}</em></h3>
+            {frontmatter.tags && !!frontmatter.tags.length && <span className="tag" id="tag-list">
+              Tags:<br />{frontmatter.tags.sort().map((tag, index) => <Tag key={index} index={index} last={frontmatter.tags.length - 1} tag={tag} />)}
+            </span>}
           </div>
-
           {related && <div className="see-also">
             <h3>Related Posts:</h3>
             {related.map((post, index) => <RelatedPost key={index} title={post.title} link={post.link} />)}
           </div>}
-          {frontmatter.tags && <div className="tags-container">
-            <h4>TAGS:</h4>
-            <ul id="tag-list">
-              {frontmatter.tags && frontmatter.tags.length && frontmatter.tags.sort().map((tag, index) => <Tag key={index} index={index} last={frontmatter.tags.length - 1} tag={tag} />)}
-            </ul>
-          </div>
-          }
+
         </div>
       </div>
     </Layout >

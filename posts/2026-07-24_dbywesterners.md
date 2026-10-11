@@ -2,6 +2,7 @@
 display: "A happy team at Westy's"
 title: "Danbury Westerners (New England Collegiate Baseball League) @ Rogers Park (Danbury, CT)"
 subtitle: 'Summer league baseball on New England''s "Western Frontier"'
+author: "James Calingo "
 date: 23 July 2026
 publishDate: 24 July 2026
 published: true

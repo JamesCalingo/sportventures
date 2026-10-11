@@ -2,6 +2,7 @@
 display: "Swampy"
 title: "Keene Swamp Bats (New England Collegiate Baseball League) @ Alumni Field (Keene, NH)"
 subtitle: "One of New England baseball's hidden gems"
+author: "James Calingo "
 date: 19 June 2023
 publishDate: 3 September 2026
 published: true

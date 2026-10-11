@@ -2,6 +2,7 @@
 display: "Westchester SC"
 title: "Westchester SC (USL League One) @ The Stadium at Memorial Field (Mt. Vernon, NY)"
 subtitle: "Suburban Soccer"
+author: "James Calingo "
 date: 7 March 2026
 publishDate: 8 March 2026
 published: true

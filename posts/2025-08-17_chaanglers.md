@@ -2,6 +2,7 @@
 display: "Chatham Anglers"
 title: "Chatham Anglers (Cape Cod Baseball League) @ Veterans Field (Chatham, MA)"
 subtitle: "One of the crown jewels of pre-professional baseball IMO"
+author: "James Calingo "
 date: 3 July 2025
 publishDate: 17 August 2025
 published: true

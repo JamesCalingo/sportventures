@@ -2,6 +2,7 @@
 display: "R House"
 title: "Rutgers Scarlet Knights Football (Big Ten) @ SHI Stadium (Piscataway, NJ)"
 subtitle: "I FINALLY watch the signature sport of my (kinda sorta technically) alma mater"
+author: "James Calingo "
 date: 3 September 2026
 publishDate: 4 September 2026
 published: true

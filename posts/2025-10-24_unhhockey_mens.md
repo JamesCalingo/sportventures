@@ -2,6 +2,7 @@
 display: "HOCKEY CATCH-UP: UNH"
 title: "FROM THE ARCHIVES: UNH Wildcats Men's Hockey (Hockey East) @ Whittemore Center Arena (Durham, NH)"
 subtitle: "One of the more open arenas in Hockey East"
+author: "James Calingo "
 publishDate: 24 October 2025
 published: true
 pinned: false

@@ -2,6 +2,7 @@
 display: "The Ironbound"
 title: "Ironbound SC (USL League Two) @ Harrison High School (Harrison, NJ)"
 subtitle: "A seemingly innocuous game produces a blog first (NOT CLICKBAIT)"
+author: "James Calingo "
 date: 30 May 2026
 publishDate: 31 May 2026
 published: true

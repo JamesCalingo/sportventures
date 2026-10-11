@@ -2,6 +2,7 @@
 display: "A Phine Day Out"
 title: "Philadelphia Phillies (Major League Baseball) @ Citizens Bank Park (Philadelphia, PA)"
 subtitle: "I revisit a ballpark I haven't seen in over 20 years"
+author: "James Calingo "
 date: 7 June 2026
 publishDate: 8 June 2026
 published: true

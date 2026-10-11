@@ -2,6 +2,7 @@
 display: "A real Labor Day-Bor"
 title: "Phillies 2: Another Phine Day Out"
 subtitle: 'A THIRD trip down to "The Bank" in 2026'
+author: "James Calingo "
 date: 7 September 2026
 publishDate: 8 September 2026
 published: true

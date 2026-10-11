@@ -2,6 +2,7 @@
 display: "Wilmington Blue Rocks"
 title: "Wilmington Blue Rocks (South Atlantic League) @ Judy Johnson Field at Daniel S. Frawley Stadium (Wilmington, DE)"
 subtitle: "The first time I’ve spent more than 30 minutes in the state of Delaware"
+author: "James Calingo "
 date: 2 May 2026
 publishDate: 3 May 2026
 published: true

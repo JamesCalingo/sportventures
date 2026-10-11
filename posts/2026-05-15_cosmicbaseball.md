@@ -2,6 +2,7 @@
 display: "Stark Raving Baseball"
 title: "Cosmic Baseball (Cosmic Chili Peppers vs. The Glowmojis) @ Coca-Cola Park (Allentown, PA)"
 subtitle: "Dancing in the Dark Light"
+author: "James Calingo "
 date: 14 May 2026
 publishDate: 15 May 2026
 published: true

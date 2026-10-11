@@ -2,6 +2,7 @@
 display: "The Dodd Couple"
 title: "Senator Thomas J. Dodd Memorial Stadium (Norwich, CT)"
 subtitle: "A summer league stadium with a (relatively) long history - and TWO TEAMS"
+author: "James Calingo "
 date: 4 June 2023
 publishDate: 19 August 2026
 published: true

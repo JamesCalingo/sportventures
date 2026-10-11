@@ -2,6 +2,7 @@
 display: "HOCKEY CATCH-UP: UMass (Amherst)"
 title: "FROM THE ARCHIVES: UMass (Amherst) Minutemen Hockey (Hockey East) @ Mullins Center (Amherst, MA)"
 subtitle: "A visit to the biggest building in Hockey East"
+author: "James Calingo "
 publishDate: 5 October 2025
 published: true
 pinned: false

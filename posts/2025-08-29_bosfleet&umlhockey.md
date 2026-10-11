@@ -2,6 +2,7 @@
 display: "Boston Fleet"
 title: "Boston Fleet (Professional Women's Hockey League) @ Tsongas Center (Lowell, MA)"
 subtitle: 'Including "bonus coverage" of UMass Lowell River Hawks Hockey'
+author: "James Calingo "
 date: 26 April 2025
 publishDate: 29 August 2025
 published: true

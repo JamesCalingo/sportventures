@@ -2,6 +2,7 @@
 display: "Reading Fightin Phils"
 title: "Reading Fightin Phils (Eastern League) @ FirstEnergy Stadium (Reading, PA)"
 subtitle: 'When a place calls itself "Baseballtown", you have to check it out'
+author: "James Calingo "
 date: 22 July 2025
 publishDate: 24 August 2025
 published: true

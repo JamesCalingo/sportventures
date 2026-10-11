@@ -2,6 +2,7 @@
 display: "Brooklyn FC"
 title: "Brooklyn FC (Gainbridge Super League) @ Maimonides Park (Brooklyn, NY)"
 subtitle: "After a three month delay, I FINALLY get to see Brooklyn FC"
+author: "James Calingo "
 date: 8 November 2025
 publishDate: 9 November 2025
 published: true

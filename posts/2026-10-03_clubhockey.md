@@ -2,14 +2,17 @@
 display: "In the Club (Sports)"
 title: "Club Hockey: William Paterson University vs. The College of New Jersey @ CURE Insurance Arena (Trenton, NJ)"
 subtitle: "A look at college sports outside of the NCAA"
+author: "James Calingo "
 date: 2 October 2026
 publishDate: 3 October 2026
 published: true
 pinned: false
 tags:
   [
+    "Hockey",
     "College Sports",
     "College Hockey",
+    "New Jersey",
     "Indoor Sports",
     "First Visit",
     "New in 2026",
@@ -18,6 +21,8 @@ badge: "badges/firstvisit.png"
 background: "/images/2026/1002-gamepuck.jpeg"
 related: []
 ---
+
+### _[2026: New Venue #29](2026newvenuelist)_
 
 I've talked about quite a number of NCAA-sanctioned college sports on this blog, but today, we're discussing college sports OUTSIDE the NCAA (as well as the super unknown NAIA, which is another national governing body for college sports here in the States).
 
@@ -29,9 +34,9 @@ I won't go too deep into the history of TCNJ or their opponent (William Paterson
 
 ![A photo of a hockey puck posed along the boards with a faceoff being taken in the background](/images/2026/1002-gamepuck.jpeg)
 
-<figcaption>I was sitting in a different spot when this flew over my head and into the upper seats of the arena.</figcaption>
+<figcaption>This puck flew over the protective nets and into the upper seats of the arena. For those who have never been to a hockey game, those nets are fairly tall, so getting somewhere like that is RARE.</figcaption>
 
-I don't know that much about the club hockey scene, so I can't tell you if this game's result - a 5-3 "Willy P" win - is "expected" or not. All I will say is that in case you're wondering more about WHERE this game took place and WHY I chose to go to this game...I'm not quite ready to talk about that just yet. What I will say for now, however, that neither team had merchandise available for sale - though I wasn't here for college hockey merch anyway...
+I don't know that much about the club hockey scene, so I can't tell you if this game's result - a 5-3 "Willy P" win - is "expected" or not (though I did find the game's broadcast on YouTube later on and they said that Willy P had won all but one prior matchup). All I will say is that in case you're wondering more about WHERE this game took place and WHY I chose to go to this game...I'm not quite ready to talk about that just yet. What I will say for now, however, that neither team had merchandise available for sale - though I wasn't here for college hockey merch anyway...
 
 ---
 

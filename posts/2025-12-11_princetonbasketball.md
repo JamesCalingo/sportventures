@@ -2,6 +2,7 @@
 display: "Princeton Basketball"
 title: "Princeton Tigers Basketball (Ivy League) @ Jadwin Gymnasium (Princeton, NJ)"
 subtitle: "A double header at one of college basketball’s more unique arenas"
+author: "James Calingo "
 date: 10 December 2025
 publishDate: 11 December 2025
 published: true
