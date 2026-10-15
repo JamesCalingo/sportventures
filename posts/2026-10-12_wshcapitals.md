@@ -35,11 +35,11 @@ Since winning that Cup, they've won exactly ONE playoff series - though Ovechkin
 
 I'll be honest: I'm looking into going to a few NHL games this year (though I feel like that shouldn't come as a surprise). A lot of that is because I've only been to NHL games at THREE arenas, and I figured I'd like to check out a few more (mainly with the advent of this blog). On that note, however, I must admit that THIS particular game was not really on my "radar" until a week before it happened - despite me knowing for over a month that I'd be in town for the [Banana Bowl](2026-10-11_bananabowl2026). Thankfully, the Caps just so happened to be playing at home the day before (Friday) AND after (Sunday); I chose the "after" game for a few reasons:
 
-1. I didn't want to have to rush down on a Friday afternoon to catch a 7:00 PM puck drop, and since I was staying with my brother, I wouldn't have to worry about spending an extra night at a hotel (parking, on the other hand...)
+1. I didn't want to have to rush down on a Friday afternoon to catch a 7:00 PM puck drop, and since I was staying with my brother, I wouldn't have to worry about spending an extra night at a hotel.
 
-2. It was slightly less expensive
+2. It was slightly less expensive when I got the tickets.
 
-3. It featured a team I haven't seen yet: the Seattle Kraken. I have seen FAR fewer NHL teams vs. MLB (since, as mentioned earlier, I've only been to three arenas before this), but I figured trying to get to 32/32 (and then potentially more) would be fun to try (the "before" game would have been the [Rangers](2026-09-23_nyrangers))[^2]
+3. It featured a team I haven't seen yet: the Seattle Kraken. I have seen FAR fewer NHL teams vs. MLB (since, as mentioned earlier, I've only been to three arenas before this), but I figured trying to get to 32/32 (and then potentially more) would be fun to try (the "before" game would have been the [Rangers](2026-09-23_nyrangers), and despite that game being a preseason game, most of the team's NHL roster played)[^2]
 
 On some level, I felt like I jumped early; I bought this ticket immediately after learning that the Caps were home when I was going to be in DC (which was about a week before the Banana Bowl), and I might have been able to find something a bit "better" had I waited a few days. What I was NOT expecting, however, was a fourth reason why going to this game was prudent:
 
@@ -79,7 +79,7 @@ Unlike the practice facility store, they had other player jerseys available, but
 
 As the building is named for Capital One (a bank), there's a discount on merch if you use a Capital One card, and since I've already made the "what's in your wallet" reference before...of course, you still have to deal with the arena upcharges, but based on price hikes for jerseys this year, you actually still come out "ahead". However, be forewarned that said discount does NOT apply to the practice facility store (i.e. no discounts on the Authentic Pros), and DC (and Virginia for that matter) have sales tax on clothing.
 
-One last thing to mention: A table on the upper concourse run by MeiGray (a company specializing in game-used sports stuff) offers the chance to buy pucks used during warm-ups They are, sadly, not eligible for the Capital One discount, and I've heard that prices can vary WILDLY on a game-to-game (and team-by-team) basis (aka "don't ask how much they cost for this particular game"), but at least in the Capitals' case, they are a VERY special memento for each individual game, as they feature the date of the game and both team's logos - like this:
+One last thing to mention: A table on the upper concourse run by MeiGray (a company specializing in game-used sports stuff) offers the chance to buy pucks used during warm-ups. They are, sadly, not eligible for the Capital One discount, and I've heard that prices can vary WILDLY on a game-to-game basis (aka "don't ask how much they cost for this particular game"), but at least in the Capitals' case, they are a VERY special memento for each individual game, as they feature the date of the game and both team's logos - like this:
 
 ![A photo of a warm-up puck](/images/2026/1011-warmuppuck.jpeg)
 
