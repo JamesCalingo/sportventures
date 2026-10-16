@@ -93,7 +93,7 @@ As a side note, I did contemplate staying for another extra day to see the Wizar
 
 [^1]: The arena wasn't demolished until 2002, which is when an outdoor mall opened (which I actually visited once in 2013). The mall has since been closed and demolished, and a mixed-use development is being built at the site - but apparently it's not open yet...
 
-[^2]: This game brings me to 10/32 teams seen - the other eight are the Devils, Bruins, Rangers, Islanders, Hurricanes, Lightning, Senators, and Oilers (more specifically the McDavid/Draisaitl Oilers). Also, apparently Rangers goalie Igor Shesterkin (one of their best players) got injured during the game and is out for a while...at least he played half of that preseason game I saw (and scored a goal).
+[^2]: This game brings me to 10/32 teams seen - the other eight are the Devils, Bruins, Rangers, Islanders, Hurricanes, Lightning, Senators, and Oilers (more specifically the McDavid/Draisaitl Oilers). Also, apparently Rangers goalie Igor Shesterkin (one of their best players) got injured during the game and is out for this season...at least he played half of that preseason game I saw.
 
 [^3]: A TIE? Really?
 
