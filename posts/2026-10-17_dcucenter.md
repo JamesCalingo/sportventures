@@ -3,8 +3,8 @@ display: "CATCH-UP: Worcester Centrum"
 title: "A quick look at the DCU Center (Worcester, MA)"
 subtitle: "Sports and Esports in New England’s second city"
 author: "James Calingo"
-date: 
-publishDate: 24 October 2026
+date: 21 October 2023
+publishDate: 17 October 2026
 published: true
 pinned: false
 tags:
@@ -63,10 +63,6 @@ As for the Smash tournaments, I got a baseball style jersey at the 2019 one (whi
 ---
 
 I mentioned earlier that the Railers were the Islanders' ECHL affiliate until this year - which means that the Isles, of course, have a new ECHL team. In case you were wondering who that team is and where they play, well...check back here in a week or so.
-
-### ON DECK
-
-But before that: I'm STRONGLY considering a few things to do in the next couple of days - namely, college soccer.
 
 ---
 
