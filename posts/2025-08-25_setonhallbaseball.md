@@ -12,7 +12,7 @@ tags:
     "Baseball",
     "College Sports",
     "College Baseball",
-    "Seton Hall",
+    "Seton Hall University",
     "New Jersey",
     "Big East",
     "Outdoor Sports",
