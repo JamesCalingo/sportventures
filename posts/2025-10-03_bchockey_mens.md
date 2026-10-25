@@ -2,7 +2,7 @@
 display: "HOCKEY CATCH-UP: Boston College"
 title: "FROM THE ARCHIVES: Boston College Eagles Men's Hockey (Hockey East) @ (Kelley Rink at) Conte Forum (Chestnut Hill, MA)"
 subtitle: "The hockey team closest to my childhood home"
-author: "James Calingo "
+author: "James Calingo"
 publishDate: 3 October 2025
 published: true
 pinned: false
@@ -15,7 +15,6 @@ tags:
     "Boston College",
     "Boston",
     "Massachusetts",
-    
     "Catch-Up",
     "Indoor Sports",
     "First Visit",
@@ -62,7 +61,7 @@ Because the first game I went to fell on one of our unfortunately increasing “
 
 Conte is somewhat unique amongst the college hockey arenas I’ve been to in that not only are there dedicated merchandise stands amongst the concession stands, there’s more than one of them. I actually don’t recall if I bought anything from these stands, however, as I got most things from other areas: the main campus bookstore and a secondary store on the way to the arena from the parking garage. This secondary store seems to specialize in BC athletics merch; it’s typically open before games, and MAYBE after (though I can’t be certain; I think it was open after one game but closed after the other).
 
-The second game I went to also featured something I didn’t see anywhere else: customizable jerseys! I believe this is tied to the NCAA’s NIL movement or something, but you could have them heat press a name and number onto a jersey - so if you were, say, driving up for a game from Philadelphia, you could have not-so-wisely spent $215 on a Cutter Gauthier jersey to...do whatever you want to do with it (or heckle the crap out of him on the ice if security let you in)[^4].
+The second game I went to also featured something I didn’t see anywhere else: customizable jerseys! I believe this is tied to the NCAA’s NIL movement or something, but you could have them heat press a name and number onto a jersey - so if you were, say, driving up for a game from Philadelphia, you could have not-so-wisely spent $215 on a Cutter Gauthier jersey to...do whatever you want to do with it (and/or heckle the crap out of him on the ice if security actually let you in)[^4].
 
 One final note: BC is getting new jerseys this year, and while I am interested in their new maroon jersey, the combination of a $245 price tag plus the bookstore website saying the jersey is sublimated has me scared...
 
@@ -74,4 +73,4 @@ One final note: BC is getting new jerseys this year, and while I am interested i
 
 [^3]: _I_ did not leave early, however, as I had missed most of the first period due to getting caught in bad traffic (plus I got a lower bowl seat).
 
-[^4]: Cutter Gauthier was one of the “supertalents” who was drafted fifth overall by the Philadelphia Flyers in 2022, but allegedly refused to play for them and was traded away between the Fall 2023 and Spring 2024 semesters. A group of angry Flyers fans made the trip up to BC for their first home game after the trade, and there was a security situation that I don’t fully remember the details of.
+[^4]: For more on this, check out [me actually seeing Gauthier in the NHL](2026-10-24_phiflyers#cutter)

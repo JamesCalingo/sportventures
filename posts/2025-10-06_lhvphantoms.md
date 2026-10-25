@@ -21,6 +21,7 @@ tags:
     "New in 2025",
   ]
 badge: "badges/firstvisit.png"
+related: [{ title: "Philadelphia Flyers", link: "2026-10-24_phiflyers" }]
 ---
 
 Since this is the first time we’re diving into affiliated "minor league hockey" on this blog, I figured I’d give a little rundown of how it's structured, because it’s (theoretically) a lot simpler than baseball’s structure.
