@@ -18,7 +18,7 @@ tags:
     "Outdoor Sports",
     "Women's Sports",
     "First Visit",
-    New in 2026
+    "New in 2026",
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/1018-lubetkin.jpeg"
