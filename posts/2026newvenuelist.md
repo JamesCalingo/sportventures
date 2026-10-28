@@ -38,4 +38,4 @@ My original goal for 2026 was to visit [26 new stadiums/venues for sports](2026-
 28. [Madison Square Garden - New York, NY](2026-09-23_nyrangers)
 29. [CURE Insurance Arena - Trenton, NJ](2026-10-03_clubhockey)
 30. [Capital One Arena - Washington, DC](2026-10-12_wshcapitals)
-31. [Lubetkin Field at Mal Simon Stadium (Newark, NJ)](2026-10-19_njitsoccer_womens)
+31. [Lubetkin Field at Mal Simon Stadium - Newark, NJ](2026-10-19_njitsoccer_womens)

@@ -20,7 +20,11 @@ tags:
     "New in 2025",
   ]
 badge: "badges/firstvisit.png"
-related: []
+related:
+  [
+    { title: "Seton Hall Baseball", link: "2025-08-25_setonhallbaseball" },
+    { title: "Seton Hall Men's Soccer", link: "2026-10-_setonhallsoccer_mens" },
+  ]
 ---
 
 In going over my calendar of sporting events, I had COMPLETELY forgotten that I came here once! Part of that is likely because this visit was before I started these reports; in fact, all but one of the rest of this month's posts are from games I attended before I started writing "2025 posts".

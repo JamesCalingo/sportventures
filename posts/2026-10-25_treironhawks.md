@@ -71,17 +71,17 @@ Given that, it should come as no surprise that I had originally planned for this
 
 ![An image of the opening faceoff of a hockey game](/images/2026/1024-mysteryseat.jpeg)
 
-This game was preceded by an outdoor plaza party which I ended up missing due to me having to travel up from Philadelphia IMMEDIATELY after [the Flyers game](2026-10-24_phiflyers) (it took me about 40 minutes to get from arena to arena, and I got to Trenton about 20 minutes before the arena doors opened). Much like that Flyers game, this game was very, VERY scrappy: Trenton ended up winning 4-1, but before they could celebrate their first home win (and first win in the ECHL), a LINE BRAWL (i.e. when all the players on the ice start fighting each other) broke out right as the clock hit 0:00 (after several incidents earlier in the game - including one about eleven seconds prior to the end of game line brawl). Also, in what can only be described as a WILD coincidence, this is the second ECHL game I've been to, and both featured the same result: the Islanders' ECHL team defeating the Adirondack Thunder (the Devils' ECHL affiliate[^7]).
+This game was preceded by an outdoor plaza party which I ended up missing due to me having to travel up from [Philadelphia](2026-10-24_phiflyers) (it took me about 40 minutes to get from arena to arena, and I got to Trenton about 20 minutes before the arena doors opened). Much like that Flyers game, this game was very, VERY scrappy: Trenton ended up winning 4-1, but before they could celebrate their first home win (and first win in the ECHL), a LINE BRAWL (i.e. when all the players on the ice start fighting each other) broke out right as the clock hit 0:00 (after several incidents earlier in the game - including one about eleven seconds prior to the end of game line brawl). Also, in what can only be described as a WILD coincidence, this is the second ECHL game I've been to, and both featured the same result: the Islanders' ECHL team defeating the Adirondack Thunder (the Devils' ECHL affiliate[^7]).
 
 <div id="merch" />
 
 ### MERCH
 
-If there's one thing this ownership group knows how to do, it's push merchandise - something they seemingly did quite a bit of in the months after revealing their name/logo. However, I can't exactly say I was interested until they unveiled their jerseys, which happened in mid-September.
+If there's one thing this ownership group seemingly knows how to do, it's push merchandise - something they seemingly did quite a bit of in the months after revealing their name/logo. However, I can't exactly say I was interested until they unveiled their jerseys, which happened in mid-September.
 
 It is here that I do need to confess something: the BIG reason I went to the open house event was because it was the first in-person opportunity to buy the new jerseys (which were the only things available that night[^8]). Given how late in the offseason the reveal was (it was already September), I felt that I'd rather not "chance" waiting for this game if I wanted a jersey (not to mention the fact that I almost wasn't able to go). I'm going to lean on the side of this idea being prudent, as at that event, the box of jerseys in the size I typically get looked pretty empty by the time they packed up...
 
-At this game, the outdoor plaza SUPPOSEDLY had merchandise available, but I didn't see anything (though again, I arrived pretty late). Inside the arena, there were three separate areas where items were available: one had just jerseys (akin to the club hockey game), another had special inaugural season shirts, and the third was the main store with just about everything else. The latter two had a commemorative puck featuring the date and matchup for this game (i.e.), and just like the Flyers matchup puck, this one sold out (or at least I'm pretty sure it did, as I checked midway through the game and saw none available).
+At this game, the outdoor plaza SUPPOSEDLY had merchandise available, but I didn't see anything (though again, I arrived pretty late). Inside the arena, there were three separate areas where items were available: one had just jerseys (akin to the club hockey game), another had special inaugural season shirts, and the third was the main store with just about everything else. The latter two had a commemorative puck featuring the date and matchup for this game, and just like the Flyers matchup puck, this one sold out (or at least I'm pretty sure it did, as I checked midway through the game and saw none available).
 
 Also, I got THIS after the game while waiting for the crowds heading for the exits to subside:
 
@@ -91,11 +91,11 @@ This is one of the pucks that was prepared for the game, but never used. They're
 
 ---
 
-[^1]: Those three teams being the Buffalo Sabres, Utah Mammoth, and New York Rangers - which explains why I saw something about them loaning a player to the Worcester Railers as opposed to sending him to their nonexistent ECHL affiliate.
+[^1]: Those three teams being the Buffalo Sabres, Utah Mammoth, and New York Rangers - which explains why I saw something about them (the Rangers) loaning a player to the Worcester Railers as opposed to sending him to their nonexistent ECHL affiliate.
 
 [^2]: I didn't realize this until recently, but the "Titans" name is surprisingly common amongst [NJ/NYC area teams](2026-07-12_mlquadball).
 
-[^3]: One thing you should know about the Devils: they were notorious for burning through MULTIPLE AHL markets (mainly in the Lou Lamoriello days); among them [Lowell](2025-08-29_bosfleet&umlhockey) and Albany (which has a decent-sized arena which now only hosts Arena Football). I’m not sure if they still have that reputation though, but given that Lamoriello is thought to be partially responsible for the demise of the Bridgeport Islanders...
+[^3]: One thing you should know about the Devils: they were notorious for burning through MULTIPLE AHL markets to the point where for whatever reason, the league has never truly returned (mainly in the Lou Lamoriello days); among them [Lowell](2025-08-29_bosfleet&umlhockey) and Albany (which has a decent-sized arena which now only hosts Arena Football). I’m not sure if they still have that reputation though, but given that Lamoriello is thought to be partially responsible for the demise of the Bridgeport Islanders...
 
 [^4]: One of the locations they were in was Macon, GA where they played as the Macon Whoopee - one of the most infamous minor league sports names in history (thanks to an old game show).
 
@@ -103,6 +103,6 @@ This is one of the pucks that was prepared for the game, but never used. They're
 
 [^6]: I counted: only eleven of the 27 hockey arenas I've discussed on this blog (so far) have real goal horns - and that figure is somewhat generous as it includes [Merrimack's trumpet player](2025-10-10_merrimackhockey_mens). Of the other 16, I do find it noteworthy that two of them are the only NHL arenas known to not normally have real horns ([TD Garden](2026-03-21_hechampionship2024) and [Madison Square Garden](2026-09-23_nyrangers)).
 
-[^7s]: I don't remember who was in goal for the first game, but this game featured a rather fun name in net: Jeremy Brodeur, the son of NHL legend Martin Brodeur.
+[^7]: I don't remember who was in goal for the first game, but this game featured a rather fun name in net: Jeremy Brodeur, the son of NHL legend Martin Brodeur.
 
 [^8]: While it's technically not "merchandise", I did go home with a game puck that flew over my head at the open house/club hockey game. Also, I checked how much it would be to order a jersey and have it shipped, and it turned out that shipping was the exact same cost as the ticket for the open house. However, the "instant gratification" of knowing the jersey was in my hands made the trip worth it for me - and getting a puck was a bonus.
