@@ -4,7 +4,7 @@ title: "New York City FC (Major League Soccer) @ Citi Field (Queens, NY)"
 subtitle: "A small preview of things to come - with AWKWARD timing"
 author: "James Calingo"
 date: 31 October 2026
-publishDate: 1 November 2026
+publishDate: 31 October 2026
 published: true
 pinned: false
 tags:
