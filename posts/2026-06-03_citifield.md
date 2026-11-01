@@ -2,7 +2,7 @@
 display: "A Citi Trip"
 title: "A tour of Citi Field"
 subtitle: "An inside look at the home of the New York Mets"
-author: "James Calingo "
+author: "James Calingo"
 date: 2 June 2026
 publishDate: 3 June 2026
 published: true
@@ -19,7 +19,12 @@ tags:
     "Other Content",
   ]
 background: "images/2026/0602-citifield-field.jpeg"
-related: [{ title: "New York Mets", link: "2026-05-01_nymets" }]
+related:
+  [
+    { title: "New York Mets", link: "2026-05-01_nymets" },
+    { title: "New York Mets 2", link: "2026-09-06_nymets2" },
+    { title: "New York City FC 2026", link: "2026-11-01_nycfc_citifield" },
+  ]
 ---
 
 One of the more interesting things about going to a sporting event: there's TONS you _don't_ get to see. The most "common" example of this would be luxury areas for people/companies who pay hundreds to thousands of dollars to access them, but there are areas of stadiums even _they_ don't see on a typical gameday.

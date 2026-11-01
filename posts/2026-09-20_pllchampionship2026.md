@@ -2,7 +2,7 @@
 display: "King of the Sticks"
 title: "Premier Lacrosse League Championship Game: Denver Outlaws vs. Philadelphia Waterdogs @ Sports Illustrated Stadium (Harrison, NJ)"
 subtitle: "America's professional Field Lacrosse league crowns its 2026 champion"
-author: "James Calingo "
+author: "James Calingo"
 date: 20 September 2026
 publishDate: 20 September 2026
 published: true

@@ -2,7 +2,7 @@
 display: "The Amazing Baseball Circus"
 title: "Indianapolis Clowns vs. The Party Animals @ Dunkin’ Park (Hartford, CT)"
 subtitle: 'The "original" barnstorming baseball team returns'
-author: "James Calingo "
+author: "James Calingo"
 date: 25 July 2026
 publishDate: 26 July 2026
 published: true

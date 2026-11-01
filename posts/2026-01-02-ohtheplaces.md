@@ -2,7 +2,7 @@
 display: "Places Unvisited"
 title: "Oh, the places you'll want to go to but can't fit"
 subtitle: 'A look back at some "missed connections" in 2025'
-author: "James Calingo "
+author: "James Calingo"
 publishDate: 2 January 2026
 published: false
 pinned: false

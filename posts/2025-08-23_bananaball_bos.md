@@ -2,7 +2,7 @@
 display: "Banana Ball"
 title: "Banana Ball (Savannah Bananas vs. the Firefighters) @ Fenway Park (Boston, MA)"
 subtitle: 'A very, VERY deep dive into the "Greatest Show in Sports"'
-author: "James Calingo "
+author: "James Calingo"
 date: 6 July 2025
 publishDate: 23 August 2025
 published: true

@@ -2,7 +2,7 @@
 display: "In the Club (Sports)"
 title: "Club Hockey: William Paterson University vs. The College of New Jersey @ CURE Insurance Arena (Trenton, NJ)"
 subtitle: "A look at college sports outside of the NCAA"
-author: "James Calingo "
+author: "James Calingo"
 date: 2 October 2026
 publishDate: 3 October 2026
 published: true
