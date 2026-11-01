@@ -2,7 +2,7 @@
 display: "Banana Beach Ball"
 title: "Loco Beach Coconuts vs. The Party Animals @ ShoreTown Ballpark (Lakewood, NJ)"
 subtitle: "Banana Ball gets a little cray cray"
-author: "James Calingo "
+author: "James Calingo"
 date: 11 June 2026
 publishDate: 12 June 2026
 published: true

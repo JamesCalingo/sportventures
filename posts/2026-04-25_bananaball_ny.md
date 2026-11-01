@@ -2,7 +2,7 @@
 display: "Yankee Stadium goes ape****"
 title: "Savannah Bananas vs. The Party Animals @ Yankee Stadium (Bronx, NY)"
 subtitle: "Banana Ball where you’d LEAST expect"
-author: "James Calingo "
+author: "James Calingo"
 date: 24 April 2026
 publishDate: 25 April 2026
 published: true
