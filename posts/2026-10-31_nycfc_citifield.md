@@ -1,7 +1,7 @@
 ---
 display: 'New York "Citi" FC'
 title: "New York City FC (Major League Soccer) @ Citi Field (Queens, NY)"
-subtitle: "A small preview of things to come - with AWKWARD timing"
+subtitle: "A small preview of things to come - sorta"
 author: "James Calingo"
 date: 31 October 2026
 publishDate: 31 October 2026
@@ -51,7 +51,7 @@ Yes, the actual view of the game is a bit awkward, but...I got into club level s
 
 I had FOUR events I was considering for this particular day, but Citi ended up "winning" in the end because two would have involved hour+ long drives (which I was hoping to avoid as I went to [Philadelphia](2026-10-24_phiflyers) the weekend before), and the last one was >$100 on the secondary market (but I will explain more as - surprise surprise - I still want to check the place out sometime). Having said that, however, NYC got a gift lead but gave up a stoppage-time equalizer against ~~the Montréal Impact~~ ~~Club de Foot~~ CF Montréal - a former lower-league darling that became an MLS club which is currently second worst in the league and at the "live long enough to see its owner become the villain" stage of its existence (with its future apparently unknown). With this result, unfortunately...New York City FC is now officially OUT of the 2026 MLS Cup playoffs.
 
-P.S.: I did also consider going to the team's home opener on March 7 - a 5-0 drubbing of fellow 2015 expansion side Orlando City that featured a goalie red card - but ended up not going (partially due to logistics surrounding parking and getting to [Westchester SC later that day](2026-03-08_westchestersc)[^9]). Also, I legitimately wonder what the future holds for NYCFC and their stadium (as well as several over soccer teams around the world) given the situation with the parent club in England...but what I DO know is that unless the "TBD" game next spring is at Citi Field, then THIS is the last time New York City FC will play here (as the team announced that all but one of its games in the sprint season will be at Yankee Stadium).
+P.S.: I did also consider going to the team's home opener on March 7 - a 5-0 drubbing of fellow 2015 expansion side Orlando City that featured a goalie red card - but ended up not going (partially due to logistics surrounding parking and getting to [Westchester SC later that day](2026-03-08_westchestersc)[^2]). Also, I legitimately wonder what the future holds for NYCFC and their stadium (as well as several over soccer teams around the world) given the situation with the parent club in England...but what I DO know is that unless the "TBD" game next spring is at Citi Field, then THIS is the last time New York City FC will play here (as the team announced that all but one of its games in the sprint season will be at Yankee Stadium)[^3].
 
 <div id="merch" />
 
@@ -63,14 +63,14 @@ On a somewhat related note, this was the club's last home game for 2026, and it 
 
 ---
 
-Also, one VERY important thing I learned after the game: if you don't like large crowds, don't go to Greenwich Village on the weekend before/of Halloween...it's not quite as bad as Times Square on New Year's Eve, but it seemed to be WAY more locals.
+This is my last visit to Citi Field in 2026, but I don't know when the next one will be. There's the pressing issue of the [MLB Lockout](2026-05-02_1994ws), it's not looking like NYCFC will have matches here (as mentioned earlier), and the Banana Ball Championship League is not scheduled to have a stop at Citi Field - which means it's set to be the only MLB ballpark that has yet to host the sport once next season wraps up...
 
-### ON DECK
-
-I'm actually back in New York City today - for something VERY special. NOTE: this is going up on the first Sunday of November 2026, so some readers out there may already know what I'm talking about.
+Also, one VERY important thing I learned after the game: if you don't like large crowds, don't go to Greenwich Village on the weekend before/of Halloween...it's (probably) not quite as bad as Times Square on New Year's Eve, but it seemed to be WAY more locals (i.e. people who know).
 
 ---
 
 [^1]: I am NOT planning on doing a "27 in 27" challenge, but I am still interested in checking it out - and if I’m still doing this at that point, I’ll probably write about it.
 
-[^9]: Speaking of Westchester SC...<a href="https://www.theexchangefc.com/post/westchester-sc-to-cease-operations" target="blank">apparently, they're gone</a>.
+[^2]: Speaking of Westchester SC...<a href="https://www.theexchangefc.com/post/westchester-sc-to-cease-operations" target="blank">apparently, they're gone</a>.
+
+[^3]: A random fun fact I could not figure out how to work into the post: New York City's PA announcer is the same guy who does the PA for [Rangers](2026-09-23_nyrangers) games - and before he was NYCFC's PA announcer, he did play-by-play for the team's TV broadcasts when MLS teams produced their own telecasts (which they don't anymore thanks to the league's current deal).
