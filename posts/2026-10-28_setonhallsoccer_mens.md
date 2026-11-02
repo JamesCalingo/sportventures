@@ -15,6 +15,7 @@ tags:
     "College Soccer",
     "New Jersey",
     "Seton Hall University",
+    "Big East",
     "Outdoor Sports",
     "Repeat Visit",
   ]
@@ -23,7 +24,11 @@ background: "/images/2026/1027-carrollfield.jpeg"
 related:
   [
     { title: "Seton Hall Baseball", link: "2025-08-25_setonhallbaseball" },
-    { title: "Seton Hall Men's Soccer", link: "2026-10-_setonhallsoccer_mens" },
+    { title: "Seton Hall Men's Soccer", link: "2026-10-28_setonhallsoccer_mens" },
+    # {
+    #   title: "Seton Hall Women's Basketball",
+    #   link: "2026-11-06_setonhallbasketball_womens",
+    # },
   ]
 ---
 

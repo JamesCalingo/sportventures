@@ -14,6 +14,7 @@ tags:
     "College Sports",
     "College Soccer",
     "NJIT",
+    "America East",
     "New Jersey",
     "Outdoor Sports",
     "Women's Sports",
