@@ -18,7 +18,7 @@ function Post({ frontmatter, body, slug }) {
   const related = frontmatter.related && frontmatter.related.length ? frontmatter.related.filter(post => post.link !== slug) : null;
 
   return (
-    <Layout pageTitle={frontmatter.display ? `${frontmatter.display} - Sportventures` : `${frontmatter.title} - Sportventures`}>
+    <Layout pageTitle={`${frontmatter.title} - Sportventures`}>
       <div className="post-container">
 
         <article>
