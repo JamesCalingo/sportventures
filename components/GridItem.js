@@ -6,7 +6,7 @@ function GridItem(props) {
     
     return <div className="list-post">
         <div className="list-post-text">
-        <a href={`/${slug}`}>
+        <a href={`/post/${slug}`}>
             <h2>{display}</h2>
             <p>{subtitle}</p>
         </a>

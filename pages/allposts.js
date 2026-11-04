@@ -2,6 +2,7 @@ import { posts } from "../posts";
 import PostList from "../components/PostList";
 import Layout from "../components/Layout";
 import { useEffect, useState } from "react";
+import Link from "next/link";
 
 const AllPosts = ({ posts }) => {
     const published = posts.filter((post) => post.frontmatter.published === true).reverse();
@@ -53,6 +54,7 @@ const AllPosts = ({ posts }) => {
                             <option key={tag} value={tag}>{tag}</option>
                         ))}
                     </select>
+                    <Link href={`/tagged/${tag}`}> to {tag}</Link>
                 </div>
                 {tag ? <button onClick={() => handleResetSelect()}>Show All Posts</button> : <button onClick={() => setOldestFirst(!oldestFirst)}>Show {oldestFirst ? "Newest" : "Oldest"} First</button>}
             </div>

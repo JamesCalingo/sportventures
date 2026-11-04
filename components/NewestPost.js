@@ -4,7 +4,7 @@ import { displayDate } from "../utils/utils.js";
 function NewestPost(props) {
     const { slug, display, title, subtitle, date, publishDate, background } = props
     return <div id="newest" className="grid-post" style={{ backgroundImage: `url(${background})`, "backgroundPositionX": "47%", "backgroundPositionY": "50%",  }}>
-        <Link href={`/${slug}`}>
+        <Link href={`/post/${slug}`}>
             <div className="section-header">
 
                 <span id="newest-post">

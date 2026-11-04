@@ -1,15 +1,15 @@
 import Image from "next/image";
 import Markdown from "react-markdown";
-import { postSlugs, postForSlug } from "../posts";
-import Layout from "../components/Layout";
-import Badge from "../components/Badge";
-import Tag from "../components/Tag";
-import RelatedPost from "../components/RelatedPost";
+import { postSlugs, postForSlug } from "../../posts/index.js";
+import Layout from "../../components/Layout.js";
+import Badge from "../../components/Badge.js";
+import Tag from "../../components/Tag.js";
+import RelatedPost from "../../components/RelatedPost.js";
 import rehypeRaw from "rehype-raw";
 import remarkRehype from "remark-rehype";
 import remarkGfm from "remark-gfm";
-import Error500 from "./500";
-import { displayDate } from "../utils/utils.js";
+import Error500 from "../500.js";
+import { displayDate } from "../../utils/utils.js";
 
 function Post({ frontmatter, body, slug }) {
 
@@ -82,7 +82,7 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const paths = postSlugs().map((slug) => `/${slug}`);
+  const paths = postSlugs().map((slug) => `/post/${slug}`);
 
   return {
     paths,
