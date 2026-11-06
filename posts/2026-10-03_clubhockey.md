@@ -19,7 +19,11 @@ tags:
   ]
 badge: "badges/firstvisit.png"
 background: "/images/2026/1002-gamepuck.jpeg"
-related: []
+related:
+  [
+    { title: "Club Hockey", link: "2026-10-03_clubhockey" },
+    { title: "Trenton Ironhawks", link: "2026-10-25_treironhawks" },
+  ]
 ---
 
 ### _[2026: New Venue #29](2026newvenuelist)_

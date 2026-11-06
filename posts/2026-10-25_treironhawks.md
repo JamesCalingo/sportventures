@@ -20,7 +20,11 @@ tags:
   ]
 badge: "badges/newteam.png"
 background: "images/2026/1024-matchuppuck-tre.jpeg"
-related: [{ title: "Club Hockey", link: "2026-10-03_clubhockey" }]
+related:
+  [
+    { title: "Club Hockey", link: "2026-10-03_clubhockey" },
+    { title: "Trenton Ironhawks", link: "2026-10-25_treironhawks" },
+  ]
 ---
 
 This backstory for this game is a bit of a doozy to explain, so I’ll start with the "short and easy" part:

@@ -65,7 +65,7 @@ On a somewhat related note, this was the club's last home game for 2026, and it 
 
 This is my last visit to Citi Field in 2026, but I don't know when the next one will be. There's the pressing issue of the [MLB Lockout](2026-05-02_1994ws), it's not looking like NYCFC will have matches here (as mentioned earlier), and the Banana Ball Championship League is not scheduled to have a stop at Citi Field - which means it's set to be the only MLB ballpark that has yet to host the sport once next season wraps up...
 
-Also, one VERY important thing I learned after the game: if you don't like large crowds, don't go to Greenwich Village on the weekend before/of Halloween...it's (probably) not quite as bad as Times Square on New Year's Eve, but there seemed to be WAY more locals (i.e. people who know).
+Also, one VERY important thing I learned after the game: if you don't like large crowds, don't go to Greenwich Village on the weekend before/of Halloween...it's (probably) not quite as bad as Times Square on New Year's Eve, but there seemed to be WAY more locals (i.e. people who know NOT to go to Times Square on New Year's Eve - sorry if I just broke your immersion...).
 
 ---
 

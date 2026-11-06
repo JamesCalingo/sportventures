@@ -41,10 +41,4 @@ Also, this technically has nothing to do with the marathon itself (as it's not s
 
 ---
 
-### ON DECK
-
-The Big Sport of the Big East.
-
----
-
 [^1]: For more proof, look no further than [the very first post of this blog](2025-08-08_jsblueclaws): two baseball games on a miserable April day.
