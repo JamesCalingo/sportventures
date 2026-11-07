@@ -18,14 +18,17 @@ tags:
     "Indoor Sports",
     "Women's Sports",
     "First Visit",
-    "New in 2026"
+    "New in 2026",
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/1106-walshgym.jpeg"
 related:
   [
     { title: "Seton Hall Baseball", link: "2025-08-25_setonhallbaseball" },
-    { title: "Seton Hall Men's Soccer", link: "2026-10-28_setonhallsoccer_mens" },
+    {
+      title: "Seton Hall Men's Soccer",
+      link: "2026-10-28_setonhallsoccer_mens",
+    },
     {
       title: "Seton Hall Women's Basketball",
       link: "2026-11-06_setonhallbasketball_womens",
@@ -57,7 +60,7 @@ So...here's the thing: I was interested in seeing the men's team here as they ha
 
 Tickets to women's games are typically $15 (and the men's games were almost 4 times that), but this one was only $10 as a promotion; kids are off from school because their teachers are at a statewide conference, and this game is meant to give them something to do (which is also why it was a Friday at 11:30 AM). Seton Hall overcome somewhat of a slow start to eventually pull away and beat Indiana State - a fairly small school known for being Larry Bird's alma mater (whose men's team, it should be noted, lost to Seton Hall in the NIT final in 2024).
 
-Finally, I should note that Walsh also hosts the school's volleyball team (singular, as volleyball is primarily a women's sport in the NCAA), and they had a match a few hours after this game that I thought about going to (but ended up not).
+Finally, I should note that Walsh also hosts the school's volleyball team (singular, as volleyball is primarily a women's sport in the NCAA), and they had a match a few hours after this game that I thought about going to (but ended up not). Also, this will NOT be the last time I see the Seton Hall Pirates women's basketball team, but that's going to have to wait a bit...
 
 ### MERCH
 
@@ -66,14 +69,6 @@ There's no merch booth at Walsh as the university's bookstore is less than 100 y
 First, I heard heading into the game that there was a blanket giveaway, but I couldn't figure out how to get one - though that may be due to the fact that I arrived a mere FOUR minutes before the game started, which is VERY LATE by my standards (I had something I had to get done before the game).
 
 Second, there was a sponsor table giving away bags and shirts - but there was a bit of a catch. In the words of old school YouTubers, you had to "like, comment, subscribe" to the sponsor's social media feeds to get "swag", which I wasn't exactly interested in doing.
-
----
-
-### ON DECK
-
-This is actually the start of a "flurry" of new posts for this blog, as I'm QUITE busy this weekend.
-
-Tomorrow: "Decision Day".
 
 ---
 
