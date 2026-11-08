@@ -46,6 +46,8 @@ Going to this game was...a bit of a gamble. I had picked it out as "the move" a 
 
 This game is one of the out-of-conference games big teams like to put at the beginning of their schedule as an easy "win" (y'know, what Rutgers THOUGHT they were getting when they scheduled [UMass](2026-04-04_rutgersfootball)). It featured the "Johnnies" (as they're commonly called) taking on the school Rick Pitino coached immediately before St. John's: Iona (which is up in New Rochelle, NY - the last stop for Amtrak trains stop right before Penn Station). Like the Rutgers-UMass football game, no one expected Iona to actually win, but UNLIKE that game, St. John's actually took care of business and won handily - scoring over 100 points in the process (something which is kinda rare in college basketball).
 
+With that in mind, however, if you DO want to watch St. John's games at MSG to avoid the high prices for Knicks games, be mindful that much like any other big sport/team, ticket prices vary by opponent. As the Big East is one of the country's more well known basketball conferences, you can expect this variance to be quite wide; for example, there's a game against UConn later this season where the "get-in" price is comparable to a Knicks game...
+
 P.S.: One of the things that "pushed" me towards going to this game: an unused train ticket from [NYC Marathon Day](2026-11-01_nycmarathon) because it was not collected (due to how crowded the train was between the marathon and the [Jets](2026-08-15_nyjets) playing at home that day)[^5].
 
 ### MERCH
@@ -53,13 +55,6 @@ P.S.: One of the things that "pushed" me towards going to this game: an unused t
 I'm going to stick with just what's at Madison Square Garden for this section, which unfortunately means...that there's not much. There were three merchandise booths around the arena (one in the lobby and one for both the lower and upper concourses), but they had mainly just hats and shirts (no jerseys), plus a few novelties. However, I must say that I CANNOT comprehend why some of the items they had were as expensive as they were; for example, I won't say how much it was, but a mini basketball was available for almost double the price of similar basketballs I saw on the Dick's Sporting Goods website (though I will also admit that I checked if it was available online and it was STILL overpriced...but not by as much).
 
 Of course, there's probably a MUCH BIGGER selection at the St. John's bookstore (where, of course, you can get just about anything you'd want - hats, shirts/hoodies, jerseys, and so on), but I've never been there. 
-
----
-
-As an aside, there is a distinct possibility that this is my last NYC trip for 2026 - not just for sports, but in general (unless I REALLY need to see the Rockefeller Center tree before 2027 for some inexplicable reason). Of course, I'll be back next year for a LOT of reasons (including, well...sports).
-
-### ON DECK
-I'm also going to be "taking a break" after three games in three days (and also because I have a LOT of IRL stuff to take care of after all these games in the last eight weeks), but I'll be back soon enough, as I'm going to be checking out a college hockey powerhouse that may surprise you.
 
 ---
 
