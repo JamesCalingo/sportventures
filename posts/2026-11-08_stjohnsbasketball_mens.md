@@ -58,6 +58,13 @@ Of course, there's probably a MUCH BIGGER selection at the St. John's bookstore 
 
 ---
 
+As an aside, there is a distinct possibility that this is my last NYC trip for 2026 - not just for sports, but in general (unless I REALLY need to see the Rockefeller Center tree before 2027 for some inexplicable reason). Of course, I'll be back next year for a LOT of reasons (including, well...sports).
+
+### ON DECK
+I'm also going to be "taking a break" after three games in three days (and also because I have a LOT of IRL stuff to take care of after all these games in the last eight weeks), but I'll be back soon enough, as I'm going to be checking out a college hockey powerhouse that may surprise you.
+
+---
+
 [^1]: A few days before this game, the least expensive singular ticket I found on SeatGeek was $185 for a nice view of the ceiling/some concrete with a basketball game in the background featuring the post-Giannis Milwaukee Bucks. However, on the day this was published, the least expensive single ticket I found was for a game against the Clippers in January.
 
 [^2]: I once tried getting there without a car, and it was an ADVENTURE - including me getting fairly lost on the way back and riding a not-so-insignificant portion of the J train.
