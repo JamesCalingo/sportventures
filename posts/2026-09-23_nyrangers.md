@@ -20,7 +20,14 @@ tags:
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0922-msg.jpeg"
-related: []
+related:
+  [
+    { title: "New York Rangers", link: "2026-09-23_nyrangers" },
+    {
+      title: "St. John's Men's Basketball",
+      link: "2026-11-08_stjohnsbasketball_mens",
+    },
+  ]
 ---
 
 ### _[2026: New Venue #28](2026newvenuelist)_

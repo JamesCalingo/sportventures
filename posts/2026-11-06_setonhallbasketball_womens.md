@@ -76,7 +76,7 @@ Second, there was a sponsor table giving away bags and shirts - but there was a 
 
 [^2]: Louisville was a member of the Big East when the split occurred (they went to the ACC), and just so happened to win the men's NCAA basketball title in the last year of the original conference (be careful if you're going to look it up, as one of the most famous moments of that run is pretty gruesome). However, said title was later vacated as it was found that while the players may or may not have been playing blackjack in the locker room, a recruiter was providing potential recruits the other thing from that line...
 
-<!-- [^3]: There's actually a fair number of Big East schools that play in bigger, off-campus arenas. For example, Georgetown (a university in Washington DC) plays at [Capital One Arena](2026-10-12_wshcapitals), Providence hosts games in [downtown Providence](2026-10-02_pvdbruins) (a few miles from its campus), and I'm actually going to talk about one of the biggest examples VERY soon...-->
+[^3]: There's actually a fair number of Big East schools that play in bigger, off-campus arenas. For example, Georgetown (a university in Washington DC) plays at [Capital One Arena](2026-10-12_wshcapitals), Providence hosts games in [downtown Providence](2026-10-02_pvdbruins) (a few miles from its campus), and St. John's plays games at [Madison Square Garden](2026-11-08_stjohnsbasketball_mens).
 
 [^4]: The lone listing I saw on SeatGeek mentioned paper tickets received via mail, but a few days before the game, it was gone. I'm not sure if it was bought or if SeatGeek took it down for being fraudulent, but the fact that the price was MORE THAN DOUBLE face value should tell you something...
 
