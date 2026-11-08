@@ -46,6 +46,8 @@ Going to this game was...a bit of a gamble. I had picked it out as "the move" a 
 
 This game is one of the out-of-conference games big teams like to put at the beginning of their schedule as an easy "win" (y'know, what Rutgers THOUGHT they were getting when they scheduled [UMass](2026-04-04_rutgersfootball)). It featured the "Johnnies" (as they're commonly called) taking on the school Rick Pitino coached immediately before St. John's: Iona (which is up in New Rochelle, NY - the last stop for Amtrak trains stop right before Penn Station). Like the Rutgers-UMass football game, no one expected Iona to actually win, but UNLIKE that game, St. John's actually took care of business and won handily - scoring over 100 points in the process (something which is kinda rare in college basketball).
 
+With that in mind, however, if you DO want to watch St. John's games at MSG to avoid the high prices for Knicks games, be mindful that much like any other big sport/team, ticket prices vary by opponent. As the Big East is one of the country's more well known basketball conferences, you can expect this variance to be quite wide; for example, there's a game against UConn later this season where the "get-in" price is comparable to a Knicks game...
+
 P.S.: One of the things that "pushed" me towards going to this game: an unused train ticket from [NYC Marathon Day](2026-11-01_nycmarathon) because it was not collected (due to how crowded the train was between the marathon and the [Jets](2026-08-15_nyjets) playing at home that day)[^5].
 
 ### MERCH
