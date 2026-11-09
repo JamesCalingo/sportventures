@@ -40,4 +40,4 @@ My original goal for 2026 was to visit [26 new stadiums/venues for sports](2026-
 30. [Capital One Arena - Washington, DC](2026-10-12_wshcapitals)
 31. [Lubetkin Field at Mal Simon Stadium - Newark, NJ](2026-10-19_njitsoccer_womens)
 32. [Walsh Gymnasium - South Orange, NJ](2026-11-06_setonhallbasketball_womens)
-33. [Subaru Park - Chester, PA](2026-11-07_phiunion)
+33. [Subaru Park - Chester, PA](2026-11-07_phlunion)
