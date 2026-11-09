@@ -28,7 +28,7 @@ function Post({ frontmatter, body, slug }) {
             <h3 className="description">{frontmatter.subtitle}</h3>
             <div className="mobile-badge">
               {frontmatter.badge ? <Badge badge={frontmatter.badge} /> : <div style={{ height: "25px" }} />}
-              <h3><em>{frontmatter.author}</em></h3>
+              <h3><em>{frontmatter.author ? frontmatter.author : "James Calingo"}</em></h3>
               <span className="tag" id="tag-list">
               {frontmatter.tags && !!frontmatter.tags.length && <span className="tag" id="tag-list">
               Tags:<br />{frontmatter.tags.sort().map((tag, index) => <Tag key={index} index={index} last={frontmatter.tags.length - 1} tag={tag} />)}
@@ -53,7 +53,7 @@ function Post({ frontmatter, body, slug }) {
         <div id="side">
           <div className="widescreen-badge">
             {<Badge badge={frontmatter.badge} />}
-            <h3><em>{frontmatter.author}</em></h3>
+            <h3><em>{frontmatter.author? frontmatter.author : "James Calingo"}</em></h3>
             {frontmatter.tags && !!frontmatter.tags.length && <span className="tag" id="tag-list">
               Tags:<br />{frontmatter.tags.sort().map((tag, index) => <Tag key={index} index={index} last={frontmatter.tags.length - 1} tag={tag} />)}
             </span>}
