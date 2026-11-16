@@ -17,6 +17,7 @@ tags:
     "Flyers",
     "Repeat Visit",
     "Indoor Sports",
+    "New in 2026"
   ]
 badge: "badges/newteam.png"
 background: "images/2026/1024-matchuppuck-phi.jpeg"

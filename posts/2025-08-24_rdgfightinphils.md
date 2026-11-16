@@ -21,7 +21,7 @@ tags:
     "New in 2025",
   ]
 badge: "badges/firstvisit.png"
-related: [  { title: "Philadelphia Phillies", link: "2026-06-08_phiphillies" },]
+related: [{ title: "Philadelphia Phillies", link: "2026-06-08_phiphillies" }]
 ---
 
 ![America's Classic Ballpark, Baseballtown](/images/2025/baseballtown.jpeg)
@@ -38,7 +38,7 @@ Reading, PA is probably best known for these five things:
 
 Of course, since this is a series about SPORTS, we’re going to focus on that last one.
 
-Minor League teams came and went in Reading for a while until 1967, when the Reading Phillies (or R-Phils as they’re sometimes called) played their first season in the Eastern League as an affiliate of, unsurprisingly, the Philadelphia Phillies. Since then, the only thing that's changed is the team's name (when they became the "Fightin Phils" in 2012); the nearly 60 year affiliation is tied for the longest in Minor League Baseball (alongside the Detroit Tigers and their Single-A affiliate in Florida). As a testament to this history, the team has retired five numbers; all five of those players are in the Baseball Hall of Fame, and all but one made their MLB debut with the Phillies. The team has also consistently been among the leaders in attendance in the Eastern League for a long time. It’s hard to find numbers, but one thing I saw had them leading the Eastern League in total attendance eleven times between 2000 and 2019.
+Minor League teams came and went in Reading for a while until 1967, when the Reading Phillies (or R-Phils as they’re sometimes called) played their first season in the Eastern League as an affiliate of, unsurprisingly, the Philadelphia Phillies. Since then, the only thing that's changed is the team's name (when they became the "Fightin Phils" in 2012); the nearly 60 year affiliation is tied for the longest in Minor League Baseball (alongside the Detroit Tigers and their Single-A affiliate in Florida). As a testament to this history, the team has retired five numbers; all five of those players are in the Baseball Hall of Fame, and all but one made their MLB debut with the Phillies. The team has also consistently been among the leaders in attendance in the Eastern League for a long time (<a href="https://www.thebaseballcube.com/content/minor_attendance_main/" target="blank">source</a>). It’s hard to find numbers, but one thing I saw had them leading the Eastern League in total attendance eleven times between 2000 and 2019.
 
 Normally, I wouldn't consider coming here: it's an almost two hour drive from where I live (which is pretty far by my standards), and game times are SUPER inconvenient (5 PM Sunday starts and 7 PM every other day). However, an opportunity to cut that drive time in half (one way) came up, so I figured I'd try and take advantage of that...until other plans made that trip less feasible. Thankfully, I found other games that were also earlier in the day, so I decided to go with one of those (in this case, this game started at noon). The super nice thing about Reading is that tickets can be had for as low as ten dollars; you end up getting a large seating area down the right field line (though views are somewhat obscured by netting and the awkward angle)[^1].
 

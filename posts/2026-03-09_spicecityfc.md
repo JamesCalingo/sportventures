@@ -15,7 +15,6 @@ tags:
     "Indoor Sports",
     "Repeat Visit",
     "Other Sports",
-    "First Visit",
     "New in 2026",
   ]
 badge: "badges/newteam.png"
@@ -71,7 +70,7 @@ _For those who are actually curious about the subtitle, it (roughly) translates 
 
 ---
 
-[^1]: Wikipedia does not use the term "indoor football" in relation to this sport, as that's something else entirely - and I intend to explore that later this year as well.
+[^1]: Wikipedia does not use the term "indoor football" in relation to this sport, as that's [something else](2026-04-19_jerseybearcats) [entirely](2026-05-19_iflcup).
 
 [^2]: I'm not going to even begin to get into the Kings League or Baller League - other indoor soccer leagues with unique rulesets. Also, one BIG rule difference between all of the indoor soccers and the "regular" version: free and unlimited substitutions.
 

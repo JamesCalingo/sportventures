@@ -18,6 +18,7 @@ tags:
     "Big East",
     "Outdoor Sports",
     "Repeat Visit",
+    "New in 2026"
   ]
 badge: "badges/newteam.png"
 background: "/images/2026/1027-carrollfield.jpeg"

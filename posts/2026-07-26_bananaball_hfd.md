@@ -16,6 +16,7 @@ tags:
     "Connecticut",
     "Outdoor Sports",
     "Repeat Visit",
+    "New in 2026"
   ]
 badge: "badges/newteam.png"
 background: "images/2026/0725-bananaball-frontrow.jpeg"
