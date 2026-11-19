@@ -1,21 +1,21 @@
-import Image from "next/image";
-import Markdown from "react-markdown";
-import { postSlugs, postForSlug } from "../posts";
-import Layout from "../components/Layout";
-import Badge from "../components/Badge";
-import Tag from "../components/Tag";
-import RelatedPost from "../components/RelatedPost";
-import rehypeRaw from "rehype-raw";
-import remarkRehype from "remark-rehype";
-import remarkGfm from "remark-gfm";
-import Error500 from "./500";
-import { displayDate } from "../utils/utils.js";
+import Image from "next/image"
+import Markdown from "react-markdown"
+import { postSlugs, postForSlug } from "../posts"
+import Layout from "../components/Layout"
+import Badge from "../components/Badge"
+import Tag from "../components/Tag"
+import RelatedPost from "../components/RelatedPost"
+import rehypeRaw from "rehype-raw"
+import remarkRehype from "remark-rehype"
+import remarkGfm from "remark-gfm"
+import Error500 from "./500"
+import { displayDate } from "../utils/utils.js"
 
 function Post({ frontmatter, body, slug }) {
 
   if (!frontmatter || !Object.keys(frontmatter).length) return <Error500 />
 
-  const related = frontmatter.related && frontmatter.related.length ? frontmatter.related.filter(post => post.link !== slug) : null;
+  const related = frontmatter.related && frontmatter.related.length ? frontmatter.related.filter(post => post.link !== slug) : null
 
   return (
     <Layout pageTitle={`${frontmatter.title} - Sportventures`}>
@@ -66,11 +66,11 @@ function Post({ frontmatter, body, slug }) {
         </div>
       </div>
     </Layout >
-  );
+  )
 }
 
 export async function getStaticProps({ params }) {
-  const { frontmatter, body, slug } = await postForSlug(params.post);
+  const { frontmatter, body, slug } = await postForSlug(params.post)
 
   return {
     props: {
@@ -78,16 +78,16 @@ export async function getStaticProps({ params }) {
       body,
       slug
     },
-  };
+  }
 }
 
 export async function getStaticPaths() {
-  const paths = postSlugs().map((slug) => `/${slug}`);
+  const paths = postSlugs().map((slug) => `/${slug}`)
 
   return {
     paths,
     fallback: false,
-  };
+  }
 }
 
-export default Post;
+export default Post

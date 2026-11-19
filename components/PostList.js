@@ -1,12 +1,12 @@
-import GridItem from "./GridItem";
-import NewestListItem from "./NewestListItem";
+import GridItem from "./GridItem"
+import NewestListItem from "./NewestListItem"
 
 function PostList(props) {
-    const { posts, newest } = props;
+    const { posts, newest } = props
 
-    if (!posts || !posts.length) return <p>Nothing to see here...</p>;
+    if (!posts || !posts.length) return <p>Nothing to see here...</p>
 
-    const id = newest ? "newest-list" : "posts-list";
+    const id = newest ? "newest-list" : "posts-list"
 
     return (
         <div id={id}>
@@ -14,15 +14,15 @@ function PostList(props) {
             {posts
                 //TODO: paginate this list
                 .map((post, index) => {
-                    const { frontmatter, slug } = post;
-                    const { display, date, publishDate, title, subtitle, pinned, background } = frontmatter;
+                    const { frontmatter, slug } = post
+                    const { display, date, publishDate, title, subtitle, pinned, background } = frontmatter
 
                     return newest ? <NewestListItem key={index} slug={slug} display={display ? display: title } date={date} publishDate={publishDate} subtitle={subtitle} background={background}/> : (<GridItem key={index} slug={slug} display={display ? display: title} date={date} publishDate={publishDate} pinned={pinned} subtitle={subtitle} />
-                    );
+                    )
                 })}
 
         </div>
-    );
-};
+    )
+}
 
 export default PostList

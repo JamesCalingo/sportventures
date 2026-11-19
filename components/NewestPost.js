@@ -1,5 +1,5 @@
-import Link from "next/link";
-import { displayDate } from "../utils/utils.js";
+import Link from "next/link"
+import { displayDate } from "../utils/utils.js"
 
 function NewestPost(props) {
     const { slug, display, title, subtitle, date, publishDate, background } = props
@@ -19,4 +19,4 @@ function NewestPost(props) {
     </div>
 }
 
-export default NewestPost;
+export default NewestPost

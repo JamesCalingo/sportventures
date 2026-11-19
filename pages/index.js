@@ -1,8 +1,8 @@
-import Link from "next/link";
-import PostList from "../components/PostList";
-import NewestPost from "../components/NewestPost";
-import Layout from "../components/Layout";
-import { recents, latest, pinned } from "../utils/utils";
+import Link from "next/link"
+import PostList from "../components/PostList"
+import NewestPost from "../components/NewestPost"
+import Layout from "../components/Layout"
+import { recents, latest, pinned } from "../utils/utils"
 
 const Index = () => {
 
@@ -30,17 +30,17 @@ const Index = () => {
       </div>
 
     </Layout>
-  );
-};
+  )
+}
 
 export async function getStaticProps() {
-  const postsData = recents;
+  const postsData = recents
 
   return {
     props: {
       posts: postsData,
     },
-  };
+  }
 }
 
-export default Index;
+export default Index

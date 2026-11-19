@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react";
-import Layout from "../components/Layout";
+import { useEffect, useState } from "react"
+import Layout from "../components/Layout"
 
 const metaphors = [
   "Strike 3",
@@ -9,16 +9,16 @@ const metaphors = [
   "Missed the net",
   '"Juuuuust a bit outside"',
   '"Looks like he...hit a tree"',
-];
+]
 
 
 function Error404() {
     const [randomMetaphor, setrandomMetaphor] = useState("")
     
     useEffect(() => {
-      const index = Math.floor(Math.random() * metaphors.length);
-      setrandomMetaphor(metaphors[index]);
-    }, []);
+      const index = Math.floor(Math.random() * metaphors.length)
+      setrandomMetaphor(metaphors[index])
+    }, [])
 
     return <Layout pageTitle={"404 - Sportventures"}>
         <div className="not-found">

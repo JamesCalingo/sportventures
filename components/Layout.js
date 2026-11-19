@@ -1,4 +1,4 @@
-import Head from "next/head";
+import Head from "next/head"
 import Link from "next/link"
 
 function Layout({ children, pageTitle }) {
@@ -32,7 +32,7 @@ function Layout({ children, pageTitle }) {
         </footer>
       </div>
     </>
-  );
+  )
 }
 
-export default Layout;
+export default Layout
