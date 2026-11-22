@@ -18,7 +18,7 @@ tags:
     "New in 2025",
   ]
 badge: "badges/firstvisit.png"
-related: [{title: "MLW Wiffle Ball", link: "2025-08-16_mlwwiffleball"}]
+related: [{ title: "MLW Wiffle Ball", link: "2025-08-16_mlwwiffleball" }]
 ---
 
 ![An image of the New York City skyline as seen from SIUH Community Ballpark](/images/2025/siuhskyline.jpeg)<br>
@@ -34,7 +34,7 @@ In 1999, the New York Yankees set up a New York Penn League team on Staten Islan
 When Minor League Baseball realignment happened in 2020, Staten Island moving to the South Atlantic League seemed like a decent idea - especially when you consider that the Mets chose to put the Brooklyn Cyclones there (somewhat unwillingly though). However, the Yankees instead opted to affiliate with the Hudson Valley Renegades, thus leaving Staten Island’s baseball future in limbo. While we can’t pinpoint the exact reasons they did this, I have a feeling these factors were involved:
 
 - Lingering bitterness over the whole Pizza Rats affair. I forget the year, but there was a clip of a rat on the New York City Subway carrying a slice of pizza that went viral. The Staten Island Yankees decided to have a little fun with it and became the "New York Pizza Rats" for a game; it was popular with fans but HATED by Yankees management to the point that they were looking to terminate their affiliation agreement with Staten Island BEFORE the realignment (at least that's what I remember hearing).
-- Attendance had been declining for a decade plus; whether that be due to lost interest or, well, being on Staten Island is unknown (conversely, Verrazzano Bridge neighbor Brooklyn led the NYPL in attendance in the league's final year).
+- Attendance had been declining for a decade plus; whether that be due to lost interest or, well, being on Staten Island is unknown (conversely, Verrazzano Bridge neighbor Brooklyn led the NYPL in attendance in the league's final year - <a href="https://www.thebaseballcube.com/content/minor_attendance_main/" target="blank">source</a>).
 - Something I heard about between starting this write up and my actual visit: land. MLB created a list of new specifications for Minor League stadiums alongside the realignment which, for most teams, involved needing to perform intensive renovations. Given that the stadium is sandwiched between the Hudson River and a major roadway, there’s probably not enough room to meet the specs (not to mention trying to get the money to get anything done in New York...). Also, because of this proximity to the Hudson River, the concourse does not loop around the outfield (there’s a 9/11 memorial just past left that I have yet to visit BTW).
 - Getting here by car...isn’t fun. It’s several miles from either of the highways on the Island (278 and 440), and a lot of the local roads you’re required to drive on getting here are...gritty, to say the least. In addition, their suggested parking garage (attached to an outdoor mall opened in 2019) had the wrong rates on the meter when I arrived, which ended up costing me an extra SIX DOLLARS for FIFTEEN MINUTES. It IS right next to the ferry terminal, however, so that’s a plus if you’re arriving by public transportation (though again, not much on Staten Island for tourists outside of the views - it really feels like the mall is an attempt to “change” that, but a ton of empty storefronts does not portend success).
 

@@ -1,6 +1,6 @@
 ---
 display: 'New York "Citi" FC'
-title: "New York City FC (Major League Soccer) @ Citi Field (Queens, NY)"
+title: "New York City Football Club (Major League Soccer) @ Citi Field (Queens, NY)"
 subtitle: "A small preview of things to come - sorta"
 author: "James Calingo"
 date: 31 October 2026
@@ -73,4 +73,4 @@ Also, one VERY important thing I learned after the game: if you don't like large
 
 [^2]: Speaking of Westchester SC...<a href="https://www.theexchangefc.com/post/westchester-sc-to-cease-operations" target="blank">apparently, they're gone</a>.
 
-[^3]: A random fun fact I could not figure out how to work into the post: New York City's PA announcer is the same guy who does the PA for [Rangers](2026-09-23_nyrangers) games - and before he was NYCFC's PA announcer, he did play-by-play for the team's TV broadcasts when MLS teams produced their own telecasts (which they don't anymore thanks to the league's current deal).
+[^3]: A random fun fact I could not figure out how to work into the post: New York City's PA announcer is the same guy who does PA for [Rangers](2026-09-23_nyrangers) games - and before he was NYCFC's PA announcer, he did play-by-play for the team's TV broadcasts when MLS teams produced their own telecasts (which they don't anymore thanks to the league's current deal).

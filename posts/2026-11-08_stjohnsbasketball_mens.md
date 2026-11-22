@@ -17,6 +17,7 @@ tags:
     "New York",
     "Indoor Sports",
     "Repeat Visit",
+    "New in 2026"
   ]
 badge: "badges/newteam.png"
 background: "images/2026/1108-johnniesatmsg.jpeg"
@@ -50,18 +51,13 @@ With that in mind, however, if you DO want to watch St. John's games at MSG to a
 
 P.S.: One of the things that "pushed" me towards going to this game: an unused train ticket from [NYC Marathon Day](2026-11-01_nycmarathon) because it was not collected (due to how crowded the train was between the marathon and the [Jets](2026-08-15_nyjets) playing at home that day)[^5].
 
+<div id="merch" />
+
 ### MERCH
 
 I'm going to stick with just what's at Madison Square Garden for this section, which unfortunately means...that there's not much. There were three merchandise booths around the arena (one in the lobby and one for both the lower and upper concourses), but they had mainly just hats and shirts (no jerseys), plus a few novelties. However, I must say that I CANNOT comprehend why some of the items they had were as expensive as they were; for example, I won't say how much it was, but a mini basketball was available for almost double the price of similar basketballs I saw on the Dick's Sporting Goods website (though I will also admit that I checked if it was available online and it was STILL overpriced...but not by as much).
 
 Of course, there's probably a MUCH BIGGER selection at the St. John's bookstore (where, of course, you can get just about anything you'd want - hats, shirts/hoodies, jerseys, and so on), but I've never been there. 
-
----
-
-As an aside, there is a distinct possibility that this is my last NYC trip for 2026 - not just for sports, but in general (unless I REALLY need to see the Rockefeller Center tree before 2027 for some inexplicable reason). Of course, I'll be back next year for a LOT of reasons (including, well...sports).
-
-### ON DECK
-I'm also going to be "taking a break" after three games in three days (and also because I have a LOT of IRL stuff to take care of after all these games in the last eight weeks), but I'll be back soon enough, as I'm going to be checking out a college hockey powerhouse that may surprise you.
 
 ---
 

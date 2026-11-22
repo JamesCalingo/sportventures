@@ -1,5 +1,5 @@
-import Link from "next/link";
-import { displayDate } from "../utils/utils.js";
+import Link from "next/link"
+import { displayDate } from "../utils/utils.js"
 
 function GridItem(props) {
     const { slug, display, publishDate, date, subtitle } = props
@@ -15,4 +15,4 @@ function GridItem(props) {
     </div>
 }
 
-export default GridItem;
+export default GridItem

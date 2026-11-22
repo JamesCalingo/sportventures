@@ -132,6 +132,7 @@ figcaption {
 
 #newest:hover {
   background-color: green;
+  color: white;
 }
 
 #newest .section-header {

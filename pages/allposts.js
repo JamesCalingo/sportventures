@@ -1,12 +1,12 @@
-import { posts } from "../posts";
-import PostList from "../components/PostList";
-import Layout from "../components/Layout";
-import { useEffect, useState } from "react";
-import { tags } from "../utils/utils";
+import { posts } from "../posts"
+import PostList from "../components/PostList"
+import Layout from "../components/Layout"
+import { useEffect, useState } from "react"
+import { tags } from "../utils/utils"
 
 const AllPosts = ({ posts }) => {
-    const published = posts.filter((post) => post.frontmatter.published === true).reverse();
-    // console.log(published.length)
+    const published = posts.filter((post) => post.frontmatter.published === true)
+    console.log(published[0].frontmatter)
 
     const [postList, setPostList] = useState(published)
     const [tag, setTag] = useState('')
@@ -25,6 +25,7 @@ const AllPosts = ({ posts }) => {
 
     useEffect(() => {
         if (tag) {
+            console.log(postList[0])
             const filtered = published.filter(post => post.frontmatter.tags && post.frontmatter.tags.includes(tag))
             setPostList(filtered)
         } else {
@@ -37,9 +38,12 @@ const AllPosts = ({ posts }) => {
     }, [oldestFirst])
 
     function handleResetSelect() {
-        const selectElement = document.getElementById('tag-select');
-        selectElement.selectedIndex = 0;
-        setTag('');
+        const selectElement = document.getElementById('tag-select')
+        selectElement.selectedIndex = 0
+        setTag('')
+        if (oldestFirst) {
+            setPostList(published.reverse())
+        }
     }
 
     return (
@@ -52,8 +56,8 @@ const AllPosts = ({ posts }) => {
                 <div id="tag-filter">
                     <label htmlFor="tag-select">Filter by: </label>
                     <select id="tag-select" defaultValue={""} onChange={(e) => {
-                        const selectedTag = e.target.value;
-                        setTag(selectedTag);
+                        const selectedTag = e.target.value
+                        setTag(selectedTag)
                     }}>
                         <option value="" disabled>All Posts</option>
                         {tags.map((tag) => (
@@ -67,17 +71,17 @@ const AllPosts = ({ posts }) => {
             <PostList posts={postList} />
 
         </Layout>
-    );
-};
+    )
+}
 
 export async function getStaticProps() {
-    const postsData = posts();
+    const postsData = posts()
 
     return {
         props: {
             posts: postsData,
         },
-    };
+    }
 }
 
-export default AllPosts;
+export default AllPosts

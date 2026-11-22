@@ -15,8 +15,8 @@ tags:
     "New York",
     "Rangers",
     "First Visit", 
-    "Repeat Visit",
     "Indoor Sports",
+    "New in 2026"
   ]
 badge: "badges/firstvisit.png"
 background: "images/2026/0922-msg.jpeg"

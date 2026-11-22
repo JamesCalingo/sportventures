@@ -1,9 +1,9 @@
-import Link from "next/link";
-import { displayDate } from "../utils/utils.js";
+import Link from "next/link"
+import { displayDate } from "../utils/utils.js"
 
 function NewestPost(props) {
     const { slug, display, title, subtitle, date, publishDate, background } = props
-    return <div id="newest" className="grid-post" style={{ backgroundImage: `url(${background})`, "backgroundPositionX": "47%", "backgroundPositionY": "50%",  }}>
+    return <div id="newest" className="grid-post" style={{ backgroundImage: `url(${background})`, "backgroundPositionX": "50%", "backgroundPositionY": "50%", backgroundSize: "cover", }}>
         <Link href={`/${slug}`}>
             <div className="section-header">
 
@@ -19,4 +19,4 @@ function NewestPost(props) {
     </div>
 }
 
-export default NewestPost;
+export default NewestPost
